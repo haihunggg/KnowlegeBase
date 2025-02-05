@@ -1,0 +1,27 @@
+{#-
+  This file was automatically generated - do not edit
+-#}
+{% extends "base.html" %}
+{% block extrahead %}
+  <link rel="stylesheet" href="{{ 'assets/stylesheets/custom.7c86dd97.min.css' | url }}">
+{% endblock %}
+{% block announce %}
+  Theo dõi <strong>M-invoice</strong> on
+  <a rel="me" href="https://minvoice.vn/">
+    <span class="twemoji mastodon">
+      {% include ".icons/fontawesome/brands/facebook.svg" %}
+    </span>
+    <strong>FaceBook</strong>
+  </a>
+  and
+  <a href="https://minvoice.vn/">
+    <span class="twemoji twitter">
+      {% include ".icons/fontawesome/brands/youtube.svg" %}
+    </span>
+    <strong>Youtube</strong>
+  </a>
+{% endblock %}
+{% block scripts %}
+  {{ super() }}
+  <script src="{{ 'assets/javascripts/custom.00e08f28.min.js' | url }}"></script>
+{% endblock %}
