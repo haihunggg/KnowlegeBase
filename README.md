@@ -1,19 +1,20 @@
-#Cài đặt python
+# Cài đặt python
 https://www.python.org/downloads/
 nhớ chọn "Add Python to PATH" trong quá trình cài đặt.
-#Cài đặt các plugin
+# Cài đặt các plugin
 pip install mkdocs-material
 pip install mkdocs-minify-plugin
 
-#Lệnh mkdocs
-- Chạy: mkdocs serve
-- Build: mkdocs build
-#Lệnh này sẽ tạo ra thư mục site/, chứa tất cả các file HTML của website
-Cấu trúc
-• mkdocs.yml: Đây là file cấu hình cho dự án của bạn.
-• docs/index.md: Đây là file Markdown đầu tiên, nó sẽ là trang chủ của website.
+# Lệnh mkdocs
+- Chạy: **mkdocs serve**
+- Build: **mkdocs build** Lệnh này sẽ tạo ra thư mục site/, chứa tất cả các file HTML của website
+# Cấu trúc
+• `mkdocs.yml`: Đây là file cấu hình cho dự án của bạn.
+• `docs/index.md`: Đây là file Markdown đầu tiên, nó sẽ là trang chủ của website.
 
+# Folder Structure
 
+```bash
 
 ├─ .icons/                             # Bundled icon sets
 ├─ assets/
@@ -60,3 +61,6 @@ Cấu trúc
 ├─ blog-category.html                  # Blog category index page
 ├─ blog-post.html                      # Blog post page
 └─ main.html                           # Default page
+```
+# DOC
+mkdocs material
