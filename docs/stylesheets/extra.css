@@ -1,0 +1,27 @@
+:root {
+  --md-primary-fg-color: #363793;
+  --md-primary-fg-color--light: #363793;
+  --md-primary-fg-color--dark: #363793;
+}
+
+.md-tabs__list {
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+
+.md-tabs__list li:hover,
+.md-tabs__list a:hover {
+  color: #f53423;
+}
+
+.md-header__button.md-logo img,
+.md-header__button.md-logo svg {
+  fill: currentcolor;
+  display: block;
+  height: 2.5rem;
+  width: auto;
+}
+
+.md-ellipsis {
+  padding-top: 0.3rem;
+}
