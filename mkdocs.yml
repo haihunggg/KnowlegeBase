@@ -270,7 +270,7 @@ nav:
   - Home: index.md
   - M-invoice 1.0:
       - Sửa tay tiền thuế và tổng tiền: suaTienBangTay.md #Installation: getting-started.md
-      - Creating your site: creating-your-site.md
+      - Báo cáo chi tiết hoá đơn NĐ123: baoCaoChiTietHoaDon.md
       - Publishing your site: publishing-your-site.md
       - Customization: customization.md
       - Conventions: conventions.md
@@ -281,7 +281,7 @@ nav:
       - License: license.md
       - Tutorials:
           - tutorials/index.md
-          - "Blogs":
+          - "Nghiệp vụ hoá đơn":
               - tutorials/blogs/basic.md
               - tutorials/blogs/navigation.md
               - tutorials/blogs/engage.md
