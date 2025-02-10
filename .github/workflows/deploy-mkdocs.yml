@@ -19,7 +19,11 @@ jobs:
           python-version: '3.x'
 
       - name: Install MkDocs and dependencies
-        run: pip install mkdocs mkdocs-material
+        run: |
+          pip install mkdocs mkdocs-material mkdocs-minify-plugin
 
       - name: Build and deploy MkDocs
         run: mkdocs gh-deploy --force
+
+
+
