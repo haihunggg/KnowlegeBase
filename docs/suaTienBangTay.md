@@ -1,6 +1,6 @@
 # **Sửa tay tiền thuế và tổng tiền**
 
-dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm hóa đơn điện tử M-Invoice ở phiên bản 1.0 vô cùng mạch lạc và dễ hiểu.
+Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm hóa đơn điện tử M-Invoice ở phiên bản 1.0 vô cùng mạch lạc và dễ hiểu.
 
 <!-- [^1]:
     In 2016, Material for MkDocs started out as a simple theme for MkDocs, but
