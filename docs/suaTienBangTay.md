@@ -1,6 +1,6 @@
 # **Sửa tay tiền thuế và tổng tiền**
 
-Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm hóa đơn điện tử M-Invoice ở phiên bản 1.0 vô cùng mạch lạc và dễ hiểu.
+dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm hóa đơn điện tử M-Invoice ở phiên bản 1.0 vô cùng mạch lạc và dễ hiểu.
 
 <!-- [^1]:
     In 2016, Material for MkDocs started out as a simple theme for MkDocs, but
@@ -13,7 +13,7 @@ Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm 
 [pip]: #with-pip
 [docker]: #with-docker -->
 
-## **Hướng dẫn sửa tay Tiền thuế và Tổng tiền khi bị lẻ**
+## **Hướng dẫn sửa tay tiền thuế và tổng tiền khi bị lẻ**
 
 <!-- ### with pip <small>recommended</small> { #with-pip data-toc-label="with pip" } -->
 
