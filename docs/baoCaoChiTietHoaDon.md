@@ -13,7 +13,7 @@ Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm 
 [pip]: #with-pip
 [docker]: #with-docker -->
 
-## **Hướng dẫn xem và tải báo cáo chi tiết Hóa đơn NĐ123**
+## **Hướng dẫn xem và tải báo cáo chi tiết hóa đơn NĐ123**
 
 <!-- ### with pip <small>recommended</small> { #with-pip data-toc-label="with pip" } -->
 
