@@ -25,3 +25,9 @@
 .md-ellipsis {
   padding-top: 0.3rem;
 }
+
+#__nav_2_1_4_label,
+#__nav_2_1_3_label,
+#__nav_2_1_2_label {
+  font-weight: bold;
+}

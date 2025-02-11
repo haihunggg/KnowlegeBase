@@ -1,4 +1,4 @@
-# **Báo cáo chi tiết hoá đơn theo NĐ123**
+# **Sửa tay tiền thuế và tổng tiền**
 
 Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm hóa đơn điện tử M-Invoice ở phiên bản 1.0 vô cùng mạch lạc và dễ hiểu.
 
@@ -13,31 +13,35 @@ Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm 
 [pip]: #with-pip
 [docker]: #with-docker -->
 
-## **Hướng dẫn xem và tải báo cáo chi tiết hóa đơn NĐ123**
+## **Hướng dẫn sửa tay tiền thuế và tổng tiền khi bị lẻ**
 
 <!-- ### with pip <small>recommended</small> { #with-pip data-toc-label="with pip" } -->
 
-_<span style="font-weight : bold; color: red"><small>Lưu ý : để tải được excel báo cáo chi tiết hoá đơn, các bạn phải cài đặt plugin ký số Minvoice</small></span>_ [Hướng dẫn cài đặt Plugin](assets/images/invoice1/1.0_caiPlugin.png)
+Chắc hẳn các bạn đã gặp những trường hợp khi lập hóa đơn, khi phần tổng tiền sau thuế và tiền thuế bị lẻ ra 1 đồng. Trong bài viết này tôi sẽ hướng dẫn các bạn sửa tay lại cho chẵn
 
-### Bước 1: Truy cập vào phần Hóa đơn HĐ123 >> Báo cáo >> Báo cáo chi tiết hóa đơn
+_<span style="font-weight : bold; color: red"><small>Lưu ý : chỉ sửa được những hóa đơn ở trạng thái chờ ký, Những hóa đơn đã ký rồi thì không thế chỉnh sửa được, chỉ có thể làm các nghiệp vụ hóa đơn như xóa bỏ, thay thế hoặc điều chỉnh</small></span>_
 
-![Hình 1](assets/images/invoice1/1.0_baoCaoChiTiet_1.png)
+### Bước 1: Chọn hóa đơn cần sửa, nhấn vào chi tiết hóa đơn hay nút sửa (F3)
 
-### Bước 2: Chọn các điều kiện để lọc báo cáo
+![Hình 1](../../assets/images/invoice1/1.0_suaTienBangTay_1.png)
 
-![Hình 2](assets/images/invoice1/1.0_baoCaoChiTiet_2.png)
+### Bước 2: Nhân tích chọn vào 2 ô, "Sửa giá trị tiền thuế, tổng tiền" và "Tính thuế suất theo tổng chi tiết từng mặt hàng"
 
-### Bước 3 : Kết xuất báo cáo
+![Hình 2](../../assets/images/invoice1/1.0_suaTienBangTay_2.png)
 
-![Hình 3](assets/images/invoice1/1.0_baoCaoChiTiet_3.png)
-_<span style="font-weight : bold; color: red"><small>Lưu ý : nếu đã cài plugin thì phải cập nhật lên phiên bản mới [Hướng dẫn](assets/images/invoice1/1.0_capNhatPhanMem.png)</small></span>_
-![Hình 4](assets/images/invoice1/1.0_baoCaoChiTiet_4.png)
+### Bước 3 : Nhập phần tiền thuế bạn mong muốn sau đó ấn phím TAB và nhập phần tổng tiền sau thuế
+
+![Hình 3](../../assets/images/invoice1/1.0_suaTienBangTay_3.png)
+
+### Bước 4: Kiểm tra xem phần tiền đã đúng hay chưa sau đó nhấn lưu
+
+![Hình 4](../../assets/images/invoice1/1.0_suaTienBangTay_4.png)
 
 <span style="font-weight : bold">Xin chân thành cảm ơn Quý khách hàng đã tin dùng sản phẩm của M-Invoice</span>
 
 <span style="font-weight : bold">Có bất kỳ vướng mắc nào trong quá trình sử dụng hãy liên hệ với M-Invoice tại mục Hỗ trợ kỹ thuật góc phải bên dưới màn hình hoặc gọi tổng đài kỹ thuật của M-Invoice (1900.955.557 Nhánh 1)</span>
 
-![Hình 5](assets/images/invoice1/1.0_suaTienBangTay_5.png)
+![Hình 5](../../assets/images/invoice1/1.0_suaTienBangTay_5.png)
 
 <!-- === "Latest"
 

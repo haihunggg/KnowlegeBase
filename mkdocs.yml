@@ -28,10 +28,10 @@ theme:
     # - content.tabs.link
     - content.tooltips
     # - header.autohide
-    # - navigation.expand
+    - navigation.expand
     - navigation.footer
     - navigation.indexes
-    # - navigation.instant
+    - navigation.instant
     # - navigation.instant.prefetch
     # - navigation.instant.progress
     # - navigation.prune
@@ -269,23 +269,27 @@ nav:
   # - Community:
   - Home: index.md
   - M-invoice 1.0:
-      - Sửa tay tiền thuế và tổng tiền: suaTienBangTay.md #Installation: getting-started.md
-      - Báo cáo chi tiết hoá đơn NĐ123: baoCaoChiTietHoaDon.md
-      - Publishing your site: publishing-your-site.md
-      - Customization: customization.md
-      - Conventions: conventions.md
-      - Browser support: browser-support.md
-      - Enterprise feedback: enterprise-support.md
-      - Philosophy: philosophy.md
-      - Alternatives: alternatives.md
-      - License: license.md
-      - Tutorials:
+      # - Installation: getting-started.md
+      # - Publishing your site: publishing-your-site.md
+      # - Customization: customization.md
+      # - Conventions: conventions.md
+      # - Browser support: browser-support.md
+      # - Enterprise feedback: enterprise-support.md
+      # - Philosophy: philosophy.md
+      # - Alternatives: alternatives.md
+      # - License: license.md
+      - Hướng dẫn cài đặt Plugin ký hoá đơn:
           - tutorials/index.md
-          - "Nghiệp vụ hoá đơn":
-              - tutorials/blogs/basic.md
-              - tutorials/blogs/navigation.md
-              - tutorials/blogs/engage.md
-          - "Social cards":
+          - "Các thao tác thường gặp khi sử dụng phần mềm":
+              - tutorials/thaoTac/suaTienBangTay.md
+              - tutorials/thaoTac/baoCaoChiTietHoaDon.md
+              - tutorials/thaoTac/basic.md
+              - tutorials/thaoTac/navigation.md
+              - tutorials/thaoTac/engage.md
+          - "Nghiệp vụ hoá đơn điện tử":
+              - tutorials/social/basic.md
+              - tutorials/social/custom.md
+          - "Phát hành và báo cáo":
               - tutorials/social/basic.md
               - tutorials/social/custom.md
       - Changelog:
