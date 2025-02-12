@@ -1,30 +1,61 @@
-# **Tải cộng cụ ký M-invocie plugin 2.0**
+# **Tải cộng cụ ký M-invoice plugin 2.0**
 
-Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm hóa đơn điện tử M-Invoice ở phiên bản 1.0 vô cùng mạch lạc và dễ hiểu.
+Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm hóa đơn điện tử M-Invoice ở phiên bản 2.0 vô cùng mạch lạc và dễ hiểu.
 
-## **Hướng dẫn xem và tải báo cáo chi tiết hóa đơn NĐ123**
+## **Hướng dẫn tải cộng cụ ký M-invoice plugin 2.0**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nhch9QVlTlM?si=NtH8Y8z1IabiHbp0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/F6DglkasLP0?si=kCNQKSjeOLe9-m-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
+???+ Note "Ghi chú"
 
-_<span style="font-weight : bold; color: red"><small>Lưu ý : để tải được excel báo cáo chi tiết hoá đơn, các bạn phải cài đặt plugin ký số Minvoice</small></span>_ [Hướng dẫn cài đặt Plugin](../../assets/images/invoice1/1.0_caiPlugin.png)
+    Quý khách cần cài đặt công cụ cho các trường hợp sau đây
 
-### Bước 1: Truy cập vào phần Hóa đơn HĐ123 >> Báo cáo >> Báo cáo chi tiết hóa đơn
+    - Lần đầu tiền sử dụng hóa đơn điện tử
 
-![Hình 1](../../assets/images/invoice1/1.0_baoCaoChiTiet_1.png)
+    - Thực hiện ký hóa đơn bằng USB trên các thiêt bị khác
 
-### Bước 2: Chọn các điều kiện để lọc báo cáo
+    - Sau khi cài đặt lại windows máy tính
 
-![Hình 2](../../assets/images/invoice1/1.0_baoCaoChiTiet_2.png)
+**Thao tác cài đặt và thực hiện như sau**
 
-### Bước 3 : Kết xuất báo cáo
+<iframe width="640" height="360" src="https://www.youtube.com/embed/F6DglkasLP0?si=HyRlvORlPPJXWSJA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-![Hình 3](../../assets/images/invoice1/1.0_baoCaoChiTiet_3.png)
-_<span style="font-weight : bold; color: red"><small>Lưu ý : nếu đã cài plugin thì phải cập nhật lên phiên bản mới [Hướng dẫn](../../assets/images/invoice1/1.0_capNhatPhanMem.png)</small></span>_
-![Hình 4](../../assets/images/invoice1/1.0_baoCaoChiTiet_4.png)
+**Hướng dẫn sử dụng bằng hình ảnh nếu Quý khách không xem được video**
 
-<span style="font-weight : bold">Xin chân thành cảm ơn Quý khách hàng đã tin dùng sản phẩm của M-Invoice</span>
+### Bước 1: Nhấn vào biểu tượng cài đặt trên trang chủ giao diện
 
-<span style="font-weight : bold">Có bất kỳ vướng mắc nào trong quá trình sử dụng hãy liên hệ với M-Invoice tại mục Hỗ trợ kỹ thuật góc phải bên dưới màn hình hoặc gọi tổng đài kỹ thuật của M-Invoice (1900.955.557 Nhánh 1)</span>
+![Hình 1](../../assets/images/invoice2/2.0_plugin_1.png)
 
-![Hình 5](../../assets/images/invoice1/1.0_suaTienBangTay_5.png)
+### Bước 2: Nhấn Save để tải bộ cài về
+
+![Hình 2](../../assets/images/invoice2/2.0_plugin_2.png)
+
+### Bước 3 : Mở bộ cài và cài đặt
+
+![Hình 3](../../assets/images/invoice2/2.0_plugin_3.png)
+
+Chọn vào biểu tượng Plugin bên góc trái màn hình chọn **Show in folder**
+
+![Hình 4](../../assets/images/invoice2/2.0_plugin_4.png)
+
+Để khi cài đặt Plugin luôn khởi động khi bật máy bạn chọn **Run as adminstrator**
+
+![Hình 5](../../assets/images/invoice2/2.0_plugin_5.png)
+
+Bạn chon **Install** để bắt đầu cài đặt
+
+![Hình 6](../../assets/images/invoice2/2.0_plugin_6.png)
+
+Bạn chờ cho bộ cài Dowload và tự động cài đặt là hoàn thành
+
+### Bước 4 : Kiểm tra bộ cài đã được cài đặt thành công hay chưa
+
+![Hình 7](../../assets/images/invoice2/2.0_plugin_7.png)
+
+Kích chuột trái vào mũi tên góc phải màn hình, nếu có biểu tượng **M-invoice Plugin Version 2.0** như thế là công cụ ký plugin đã cài đặt thành công
+
+Xin chân thành cảm ơn Quý khách hàng đã tin dùng sản phẩm của M-Invoice
+
+???+ info
+
+    Có bất kỳ vướng mắc nào trong quá trình sử dụng hãy liên hệ với M-Invoice tại mục Hỗ trợ kỹ thuật góc phải bên dưới màn hình hoặc gọi tổng đài kỹ thuật của M-Invoice (1900.955.557 Nhánh 1)
+
+![Hình 8](../../assets/images/invoice2/hotro.png)
