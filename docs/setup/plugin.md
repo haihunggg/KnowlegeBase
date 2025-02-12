@@ -4,7 +4,8 @@ Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm 
 
 ## **Hướng dẫn xem và tải báo cáo chi tiết hóa đơn NĐ123**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/F6DglkasLP0?si=kCNQKSjeOLe9-m-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nhch9QVlTlM?si=NtH8Y8z1IabiHbp0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/F6DglkasLP0?si=kCNQKSjeOLe9-m-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
 
 _<span style="font-weight : bold; color: red"><small>Lưu ý : để tải được excel báo cáo chi tiết hoá đơn, các bạn phải cài đặt plugin ký số Minvoice</small></span>_ [Hướng dẫn cài đặt Plugin](../../assets/images/invoice1/1.0_caiPlugin.png)
 
