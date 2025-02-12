@@ -16,7 +16,7 @@ Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm 
 
 **Thao tác cài đặt và thực hiện như sau**
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/F6DglkasLP0?si=HyRlvORlPPJXWSJA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="700" height="380" src="https://www.youtube.com/embed/F6DglkasLP0?si=HyRlvORlPPJXWSJA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 **Hướng dẫn sử dụng bằng hình ảnh nếu Quý khách không xem được video**
 
@@ -52,9 +52,7 @@ Bạn chờ cho bộ cài Dowload và tự động cài đặt là hoàn thành
 
 Kích chuột trái vào mũi tên góc phải màn hình, nếu có biểu tượng **M-invoice Plugin Version 2.0** như thế là công cụ ký plugin đã cài đặt thành công
 
-Xin chân thành cảm ơn Quý khách hàng đã tin dùng sản phẩm của M-Invoice
-
-???+ info
+???+ info "Xin chân thành cảm ơn quý khách hàng đã tin dùng sản phẩm của M-Invoice"
 
     Có bất kỳ vướng mắc nào trong quá trình sử dụng hãy liên hệ với M-Invoice tại mục Hỗ trợ kỹ thuật góc phải bên dưới màn hình hoặc gọi tổng đài kỹ thuật của M-Invoice (1900.955.557 Nhánh 1)
 

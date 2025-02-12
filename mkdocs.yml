@@ -306,9 +306,12 @@ nav:
               # - tutorials/thaoTac/navigation.md
               # - tutorials/thaoTac/engage.md
           - "Nghiệp vụ hoá đơn điện tử":
-              - setup/changing-the-fonts.md
-              # - tutorials/social/basic.md
-              # - tutorials/social/custom.md
+              - setup/thayThe.md
+              - setup/dieuChinh.md
+              # - "Điều chỉnh hoá đơn":
+              #     - setup/dieuChinh.md
+              # # - tutorials/social/basic.md
+              # # - tutorials/social/custom.md
           - "Phát hành và báo cáo":
               - tutorials/social/basic.md
               - tutorials/social/custom.md
