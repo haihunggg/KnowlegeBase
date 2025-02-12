@@ -28,15 +28,17 @@ theme:
     # - content.tabs.link
     - content.tooltips
     # - header.autohide
-    - navigation.expand
+    #- navigation.expand
     - navigation.footer
     - navigation.indexes
     - navigation.instant
-    # - navigation.instant.prefetch
+    - navigation.instant.prefetch
+    - navigation.instant.preview
     # - navigation.instant.progress
     # - navigation.prune
     - navigation.sections
     - navigation.tabs
+    - navigation.path
     # - navigation.tabs.sticky
     - navigation.top
     - navigation.tracking
@@ -302,6 +304,7 @@ nav:
       - Hướng dẫn:
           - "Các thao tác thường gặp khi sử dụng phần mềm":
               - setup/plugin.md
+              - setup/themCKSmoi.md
               # - tutorials/thaoTac/suaTienBangTay.md
               # - tutorials/thaoTac/baoCaoChiTietHoaDon.md
               # - tutorials/thaoTac/basic.md

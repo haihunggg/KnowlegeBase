@@ -16,7 +16,7 @@ Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm 
 
 **Thao tác cài đặt và thực hiện như sau**
 
-<iframe width="700" height="380" src="https://www.youtube.com/embed/F6DglkasLP0?si=HyRlvORlPPJXWSJA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe style="width: 43rem; height: 380px" src="https://www.youtube.com/embed/F6DglkasLP0?si=HyRlvORlPPJXWSJA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 **Hướng dẫn sử dụng bằng hình ảnh nếu Quý khách không xem được video**
 
