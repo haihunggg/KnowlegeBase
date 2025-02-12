@@ -1,10 +1,10 @@
-# **Báo cáo chi tiết hóa đơn**
+# **Thay đổi CKS hoặc thêm CKS mới vào phần mềm**
 
 Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm hóa đơn điện tử M-Invoice ở phiên bản 2.0 vô cùng mạch lạc và dễ hiểu.
 
-## **Hướng dẫn xem báo cáo chi tiết hóa đơn**
+## **Hướng dẫn thay đổi CKS hoặc thêm CKS mới vào phần mềmn**
 
-### Bước 1: Ở giao diện trang chủ chọn Báo cáo --> Báo cáo chi tiết hóa đơn
+### Bước 1: Cắm CKS vào máy tính, kiểm tra xem plugin đã được bật chưa
 
 ![Hình 1](../../assets/images/invoice2/2.0_baoCaoChiTiet_1.png)
 
