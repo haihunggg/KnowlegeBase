@@ -120,6 +120,8 @@ markdown_extensions:
   - md_in_html
   - pymdownx.details
   - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
   - toc:
       permalink: true
   - pymdownx.arithmatex:
@@ -308,13 +310,16 @@ nav:
           - "Nghiệp vụ hoá đơn điện tử":
               - setup/thayThe.md
               - setup/dieuChinh.md
+              - setup/dChinhTTheTrenHeThongKhac.md
+              - setup/huyHoaDon.md
+              - setup/huyHangLoat.md
               # - "Điều chỉnh hoá đơn":
               #     - setup/dieuChinh.md
               # # - tutorials/social/basic.md
               # # - tutorials/social/custom.md
           - "Phát hành và báo cáo":
-              - tutorials/social/basic.md
-              - tutorials/social/custom.md
+              - setup/baoCaoTongHop.md
+              - setup/baoCaoChiTiet.md
       - Changelog:
           - changelog/index.md
           - How to upgrade: upgrade.md

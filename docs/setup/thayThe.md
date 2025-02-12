@@ -7,9 +7,9 @@ Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm 
 ???+ Note "Ghi chú"
 
     Trong quá trình phát hành hóa đơn không tránh khỏi những sai sót. Sau đây, M-Invoice hướng dẫn NSD thực hiện xử lý hóa đơn đã lập có sai sót như sau:
-    Người sử dụng có thể sử dụng Nghiệp vụ này trước khi có quyết định thanh kiểm tra của CQT và chỉ được phép sử dụng nghiệp vụ Thay thế hóa đơn với các điều kiện sau:
+    Thay thế hoá đơn (Áp dụng cho HĐ trong kỳ kê khai(chưa kê khai)) và chỉ được phép sử dụng nghiệp vụ thay thế hóa đơn với các điều kiện sau:
 
-    1. Hóa đơn cần thay thế đã được gửi CQT thành công hoặc hóa đơn đã có mã CQT cấp;
+    1. Hóa đơn cần thay thế đã được gửi CQT thành công hoặc hóa đơn đã có mã CQT cấp
     2. Hóa đơn cần thay thế ở Trạng thái Gốc (Mới) hoặc Thay thế
 
 ???+ Warning "Lưu ý"
@@ -18,7 +18,7 @@ Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm 
 
 **Thao tác cài đặt và thực hiện như sau**
 
-<iframe width="700" height="380" src="https://www.youtube.com/embed/2yVVe_lBgW0?si=gJyIo4SUDCbSe9Sn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe style="width: 43rem; height: 380px" src="https://www.youtube.com/embed/2yVVe_lBgW0?si=gJyIo4SUDCbSe9Sn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 **Hướng dẫn sử dụng bằng hình ảnh nếu Quý khách không xem được video**
 
@@ -26,7 +26,7 @@ Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm 
 
 ![Hình 1](../../assets/images/invoice2/2.0_thayThe_1.png)
 
-### Bước 2: Chọn phần Xử lý sai sót >> Thay thế
+### Bước 2: Chọn phần Xử lý sai sót --> Thay thế
 
 ![Hình 2](../../assets/images/invoice2/2.0_thayThe_2.png)
 
