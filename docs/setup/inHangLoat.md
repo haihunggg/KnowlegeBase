@@ -6,7 +6,7 @@ Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm 
 
 Trong quá trình phát hành hóa đơn người dùng sẽ có nhu cầu in hoá đơn PDF và XML. M-invoice xin giới thiệu với khách hàng và người sử dụng tính năng in hoá đơn PDF và XML
 
-=== "In nhiều hoá đơn PDF cách 1"
+=== "Cách 1: In nhiều hoá đơn PDF"
 
     ???+ Note "Ghi chú"
         In bằng cách này sẽ tách file PDF và sẽ lâu hơn cách 2
@@ -29,7 +29,7 @@ Trong quá trình phát hành hóa đơn người dùng sẽ có nhu cầu in ho
 
         Trường hợp không in được load lâu, quý khách hàng cần cập nhật lên plugin mới nhất (Chuột phải vào biểu tượng plugin ở ảnh trên bấn cập nhật phần mềm)
 
-=== "In nhiều hoá đơn PDF cách 2"
+=== "Cách 2: In nhiều hoá đơn PDF"
 
     ???+ Note "Ghi chú"
         In bằng cách này sẽ liền file PDF và sẽ nhanh hơn cách 1

@@ -315,7 +315,7 @@ nav:
               - setup/guiMail.md
               - setup/kyHangLoat.md
               - setup/chuyenKyHieu.md
-
+              - setup/capNhatKyHieu.md
               # - tutorials/thaoTac/suaTienBangTay.md
               # - tutorials/thaoTac/baoCaoChiTietHoaDon.md
               # - tutorials/thaoTac/basic.md
@@ -331,9 +331,16 @@ nav:
               #     - setup/dieuChinh.md
               # # - tutorials/social/basic.md
               # # - tutorials/social/custom.md
-          - "Phát hành và báo cáo":
+          - "Danh mục và báo cáo":
               - setup/baoCaoTongHop.md
               - setup/baoCaoChiTiet.md
+              - setup/dmHangHoa.md
+              - setup/dmKhachHang.md
+              - setup/dmDonViTinh.md
+              - setup/dmThayDoiThueSuat.md
+          - "Người dùng và phân quyền":
+              - setup/themNguoiDung.md
+              - setup/phanQuyen.md
       - Changelog:
           - changelog/index.md
           - How to upgrade: upgrade.md

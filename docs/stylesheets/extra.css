@@ -4,6 +4,10 @@
   --md-primary-fg-color--dark: #363793;
 }
 
+.md-footer {
+  background-color: #363793 !important;
+}
+
 .md-tabs__list {
   font-size: 1.2rem;
   font-weight: bold;
@@ -33,6 +37,7 @@
 }
 
 #__nav_3_1_1_label,
+#__nav_3_1_4_label,
 #__nav_3_1_3_label,
 #__nav_3_1_2_label {
   font-weight: bold;
