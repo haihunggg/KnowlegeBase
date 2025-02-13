@@ -43,11 +43,11 @@ Trong quá trình phát hành hóa đơn người dùng sẽ có nhu cầu in ho
 
     ### Bước 3: Bấm "Xem in"
 
-    ![Hình 3](../../assets/images/invoice2/2.0_inHangLoat_C2_3.png)
+    ![Hình 3](../../assets/images/invoice2/2.0_inHangLoat_4.png)
 
-    ![Hình 4](../../assets/images/invoice2/2.0_inHangLoat_C2_4.png)
+    ![Hình 4](../../assets/images/invoice2/2.0_inHangLoat_5.png)
 
-    ![Hình 4](../../assets/images/invoice2/2.0_inHangLoat_C2_5.png)
+    ![Hình 4](../../assets/images/invoice2/2.0_inHangLoat_6.png)
     Chọn A4 để khi in không bị lỗi khung
 
 === "In nhiều XML"
