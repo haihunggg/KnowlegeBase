@@ -305,6 +305,17 @@ nav:
           - "Các thao tác thường gặp khi sử dụng phần mềm":
               - setup/plugin.md
               - setup/themCKSmoi.md
+              - setup/lapPhatHanhHoaDon.md
+              - setup/thayDoiThongTin.md
+              - setup/xoaHoaDon.md
+              - setup/suaHoaDon.md
+              - setup/inHangLoat.md
+              - setup/chinhThapPhan.md
+              - setup/saoChepHoaDon.md
+              - setup/guiMail.md
+              - setup/kyHangLoat.md
+              - setup/chuyenKyHieu.md
+
               # - tutorials/thaoTac/suaTienBangTay.md
               # - tutorials/thaoTac/baoCaoChiTietHoaDon.md
               # - tutorials/thaoTac/basic.md
