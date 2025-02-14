@@ -28,15 +28,17 @@ theme:
     # - content.tabs.link
     - content.tooltips
     # - header.autohide
-    - navigation.expand
+    #- navigation.expand
     - navigation.footer
     - navigation.indexes
     - navigation.instant
-    # - navigation.instant.prefetch
+    - navigation.instant.prefetch
+    - navigation.instant.preview
     # - navigation.instant.progress
     # - navigation.prune
     - navigation.sections
     - navigation.tabs
+    - navigation.path
     # - navigation.tabs.sticky
     - navigation.top
     - navigation.tracking
@@ -120,6 +122,10 @@ markdown_extensions:
   - def_list
   - footnotes
   - md_in_html
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
   - toc:
       permalink: true
   - pymdownx.arithmatex:
@@ -280,8 +286,7 @@ nav:
       # - Philosophy: philosophy.md
       # - Alternatives: alternatives.md
       # - License: license.md
-      - Hướng dẫn cài đặt Plugin ký hoá đơn:
-          - tutorials/index.md
+      - Hướng dẫn:
           - "Các thao tác thường gặp khi sử dụng phần mềm":
               - Sửa tiền bằng tay : tutorials/thaoTac/suaTienBangTay.md
               - Tạo hóa đơn bằng file excel : tutorials/thaoTac/excelHangLoat.md
@@ -299,29 +304,72 @@ nav:
           - "Phát hành và báo cáo":
               - Báo cáo chi tiết : tutorials/thaoTac/baoCaoChiTietHoaDon.md
   - M-invoice 2.0:
-      - setup/index.md
-      - Changing the colors: setup/changing-the-colors.md
-      - Changing the fonts: setup/changing-the-fonts.md
-      - Changing the language: setup/changing-the-language.md
-      - Changing the logo and icons: setup/changing-the-logo-and-icons.md
-      - Ensuring data privacy: setup/ensuring-data-privacy.md
-      - Setting up navigation: setup/setting-up-navigation.md
-      - Setting up site search: setup/setting-up-site-search.md
-      - Setting up site analytics: setup/setting-up-site-analytics.md
-      - Setting up social cards: setup/setting-up-social-cards.md
-      - Setting up a blog: setup/setting-up-a-blog.md
-      - Setting up tags: setup/setting-up-tags.md
-      - Setting up versioning: setup/setting-up-versioning.md
-      - Setting up the header: setup/setting-up-the-header.md
-      - Setting up the footer: setup/setting-up-the-footer.md
-      - Adding a git repository: setup/adding-a-git-repository.md
-      - Adding a comment system: setup/adding-a-comment-system.md
-      - Building an optimized site: setup/building-an-optimized-site.md
-      - Building for offline usage: setup/building-for-offline-usage.md
-      - Extensions:
-          - setup/extensions/index.md
-          - Python Markdown: setup/extensions/python-markdown.md
-          - Python Markdown Extensions: setup/extensions/python-markdown-extensions.md
+      - Hướng dẫn:
+          - "Các thao tác thường gặp khi sử dụng phần mềm":
+              - setup/plugin.md
+              - setup/themCKSmoi.md
+              - setup/lapPhatHanhHoaDon.md
+              - setup/thayDoiThongTin.md
+              - setup/xoaHoaDon.md
+              - setup/suaHoaDon.md
+              - setup/inHangLoat.md
+              - setup/chinhThapPhan.md
+              - setup/saoChepHoaDon.md
+              - setup/guiMail.md
+              - setup/kyHangLoat.md
+              - setup/chuyenKyHieu.md
+              - setup/capNhatKyHieu.md
+              # - tutorials/thaoTac/suaTienBangTay.md
+              # - tutorials/thaoTac/baoCaoChiTietHoaDon.md
+              # - tutorials/thaoTac/basic.md
+              # - tutorials/thaoTac/navigation.md
+              # - tutorials/thaoTac/engage.md
+          - "Nghiệp vụ hoá đơn điện tử":
+              - setup/thayThe.md
+              - setup/dieuChinh.md
+              - setup/dChinhTTheTrenHeThongKhac.md
+              - setup/huyHoaDon.md
+              - setup/huyHangLoat.md
+              # - "Điều chỉnh hoá đơn":
+              #     - setup/dieuChinh.md
+              # # - tutorials/social/basic.md
+              # # - tutorials/social/custom.md
+          - "Danh mục và báo cáo":
+              - setup/baoCaoTongHop.md
+              - setup/baoCaoChiTiet.md
+              - setup/dmHangHoa.md
+              - setup/dmKhachHang.md
+              - setup/dmDonViTinh.md
+              - setup/dmThayDoiThueSuat.md
+          - "Người dùng và phân quyền":
+              - setup/themNguoiDung.md
+              - setup/phanQuyen.md
+      - Changelog:
+          - changelog/index.md
+          - How to upgrade: upgrade.md
+      # - setup/index.md
+      # - Changing the colors: setup/changing-the-colors.md
+      # - Changing the fonts: setup/changing-the-fonts.md
+      # - Changing the language: setup/changing-the-language.md
+      # - Changing the logo and icons: setup/changing-the-logo-and-icons.md
+      # - Ensuring data privacy: setup/ensuring-data-privacy.md
+      # - Setting up navigation: setup/setting-up-navigation.md
+      # - Setting up site search: setup/setting-up-site-search.md
+      # - Setting up site analytics: setup/setting-up-site-analytics.md
+      # - Setting up social cards: setup/setting-up-social-cards.md
+      # - Setting up a blog: setup/setting-up-a-blog.md
+      # - Setting up tags: setup/setting-up-tags.md
+      # - Setting up versioning: setup/setting-up-versioning.md
+      # - Setting up the header: setup/setting-up-the-header.md
+      # - Setting up the footer: setup/setting-up-the-footer.md
+      # - Adding a git repository: setup/adding-a-git-repository.md
+      # - Adding a comment system: setup/adding-a-comment-system.md
+      # - Building an optimized site: setup/building-an-optimized-site.md
+      # - Building for offline usage: setup/building-for-offline-usage.md
+      # - Extensions:
+      #     - setup/extensions/index.md
+      #     - Python Markdown: setup/extensions/python-markdown.md
+      #     - Python Markdown Extensions: setup/extensions/python-markdown-extensions.md
   - mSMI:
       - plugins/index.md
       - Blog: plugins/blog.md
