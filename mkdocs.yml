@@ -344,6 +344,7 @@ nav:
           - "Người dùng và phân quyền":
               - setup/themNguoiDung.md
               - setup/phanQuyen.md
+              - setup/phanQuyen.md
       # - setup/index.md
       # - Changing the colors: setup/changing-the-colors.md
       # - Changing the fonts: setup/changing-the-fonts.md
