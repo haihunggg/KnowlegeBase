@@ -1,4 +1,4 @@
-# **Sửa tay tiền thuế và tổng tiền**
+# **Hướng dẫn thay thế hóa đơn theo NĐ123**
 
 <!-- [^1]:
     In 2016, Material for MkDocs started out as a simple theme for MkDocs, but
@@ -10,32 +10,36 @@
 [MkDocs]: https://www.mkdocs.org
 [pip]: #with-pip
 [docker]: #with-docker -->
-
-## **Hướng dẫn sửa tay tiền thuế và tổng tiền khi bị lẻ**
-
-<!-- ### with pip <small>recommended</small> { #with-pip data-toc-label="with pip" } -->
-
-Chắc hẳn các bạn đã gặp những trường hợp khi lập hóa đơn, khi phần tổng tiền sau thuế và tiền thuế bị lẻ ra 1 đồng. Trong bài viết này tôi sẽ hướng dẫn các bạn sửa tay lại cho chẵn
+!!! note "Người sử dụng có thể sử dụng Nghiệp vụ này trước khi có quyết định thanh kiểm tra của CQT và chỉ được phép sử dụng nghiệp vụ Thay thế hóa đơn với các điều kiện sau:"
+        1, Hóa đơn cần thay thế đã được gửi CQT thành công hoặc hóa đơn đã có mã CQT cấp;
+        2, Hóa đơn cần thay thế ở Trạng thái Gốc (Mới) hoặc Thay thế
 
 !!! warning "Lưu ý"  
-        Chỉ sửa được những hóa đơn ở trạng thái chờ ký, Những hóa đơn đã ký rồi thì không thế chỉnh sửa được, 
-        chỉ có thể làm các nghiệp vụ hóa đơn như xóa bỏ, thay thế hoặc điều chỉnh
+        Nếu đã lựa chọn nghiệp vụ thay thế thì không được Hủy hóa đơn Thay thế hoặc Bị Thay thế, 
+        cũng không được điều chỉnh hóa đơn thay thế. Nghiệp vụ này không cần phải lập 04/SS
 
-### Bước 1: Chọn hóa đơn cần sửa, nhấn vào chi tiết hóa đơn hay nút sửa (F3)
+<iframe width="640" height="360" 
+    src="https://www.youtube.com/embed/7ELjnoRQmVA" 
+    frameborder="0" allowfullscreen>
+</iframe>
 
-![Hình 1](../../assets/images/invoice1/1.0_suaTienBangTay_1.png)
+### Bước 1: Chọn hóa đơn cần làm thay thế chọn phần Nghiệp vụ chọn lập hóa đơn thay thế
 
-### Bước 2: Nhân tích chọn vào 2 ô, "Sửa giá trị tiền thuế, tổng tiền" và "Tính thuế suất theo tổng chi tiết từng mặt hàng"
+![Hình 1](../../assets/images/invoice1/1.0_thayThe_1.png)
 
-![Hình 2](../../assets/images/invoice1/1.0_suaTienBangTay_2.png)
+### Bước 2: Điền lại phần chi tiết hóa đơn như 1 tờ hóa đơn mới 
 
-### Bước 3 : Nhập phần tiền thuế bạn mong muốn sau đó ấn phím TAB và nhập phần tổng tiền sau thuế
+![Hình 2](../../assets/images/invoice1/1.0_thayThe_2.png)
 
-![Hình 3](../../assets/images/invoice1/1.0_suaTienBangTay_3.png)
+Nếu hóa đơn có nhiều dòng hàng hóa, bạn cũng có thể cọn copy dòng hàng hóa cũ sang bằng cách nhấn vào Chọn hàng hóa
 
-### Bước 4: Kiểm tra xem phần tiền đã đúng hay chưa sau đó nhấn lưu
+![Hình 3](../../assets/images/invoice1/1.0_thayThe_3.png)
 
-![Hình 4](../../assets/images/invoice1/1.0_suaTienBangTay_4.png)
+### Bước 3 : Sau khi nhập xong bạn tiến hành lưu lại và ký gửi CQT 1 cách bình thường
+
+![Hình 3](../../assets/images/invoice1/1.0_thayThe_4.png)
+
+Lúc này hóa đơn cũ sẽ chuyển thành hóa đơn bị thay thế và sẽ coi như 1 hóa đơn hủy, còn hóa đơn mới vừa tạo sẽ trở thành hóa đơn thay thế. Người sử dụng có thể Ký và gửi hóa đơn đã được lập Thay thế như một hóa đơn thông thường.
 
 !!! info "Xin chân thành cảm ơn Quý khách hàng đã tin dùng sản phẩm của M-Invoice"
     Có bất kỳ vướng mắc nào trong quá trình sử dụng hãy liên hệ với M-Invoice tại mục Hỗ trợ kỹ thuật góc phải bên dưới màn hình hoặc gọi tổng đài kỹ thuật của M-Invoice (1900.955.557 Nhánh 1)

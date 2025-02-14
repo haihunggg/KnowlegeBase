@@ -1,4 +1,4 @@
-# **Sửa tay tiền thuế và tổng tiền**
+# **HƯỚNG DẪN NHẬN EXCEL HÀNG LOẠT HÓA ĐƠN 78**
 
 <!-- [^1]:
     In 2016, Material for MkDocs started out as a simple theme for MkDocs, but
@@ -11,34 +11,39 @@
 [pip]: #with-pip
 [docker]: #with-docker -->
 
-## **Hướng dẫn sửa tay tiền thuế và tổng tiền khi bị lẻ**
+### Bước 1: NSD click vào chức năng chọn Tạo hóa đơn từ file excel
 
-<!-- ### with pip <small>recommended</small> { #with-pip data-toc-label="with pip" } -->
+![Hình 1](../../assets/images/invoice1/1.0_excelHangLoat_1.png)
 
-Chắc hẳn các bạn đã gặp những trường hợp khi lập hóa đơn, khi phần tổng tiền sau thuế và tiền thuế bị lẻ ra 1 đồng. Trong bài viết này tôi sẽ hướng dẫn các bạn sửa tay lại cho chẵn
+### Bước 2: NSD Tải file mẫu excel để nhập thông tin
 
-!!! warning "Lưu ý"  
-        Chỉ sửa được những hóa đơn ở trạng thái chờ ký, Những hóa đơn đã ký rồi thì không thế chỉnh sửa được, 
-        chỉ có thể làm các nghiệp vụ hóa đơn như xóa bỏ, thay thế hoặc điều chỉnh
+![Hình 2](../../assets/images/invoice1/1.0_excelHangLoat_2.png)
 
-### Bước 1: Chọn hóa đơn cần sửa, nhấn vào chi tiết hóa đơn hay nút sửa (F3)
+### Bước 3 : NSD Điền đầy đủ thông tin khách hàng tại excel
 
-![Hình 1](../../assets/images/invoice1/1.0_suaTienBangTay_1.png)
+![Hình 3](../../assets/images/invoice1/1.0_excelHangLoat_3.png)
 
-### Bước 2: Nhân tích chọn vào 2 ô, "Sửa giá trị tiền thuế, tổng tiền" và "Tính thuế suất theo tổng chi tiết từng mặt hàng"
+!!! warning "Lưu ý" 
+    - **Ký hiệu:** NSD nhập đúng ký hiệu đang sử dụng và nhập như hình ảnh. 
+    - **Số đơn hàng:** NSD nhập 00000n.  
+    Nếu NSD muốn dòng hàng trên Excel vào chung 1 tờ hóa đơn thì NSD nhập chung 1 số đơn hàng tại các dòng đó.  
+    Nếu NSD muốn nhận nhiều hóa đơn thì NSD nhập số đơn hàng khác nhau tại mỗi dòng. 
+    - **Ngày hóa đơn:** NSD để đúng định dạng `dd/MM/yyyy`.  
+    Nếu nhập sai sẽ báo lỗi và không nhận được.
 
-![Hình 2](../../assets/images/invoice1/1.0_suaTienBangTay_2.png)
+### Bước 4: Điền đầy đủ thông tin tại chi tiết
 
-### Bước 3 : Nhập phần tiền thuế bạn mong muốn sau đó ấn phím TAB và nhập phần tổng tiền sau thuế
+![Hình 4](../../assets/images/invoice1/1.0_excelHangLoat_4.png)
 
-![Hình 3](../../assets/images/invoice1/1.0_suaTienBangTay_3.png)
+!!! warning "Lưu ý"
+        - Tính chất: NSD bắt buộc phải Nhập tính chất của dòng hàng. 
+                    Với 1 là Hàng hóa dịch vụ, 2 là Khuyến Mại, 3 là Chiết khấu thương mại, 4 là Ghi chú, diễn giải. 
+                    Bắt buộc phải nhập
+        - Số thứ tự: NSD nhập số thứ tự tương ứng với dòng hàng để tránh khi nhận bị nhảy dòng không đúng
+        - Phần trăm thuế: NSD nhập đúng phần trăm thuế là 5,10,7, -1 tương  với không chịu thuế và -2 tương ứng với không kê khai
+<span style="font-weight : bold">Xin chân thành cảm ơn Quý khách hàng đã tin dùng sản phẩm của M-Invoice</span>
 
-### Bước 4: Kiểm tra xem phần tiền đã đúng hay chưa sau đó nhấn lưu
-
-![Hình 4](../../assets/images/invoice1/1.0_suaTienBangTay_4.png)
-
-!!! info "Xin chân thành cảm ơn Quý khách hàng đã tin dùng sản phẩm của M-Invoice"
-    Có bất kỳ vướng mắc nào trong quá trình sử dụng hãy liên hệ với M-Invoice tại mục Hỗ trợ kỹ thuật góc phải bên dưới màn hình hoặc gọi tổng đài kỹ thuật của M-Invoice (1900.955.557 Nhánh 1)
+<span style="font-weight : bold">Có bất kỳ vướng mắc nào trong quá trình sử dụng hãy liên hệ với M-Invoice tại mục Hỗ trợ kỹ thuật góc phải bên dưới màn hình hoặc gọi tổng đài kỹ thuật của M-Invoice (1900.955.557 Nhánh 1)</span>
 
 ![Hình 5](../../assets/images/invoice1/1.0_suaTienBangTay_5.png)
 

@@ -1,4 +1,4 @@
-# **Sửa tay tiền thuế và tổng tiền**
+# **Hướng dẫn lấy lại mật khẩu đăng nhập**
 
 <!-- [^1]:
     In 2016, Material for MkDocs started out as a simple theme for MkDocs, but
@@ -11,31 +11,43 @@
 [pip]: #with-pip
 [docker]: #with-docker -->
 
-## **Hướng dẫn sửa tay tiền thuế và tổng tiền khi bị lẻ**
 
-<!-- ### with pip <small>recommended</small> { #with-pip data-toc-label="with pip" } -->
+### Bước 1: Đảm bảo đúng đường link đăng nhập
 
-Chắc hẳn các bạn đã gặp những trường hợp khi lập hóa đơn, khi phần tổng tiền sau thuế và tiền thuế bị lẻ ra 1 đồng. Trong bài viết này tôi sẽ hướng dẫn các bạn sửa tay lại cho chẵn
+![Hình 1](../../assets/images/invoice1/1.0_layMK_1.png)
 
-!!! warning "Lưu ý"  
-        Chỉ sửa được những hóa đơn ở trạng thái chờ ký, Những hóa đơn đã ký rồi thì không thế chỉnh sửa được, 
-        chỉ có thể làm các nghiệp vụ hóa đơn như xóa bỏ, thay thế hoặc điều chỉnh
+Đường link đăng nhập có dạng : MST.minvoice.com.vn
+Trong đó MST chính là mã số thuế của doanh nghiệp
 
-### Bước 1: Chọn hóa đơn cần sửa, nhấn vào chi tiết hóa đơn hay nút sửa (F3)
+### Bước 2: Ở màn hình đăng nhập chọn nút quên mật khẩu để lấy lại mật khẩu
 
-![Hình 1](../../assets/images/invoice1/1.0_suaTienBangTay_1.png)
+![Hình 2](../../assets/images/invoice1/1.0_layMK_2.png)
 
-### Bước 2: Nhân tích chọn vào 2 ô, "Sửa giá trị tiền thuế, tổng tiền" và "Tính thuế suất theo tổng chi tiết từng mặt hàng"
+### Bước 3 : Giao diện quên mật khẩu, bạn có thẻ lấy lại mật khẩu qua 2 cách, 1 là Email , 2 bằng chữ ký số
 
-![Hình 2](../../assets/images/invoice1/1.0_suaTienBangTay_2.png)
+#### 1, Lấy lại mật khẩu qua Email
 
-### Bước 3 : Nhập phần tiền thuế bạn mong muốn sau đó ấn phím TAB và nhập phần tổng tiền sau thuế
+![Hình 3](../../assets/images/invoice1/1.0_layMK_3.png)
 
-![Hình 3](../../assets/images/invoice1/1.0_suaTienBangTay_3.png)
+Bạn nhập đúng địa chỉ Email đã đăng ký với phần mềm, sau đó nhấn Gửi (F10)
 
-### Bước 4: Kiểm tra xem phần tiền đã đúng hay chưa sau đó nhấn lưu
+Sau đó tài khoản và mật khẩu sẽ tự động được gửi vào Email cho bạn
 
-![Hình 4](../../assets/images/invoice1/1.0_suaTienBangTay_4.png)
+#### 2, Lấy lại mật khẩu qua Chữ ký số
+
+<iframe width="640" height="360" 
+    src="https://www.youtube.com/embed/AIJm4Xc6Uro" 
+    frameborder="0" allowfullscreen>
+</iframe>
+
+Hướng dẫn lấy lại mật khẩu bằng hình ảnh nếu Quý khách không xem được Video
+
+![Hình 3](../../assets/images/invoice1/1.0_layMK_4.png)
+Bạn nhập tên tài khoản (Thường sẽ là mã số thuế của doanh nghiệp), và xác nhận lại 2 lần mật khẩu , sau đó nhấn nhận 
+Để thực hiện chức năng này, bạn bắt buộc phải cài plugin, và dùng đúng chữ ký số đã đăng ký với phần mềm 
+
+Nếu bạn chưa cài Plugin có thể cài plugin qua đường dẫn sau đây
+[Plugin](https://plugin.minvoice.com.vn/MinvoicePlugin/publish.htm)
 
 !!! info "Xin chân thành cảm ơn Quý khách hàng đã tin dùng sản phẩm của M-Invoice"
     Có bất kỳ vướng mắc nào trong quá trình sử dụng hãy liên hệ với M-Invoice tại mục Hỗ trợ kỹ thuật góc phải bên dưới màn hình hoặc gọi tổng đài kỹ thuật của M-Invoice (1900.955.557 Nhánh 1)

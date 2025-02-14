@@ -1,4 +1,4 @@
-# **Sửa tay tiền thuế và tổng tiền**
+# **Thêm một tài khoản cho người sử dụng mới**
 
 <!-- [^1]:
     In 2016, Material for MkDocs started out as a simple theme for MkDocs, but
@@ -11,31 +11,24 @@
 [pip]: #with-pip
 [docker]: #with-docker -->
 
-## **Hướng dẫn sửa tay tiền thuế và tổng tiền khi bị lẻ**
+### Bước 1: K/H vào phân hệ Hệ Thống (1) . Chọn quản trị người dùng (2), chọn người sử dụng (3)
 
-<!-- ### with pip <small>recommended</small> { #with-pip data-toc-label="with pip" } -->
+![Hình 1](../../assets/images/invoice1/1.0_addUser_1.png)
 
-Chắc hẳn các bạn đã gặp những trường hợp khi lập hóa đơn, khi phần tổng tiền sau thuế và tiền thuế bị lẻ ra 1 đồng. Trong bài viết này tôi sẽ hướng dẫn các bạn sửa tay lại cho chẵn
+### Bước 2: Sau khi vào giao diện Người sử dụng, K/H ấn Thêm (F4) (4).
 
-!!! warning "Lưu ý"  
-        Chỉ sửa được những hóa đơn ở trạng thái chờ ký, Những hóa đơn đã ký rồi thì không thế chỉnh sửa được, 
-        chỉ có thể làm các nghiệp vụ hóa đơn như xóa bỏ, thay thế hoặc điều chỉnh
+![Hình 2](../../assets/images/invoice1/1.0_addUser_2.png)
 
-### Bước 1: Chọn hóa đơn cần sửa, nhấn vào chi tiết hóa đơn hay nút sửa (F3)
+### Bước 3 : Sau đó K/H nhập từng thông tin người sử dụng đó để thêm. Lưu ý những trường đánh dấu (\*) K/H bắt buộc phải nhập.
 
-![Hình 1](../../assets/images/invoice1/1.0_suaTienBangTay_1.png)
+### Bước 4: Sau khi nhập xong thông tin K/H ấn Nhận (F10). Hệ thống sẽ gửi mật khẩu về email mà K/H đăng ký lúc tạo tài khoản
 
-### Bước 2: Nhân tích chọn vào 2 ô, "Sửa giá trị tiền thuế, tổng tiền" và "Tính thuế suất theo tổng chi tiết từng mặt hàng"
+### Bước 5: K/H chọn vào (1) người sử dụng cần phân quyền, sau đó ấn (2) Phân quyền 
+![Hình 3](../../assets/images/invoice1/1.0_addUser_3.png)
 
-![Hình 2](../../assets/images/invoice1/1.0_suaTienBangTay_2.png)
+### Bước 6: Sau khi phân quyền xong K/H ấn nhận(F10) (5)
 
-### Bước 3 : Nhập phần tiền thuế bạn mong muốn sau đó ấn phím TAB và nhập phần tổng tiền sau thuế
-
-![Hình 3](../../assets/images/invoice1/1.0_suaTienBangTay_3.png)
-
-### Bước 4: Kiểm tra xem phần tiền đã đúng hay chưa sau đó nhấn lưu
-
-![Hình 4](../../assets/images/invoice1/1.0_suaTienBangTay_4.png)
+![Hình 4](../../assets/images/invoice1/1.0_addUser_4.png)
 
 !!! info "Xin chân thành cảm ơn Quý khách hàng đã tin dùng sản phẩm của M-Invoice"
     Có bất kỳ vướng mắc nào trong quá trình sử dụng hãy liên hệ với M-Invoice tại mục Hỗ trợ kỹ thuật góc phải bên dưới màn hình hoặc gọi tổng đài kỹ thuật của M-Invoice (1900.955.557 Nhánh 1)

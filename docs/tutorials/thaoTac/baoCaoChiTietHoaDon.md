@@ -1,21 +1,6 @@
 # **Báo cáo chi tiết hoá đơn theo NĐ123**
 
-Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm hóa đơn điện tử M-Invoice ở phiên bản 1.0 vô cùng mạch lạc và dễ hiểu.
-
-<!-- [^1]:
-    In 2016, Material for MkDocs started out as a simple theme for MkDocs, but
-    over the course of several years, it's now much more than that – with the
-    many built-in plugins, settings, and countless customization abilities,
-    Material for MkDocs is now one of the simplest and most powerful frameworks
-    for creating documentation for your project.
-
-[MkDocs]: https://www.mkdocs.org
-[pip]: #with-pip
-[docker]: #with-docker -->
-
 ## **Hướng dẫn xem và tải báo cáo chi tiết hóa đơn NĐ123**
-
-<!-- ### with pip <small>recommended</small> { #with-pip data-toc-label="with pip" } -->
 
 _<span style="font-weight : bold; color: red"><small>Lưu ý : để tải được excel báo cáo chi tiết hoá đơn, các bạn phải cài đặt plugin ký số Minvoice</small></span>_ [Hướng dẫn cài đặt Plugin](../../assets/images/invoice1/1.0_caiPlugin.png)
 
@@ -33,9 +18,8 @@ _<span style="font-weight : bold; color: red"><small>Lưu ý : để tải đư�
 _<span style="font-weight : bold; color: red"><small>Lưu ý : nếu đã cài plugin thì phải cập nhật lên phiên bản mới [Hướng dẫn](../../assets/images/invoice1/1.0_capNhatPhanMem.png)</small></span>_
 ![Hình 4](../../assets/images/invoice1/1.0_baoCaoChiTiet_4.png)
 
-<span style="font-weight : bold">Xin chân thành cảm ơn Quý khách hàng đã tin dùng sản phẩm của M-Invoice</span>
-
-<span style="font-weight : bold">Có bất kỳ vướng mắc nào trong quá trình sử dụng hãy liên hệ với M-Invoice tại mục Hỗ trợ kỹ thuật góc phải bên dưới màn hình hoặc gọi tổng đài kỹ thuật của M-Invoice (1900.955.557 Nhánh 1)</span>
+!!! info "Xin chân thành cảm ơn Quý khách hàng đã tin dùng sản phẩm của M-Invoice"
+    Có bất kỳ vướng mắc nào trong quá trình sử dụng hãy liên hệ với M-Invoice tại mục Hỗ trợ kỹ thuật góc phải bên dưới màn hình hoặc gọi tổng đài kỹ thuật của M-Invoice (1900.955.557 Nhánh 1)
 
 ![Hình 5](../../assets/images/invoice1/1.0_suaTienBangTay_5.png)
 

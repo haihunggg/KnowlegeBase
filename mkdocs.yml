@@ -112,6 +112,8 @@ extra:
   generator: false
 # Extensions
 markdown_extensions:
+  - pymdownx.details
+  - pymdownx.superfences
   - abbr
   - admonition
   - attr_list
@@ -281,20 +283,21 @@ nav:
       - Hướng dẫn cài đặt Plugin ký hoá đơn:
           - tutorials/index.md
           - "Các thao tác thường gặp khi sử dụng phần mềm":
-              - tutorials/thaoTac/suaTienBangTay.md
-              - tutorials/thaoTac/baoCaoChiTietHoaDon.md
-              - tutorials/thaoTac/basic.md
-              - tutorials/thaoTac/navigation.md
-              - tutorials/thaoTac/engage.md
+              - Sửa tiền bằng tay : tutorials/thaoTac/suaTienBangTay.md
+              - Tạo hóa đơn bằng file excel : tutorials/thaoTac/excelHangLoat.md
+              - Nhập file excel chi tiết : tutorials/thaoTac/excelChiTiet.md
+              - Thêm mới chữ ký số : tutorials/thaoTac/themCKS.md
+              - Xem in hàng loạt : tutorials/thaoTac/inHangLoat.md
+              - Thêm mới tài khoản : tutorials/thaoTac/addUser.md
+              - Lấy lại mật khẩu : tutorials/thaoTac/layPass.md
+              - Thay đổi địa chi : tutorials/thaoTac/diaChi.md
           - "Nghiệp vụ hoá đơn điện tử":
-              - tutorials/social/basic.md
-              - tutorials/social/custom.md
+              - Giải trình hóa đơn : tutorials/nghiepVu/04ss.md
+              - Điều chỉnh hóa đơn : tutorials/nghiepVu/dieuChinh.md
+              - Thay thế hóa đơn : tutorials/nghiepVu/thayThe.md
+              - Hủy hóa đơn : tutorials/nghiepVu/huy.md
           - "Phát hành và báo cáo":
-              - tutorials/social/basic.md
-              - tutorials/social/custom.md
-      - Changelog:
-          - changelog/index.md
-          - How to upgrade: upgrade.md
+              - Báo cáo chi tiết : tutorials/thaoTac/baoCaoChiTietHoaDon.md
   - M-invoice 2.0:
       - setup/index.md
       - Changing the colors: setup/changing-the-colors.md

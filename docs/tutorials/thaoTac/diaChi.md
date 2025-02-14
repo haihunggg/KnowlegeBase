@@ -1,4 +1,4 @@
-# **Sửa tay tiền thuế và tổng tiền**
+# **Hướng dẫn thay đổi địa chỉ doanh nghiệp**
 
 <!-- [^1]:
     In 2016, Material for MkDocs started out as a simple theme for MkDocs, but
@@ -10,32 +10,44 @@
 [MkDocs]: https://www.mkdocs.org
 [pip]: #with-pip
 [docker]: #with-docker -->
+<iframe width="640" height="360" 
+    src="https://www.youtube.com/embed/GslGyYLCIDk" 
+    frameborder="0" allowfullscreen>
+</iframe>
 
-## **Hướng dẫn sửa tay tiền thuế và tổng tiền khi bị lẻ**
+### Bước 1: Truy cập vào thông tin doanh nghiệp
 
-<!-- ### with pip <small>recommended</small> { #with-pip data-toc-label="with pip" } -->
+![Hình 1](../../assets/images/invoice1/1.0_diaChi_1.png)
 
-Chắc hẳn các bạn đã gặp những trường hợp khi lập hóa đơn, khi phần tổng tiền sau thuế và tiền thuế bị lẻ ra 1 đồng. Trong bài viết này tôi sẽ hướng dẫn các bạn sửa tay lại cho chẵn
+Truy cập vào phần Hệ thống >> Quản lý doanh nghiệp >> Thông tin doanh nghiệp
 
-!!! warning "Lưu ý"  
-        Chỉ sửa được những hóa đơn ở trạng thái chờ ký, Những hóa đơn đã ký rồi thì không thế chỉnh sửa được, 
-        chỉ có thể làm các nghiệp vụ hóa đơn như xóa bỏ, thay thế hoặc điều chỉnh
+### Bước 2: thay đổi thông tin địa chỉ
 
-### Bước 1: Chọn hóa đơn cần sửa, nhấn vào chi tiết hóa đơn hay nút sửa (F3)
+![Hình 2](../../assets/images/invoice1/1.0_diaChi_2.png)
 
-![Hình 1](../../assets/images/invoice1/1.0_suaTienBangTay_1.png)
+Anh chị bấm vào mục địa chỉ, sửa lại về địa chỉ mới sau đó bấm lưu
 
-### Bước 2: Nhân tích chọn vào 2 ô, "Sửa giá trị tiền thuế, tổng tiền" và "Tính thuế suất theo tổng chi tiết từng mặt hàng"
+### Bước 3 : Tạo tờ khai thay đổi thông tin
 
-![Hình 2](../../assets/images/invoice1/1.0_suaTienBangTay_2.png)
+![Hình 3](../../assets/images/invoice1/1.0_diaChi_3.png)
 
-### Bước 3 : Nhập phần tiền thuế bạn mong muốn sau đó ấn phím TAB và nhập phần tổng tiền sau thuế
+Anh chị bấm vào Hóa đơn NĐ 123 >> đăng ký thay đổi thông tin sử dụng HDDT và bấm thêm.
 
-![Hình 3](../../assets/images/invoice1/1.0_suaTienBangTay_3.png)
+### Bước 4 : Điền thông tin thay đổi trên tờ khai
 
-### Bước 4: Kiểm tra xem phần tiền đã đúng hay chưa sau đó nhấn lưu
+![Hình 4](../../assets/images/invoice1/1.0_diaChi_4.png)
 
-![Hình 4](../../assets/images/invoice1/1.0_suaTienBangTay_4.png)
+Anh chị kiểm tra lại thông tin 1 lượt từ trên xuống dưới  
+Mục nào sai thì mình sửa lại, sau khi kiểm tra xong, bấm vào ghi để lưu.
+
+### Bước 5 : Ký gửi tờ khai lên CQT
+
+![Hình 5](../../assets/images/invoice1/1.0_diaChi_5.png)
+
+Anh chị chọn tờ khai chờ ký vừa mới tạo và click chọn >> Ký gửi CQT
+!!! warning "Lưu ý"
+        Ở mục trạng thái CQT, nếu cơ quan thuế đồng ý tiếp nhận thì có nghĩa là thành công.  
+        Nếu trạng thái là không tiếp nhận, anh chị có thể liên hệ kỹ thuật để được hỗ trợ.
 
 !!! info "Xin chân thành cảm ơn Quý khách hàng đã tin dùng sản phẩm của M-Invoice"
     Có bất kỳ vướng mắc nào trong quá trình sử dụng hãy liên hệ với M-Invoice tại mục Hỗ trợ kỹ thuật góc phải bên dưới màn hình hoặc gọi tổng đài kỹ thuật của M-Invoice (1900.955.557 Nhánh 1)

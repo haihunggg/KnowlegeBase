@@ -1,4 +1,4 @@
-# **Sửa tay tiền thuế và tổng tiền**
+# **Hướng dẫn nhận excel chi tiết hóa đơn**
 
 <!-- [^1]:
     In 2016, Material for MkDocs started out as a simple theme for MkDocs, but
@@ -10,32 +10,41 @@
 [MkDocs]: https://www.mkdocs.org
 [pip]: #with-pip
 [docker]: #with-docker -->
-
-## **Hướng dẫn sửa tay tiền thuế và tổng tiền khi bị lẻ**
-
-<!-- ### with pip <small>recommended</small> { #with-pip data-toc-label="with pip" } -->
-
-Chắc hẳn các bạn đã gặp những trường hợp khi lập hóa đơn, khi phần tổng tiền sau thuế và tiền thuế bị lẻ ra 1 đồng. Trong bài viết này tôi sẽ hướng dẫn các bạn sửa tay lại cho chẵn
+Tính năng này được sử dụng khi 1 hóa đơn có nhiều dòng hàng, mà NSD không muốn gõ tay từng dòng hàng trên PM mà muốn nhận thông qua file excel
 
 !!! warning "Lưu ý"  
-        Chỉ sửa được những hóa đơn ở trạng thái chờ ký, Những hóa đơn đã ký rồi thì không thế chỉnh sửa được, 
-        chỉ có thể làm các nghiệp vụ hóa đơn như xóa bỏ, thay thế hoặc điều chỉnh
+        Bạn có thể nhận excel chi tiết vào được cả các hóa đơn gốc, thay thế, điều chỉnh ở trạng thái chờ ký, 
+        và toàn bộ dữ liệu trước đó sẽ thay thế hoàn toàn bằng giá trị trong file excel
 
-### Bước 1: Chọn hóa đơn cần sửa, nhấn vào chi tiết hóa đơn hay nút sửa (F3)
+<iframe width="640" height="360" 
+    src="https://www.youtube.com/embed/gw_dvwOy5XU" 
+    frameborder="0" allowfullscreen>
+</iframe>
 
-![Hình 1](../../assets/images/invoice1/1.0_suaTienBangTay_1.png)
+### Bước 1: Tạo 1 hóa đơn chờ ký nhập đầy đủ thông tin của người mua, và 1 dòng hàng bất kỳ
 
-### Bước 2: Nhân tích chọn vào 2 ô, "Sửa giá trị tiền thuế, tổng tiền" và "Tính thuế suất theo tổng chi tiết từng mặt hàng"
+![Hình 1](../../assets/images/invoice1/1.0_excelChiTiet_1.png)
 
-![Hình 2](../../assets/images/invoice1/1.0_suaTienBangTay_2.png)
+### Bước 2: Chọn hóa đơn vừa tạo >> Chức năng >> Nhận excel chi tiết hóa đơn
 
-### Bước 3 : Nhập phần tiền thuế bạn mong muốn sau đó ấn phím TAB và nhập phần tổng tiền sau thuế
+![Hình 2](../../assets/images/invoice1/1.0_excelChiTiet_3.png)
 
-![Hình 3](../../assets/images/invoice1/1.0_suaTienBangTay_3.png)
+### Bước 3 : Tải file mẫu hóa đơn về máy, sau đó nhận đầy đủ thông tin vào file excel sau đó lưu lại 
 
-### Bước 4: Kiểm tra xem phần tiền đã đúng hay chưa sau đó nhấn lưu
+![Hình 3](../../assets/images/invoice1/1.0_excelChiTiet_2.png)
 
-![Hình 4](../../assets/images/invoice1/1.0_suaTienBangTay_4.png)
+![Hình 4](../../assets/images/invoice1/1.0_excelChiTiet_4.png)
+
+Các bạn chỉ cần kiểm tra lại thông tin, sau đó điền vào phần lý do 
+Khi nhập lý do xong hãy nhấn phím tab để pm lưu lại được mục lý do, sau đó nhấn Ghi(F10)
+
+### Bước 4 : Lưu lại file excel sau đó tải ngược lại trên phân mềm 
+
+![Hình 5](../../assets/images/invoice1/1.0_excelChiTiet_5.png)
+
+### Bước 5 : Tải lại phần mềm, như thế bạn đã tạo thành công file excel lên phần mềm
+
+
 
 !!! info "Xin chân thành cảm ơn Quý khách hàng đã tin dùng sản phẩm của M-Invoice"
     Có bất kỳ vướng mắc nào trong quá trình sử dụng hãy liên hệ với M-Invoice tại mục Hỗ trợ kỹ thuật góc phải bên dưới màn hình hoặc gọi tổng đài kỹ thuật của M-Invoice (1900.955.557 Nhánh 1)

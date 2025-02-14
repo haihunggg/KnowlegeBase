@@ -1,4 +1,4 @@
-# **Sửa tay tiền thuế và tổng tiền**
+# **Hướng dẫn hủy hóa đơn theo NĐ123**
 
 <!-- [^1]:
     In 2016, Material for MkDocs started out as a simple theme for MkDocs, but
@@ -10,32 +10,45 @@
 [MkDocs]: https://www.mkdocs.org
 [pip]: #with-pip
 [docker]: #with-docker -->
-
-## **Hướng dẫn sửa tay tiền thuế và tổng tiền khi bị lẻ**
-
-<!-- ### with pip <small>recommended</small> { #with-pip data-toc-label="with pip" } -->
-
-Chắc hẳn các bạn đã gặp những trường hợp khi lập hóa đơn, khi phần tổng tiền sau thuế và tiền thuế bị lẻ ra 1 đồng. Trong bài viết này tôi sẽ hướng dẫn các bạn sửa tay lại cho chẵn
+!!! note "Người sử dụng có thể sử dụng Nghiệp vụ này trước khi có quyết định thanh kiểm tra của CQT và chỉ được phép sử dụng nghiệp vụ Hủy hóa đơn với các điều kiện sau:"
+    1, Hóa đơn cần hủy đã được gửi CQT thành công hoặc hóa đơn đã có mã CQT cấp;
+    2, Hóa đơn cần hủy ở Trạng thái Gốc (Mới)
 
 !!! warning "Lưu ý"  
-        Chỉ sửa được những hóa đơn ở trạng thái chờ ký, Những hóa đơn đã ký rồi thì không thế chỉnh sửa được, 
-        chỉ có thể làm các nghiệp vụ hóa đơn như xóa bỏ, thay thế hoặc điều chỉnh
+        Nếu đã lựa chọn nghiệp vụ hủy thì không được điều chỉnh hoặc thay thế hóa đơn đã bị hủy.
+        Nghiệp vụ này bắt buộc phải lập 04/SS
 
-### Bước 1: Chọn hóa đơn cần sửa, nhấn vào chi tiết hóa đơn hay nút sửa (F3)
+<iframe width="640" height="360" 
+    src="https://www.youtube.com/embed/WSA0CrIhZFM" 
+    frameborder="0" allowfullscreen>
+</iframe>
 
-![Hình 1](../../assets/images/invoice1/1.0_suaTienBangTay_1.png)
+### Bước 1: Kiểm tra trong phần hệ thống đã điền cơ quan thuế cấp tình và chi cục thuế quản lý hay chưa
 
-### Bước 2: Nhân tích chọn vào 2 ô, "Sửa giá trị tiền thuế, tổng tiền" và "Tính thuế suất theo tổng chi tiết từng mặt hàng"
+![Hình 1](../../assets/images/invoice1/1.0_huy_1.png)
 
-![Hình 2](../../assets/images/invoice1/1.0_suaTienBangTay_2.png)
+Truy cập vào phần Hệ thống >> Quản lý doanh nghiệp >> Thông tin doanh nghiệp
+Nếu chưa điền bạn sẽ phải điền vào và sau đó nhấn lưu lại 
 
-### Bước 3 : Nhập phần tiền thuế bạn mong muốn sau đó ấn phím TAB và nhập phần tổng tiền sau thuế
+### Bước 2: Quay trở lại phần mềm, chọn hóa đơn cần hủy, chọn nghiệp vụ chọn hủy hóa đơn 
 
-![Hình 3](../../assets/images/invoice1/1.0_suaTienBangTay_3.png)
+![Hình 2](../../assets/images/invoice1/1.0_huy_2.png)
 
-### Bước 4: Kiểm tra xem phần tiền đã đúng hay chưa sau đó nhấn lưu
+### Bước 3 : Sau khi nhấn hủy phần mềm sẽ tự động sinh ra 1 form để lập mẫu 04ss
 
-![Hình 4](../../assets/images/invoice1/1.0_suaTienBangTay_4.png)
+![Hình 3](../../assets/images/invoice1/1.0_huy_3.png)
+
+Các bạn chỉ cần kiểm tra lại thông tin, sau đó điền vào phần lý do 
+Khi nhập lý do xong hãy nhấn phím tab để pm lưu lại được mục lý do, sau đó nhấn Ghi(F10)
+
+### Bước 4 : Ký gửi 04ss  thông báo sai sót đến CQT
+
+![Hình 3](../../assets/images/invoice1/1.0_huy_4.png)
+
+Trên pm truy cập vào phần Hóa đơn NĐ123  >> quản lý thông báo 04/SS-HDDT 
+Chọn tờ 04ss vừa mới lập ở bước trên nhấn Ký 04/SS - HDDT , sau khi ký xong nhấn gửi CQT
+
+Ở mục trạng thái CQT, nếu cơ quan thuế đồng ý về việc hủy hóa đơn thì phần trạng thái sẽ chuyển về chấp nhận và ngược lại
 
 !!! info "Xin chân thành cảm ơn Quý khách hàng đã tin dùng sản phẩm của M-Invoice"
     Có bất kỳ vướng mắc nào trong quá trình sử dụng hãy liên hệ với M-Invoice tại mục Hỗ trợ kỹ thuật góc phải bên dưới màn hình hoặc gọi tổng đài kỹ thuật của M-Invoice (1900.955.557 Nhánh 1)
