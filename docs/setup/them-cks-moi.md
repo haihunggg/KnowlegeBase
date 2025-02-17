@@ -6,7 +6,9 @@ Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm 
 
 ### Bước 1: Cắm CKS vào máy tính, kiểm tra xem plugin đã được bật chưa
 
-![Hình 1](../../assets/images/invoice2/2.0_themCks_1.png)
+[![Hình 1]][Hình 1]
+
+[Hình 1]: ../assets/images/invoice2/2.0_them-cks-moi_1.png
 
 !!! note ""
 
@@ -16,27 +18,39 @@ Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm 
 
 ### Bước 2: Thêm CKS vào phần mềm hóa đơn
 
-![Hình 2](../../assets/images/invoice2/2.0_themCks_2.png)
+[![Hình 2]][Hình 2]
 
-![Hình 3](../../assets/images/invoice2/2.0_themCks_3.png)
+[Hình 2]: ../assets/images/invoice2/2.0_them-cks-moi_2.png
+
+[![Hình 3]][Hình 3]
+
+[Hình 3]: ../assets/images/invoice2/2.0_them-cks-moi_3.png
 
 Các bạn vào **Hệ thông --> Đăng ký chữ ký số --> Thêm chứng thư số**
 
-![Hình 4](../../assets/images/invoice2/2.0_themCks_4.png)
+[![Hình 4]][Hình 4]
+
+[Hình 4]: ../assets/images/invoice2/2.0_them-cks-moi_4.png
 
 Click vào loại **CKS** phù hợp nhất với mình
 
-![Hình 5](../../assets/images/invoice2/2.0_themCks_5.png)
+[![Hình 5]][Hình 5]
+
+[Hình 5]: ../assets/images/invoice2/2.0_them-cks-moi_5.png
 
 Ở thanh Taskbar sẽ hiển thị lên biểu tượng của công cụ **Plugin Minvoice** các bạn chọn vào đó để thêm **CKS** mới của mình
 
 ### Bước 3 : Làm tờ khai 01 thay đổi lên thuế về việc thay đổi CKS hay thông tin doanh nghiệp
 
-![Hình 6](../../assets/images/invoice2/2.0_themCks_6.png)
+[![Hình 6]][Hình 6]
+
+[Hình 6]: ../assets/images/invoice2/2.0_them-cks-moi_6.png
 
 Các bạn vào phần **Đăng ký phát hành >> Lập tờ khai >> Thêm (F4)**
 
-![Hình 7](../../assets/images/invoice2/2.0_themCks_7.png)
+[![Hình 7]][Hình 7]
+
+[Hình 7]: ../assets/images/invoice2/2.0_them-cks-moi_7.png
 
 !!! note ""
 
@@ -46,7 +60,9 @@ Các bạn vào phần **Đăng ký phát hành >> Lập tờ khai >> Thêm (F4)
 
     + Chọn **Thay đổi** thông tin nếu bạn muốn thay đổi địa chỉ, tên doanh nghiệp, hay thêm CKS mới vào phần mềm
 
-![Hình 8](../../assets/images/invoice2/2.0_themCks_8.png)
+[![Hình 8]][Hình 8]
+
+[Hình 8]: ../assets/images/invoice2/2.0_them-cks-moi_8.png
 
 !!! note ""
 
@@ -60,11 +76,15 @@ Các bạn vào phần **Đăng ký phát hành >> Lập tờ khai >> Thêm (F4)
 
     **Điện thoại liên hệ** : SĐT của công ty hay SĐT của kết toán trưởng
 
-![Hình 9](../../assets/images/invoice2/2.0_themCks_9.png)
+[![Hình 9]][Hình 9]
+
+[Hình 9]: ../assets/images/invoice2/2.0_them-cks-moi_9.png
 
 1,2,3,4,Các bạn tích chọn vào các loại hóa đơn phù hợp với hình thức doanh nghiệp mình sử dụng
 
-![Hình 10](../../assets/images/invoice2/2.0_themCks_10.png)
+[![Hình 10]][Hình 10]
+
+[Hình 10]: ../assets/images/invoice2/2.0_them-cks-moi_10.png
 
 5, chọn **Thêm** để thêm cks hay để Add CKS mới thay đổi vào tờ khai **nếu có rồi thì k cần làm bước này**
 
@@ -72,7 +92,9 @@ Các bạn vào phần **Đăng ký phát hành >> Lập tờ khai >> Thêm (F4)
 
 ### Bước 4 : Sau khi hoàn thành, các bạn chọn tờ khai mình vừa lập chọn Ký và gửi CQT
 
-![Hình 11](../../assets/images/invoice2/2.0_themCks_11.png)
+[![Hình 11]][Hình 11]
+
+[Hình 11]: ../assets/images/invoice2/2.0_them-cks-moi_11.png
 
 Như vậy đã hoàn tất quá trình đăng ký hay thay đổi thông tin hóa đơn sử dụng.
 
@@ -84,4 +106,6 @@ Như vậy đã hoàn tất quá trình đăng ký hay thay đổi thông tin h�
 
     Có bất kỳ vướng mắc nào trong quá trình sử dụng hãy liên hệ với M-Invoice tại mục Hỗ trợ kỹ thuật góc phải bên dưới màn hình hoặc gọi tổng đài kỹ thuật của M-Invoice (1900.955.557 Nhánh 1)
 
-![Hình 8](../../assets/images/invoice2/hotro.png)
+[![Hình 12]][Hình 12]
+
+[Hình 12]: ../assets/images/invoice2/hotro.png

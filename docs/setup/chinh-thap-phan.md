@@ -10,15 +10,21 @@ Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm 
 
 ### Bước 1: Ở màn hình trang chủ bạn truy cập vào phần Danh mục --> tiền tệ
 
-![Hình 1](../../assets/images/invoice2/2.0_chinhThapPhan_1.png)
+[![Hình 1]][Hình 1]
+
+[Hình 1]: ../assets/images/invoice2/2.0_chinh-thap-phan_1.png
 
 ### Bước 2: Chọn vào loại tiền bạn muốn sửa và nhấn sửa
 
-![Hình 2](../../assets/images/invoice2/2.0_chinhThapPhan_2.png)
+[![Hình 2]][Hình 2]
+
+[Hình 2]: ../assets/images/invoice2/2.0_chinh-thap-phan_2.png
 
 ### Bước 3: Sửa các phần số thập phân đằng sau dấu phẩy, bạn muốn để bao nhiêu số ở phần nào thì sửa lại phần đó
 
-![Hình 3](../../assets/images/invoice2/2.0_chinhThapPhan_3.png)
+[![Hình 3]][Hình 3]
+
+[Hình 3]: ../assets/images/invoice2/2.0_chinh-thap-phan_3.png
 
 Sau đó nhấn lưu -> load lại trang -> thử lại
 
@@ -26,4 +32,6 @@ Sau đó nhấn lưu -> load lại trang -> thử lại
 
     Có bất kỳ vướng mắc nào trong quá trình sử dụng hãy liên hệ với M-Invoice tại mục Hỗ trợ kỹ thuật góc phải bên dưới màn hình hoặc gọi tổng đài kỹ thuật của M-Invoice (1900.955.557 Nhánh 1)
 
-![Hình 8](../../assets/images/invoice2/hotro.png)
+[![Hình 4]][Hình 4]
+
+[Hình 4]: ../assets/images/invoice2/hotro.png

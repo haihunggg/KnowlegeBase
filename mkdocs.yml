@@ -34,7 +34,7 @@ theme:
     - navigation.instant
     - navigation.instant.prefetch
     - navigation.instant.preview
-    # - navigation.instant.progress
+    - navigation.instant.progress
     # - navigation.prune
     - navigation.sections
     - navigation.tabs
@@ -307,14 +307,14 @@ nav:
       - Hướng dẫn:
           - "Các thao tác thường gặp khi sử dụng phần mềm":
               - setup/plugin.md
-              - setup/themCKSmoi.md
-              - setup/lapPhatHanhHoaDon.md
-              - setup/thayDoiThongTin.md
-              - setup/xoaHoaDon.md
-              - setup/suaHoaDon.md
-              - setup/inHangLoat.md
-              - setup/chinhThapPhan.md
-              - setup/saoChepHoaDon.md
+              - setup/them-cks-moi.md
+              - setup/lap-va-phat-hanh-hoa-don.md
+              - setup/thay-doi-thong-tin-doanh-nghiep.md
+              - setup/xoa-hoa-don.md
+              - setup/sua-hoa-don.md
+              - setup/in-hang-loat.md
+              - setup/chinh-thap-phan.md
+              - setup/sao-chep-hoa-don.md
               - setup/guiMail.md
               - setup/kyHangLoat.md
               - setup/chuyenKyHieu.md
@@ -330,6 +330,7 @@ nav:
               - setup/dChinhTTheTrenHeThongKhac.md
               - setup/huyHoaDon.md
               - setup/huyHangLoat.md
+              - setup/setting-up-versioning.md
               # - "Điều chỉnh hoá đơn":
               #     - setup/dieuChinh.md
               # # - tutorials/social/basic.md
