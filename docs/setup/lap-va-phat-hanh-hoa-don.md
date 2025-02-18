@@ -40,7 +40,7 @@ Chọn ký hiệu hóa đơn quý khách đang muốn sử dụng
 
 [Hình 4]: ../assets/images/invoice2/2.0_lap-va-phat-hanh-hoa-don_4.png
 
-Phần giao diện lập hóa đơn sẽ có giao diện như sau
+Phần giao diện lập hóa đơn sẽ có giao diện như sau.
 
 [![Hình 5]][Hình 5]
 
