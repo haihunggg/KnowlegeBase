@@ -3,35 +3,32 @@
 <!-- Custom front matter -->
 {% block extrahead %}
 
-  <!-- Extra style sheets (can't be set in mkdocs.yml due to content hash) -->
-  <link
-    rel="stylesheet"
-    href="{{ 'assets/stylesheets/custom.css' | url }}"
-  />
+<!-- Extra style sheets (can't be set in mkdocs.yml due to content hash) -->
+<link rel="stylesheet" href="{{ 'assets/stylesheets/custom.css' | url }}" />
 {% endblock %}
 
 <!-- Announcement bar -->
-{% block announce %}
-  Theo dõi tôi <strong>@NamPham</strong> on
-  <a rel="me" href="https://minvoice.vn/">
-    <span class="twemoji mastodon">
-      {% include ".icons/fontawesome/brands/mastodon.svg" %}
-    </span>
-    <strong>Facebook</strong>
-  </a>
-  and
-  <a href="https://minvoice.vn/">
-    <span class="twemoji twitter">
-      {% include ".icons/fontawesome/brands/twitter.svg" %}
-    </span>
-    <strong>Youtube</strong>
-  </a>
+{% block announce %} Theo dõi tôi <strong>@NamPham</strong> on
+<a rel="me" href="https://www.facebook.com/hoadondientu.m.invoice">
+  <span class="twemoji mastodon">
+    {% include ".icons/fontawesome/brands/mastodon.svg" %}
+  </span>
+  <strong>Facebook</strong>
+</a>
+and
+<a
+  href="https://www.youtube.com/watch?v=umLV8QLS9A4&list=PLpmokHjV2pDoVYFzvpovlXwnB7OVkbm8H"
+>
+  <span class="twemoji twitter">
+    {% include ".icons/fontawesome/brands/twitter.svg" %}
+  </span>
+  <strong>Youtube</strong>
+</a>
 {% endblock %}
 
 <!-- Theme-related JavaScript -->
-{% block scripts %}
-  {{ super() }}
+{% block scripts %} {{ super() }}
 
-  <!-- Extra JavaScript (can't be set in mkdocs.yml due to content hash) -->
-  <script src="{{ 'assets/javascripts/custom.js' | url }}"></script>
+<!-- Extra JavaScript (can't be set in mkdocs.yml due to content hash) -->
+<script src="{{ 'assets/javascripts/custom.js' | url }}"></script>
 {% endblock %}
