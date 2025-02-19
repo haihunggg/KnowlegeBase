@@ -15,13 +15,17 @@
 
 ## Để thực hiện điều chỉnh, bạn làm theo hướng dẫn sau đây
 
-![Hình 1](../../assets/images/invoice1/1.0_dieuChinh_1.png)
+[![Hình 1]][Hình 1]
+
+[Hình 1]: ../../assets/images/invoice1/1.0_dieuChinh_1.png
 
 Bạn chọn hóa đơn cần điều chỉnh >> Nghiệp vụ >> Lập hóa đơn điều chỉnh
 
 ## TH1 : Điều chỉnh khi sai tên công ty, địa chỉ người mua không bị sai phần tiền
 
-![Hình 2](../../assets/images/invoice1/1.0_dieuChinh_2.png)
+[![Hình 2]][Hình 2]
+
+[Hình 2]: ../../assets/images/invoice1/1.0_dieuChinh_2.png
 
 ### Bước 1: Điền lại thông tin đúng ở phần thông tin khách hàng
 
@@ -36,7 +40,9 @@ VD: Khi sai địa chỉ công ty
 
 ## TH2 : Điều chỉnh phần tên hàng hóa, đơn vị tính không ảnh hưởng đến phần tiền thanh toán
 
-![Hình 3](../../assets/images/invoice1/1.0_dieuChinh_3.png)
+[![Hình 3]][Hình 3]
+
+[Hình 3]: ../../assets/images/invoice1/1.0_dieuChinh_3.png
 
 ### Bước 1: Điền lại thông tin đúng ở phần thông tin khách hàng
 
@@ -89,15 +95,21 @@ nhưng nếu chi cục thuế hay khách hàng yêu cầu lập, thì sau đây 
 
 ### Bước 1: Chọn vào phần hóa đơn NĐ123 >> Quản lý Thông báo 04/SS-HDDT
 
-![Hình 4](../../assets/images/invoice1/1.0_dieuChinh_4.png)
+[![Hình 4]][Hình 4]
+
+[Hình 4]: ../../assets/images/invoice1/1.0_dieuChinh_4.png
 
 ### Bước 2: Nhấn vào chọn hóa đơn
 
-![Hình 5](../../assets/images/invoice1/1.0_dieuChinh_5.png)
+[![Hình 5]][Hình 5]
+
+[Hình 5]: ../../assets/images/invoice1/1.0_dieuChinh_5.png
 
 ### Bước 3: Chọn hóa đơn Bị điều chỉnh
 
-![Hình 6](../../assets/images/invoice1/1.0_dieuChinh_6.png)
+[![Hình 6]][Hình 6]
+
+[Hình 6]: ../../assets/images/invoice1/1.0_dieuChinh_6.png
 
     1, Chọn ký hiệu cần tìm kiếm
     2. Nhấn tìm kiếm
@@ -106,7 +118,9 @@ nhưng nếu chi cục thuế hay khách hàng yêu cầu lập, thì sau đây 
 
 ### Bước 4: Chọn tính chất thông báo và điền lý do
 
-![Hình 7](../../assets/images/invoice1/1.0_dieuChinh_7.png)
+[![Hình 7]][Hình 7]
+
+[Hình 7]: ../../assets/images/invoice1/1.0_dieuChinh_7.png
 
 ở mục tính chất thông báo chọn : Điều chỉnh
 ở mục lý do : Bạn ghi rõ lý là điều chỉnh cái gì
@@ -114,7 +128,9 @@ Sau khi điền xong bạn nhấn Lưu tạm (F10)
 
 ### Bước 5: Ký gửi 04ss
 
-![Hình 8](../../assets/images/invoice1/1.0_dieuChinh_8.png)
+[![Hình 8]][Hình 8]
+
+[Hình 8]: ../../assets/images/invoice1/1.0_dieuChinh_8.png
 
 Chọn tờ 04ss vừa lập và nhấn Ký gửi 04ss-HDDT
 

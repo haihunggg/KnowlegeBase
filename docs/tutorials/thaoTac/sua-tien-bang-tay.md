@@ -13,19 +13,27 @@ Chắc hẳn các bạn đã gặp những trường hợp khi lập hóa đơn,
 
 ### Bước 1: Chọn hóa đơn cần sửa, nhấn vào chi tiết hóa đơn hay nút sửa (F3)
 
-![Hình 1](../../assets/images/invoice1/1.0_suaTienBangTay_1.png)
+[![Hình 1]][Hình 1]
+
+[Hình 1]: ../../assets/images/invoice1/1.0_suaTienBangTay_1.png
 
 ### Bước 2: Nhân tích chọn vào 2 ô, "Sửa giá trị tiền thuế, tổng tiền" và "Tính thuế suất theo tổng chi tiết từng mặt hàng"
 
-![Hình 2](../../assets/images/invoice1/1.0_suaTienBangTay_2.png)
+[![Hình 2]][Hình 2]
+
+[Hình 2]: ../../assets/images/invoice1/1.0_suaTienBangTay_2.png
 
 ### Bước 3 : Nhập phần tiền thuế bạn mong muốn sau đó ấn phím TAB và nhập phần tổng tiền sau thuế
 
-![Hình 3](../../assets/images/invoice1/1.0_suaTienBangTay_3.png)
+[![Hình 3]][Hình 3]
+
+[Hình 3]: ../../assets/images/invoice1/1.0_suaTienBangTay_3.png
 
 ### Bước 4: Kiểm tra xem phần tiền đã đúng hay chưa sau đó nhấn lưu
 
-![Hình 4](../../assets/images/invoice1/1.0_suaTienBangTay_4.png)
+[![Hình 4]][Hình 4]
+
+[Hình 4]: ../../assets/images/invoice1/1.0_suaTienBangTay_4.png
 
 !!! info "Xin chân thành cảm ơn Quý khách hàng đã tin dùng sản phẩm của M-Invoice"
 
