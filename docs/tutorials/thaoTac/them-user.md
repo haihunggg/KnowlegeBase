@@ -2,11 +2,15 @@
 
 ### Bước 1: K/H vào phân hệ Hệ Thống (1) . Chọn quản trị người dùng (2), chọn người sử dụng (3)
 
-![Hình 1](../../assets/images/invoice1/1.0_addUser_1.png)
+[![Hình 1]][Hình 1]
+
+[Hình 1]: ../../assets/images/invoice1/1.0_addUser_1.png
 
 ### Bước 2: Sau khi vào giao diện Người sử dụng, K/H ấn Thêm (F4) (4).
 
-![Hình 2](../../assets/images/invoice1/1.0_addUser_2.png)
+[![Hình 2]][Hình 2]
+
+[Hình 2]: ../../assets/images/invoice1/1.0_addUser_2.png
 
 ### Bước 3 : Sau đó K/H nhập từng thông tin người sử dụng đó để thêm. Lưu ý những trường đánh dấu (\*) K/H bắt buộc phải nhập.
 
@@ -14,11 +18,15 @@
 
 ### Bước 5: K/H chọn vào (1) người sử dụng cần phân quyền, sau đó ấn (2) Phân quyền
 
-![Hình 3](../../assets/images/invoice1/1.0_addUser_3.png)
+[![Hình 3]][Hình 3]
+
+[Hình 3]: ../../assets/images/invoice1/1.0_addUser_3.png
 
 ### Bước 6: Sau khi phân quyền xong K/H ấn nhận(F10) (5)
 
-![Hình 4](../../assets/images/invoice1/1.0_addUser_4.png)
+[![Hình 4]][Hình 4]
+
+[Hình 4]: ../../assets/images/invoice1/1.0_addUser_4.png
 
 !!! info "Xin chân thành cảm ơn Quý khách hàng đã tin dùng sản phẩm của M-Invoice"
 

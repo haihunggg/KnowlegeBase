@@ -13,15 +13,21 @@
 
 ### Bước 1: NSD click vào chức năng chọn Tạo hóa đơn từ file excel
 
-![Hình 1](../../assets/images/invoice1/1.0_excelHangLoat_1.png)
+[![Hình 1]][Hình 1]
+
+[Hình 1]: ../../assets/images/invoice1/1.0_excelHangLoat_1.png
 
 ### Bước 2: NSD Tải file mẫu excel để nhập thông tin
 
-![Hình 2](../../assets/images/invoice1/1.0_excelHangLoat_2.png)
+[![Hình 2]][Hình 2]
+
+[Hình 2]: ../../assets/images/invoice1/1.0_excelHangLoat_2.png
 
 ### Bước 3 : NSD Điền đầy đủ thông tin khách hàng tại excel
 
-![Hình 3](../../assets/images/invoice1/1.0_excelHangLoat_3.png)
+[![Hình 3]][Hình 3]
+
+[Hình 3]: ../../assets/images/invoice1/1.0_excelHangLoat_3.png
 
 !!! warning "Lưu ý"
 
@@ -34,7 +40,9 @@
 
 ### Bước 4: Điền đầy đủ thông tin tại chi tiết
 
-![Hình 4](../../assets/images/invoice1/1.0_excelHangLoat_4.png)
+[![Hình 4]][Hình 4]
+
+[Hình 4]: ../../assets/images/invoice1/1.0_excelHangLoat_4.png
 
 ???+ Warning "Lưu ý"
 
