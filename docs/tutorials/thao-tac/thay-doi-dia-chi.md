@@ -42,7 +42,7 @@ Mục nào sai thì mình sửa lại, sau khi kiểm tra xong, bấm vào ghi �
 
 [![Hình 5]][Hình 5]
 
-[Hình 5]: ../../assets/images/invoice1/1.0_diaChi_1.png
+[Hình 5]: ../../assets/images/invoice1/1.0_diaChi_5.png
 
 Anh chị chọn tờ khai chờ ký vừa mới tạo và click chọn >> Ký gửi CQT
 

@@ -119,7 +119,7 @@ markdown_extensions:
   - pymdownx.superfences
   - abbr
   - admonition
-  - attr_list 
+  - attr_list
   - def_list
   - footnotes
   - md_in_html
@@ -289,22 +289,22 @@ nav:
       # - License: license.md
       - Hướng dẫn:
           - "Các thao tác thường gặp khi sử dụng phần mềm":
-              - Sửa tiền bằng tay: tutorials/thaoTac/sua-tien-bang-tay.md
-              - Tạo hóa đơn bằng file excel: tutorials/thaoTac/nhap-excel-hang-loat.md
-              - Nhập file excel chi tiết: tutorials/thaoTac/nhap-excel-chi-tiet.md
-              - Thêm mới chữ ký số: tutorials/thaoTac/them-CKS.md
-              - Xem in hàng loạt: tutorials/thaoTac/in-hang-loat.md
-              - Thêm mới tài khoản: tutorials/thaoTac/them-user.md
-              - Lấy lại mật khẩu: tutorials/thaoTac/lay-mat-khau.md
-              - Thay đổi địa chỉ: tutorials/thaoTac/thay-doi-dia-chi.md
+              - Sửa tiền bằng tay: tutorials/thao-tac/sua-tien-bang-tay.md
+              - Tạo hóa đơn bằng file excel: tutorials/thao-tac/nhap-excel-hang-loat.md
+              - Nhập file excel chi tiết: tutorials/thao-tac/nhap-excel-chi-tiet.md
+              - Thêm mới chữ ký số: tutorials/thao-tac/them-CKS.md
+              - Xem in hàng loạt: tutorials/thao-tac/in-hang-loat.md
+              - Thêm mới tài khoản: tutorials/thao-tac/them-user.md
+              - Lấy lại mật khẩu: tutorials/thao-tac/lay-mat-khau.md
+              - Thay đổi địa chỉ: tutorials/thao-tac/thay-doi-dia-chi.md
           - "Nghiệp vụ hoá đơn điện tử":
-              - Giải trình hóa đơn: tutorials/nghiepVu/lap-04ss.md
-              - Điều chỉnh hóa đơn: tutorials/nghiepVu/dieu-chinh.md
-              - Thay thế hóa đơn: tutorials/nghiepVu/thay-the.md
-              - Hủy hóa đơn: tutorials/nghiepVu/huy.md
+              - Giải trình hóa đơn: tutorials/nghiep-vu/lap-04ss.md
+              - Điều chỉnh hóa đơn: tutorials/nghiep-vu/dieu-chinh.md
+              - Thay thế hóa đơn: tutorials/nghiep-vu/thay-the.md
+              - Hủy hóa đơn: tutorials/nghiep-vu/huy.md
           - "Danh mục và báo cáo":
-              - Báo cáo chi tiết: tutorials/thaoTac/bao-cao-chi-tiet.md
-              - Báo cáo bảng kê bán ra PL01: tutorials/thaoTac/bao-cao-pl01.md
+              - Báo cáo chi tiết: tutorials/thao-tac/bao-cao-chi-tiet.md
+              - Báo cáo bảng kê bán ra PL01: tutorials/thao-tac/bao-cao-pl01.md
   - M-invoice 2.0:
       - Hướng dẫn:
           - "Các thao tác thường gặp khi sử dụng phần mềm":

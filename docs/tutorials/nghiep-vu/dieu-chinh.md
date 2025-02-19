@@ -89,9 +89,10 @@ Thuế suất : 8%
 
 Tương tự trường hợp 3
 
-!!! warning "Lưu ý"  
- Hóa đơn điều chỉnh không cần thiết phải lập mẫu 04/ss-HDDT,
-nhưng nếu chi cục thuế hay khách hàng yêu cầu lập, thì sau đây là cách lập
+!!! warning "Lưu ý"
+
+    Hóa đơn điều chỉnh không cần thiết phải lập mẫu 04/ss-HDDT,
+    nhưng nếu chi cục thuế hay khách hàng yêu cầu lập, thì sau đây là cách lập
 
 ### Bước 1: Chọn vào phần hóa đơn NĐ123 >> Quản lý Thông báo 04/SS-HDDT
 
