@@ -8,15 +8,21 @@
 
 ### Bước 1: Truy cập vào phần Hóa đơn HĐ123 >> Báo cáo >> Báo cáo chi tiết hóa đơn
 
-![Hình 1](../../assets/images/invoice1/1.0_baoCaoChiTiet_1.png)
+[![Hình 1]][Hình 1]
+
+[Hình 1]: ../../assets/images/invoice1/1.0_baoCaoChiTiet_1.png
 
 ### Bước 2: Chọn các điều kiện để lọc báo cáo
 
-![Hình 2](../../assets/images/invoice1/1.0_baoCaoChiTiet_2.png)
+[![Hình 2]][Hình 2]
+
+[Hình 2]: ../../assets/images/invoice1/1.0_baoCaoChiTiet_2.png
 
 ### Bước 3 : Kết xuất báo cáo
 
-![Hình 3](../../assets/images/invoice1/1.0_baoCaoChiTiet_3.png)
+[![Hình 3]][Hình 3]
+
+[Hình 3]: ../../assets/images/invoice1/1.0_baoCaoChiTiet_3.png
 
 ???+ Warning "Lưu ý"
 

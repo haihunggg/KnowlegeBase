@@ -14,24 +14,34 @@ Tính năng này được sử dụng khi 1 hóa đơn có nhiều dòng hàng, 
 
 ### Bước 1: Tạo 1 hóa đơn chờ ký nhập đầy đủ thông tin của người mua, và 1 dòng hàng bất kỳ
 
-![Hình 1](../../assets/images/invoice1/1.0_excelChiTiet_1.png)
+[![Hình 1]][Hình 1]
+
+[Hình 1]: ../../assets/images/invoice1/1.0_excelChiTiet_1.png
 
 ### Bước 2: Chọn hóa đơn vừa tạo >> Chức năng >> Nhận excel chi tiết hóa đơn
 
-![Hình 2](../../assets/images/invoice1/1.0_excelChiTiet_3.png)
+[![Hình 2]][Hình 2]
+
+[Hình 2]: ../../assets/images/invoice1/1.0_excelChiTiet_2.png
 
 ### Bước 3 : Tải file mẫu hóa đơn về máy, sau đó nhận đầy đủ thông tin vào file excel sau đó lưu lại
 
-![Hình 3](../../assets/images/invoice1/1.0_excelChiTiet_2.png)
+[![Hình 3]][Hình 3]
 
-![Hình 4](../../assets/images/invoice1/1.0_excelChiTiet_4.png)
+[Hình 3]: ../../assets/images/invoice1/1.0_excelChiTiet_3.png
+
+[![Hình 4]][Hình 4]
+
+[Hình 4]: ../../assets/images/invoice1/1.0_excelChiTiet_4.png
 
 Các bạn chỉ cần kiểm tra lại thông tin, sau đó điền vào phần lý do
 Khi nhập lý do xong hãy nhấn phím tab để pm lưu lại được mục lý do, sau đó nhấn Ghi(F10)
 
 ### Bước 4 : Lưu lại file excel sau đó tải ngược lại trên phân mềm
 
-![Hình 5](../../assets/images/invoice1/1.0_excelChiTiet_5.png)
+[![Hình 5]][Hình 5]
+
+[Hình 5]: ../../assets/images/invoice1/1.0_excelChiTiet_5.png
 
 ### Bước 5 : Tải lại phần mềm, như thế bạn đã tạo thành công file excel lên phần mềm
 
