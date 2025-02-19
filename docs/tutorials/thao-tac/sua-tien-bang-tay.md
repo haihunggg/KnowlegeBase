@@ -15,7 +15,7 @@ Chắc hẳn các bạn đã gặp những trường hợp khi lập hóa đơn,
 
 [![Hình 1]][Hình 1]
 
-[Hình 1]: ../../assets/images/invoice1/1.0_suaTienBangTay_1.png
+[Hình 1]: ../../assets/images/invoice1/1.0_suaTienBangTay_0.png
 
 ### Bước 2: Nhân tích chọn vào 2 ô, "Sửa giá trị tiền thuế, tổng tiền" và "Tính thuế suất theo tổng chi tiết từng mặt hàng"
 
