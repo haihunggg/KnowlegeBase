@@ -1,0 +1,29 @@
+name: Deploy MkDocs to GitHub Pages
+
+on:
+  push:
+    branches:
+      - nhatth # Thay "main" bằng branch chứa MkDocs của bạn nếu khác
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.x"
+
+      - name: Install MkDocs and dependencies
+        run: |
+          pip install mkdocs mkdocs-material mkdocs-minify-plugin mkdocs-glightbox
+
+      - name: Verify installed plugins
+        run: pip list # Kiểm tra xem plugin đã được cài đặt chưa
+
+      - name: Build and deploy MkDocs
+        run: mkdocs gh-deploy --force
