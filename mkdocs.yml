@@ -372,7 +372,18 @@ nav:
       #     - Python Markdown Extensions: setup/extensions/python-markdown-extensions.md
   - mSMI:
       - Hướng dẫn:
-          - setup/them-cks-moi.md
+          - "Các lỗi thường gặp khi sử dụng phần mềm":
+              - Tài khoản HDDT mất kết nối: tutorials/mSMI/dang-nhap-lai.md
+              - Lấy lại mật khẩu trang Hoadondientu: tutorials/mSMI/lay-mat-khau-hddt.md
+          - "Thao tác cơ bản":
+              - Tra cứu hóa đơn: tutorials/mSMI/tra-cuu-va-tai-hoa-don.md
+              - Đồng bộ hóa đơn mua vào bán ra: tutorials/mSMI/dong-bo-hoa-don.md
+              - Kiểm tra tình trạng Mã số thuế : tutorials/mSMI/kiem-tra-mst.md
+              - Đồng bộ thông báo sai sót 04/SS : tutorials/mSMI/dong-bo-04ss.md
+          - "Danh mục và báo cáo":
+              - Bảng kê bán ra - mua vào: tutorials/mSMI/bang-ke.md
+              - Báo cáo nhận vào PMKT: tutorials/mSMI/bao-cao-pmkt.md
+              - Tờ khai thuế 01GTGT: tutorials/mSMI/to-khai-thue01.md
           # - "Các thao tác thường gặp khi sử dụng phần mềm":
           #     - setup/plugin.md
           #     - setup/them-cks-moi.md
