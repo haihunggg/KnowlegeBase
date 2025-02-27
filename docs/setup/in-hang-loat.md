@@ -18,6 +18,10 @@ Trong quá trình phát hành hóa đơn người dùng sẽ có nhu cầu in ho
 
     ### Bước 2: Tích chọn hoá đơn muốn tải hoặc chọn tất cả
 
+    [![Hình 15]][Hình 15]
+
+    [Hình 15]: ../assets/images/invoice2/2.0_in-hang-loat_7.png
+
     [![Hình 2]][Hình 2]
 
     [Hình 2]: ../assets/images/invoice2/2.0_in-hang-loat_2.png
@@ -50,6 +54,10 @@ Trong quá trình phát hành hóa đơn người dùng sẽ có nhu cầu in ho
 
     ### Bước 2: Tích chọn hoá đơn muỗn tải hoặc chọn tất cả
 
+    [![Hình 16]][Hình 16]
+
+    [Hình 16]: ../assets/images/invoice2/2.0_in-hang-loat_7.png
+
     [![Hình 6]][Hình 6]
 
     [Hình 6]: ../assets/images/invoice2/2.0_in-hang-loat_2.png
@@ -78,6 +86,10 @@ Trong quá trình phát hành hóa đơn người dùng sẽ có nhu cầu in ho
     [Hình 10]: ../assets/images/invoice2/2.0_in-hang-loat_1.png
 
     ### Bước 2: Tích chọn hoá đơn muỗn tải hoặc chọn tất cả
+
+    [![Hình 17]][Hình 17]
+
+    [Hình 17]: ../assets/images/invoice2/2.0_in-hang-loat_7.png
 
     [![Hình 11]][Hình 11]
 
