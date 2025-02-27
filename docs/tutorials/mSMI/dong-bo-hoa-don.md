@@ -31,7 +31,7 @@ Chọn đòng bộ hóa đơn ngay
 Anh chị chọn vào khoảng thời gian cần đồng bộ tối đa 1 tháng tích chọn hóa đơn mua vào hoặc bán ra.
 Chọn Đồng bộ ngay để có thể đồng bộ.
 
-Anh chị cũng có thể chủ động theo dõi lịch sử đồng bọ bằng cách vào lịch sử đồng bộ ở dưới đây :
+Anh chị cũng có thể chủ động theo dõi lịch sử đồng bọ bằng cách vào lịch sử đồng bộ ở dưới đây:
 
 [![Hình 4]][Hình 4]
 
