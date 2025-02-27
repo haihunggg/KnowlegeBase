@@ -3,16 +3,18 @@
 ## **Hướng dẫn tra cứu và lưu trữ hóa đơn mua vào - bán ra**
 
 ???+ Warning "Lưu ý"
+
     Để tra cứu được, tài khoản anh chị phải đang có kết nối với Cơ quan thuế
 
-### Bước 1: Click chọn Quản lý hóa đơn : 
+### Bước 1: Click chọn Quản lý hóa đơn :
+
 [![Hình 1]][Hình 1]
 
 [Hình 1]: ../../assets/images/mSMI/mSMI_traCuu_1.png
 
 Chọn mục Bán ra hoặc Mua vào tùy thuộc nhu cầu đang cần sử dụng
 
-### Bước 2: Anh chị điền vào các điều kiện mình muốn tra cứu, sau đó bấm nút tìm kiếm 
+### Bước 2: Anh chị điền vào các điều kiện mình muốn tra cứu, sau đó bấm nút tìm kiếm
 
 [![Hình 2]][Hình 2]
 
@@ -23,7 +25,6 @@ Chọn mục Bán ra hoặc Mua vào tùy thuộc nhu cầu đang cần sử d�
 [![Hình 3]][Hình 3]
 
 [Hình 3]: ../../assets/images/mSMI/mSMI_traCuu_3.png
-
 
 !!! info "Xin chân thành cảm ơn Quý khách hàng đã tin dùng sản phẩm của M-Invoice"
 
