@@ -18,7 +18,7 @@ Tích thêm vào nhớ tài khoản để có thể kích hoạt tự động đ
 
 ???+ Warning "Lưu ý"
 
-    Nếu đã điền lại mật khẩu nhưng không đăng nhập lại được, anh chị có thể lấy lại mật khẩu tại trang https://hoadondientu.gdt.gov.vn theo [Hướng dẫn](lay-mat-khau-hddt.md)
+    Nếu đã điền lại mật khẩu nhưng không đăng nhập lại được, anh chị có thể lấy lại mật khẩu tại trang [Hoadondientu](https://hoadondientu.gdt.gov.vn){:target="_blank"} theo [Hướng dẫn](lay-mat-khau-hddt.md)
 
 !!! info "Xin chân thành cảm ơn Quý khách hàng đã tin dùng sản phẩm của M-Invoice"
 

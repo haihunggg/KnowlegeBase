@@ -378,8 +378,8 @@ nav:
           - "Thao tác cơ bản":
               - Tra cứu hóa đơn: tutorials/mSMI/tra-cuu-va-tai-hoa-don.md
               - Đồng bộ hóa đơn mua vào bán ra: tutorials/mSMI/dong-bo-hoa-don.md
-              - Kiểm tra tình trạng Mã số thuế : tutorials/mSMI/kiem-tra-mst.md
-              - Đồng bộ thông báo sai sót 04/SS : tutorials/mSMI/dong-bo-04ss.md
+              - Kiểm tra tình trạng Mã số thuế: tutorials/mSMI/kiem-tra-mst.md
+              - Đồng bộ thông báo sai sót 04/SS: tutorials/mSMI/dong-bo-04ss.md
           - "Danh mục và báo cáo":
               - Bảng kê bán ra - mua vào: tutorials/mSMI/bang-ke.md
               - Báo cáo nhận vào PMKT: tutorials/mSMI/bao-cao-pmkt.md
@@ -426,7 +426,13 @@ nav:
           #     - setup/phan-quyen.md
   - mBHXH:
       - Hướng dẫn:
-          - setup/phan-quyen.md
+          - tutorials/mBHXH/dang-ky-tai-khoan.md
+          - tutorials/mBHXH/ho-so-bao-tang.md
+          - tutorials/mBHXH/ho-so-bao-giam.md
+          - tutorials/mBHXH/dieu-chinh-muc-dong.md
+          - tutorials/mBHXH/che-do-om-dau.md
+          - tutorials/mBHXH/che-do-thai-san.md
+          - tutorials/mBHXH/che-do-duong-suc.md
           # - "Các thao tác thường gặp khi sử dụng phần mềm":
           #     - setup/plugin.md
           #     - setup/them-cks-moi.md

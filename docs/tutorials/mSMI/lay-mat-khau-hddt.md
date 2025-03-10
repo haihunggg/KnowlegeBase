@@ -3,22 +3,22 @@
 ## **Hướng dẫn lấy lại mật khẩu trang Hoadondientu bằng chữ ký số**
 
 ???+ Warning "Lưu ý"
-    Để lấy lại được mật khẩu, bắt buộc phải cắm chữ ký số và chữ ký số đã được cài đặt.
+Để lấy lại được mật khẩu, bắt buộc phải cắm chữ ký số và chữ ký số đã được cài đặt.
 
-### Bước 1: Kiểm tra máy tính đã có plugin của Hoadondientu hay chưa như hình dưới : 
+### Bước 1: Kiểm tra máy tính đã có plugin của Hoadondientu hay chưa như hình dưới :
+
 [![Hình 1]][Hình 1]
 
 [Hình 1]: ../../assets/images/mSMI/mSMI_hddt_1.png
 
-Nếu chưa có biểu tượng như hình anh chị truy cập vào trang web bằng đường link : https://hoadondientu.gdt.gov.vn
- và tải file cài đặt ở đây : 
+Nếu chưa có biểu tượng như hình anh chị truy cập vào trang web bằng đường link : [Hoadondientu](https://hoadondientu.gdt.gov.vn){:target="\_blank"} và tải file cài đặt ở đây :
 
 [![Hình 2]][Hình 2]
 
 [Hình 2]: ../../assets/images/mSMI/mSMI_hddt_2.png
 
-Sau khi tải về và giải nén file cài đặt, anh chị sẽ có 1 file hướng dẫn và 1 file cài đặt. 
-Anh chỉ mở file và tiến hành cài đặt như hướng dẫn. 
+Sau khi tải về và giải nén file cài đặt, anh chị sẽ có 1 file hướng dẫn và 1 file cài đặt.
+Anh chỉ mở file và tiến hành cài đặt như hướng dẫn.
 
 [![Hình 3]][Hình 3]
 
@@ -45,7 +45,6 @@ Sau khi bấm quên mật khẩu, anh chị điền thông tin vào 2 trường 
 [Hình 6]: ../../assets/images/mSMI/mSMI_hddt_6.png
 
 Ký thành công, trang web sẽ thông báo mật khẩu mới đã được gửi về mail của anh chị.
-
 
 !!! info "Xin chân thành cảm ơn Quý khách hàng đã tin dùng sản phẩm của M-Invoice"
 
