@@ -30,23 +30,17 @@ Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm 
 
     ### Bước 1: Chọn hóa đơn cần điều chỉnh --> Xử lý sai sót --> Điều chỉnh
 
-    [![Hình 1]][Hình 1]
-
-    [Hình 1]: ../assets/images/invoice2/2.0_dieu-chinh-thue-suat_1.png
+    ![Hình 1](../assets/images/invoice2/2.0_dieu-chinh-thue-suat_1.png)
 
     ### Bước 2: Ghi âm hoàn toàn dòng sai thuế suất và ghi lại đúng dòng đó và chọn đúng thuế suất đúng
 
-    [![Hình 2]][Hình 2]
-
-    [Hình 2]: ../assets/images/invoice2/2.0_dieu-chinh-thue-suat_2.png
+    ![Hình 2](../assets/images/invoice2/2.0_dieu-chinh-thue-suat_2.png)
 
 === "Điều chỉnh sai tên hàng, đơn vị tính"
 
     ### Bước 1: Chọn hóa đơn cần điều chỉnh --> Xử lý sai sót --> Điều chỉnh
 
-    [![Hình 3]][Hình 3]
-
-    [Hình 3]: ../assets/images/invoice2/2.0_dieu-chinh-thue-suat_1.png
+    ![Hình 3](../assets/images/invoice2/2.0_dieu-chinh-thue-suat_1.png)
 
     ### Bước 2: Điền nội dung phần tên hàng hóa bị sai và sửa lại tên đúng
     Tên hàng : Điền nội dung phần tên hàng hóa bị sai và sửa lại tên đúng
@@ -55,9 +49,7 @@ Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm 
     Tính chất : Ghi chú diễn giải
     VD : Điều chỉnh tên hàng hóa dịch vụ
 
-    [![Hình 4]][Hình 4]
-
-    [Hình 4]: ../assets/images/invoice2/2.0_dieu-chinh-hang-hoa_2.png
+    ![Hình 4](../assets/images/invoice2/2.0_dieu-chinh-hang-hoa_2.png)
 
 Sau khi điều chỉnh nội dung hóa đơn thành 1 hóa đơn đúng. Người sử dụng có thể Ký và gửi hóa đơn đã được lập điều chỉnh như một hóa đơn thông thường.
 
@@ -65,6 +57,4 @@ Sau khi điều chỉnh nội dung hóa đơn thành 1 hóa đơn đúng. Ngư�
 
     Có bất kỳ vướng mắc nào trong quá trình sử dụng hãy liên hệ với M-Invoice tại mục Hỗ trợ kỹ thuật góc phải bên dưới màn hình hoặc gọi tổng đài kỹ thuật của M-Invoice (1900.955.557 Nhánh 1)
 
-[![Hình 5]][Hình 5]
-
-[Hình 5]: ../assets/images/invoice2/hotro.png
+![Hình 5](../assets/images/invoice2/hotro.png)

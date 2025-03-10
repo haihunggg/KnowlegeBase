@@ -24,27 +24,19 @@ Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm 
 
 ### Bước 1: Chọn hóa đơn cần thay thế
 
-[![Hình 1]][Hình 1]
-
-[Hình 1]: ../assets/images/invoice2/2.0_thay-the-hoa-don_1.png
+![Hình 1](../assets/images/invoice2/2.0_thay-the-hoa-don_1.png)
 
 ### Bước 2: Chọn phần Xử lý sai sót --> Thay thế
 
-[![Hình 2]][Hình 2]
-
-[Hình 2]: ../assets/images/invoice2/2.0_thay-the-hoa-don_2.png
+![Hình 2](../assets/images/invoice2/2.0_thay-the-hoa-don_2.png)
 
 ### Bước 3 : Điền lại nội dung thông tin hóa đơn
 
-[![Hình 3]][Hình 3]
-
-[Hình 3]: ../assets/images/invoice2/2.0_thay-the-hoa-don_3.png
+![Hình 3](../assets/images/invoice2/2.0_thay-the-hoa-don_3.png)
 
 Bạn có thể chọn lại dòng hàng hoá cũ ở hoá đơn trước đó
 
-[![Hình 4]][Hình 4]
-
-[Hình 4]: ../assets/images/invoice2/2.0_thay-the-hoa-don_4.png
+![Hình 4](../assets/images/invoice2/2.0_thay-the-hoa-don_4.png)
 
 ### Bước 4 : Lưu nội dung hóa đơn và ký gửi
 
@@ -54,6 +46,4 @@ Sau khi Thay thế nội dung hóa đơn thành 1 hóa đơn đúng. Người s�
 
     Có bất kỳ vướng mắc nào trong quá trình sử dụng hãy liên hệ với M-Invoice tại mục Hỗ trợ kỹ thuật góc phải bên dưới màn hình hoặc gọi tổng đài kỹ thuật của M-Invoice (1900.955.557 Nhánh 1)
 
-[![Hình 5]][Hình 5]
-
-[Hình 5]: ../assets/images/invoice2/hotro.png
+![Hình 5](../assets/images/invoice2/hotro.png)

@@ -4,15 +4,11 @@
 
 ### Bước 1: Truy cập vào phần mềm mSMI, ngay ở giao diện anh chị bấm vào đăng nhập lại
 
-[![Hình 1]][Hình 1]
-
-[Hình 1]: ../../assets/images/mSMI/mmsi_dangNhapLai_1.png
+![Hình 1](../../assets/images/mSMI/mmsi_dangNhapLai_1.png)
 
 ### Bước 2: Điền lại thông tin mật khẩu chính xác vào phần mềm
 
-[![Hình 2]][Hình 2]
-
-[Hình 2]: ../../assets/images/mSMI/mmsi_dangNhapLai_2.png
+![Hình 2](../../assets/images/mSMI/mmsi_dangNhapLai_2.png)
 
 Tích thêm vào nhớ tài khoản để có thể kích hoạt tự động đồng bộ
 

@@ -17,23 +17,17 @@ Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm 
 
 ### Bước 1: Tại màn hình danh sách hóa đơn, chọn hóa đơn Chờ ký muốn xóa
 
-[![Hình 1]][Hình 1]
-
-[Hình 1]: ../assets/images/invoice2/2.0_xoa-hoa-don_1.png
+![Hình 1](../assets/images/invoice2/2.0_xoa-hoa-don_1.png)
 
 <p align = "center">Đối với hình thức Sinh số sau, NSD sẽ không xóa được các hóa đơn ở giữa như hình vẽ.</p>
 
-[![Hình 2]][Hình 2]
-
-[Hình 2]: ../assets/images/invoice2/2.0_xoa-hoa-don_2.png
+![Hình 2](../assets/images/invoice2/2.0_xoa-hoa-don_2.png)
 
 <p align = "center">Thường hợp muốn xoá nhiều</p>
 
 ### Bước 2: Click button "Xóa (F8)" hoặc nhấn phím chức năng F8.
 
-[![Hình 3]][Hình 3]
-
-[Hình 3]: ../assets/images/invoice2/2.0_xoa-hoa-don_3.png
+![Hình 3](../assets/images/invoice2/2.0_xoa-hoa-don_3.png)
 
 ### Bước 3: Click "Xóa" để xác nhận xóa hóa đơn.
 
@@ -43,6 +37,4 @@ Trên đây là hướng dẫn để Người sử dụng có thể xóa hóa đ
 
     Có bất kỳ vướng mắc nào trong quá trình sử dụng hãy liên hệ với M-Invoice tại mục Hỗ trợ kỹ thuật góc phải bên dưới màn hình hoặc gọi tổng đài kỹ thuật của M-Invoice (1900.955.557 Nhánh 1)
 
-[![Hình 4]][Hình 4]
-
-[Hình 4]: ../assets/images/invoice2/hotro.png
+![Hình 4](../assets/images/invoice2/hotro.png)

@@ -2,22 +2,15 @@
 
 ## **Hướng dẫn đồng bộ thông báo sai sót 04/SS**
 
+### Bước 1: Click chọn Quản lý hóa đơn >> Thông báo 04/SS :
 
+![Hình 1](../../assets/images/mSMI/msmi_dongBo04ss_1.png)
 
-### Bước 1: Click chọn Quản lý hóa đơn >> Thông báo 04/SS : 
-[![Hình 1]][Hình 1]
+### Bước 2: Anh chị điền vào các điều kiện mình muốn đồng bộ, sau đó bấm nút đồng bộ thủ công
 
-[Hình 1]: ../../assets/images/mSMI/msmi_dongBo04ss_1.png
-
-
-### Bước 2: Anh chị điền vào các điều kiện mình muốn đồng bộ, sau đó bấm nút đồng bộ thủ công 
-
-[![Hình 2]][Hình 2]
-
-[Hình 2]: ../../assets/images/mSMI/msmi_dongBo04ss_2.png
+![Hình 2](../../assets/images/mSMI/msmi_dongBo04ss_2.png)
 
 Như vậy là mình đã thành công đồng bộ các thông báo sai sót 04/SS của đơn vị.
-
 
 !!! info "Xin chân thành cảm ơn Quý khách hàng đã tin dùng sản phẩm của M-Invoice"
 

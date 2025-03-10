@@ -25,29 +25,21 @@ Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm 
 
 ### Bước 1: Chọn hóa đơn sai sót cần hủy bỏ
 
-[![Hình 1]][Hình 1]
-
-[Hình 1]: ../assets/images/invoice2/2.0_huy-hoa-don_1.png
+![Hình 1](../assets/images/invoice2/2.0_huy-hoa-don_1.png)
 
 ### Bước 2: Vào phần: Xử lý sai sót --> Hủy hóa đơn
 
-[![Hình 2]][Hình 2]
-
-[Hình 2]: ../assets/images/invoice2/2.0_huy-hoa-don_2.png
+![Hình 2](../assets/images/invoice2/2.0_huy-hoa-don_2.png)
 
 ### Bước 3 : Khai báo thông tin sai sót hóa đơn (Mẫu 04/SS)
 
-[![Hình 3]][Hình 3]
-
-[Hình 3]: ../assets/images/invoice2/2.0_huy-hoa-don_3.png
+![Hình 3](../assets/images/invoice2/2.0_huy-hoa-don_3.png)
 
 Bạn điền vào phần **Lý do sai sót** sau đó nhấn Lưu để hoàn thiện mẫu 04ss
 
 ### Bước 4 : Gửi thông báo 04/SS lên thuế
 
-[![Hình 4]][Hình 4]
-
-[Hình 4]: ../assets/images/invoice2/2.0_huy-hoa-don_4.png
+![Hình 4](../assets/images/invoice2/2.0_huy-hoa-don_4.png)
 
 ???+ Note
 
@@ -57,17 +49,13 @@ Bạn điền vào phần **Lý do sai sót** sau đó nhấn Lưu để hoàn t
 
     + Bạn chọn Không tôi sẽ gửi sau thì sau đó bạn có thể vào phần Xử lý sai sót >> Thông báo hóa đơn sai sót 04/SS - HDĐT để ký gửi lại
 
-[![Hình 5]][Hình 5]
-
-[Hình 5]: ../assets/images/invoice2/2.0_huy-hoa-don_5.png
+![Hình 5](../assets/images/invoice2/2.0_huy-hoa-don_5.png)
 
 ### Bước 5 : Kiểm tra CQT đã chấp nhận 04/SS
 
 Bạn vào phần Xử lý sai sót >> Thông báo hóa đơn sai sót 04/SS - HDĐT
 
-[![Hình 6]][Hình 6]
-
-[Hình 6]: ../assets/images/invoice2/2.0_huy-hoa-don_6.png
+![Hình 6](../assets/images/invoice2/2.0_huy-hoa-don_6.png)
 
 Ở phần Phản hồi CQT nếu trạng thái CQT Tiếp nhận là CQT đã chấp thuận cho quý khách hàng hủy
 
@@ -75,6 +63,4 @@ Bạn vào phần Xử lý sai sót >> Thông báo hóa đơn sai sót 04/SS - H
 
     Có bất kỳ vướng mắc nào trong quá trình sử dụng hãy liên hệ với M-Invoice tại mục Hỗ trợ kỹ thuật góc phải bên dưới màn hình hoặc gọi tổng đài kỹ thuật của M-Invoice (1900.955.557 Nhánh 1)
 
-[![Hình 7]][Hình 7]
-
-[Hình 7]: ../assets/images/invoice2/hotro.png
+![Hình 7](../assets/images/invoice2/hotro.png)

@@ -23,25 +23,17 @@ Nghiệp vụ này cung cấp khả năng hủy hàng loạt hóa đơn đã ký
 
 ### Bước 1: Chọn vào phần Xử lý sai xót --> Thông báo HĐ sai xót 04/ss-HDDT
 
-[![Hình 1]][Hình 1]
-
-[Hình 1]: ../assets/images/invoice2/2.0_huy-hang-loat_1.png
+![Hình 1](../assets/images/invoice2/2.0_huy-hang-loat_1.png)
 
 ### Bước 2: Nhấn vào Thêm (F4)
 
-[![Hình 2]][Hình 2]
-
-[Hình 2]: ../assets/images/invoice2/2.0_huy-hang-loat_2.png
+![Hình 2](../assets/images/invoice2/2.0_huy-hang-loat_2.png)
 
 ### Bước 3 : Nhấn chọn hóa đơn
 
-[![Hình 3]][Hình 3]
+![Hình 3](../assets/images/invoice2/2.0_huy-hang-loat_3.png)
 
-[Hình 3]: ../assets/images/invoice2/2.0_huy-hang-loat_3.png
-
-[![Hình 4]][Hình 4]
-
-[Hình 4]: ../assets/images/invoice2/2.0_huy-hang-loat_4.png
+![Hình 4](../assets/images/invoice2/2.0_huy-hang-loat_4.png)
 
 1: Tìm từ ngày
 2: Tìm đến ngày
@@ -51,15 +43,11 @@ Nghiệp vụ này cung cấp khả năng hủy hàng loạt hóa đơn đã ký
 
 ### Bước 4 : Nhập thông tin vào phần lý do sai sót sau đó nhấn Lưu
 
-[![Hình 5]][Hình 5]
-
-[Hình 5]: ../assets/images/invoice2/2.0_huy-hang-loat_5.png
+![Hình 5](../assets/images/invoice2/2.0_huy-hang-loat_5.png)
 
 ### Bước 5 : Chọn 04ss chọn ký
 
-[![Hình 6]][Hình 6]
-
-[Hình 6]: ../assets/images/invoice2/2.0_huy-hang-loat_6.png
+![Hình 6](../assets/images/invoice2/2.0_huy-hang-loat_6.png)
 
 Ở phần Phản hồi CQT nếu trạng thái CQT Tiếp nhận là CQT đã chấp thuận cho quý khách hàng hủy
 
@@ -67,6 +55,4 @@ Nghiệp vụ này cung cấp khả năng hủy hàng loạt hóa đơn đã ký
 
     Có bất kỳ vướng mắc nào trong quá trình sử dụng hãy liên hệ với M-Invoice tại mục Hỗ trợ kỹ thuật góc phải bên dưới màn hình hoặc gọi tổng đài kỹ thuật của M-Invoice (1900.955.557 Nhánh 1)
 
-[![Hình 7]][Hình 7]
-
-[Hình 7]: ../assets/images/invoice2/hotro.png
+![Hình 7](../assets/images/invoice2/hotro.png)

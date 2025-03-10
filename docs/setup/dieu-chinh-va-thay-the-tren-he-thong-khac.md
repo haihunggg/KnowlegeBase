@@ -26,21 +26,15 @@ Trong quá trình phát hành hóa đơn không tránh khỏi những sai sót. 
 
     ### Bước 1: Ở giao diện trang chủ chọn phần Xử lý sai sót --> Thay thế hóa đơn trên hệ thống khác
 
-    [![Hình 1]][Hình 1]
-
-    [Hình 1]: ../assets/images/invoice2/2.0_thay-the-khac_1.png
+    ![Hình 1](../assets/images/invoice2/2.0_thay-the-khac_1.png)
 
     ### Bước 2: Chọn lập hóa đơn thay thế, sau đó chọn phần ký hiệu mà bạn muốn hóa đơn thay thế nằm trong đó
 
-    [![Hình 2]][Hình 2]
-
-    [Hình 2]: ../assets/images/invoice2/2.0_thay-the-khac_2.png
+    ![Hình 2](../assets/images/invoice2/2.0_thay-the-khac_2.png)
 
     ### Bước 3 : Lập hóa đơn thay thế
 
-    [![Hình 3]][Hình 3]
-
-    [Hình 3]: ../assets/images/invoice2/2.0_thay-the-khac_3.png
+    ![Hình 3](../assets/images/invoice2/2.0_thay-the-khac_3.png)
 
     Ở mục hóa đơn liên quan
 
@@ -85,21 +79,15 @@ Trong quá trình phát hành hóa đơn không tránh khỏi những sai sót. 
     **Hướng dẫn sử dụng bằng hình ảnh nếu Quý khách không xem được video**
     ### Bước 1: Ở giao diện trang chủ chọn phần Xử lý sai sót --> Điều chỉnh hóa đơn trên hệ thống khác
 
-    [![Hình 4]][Hình 4]
-
-    [Hình 4]: ../assets/images/invoice2/2.0_dieu-chinh-khac_1.png
+    ![Hình 4](../assets/images/invoice2/2.0_thay-the-khac_1.png)
 
     ### Bước 2: Chọn lập hóa đơn điều chỉnh, sau đó chọn phần ký hiệu mà bạn muốn hóa đơn điều chỉnh nằm trong đó
 
-    [![Hình 5]][Hình 5]
-
-    [Hình 5]: ../assets/images/invoice2/2.0_dieu-chinh-khac_2.png
+    ![Hình 5](../assets/images/invoice2/2.0_thay-the-khac_2.png)
 
     ### Bước 3 : Lập hóa đơn điều chỉnh
 
-    [![Hình 6]][Hình 6]
-
-    [Hình 6]: ../assets/images/invoice2/2.0_dieu-chinh-khac_3.png
+    ![Hình 6](../assets/images/invoice2/2.0_thay-the-khac_3.png)
 
     Ở mục hóa đơn liên quan
 
@@ -127,6 +115,4 @@ Sau khi điều chỉnh hay thay thế nội dung hóa đơn thành 1 hóa đơn
 
     Có bất kỳ vướng mắc nào trong quá trình sử dụng hãy liên hệ với M-Invoice tại mục Hỗ trợ kỹ thuật góc phải bên dưới màn hình hoặc gọi tổng đài kỹ thuật của M-Invoice (1900.955.557 Nhánh 1)
 
-[![Hình 7]][Hình 7]
-
-[Hình 7]: ../assets/images/invoice2/hotro.png
+![Hình 7](../assets/images/invoice2/hotro.png)
