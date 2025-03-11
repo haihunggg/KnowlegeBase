@@ -47,25 +47,41 @@ theme:
     - search.suggest
     - toc.follow
     # - toc.integrate
+  # palette:
+  #   - media: "(prefers-color-scheme)"
+  #     toggle:
+  #       icon: material/link
+  #       name: Switch to light mode
+  #   - media: "(prefers-color-scheme: light)"
+  #     scheme: default
+  #     primary: custom #indigo
+  #     accent: red #indigo
+  #     toggle:
+  #       icon: material/toggle-switch
+  #       name: Switch to dark mode
+  #   - media: "(prefers-color-scheme: dark)"
+  #     scheme: slate
+  #     primary: custom #indigo
+  #     accent: red #indigo
+  #     toggle:
+  #       icon: material/toggle-switch-off
+  #       name: Switch to system preference
   palette:
-    - media: "(prefers-color-scheme)"
-      toggle:
-        icon: material/link
-        name: Switch to light mode
-    - media: "(prefers-color-scheme: light)"
-      scheme: default
+    - scheme: default
       primary: custom #indigo
       accent: red #indigo
       toggle:
         icon: material/toggle-switch
         name: Switch to dark mode
-    - media: "(prefers-color-scheme: dark)"
-      scheme: slate
+      default: true # Đặt chế độ sáng làm mặc định
+
+    - scheme: slate
       primary: custom #indigo
       accent: red #indigo
       toggle:
         icon: material/toggle-switch-off
-        name: Switch to system preference
+        name: Switch to light mode
+
   font:
     text: Roboto
     code: Roboto Mono
