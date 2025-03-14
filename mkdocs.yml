@@ -71,7 +71,7 @@ theme:
       primary: custom #indigo
       accent: red #indigo
       toggle:
-        icon: material/toggle-switch
+        icon: material/weather-sunny
         name: Switch to dark mode
       default: true # Đặt chế độ sáng làm mặc định
 
@@ -79,7 +79,7 @@ theme:
       primary: custom #indigo
       accent: red #indigo
       toggle:
-        icon: material/toggle-switch-off
+        icon: material/weather-night
         name: Switch to light mode
 
   font:
