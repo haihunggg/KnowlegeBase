@@ -7,42 +7,32 @@
 
 ### Bước 1: Truy cập vào thông tin doanh nghiệp
 
-[![Hình 1]][Hình 1]
-
-[Hình 1]: ../../assets/images/invoice1/1.0_diaChi_1.png
+![Hình 1](../../assets/images/invoice1/1.0_diaChi_1.png)
 
 Truy cập vào phần Hệ thống >> Quản lý doanh nghiệp >> Thông tin doanh nghiệp
 
 ### Bước 2: thay đổi thông tin địa chỉ
 
-[![Hình 2]][Hình 2]
-
-[Hình 2]: ../../assets/images/invoice1/1.0_diaChi_2.png
+![Hình 2](../../assets/images/invoice1/1.0_diaChi_2.png)
 
 Anh chị bấm vào mục địa chỉ, sửa lại về địa chỉ mới sau đó bấm lưu
 
 ### Bước 3 : Tạo tờ khai thay đổi thông tin
 
-[![Hình 3]][Hình 3]
-
-[Hình 3]: ../../assets/images/invoice1/1.0_diaChi_3.png
+![Hình 3](../../assets/images/invoice1/1.0_diaChi_3.png)
 
 Anh chị bấm vào Hóa đơn NĐ 123 >> đăng ký thay đổi thông tin sử dụng HDDT và bấm thêm.
 
 ### Bước 4 : Điền thông tin thay đổi trên tờ khai
 
-[![Hình 4]][Hình 4]
-
-[Hình 4]: ../../assets/images/invoice1/1.0_diaChi_4.png
+![Hình 4](../../assets/images/invoice1/1.0_diaChi_4.png)
 
 Anh chị kiểm tra lại thông tin 1 lượt từ trên xuống dưới  
 Mục nào sai thì mình sửa lại, sau khi kiểm tra xong, bấm vào ghi để lưu.
 
 ### Bước 5 : Ký gửi tờ khai lên CQT
 
-[![Hình 5]][Hình 5]
-
-[Hình 5]: ../../assets/images/invoice1/1.0_diaChi_5.png
+![Hình 5](../../assets/images/invoice1/1.0_diaChi_5.png)
 
 Anh chị chọn tờ khai chờ ký vừa mới tạo và click chọn >> Ký gửi CQT
 
@@ -55,4 +45,4 @@ Anh chị chọn tờ khai chờ ký vừa mới tạo và click chọn >> Ký g
 
     Có bất kỳ vướng mắc nào trong quá trình sử dụng hãy liên hệ với M-Invoice tại mục Hỗ trợ kỹ thuật góc phải bên dưới màn hình hoặc gọi tổng đài kỹ thuật của M-Invoice (1900.955.557 Nhánh 1)
 
-![Hình 5](../../assets/images/invoice1/1.0_suaTienBangTay_5.png)
+![Hình 6](../../assets/images/invoice1/1.0_suaTienBangTay_5.png)

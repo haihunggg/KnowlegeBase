@@ -4,15 +4,11 @@
 
 ### Bước 1: Truy cập vào phần Hóa đơn HĐ123 >> Báo cáo >> Bảng kê bán ra (Mẫu PL01-1)
 
-[![Hình 1]][Hình 1]
-
-[Hình 1]: ../../assets/images/invoice1/1.0_PL01_1.png
+![Hình 1](../../assets/images/invoice1/1.0_PL01_1.png)
 
 ### Bước 2: Chọn các điều kiện để lọc báo cáo
 
-[![Hình 2]][Hình 2]
-
-[Hình 2]: ../../assets/images/invoice1/1.0_PL01_2.png
+![Hình 2](../../assets/images/invoice1/1.0_PL01_2.png)
 
 !!! warning "Lưu ý"
 
@@ -20,9 +16,7 @@
 
 ### Bước 3 : Kết xuất báo cáo
 
-[![Hình 3]][Hình 3]
-
-[Hình 3]: ../../assets/images/invoice1/1.0_PL01_3.png
+![Hình 3](../../assets/images/invoice1/1.0_PL01_3.png)
 
 Anh chị có thể sử dụng các chức năng ở hình trên sau khi đã lọc dữ liệu tùy thuộc vào nhu cầu của mình.
 
@@ -30,4 +24,4 @@ Anh chị có thể sử dụng các chức năng ở hình trên sau khi đã l
 
     Có bất kỳ vướng mắc nào trong quá trình sử dụng hãy liên hệ với M-Invoice tại mục Hỗ trợ kỹ thuật góc phải bên dưới màn hình hoặc gọi tổng đài kỹ thuật của M-Invoice (1900.955.557 Nhánh 1)
 
-![Hình 5](../../assets/images/invoice1/1.0_suaTienBangTay_5.png)
+![Hình 4](../../assets/images/invoice1/1.0_suaTienBangTay_5.png)
