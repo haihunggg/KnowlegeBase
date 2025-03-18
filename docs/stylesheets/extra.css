@@ -61,8 +61,10 @@
   font-weight: bold;
 }
 
-
-
 .md-banner {
   display: none !important;
+}
+
+.mdx-hero__content {
+  max-width: 21rem !important;
 }
