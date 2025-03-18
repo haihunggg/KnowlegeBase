@@ -1,4 +1,4 @@
-# **Điều chỉnh mức đóng**
+# **Điều chỉnh mức đóng 600b**
 
 ## **HƯỚNG DẪN KÊ KHAI BÁO ĐIỀU CHỈNH CHỨC DANH TĂNG MỨC ĐÓNG TRÊN PHẦN MỀM M-BHXH**
 

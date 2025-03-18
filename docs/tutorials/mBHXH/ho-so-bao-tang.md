@@ -1,4 +1,4 @@
-# **Hồ sơ báo tăng**
+# **Hồ sơ báo tăng 600**
 
 ## **HƯỚNG DẪN KÊ KHAI BÁO TĂNG LAO ĐỘNG TRÊN PHẦN MỀM M-BHXH**
 

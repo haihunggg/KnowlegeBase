@@ -1,4 +1,4 @@
-# **Hồ sơ báo giảm**
+# **Hồ sơ báo giảm 600a**
 
 ## **HƯỚNG DẪN KÊ KHAI BÁO GIẢM LAO ĐỘNG TRÊN PHẦN MỀM M-BHXH**
 

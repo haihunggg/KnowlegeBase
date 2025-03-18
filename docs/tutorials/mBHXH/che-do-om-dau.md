@@ -1,4 +1,4 @@
-# **Chế độ ốm đau**
+# **Chế độ ốm đau 630a**
 
 ## **HƯỚNG DẪN KÊ KHAI BÁO CHẾ ĐỘ ỐM ĐAU THÔNG THƯỜNG TRÊN PHẦN MỀM M-BHXH**
 

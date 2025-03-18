@@ -32,6 +32,7 @@
 
 #__nav_2_1_1_label,
 #__nav_2_1_3_label,
+#__nav_2_1_4_label,
 #__nav_2_1_2_label {
   font-weight: bold;
 }
@@ -58,4 +59,10 @@
 
 #__nav_5_1 {
   font-weight: bold;
+}
+
+
+
+.md-banner {
+  display: none !important;
 }
