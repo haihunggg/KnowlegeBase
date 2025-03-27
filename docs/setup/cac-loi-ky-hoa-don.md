@@ -6,7 +6,7 @@ Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm 
 
 ???+ Note "Ghi chú"
 
-    Trong quá trình sử dụng hóa đơn điện tử, người dùng có thể gặp những lỗi ký hoá đơn hãy xem những hướng dẫn dưới đấy để có thể sửa lỗi nhé.
+    Trong quá trình sử dụng hóa đơn điện tử, người dùng có thể gặp những lỗi ký hoá đơn hãy bấm vào xem những hướng dẫn dưới đây để có thể sửa lỗi nhé.
 
 ??? Failure "Lỗi "Bạn đã huỷ bỏ thao tác ký""
 
