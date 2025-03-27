@@ -342,7 +342,7 @@ nav:
               - setup/phan-quyen.md
               - setup/in-hang-loat.md
           - "Các lỗi thường gặp khi sử dụng phần mềm":
-              - ""
+              - setup/cac-loi-ky-hoa-don.md
           - "Nghiệp vụ hoá đơn điện tử":
               - setup/thay-the-hoa-don.md
               - setup/dieu-chinh-hoa-don.md
