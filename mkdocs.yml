@@ -326,39 +326,29 @@ nav:
   - M-invoice 2.0:
       - "":
           - "Hướng dẫn sử dụng":
+              - setup/dang-nhap.md
+              - setup/dashboard.md
               - setup/lap-va-phat-hanh-hoa-don.md
-          - "Các lỗi thường gặp khi sử dụng phần mềm":
+              - setup/sao-chep-hoa-don.md
               - setup/plugin.md
               - setup/them-cks-moi.md
-              - setup/lap-va-phat-hanh-hoa-don.md
+              - setup/cap-nhat-ky-hieu.md
               - setup/thay-doi-thong-tin-doanh-nghiep.md
-              - setup/xoa-hoa-don.md
-              - setup/sua-hoa-don.md
-              - setup/in-hang-loat.md
               - setup/chinh-thap-phan.md
-              - setup/sao-chep-hoa-don.md
               - setup/gui-mail.md
               - setup/ky-hang-loat.md
               - setup/chuyen-ky-hieu.md
-              - setup/cap-nhat-ky-hieu.md
               - setup/them-nguoi-dung.md
               - setup/phan-quyen.md
-              # - tutorials/thaoTac/suaTienBangTay.md
-              # - tutorials/thaoTac/baoCaoChiTietHoaDon.md
-              # - tutorials/thaoTac/basic.md
-              # - tutorials/thaoTac/navigation.md
-              # - tutorials/thaoTac/engage.md
+              - setup/in-hang-loat.md
+          - "Các lỗi thường gặp khi sử dụng phần mềm":
+              - ""
           - "Nghiệp vụ hoá đơn điện tử":
               - setup/thay-the-hoa-don.md
               - setup/dieu-chinh-hoa-don.md
               - setup/dieu-chinh-va-thay-the-tren-he-thong-khac.md
               - setup/huy-hoa-don.md
               - setup/huy-hoa-don-hang-loat.md
-              #- setup/setting-up-versioning.md
-              # - "Điều chỉnh hoá đơn":
-              #     - setup/dieuChinh.md
-              # # - tutorials/social/basic.md
-              # # - tutorials/social/custom.md
           - "Danh mục và báo cáo":
               - setup/bao-cao-tong-hop.md
               - setup/bao-cao-chi-tiet.md
