@@ -10,8 +10,7 @@
 
 [Hình 1]: ../../assets/images/mSMI/mSMI_hddt_1.png
 
-Nếu chưa có biểu tượng như hình anh chị truy cập vào trang web bằng đường link : https://hoadondientu.gdt.gov.vn
- và tải file cài đặt ở đây : 
+Nếu chưa có biểu tượng như hình anh chị truy cập vào trang web bằng đường link : [Hoadondientu](https://hoadondientu.gdt.gov.vn){:target="_blank"} và tải file cài đặt ở đây : 
 
 [![Hình 2]][Hình 2]
 

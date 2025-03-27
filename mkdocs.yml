@@ -1,5 +1,5 @@
 # Project information
-site_name: M-invoice Hướng dẫn sử dụng
+site_name: HƯỚNG DẪN SỬ DỤNG
 site_url: https://minvoice.vn/
 site_author: Nam Phạm
 site_description: >-
@@ -47,25 +47,41 @@ theme:
     - search.suggest
     - toc.follow
     # - toc.integrate
+  # palette:
+  #   - media: "(prefers-color-scheme)"
+  #     toggle:
+  #       icon: material/link
+  #       name: Switch to light mode
+  #   - media: "(prefers-color-scheme: light)"
+  #     scheme: default
+  #     primary: custom #indigo
+  #     accent: red #indigo
+  #     toggle:
+  #       icon: material/toggle-switch
+  #       name: Switch to dark mode
+  #   - media: "(prefers-color-scheme: dark)"
+  #     scheme: slate
+  #     primary: custom #indigo
+  #     accent: red #indigo
+  #     toggle:
+  #       icon: material/toggle-switch-off
+  #       name: Switch to system preference
   palette:
-    - media: "(prefers-color-scheme)"
-      toggle:
-        icon: material/link
-        name: Switch to light mode
-    - media: "(prefers-color-scheme: light)"
-      scheme: default
+    - scheme: default
       primary: custom #indigo
       accent: red #indigo
       toggle:
-        icon: material/toggle-switch
+        icon: material/weather-sunny
         name: Switch to dark mode
-    - media: "(prefers-color-scheme: dark)"
-      scheme: slate
+      default: true # Đặt chế độ sáng làm mặc định
+
+    - scheme: slate
       primary: custom #indigo
       accent: red #indigo
       toggle:
-        icon: material/toggle-switch-off
-        name: Switch to system preference
+        icon: material/weather-night
+        name: Switch to light mode
+
   font:
     text: Roboto
     code: Roboto Mono
@@ -287,56 +303,53 @@ nav:
       # - Philosophy: philosophy.md
       # - Alternatives: alternatives.md
       # - License: license.md
-      - Hướng dẫn:
-          - "Các thao tác thường gặp khi sử dụng phần mềm":
+      - "":
+          - "Hướng dẫn sử dụng":
+              - Đăng nhập: tutorials/thao-tac/dang-nhap.md
+              - Dashboard 1.0: tutorials/thao-tac/dashboard.md
+              - Thêm mới chữ ký số: tutorials/thao-tac/them-CKS.md
+              - Cài đặt plugin : tutorials/thao-tac/cai-dat-plugin.md
               - Sửa tiền bằng tay: tutorials/thao-tac/sua-tien-bang-tay.md
               - Tạo hóa đơn bằng file excel: tutorials/thao-tac/nhap-excel-hang-loat.md
               - Nhập file excel chi tiết: tutorials/thao-tac/nhap-excel-chi-tiet.md
-              - Thêm mới chữ ký số: tutorials/thao-tac/them-CKS.md
               - Xem in hàng loạt: tutorials/thao-tac/in-hang-loat.md
               - Thêm mới tài khoản: tutorials/thao-tac/them-user.md
               - Lấy lại mật khẩu: tutorials/thao-tac/lay-mat-khau.md
               - Thay đổi địa chỉ: tutorials/thao-tac/thay-doi-dia-chi.md
-          - "Nghiệp vụ hoá đơn điện tử":
-              - Giải trình hóa đơn: tutorials/nghiep-vu/lap-04ss.md
-              - Điều chỉnh hóa đơn: tutorials/nghiep-vu/dieu-chinh.md
-              - Thay thế hóa đơn: tutorials/nghiep-vu/thay-the.md
-              - Hủy hóa đơn: tutorials/nghiep-vu/huy.md
-          - "Danh mục và báo cáo":
               - Báo cáo chi tiết: tutorials/thao-tac/bao-cao-chi-tiet.md
               - Báo cáo bảng kê bán ra PL01: tutorials/thao-tac/bao-cao-pl01.md
+          - "Các lỗi thường gặp": 
+              - Gửi mail báo "Xác thực không hợp lệ": tutorials/loi-thuong-gap/gui-mail-loi.md            
+          - "Nghiệp vụ hoá đơn điện tử":
+              - Hủy hóa đơn: tutorials/nghiep-vu/huy.md
+              - Điều chỉnh hóa đơn: tutorials/nghiep-vu/dieu-chinh.md
+              - Thay thế hóa đơn: tutorials/nghiep-vu/thay-the.md
+              - Giải trình hóa đơn: tutorials/nghiep-vu/lap-04ss.md
   - M-invoice 2.0:
-      - Hướng dẫn:
-          - "Các thao tác thường gặp khi sử dụng phần mềm":
+      - "":
+          - "Hướng dẫn sử dụng":
+              - setup/dang-nhap.md
+              - setup/dashboard.md
+              - setup/lap-va-phat-hanh-hoa-don.md
+              - setup/sao-chep-hoa-don.md
               - setup/plugin.md
               - setup/them-cks-moi.md
-              - setup/lap-va-phat-hanh-hoa-don.md
+              - setup/cap-nhat-ky-hieu.md
               - setup/thay-doi-thong-tin-doanh-nghiep.md
-              - setup/xoa-hoa-don.md
-              - setup/sua-hoa-don.md
+          - "Các lỗi thường gặp khi sử dụng phần mềm":
               - setup/in-hang-loat.md
               - setup/chinh-thap-phan.md
-              - setup/sao-chep-hoa-don.md
               - setup/gui-mail.md
               - setup/ky-hang-loat.md
               - setup/chuyen-ky-hieu.md
-              - setup/cap-nhat-ky-hieu.md
-              # - tutorials/thaoTac/suaTienBangTay.md
-              # - tutorials/thaoTac/baoCaoChiTietHoaDon.md
-              # - tutorials/thaoTac/basic.md
-              # - tutorials/thaoTac/navigation.md
-              # - tutorials/thaoTac/engage.md
+              - setup/them-nguoi-dung.md
+              - setup/phan-quyen.md
           - "Nghiệp vụ hoá đơn điện tử":
               - setup/thay-the-hoa-don.md
               - setup/dieu-chinh-hoa-don.md
               - setup/dieu-chinh-va-thay-the-tren-he-thong-khac.md
               - setup/huy-hoa-don.md
               - setup/huy-hoa-don-hang-loat.md
-              #- setup/setting-up-versioning.md
-              # - "Điều chỉnh hoá đơn":
-              #     - setup/dieuChinh.md
-              # # - tutorials/social/basic.md
-              # # - tutorials/social/custom.md
           - "Danh mục và báo cáo":
               - setup/bao-cao-tong-hop.md
               - setup/bao-cao-chi-tiet.md
@@ -344,9 +357,7 @@ nav:
               - setup/danh-muc-khach-hang.md
               - setup/danh-muc-don-vi-tinh.md
               - setup/danh-muc-thay-doi-thue-suat.md
-          - "Người dùng và phân quyền":
-              - setup/them-nguoi-dung.md
-              - setup/phan-quyen.md
+
       # - setup/index.md
       # - Changing the colors: setup/changing-the-colors.md
       # - Changing the fonts: setup/changing-the-fonts.md
@@ -371,15 +382,17 @@ nav:
       #     - Python Markdown: setup/extensions/python-markdown.md
       #     - Python Markdown Extensions: setup/extensions/python-markdown-extensions.md
   - mSMI:
-      - Hướng dẫn:
+      - "":
+          - Hướng dẫn sử dụng:
+              - Đăng nhập: tutorials/mSMI/dang-nhap.md
+              - Dashboard mSMI: tutorials/mSMI/dashboard.md
+              - Tra cứu hóa đơn: tutorials/mSMI/tra-cuu-va-tai-hoa-don.md
+              - Kiểm tra tình trạng Mã số thuế: tutorials/mSMI/kiem-tra-mst.md
+              - Đồng bộ hóa đơn mua vào bán ra: tutorials/mSMI/dong-bo-hoa-don.md
+              - Đồng bộ thông báo sai sót 04/SS: tutorials/mSMI/dong-bo-04ss.md
           - "Các lỗi thường gặp khi sử dụng phần mềm":
               - Tài khoản HDDT mất kết nối: tutorials/mSMI/dang-nhap-lai.md
               - Lấy lại mật khẩu trang Hoadondientu: tutorials/mSMI/lay-mat-khau-hddt.md
-          - "Thao tác cơ bản":
-              - Tra cứu hóa đơn: tutorials/mSMI/tra-cuu-va-tai-hoa-don.md
-              - Đồng bộ hóa đơn mua vào bán ra: tutorials/mSMI/dong-bo-hoa-don.md
-              - Kiểm tra tình trạng Mã số thuế : tutorials/mSMI/kiem-tra-mst.md
-              - Đồng bộ thông báo sai sót 04/SS : tutorials/mSMI/dong-bo-04ss.md
           - "Danh mục và báo cáo":
               - Bảng kê bán ra - mua vào: tutorials/mSMI/bang-ke.md
               - Báo cáo nhận vào PMKT: tutorials/mSMI/bao-cao-pmkt.md
@@ -425,8 +438,18 @@ nav:
           #     - setup/them-nguoi-dung.md
           #     - setup/phan-quyen.md
   - mBHXH:
-      - Hướng dẫn:
-          - setup/phan-quyen.md
+      - "":
+          - Hướng dẫn sử dụng:
+              - tutorials/mBHXH/dang-ky-tai-khoan.md
+          - "Các lỗi thường gặp khi sử dụng phần mềm":
+              - ""
+          - Nghiệp vụ bảo hiểm xã hội:
+              - tutorials/mBHXH/ho-so-bao-tang.md
+              - tutorials/mBHXH/ho-so-bao-giam.md
+              - tutorials/mBHXH/dieu-chinh-muc-dong.md
+              - tutorials/mBHXH/che-do-om-dau.md
+              - tutorials/mBHXH/che-do-thai-san.md
+              - tutorials/mBHXH/che-do-duong-suc.md
           # - "Các thao tác thường gặp khi sử dụng phần mềm":
           #     - setup/plugin.md
           #     - setup/them-cks-moi.md

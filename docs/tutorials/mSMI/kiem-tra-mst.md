@@ -20,23 +20,23 @@
 
 [![Hình 3]][Hình 3]
 
-[Hình 3]: ../../assets/images/mSMI/mSMI_kiemTraMST_3.png
+[Hình 3]: ../../assets/images/mSMI/msmi_kiemTraMST_3.png
 
 - Chúng ta sẽ tra cứu hàng loạt theo danh sách ở trong file Excel 
 
 [![Hình 4]][Hình 4]
 
-[Hình 4]: ../../assets/images/mSMI/mSMI_kiemTraMST_5.png
+[Hình 4]: ../../assets/images/mSMI/msmi_kiemTraMST_5.png
 
 - Anh chị điền số dòng và số cột tương ứng với ô bắt đầu dữ liệu trong file excel của mình, tải file lên và sau đó bấm Lưu
 
 [![Hình 5]][Hình 5]
 
-[Hình 5]: ../../assets/images/mSMI/mSMI_kiemTraMST_4.png
+[Hình 5]: ../../assets/images/mSMI/msmi_kiemTraMST_4.png
 
 [![Hình 6]][Hình 6]
 
-[Hình 6]: ../../assets/images/mSMI/mSMI_kiemTraMST_6.png
+[Hình 6]: ../../assets/images/mSMI/msmi_kiemTraMST_3.png
 
 Như vậy, chúng ta đã thành công kiểm tra tình trạng mã số thuế.
 
