@@ -2,26 +2,21 @@
 
 ## **Hướng dẫn xem và kết xuất hóa đơn mua vào - bán ra**
 
-### Bước 1: Click chọn Báo cáo : 
-[![Hình 1]][Hình 1]
+### Bước 1: Click chọn Báo cáo :
 
-[Hình 1]: ../../assets/images/mSMI/msmi_bangKe_1.png
+![Hình 1](../../assets/images/mSMI/msmi_bangKe_1.png)
 
 Chọn mục báo cáo Bán ra hoặc Mua vào tùy thuộc nhu cầu đang cần sử dụng
 
-### Bước 2: Anh chị bấm vào nút lọc dữ liệu  
+### Bước 2: Anh chị bấm vào nút lọc dữ liệu
 
-[![Hình 2]][Hình 2]
+![Hình 2](../../assets/images/mSMI/msmi_bangKe_2.png)
 
-[Hình 2]: ../../assets/images/mSMI/msmi_bangKe_2.png
-
-Tại đây sẽ có các điều kiện để mình có thể lọc, anh chị điền theo ý muốn và click bấm nhận 
+Tại đây sẽ có các điều kiện để mình có thể lọc, anh chị điền theo ý muốn và click bấm nhận
 
 ### Bước 3: Sau khi bấm nhận, phần mềm sẽ hiển thị dữ liệu mà anh chị cần
 
-[![Hình 3]][Hình 3]
-
-[Hình 3]: ../../assets/images/mSMI/msmi_bangKe_3.png
+![Hình 3](../../assets/images/mSMI/msmi_bangKe_3.png)
 
 Nếu cần lưu trữ báo cáo, anh chị click chọn vào Kết xuất excel
 

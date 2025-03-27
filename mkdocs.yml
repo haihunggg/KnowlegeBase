@@ -309,6 +309,8 @@ nav:
               - Dashboard 1.0: tutorials/thao-tac/dashboard.md
               - Thêm mới chữ ký số: tutorials/thao-tac/them-CKS.md
               - Cài đặt plugin : tutorials/thao-tac/cai-dat-plugin.md
+              - tutorials/thao-tac/sua-tien-bang-tay.md
+          - "Các lỗi thường gặp khi sử dụng phần mềm":
               - Sửa tiền bằng tay: tutorials/thao-tac/sua-tien-bang-tay.md
               - Tạo hóa đơn bằng file excel: tutorials/thao-tac/nhap-excel-hang-loat.md
               - Nhập file excel chi tiết: tutorials/thao-tac/nhap-excel-chi-tiet.md
@@ -344,6 +346,9 @@ nav:
               - setup/chuyen-ky-hieu.md
               - setup/them-nguoi-dung.md
               - setup/phan-quyen.md
+              - setup/in-hang-loat.md
+          - "Các lỗi thường gặp khi sử dụng phần mềm":
+              - setup/cac-loi-ky-hoa-don.md
           - "Nghiệp vụ hoá đơn điện tử":
               - setup/thay-the-hoa-don.md
               - setup/dieu-chinh-hoa-don.md

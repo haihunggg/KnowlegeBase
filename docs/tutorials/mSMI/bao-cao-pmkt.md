@@ -2,18 +2,15 @@
 
 ## **Hướng dẫn xem và kết xuất bảng kê nhận vào PMKT**
 
-### Bước 1: Click chọn Báo cáo  : 
-[![Hình 1]][Hình 1]
+### Bước 1: Click chọn Báo cáo :
 
-[Hình 1]: ../../assets/images/mSMI/msmi_pmkt_1.png
+![Hình 1](../../assets/images/mSMI/msmi_pmkt_1.png)
 
 Chọn mục Bảng kê nhận vào PMKT
 
-### Bước 2: Anh chị bấm vào nút lọc dữ liệu  
+### Bước 2: Anh chị bấm vào nút lọc dữ liệu
 
-[![Hình 2]][Hình 2]
-
-[Hình 2]: ../../assets/images/mSMI/msmi_pmkt_2.png
+![Hình 2](../../assets/images/mSMI/msmi_pmkt_2.png)
 
 Tại đây sẽ có các điều kiện để mình có thể lọc, anh chị điền theo ý muốn và click vào Kết xuất
 

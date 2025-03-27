@@ -2,26 +2,20 @@
 
 ### Bước 1: Đảm bảo đúng đường link đăng nhập
 
-[![Hình 1]][Hình 1]
-
-[Hình 1]: ../../assets/images/invoice1/1.0_layMK_1.png
+![Hình 1](../../assets/images/invoice1/1.0_layMK_1.png)
 
 Đường link đăng nhập có dạng : MST.minvoice.com.vn
 Trong đó MST chính là mã số thuế của doanh nghiệp
 
 ### Bước 2: Ở màn hình đăng nhập chọn nút quên mật khẩu để lấy lại mật khẩu
 
-[![Hình 2]][Hình 2]
-
-[Hình 2]: ../../assets/images/invoice1/1.0_layMK_2.png
+![Hình 2](../../assets/images/invoice1/1.0_layMK_2.png)
 
 ### Bước 3 : Giao diện quên mật khẩu, bạn có thẻ lấy lại mật khẩu qua 2 cách, 1 là Email , 2 bằng chữ ký số
 
 #### 1, Lấy lại mật khẩu qua Email
 
-[![Hình 3]][Hình 3]
-
-[Hình 3]: ../../assets/images/invoice1/1.0_layMK_3.png
+![Hình 3](../../assets/images/invoice1/1.0_layMK_3.png)
 
 Bạn nhập đúng địa chỉ Email đã đăng ký với phần mềm, sau đó nhấn Gửi (F10)
 
@@ -36,9 +30,7 @@ Sau đó tài khoản và mật khẩu sẽ tự động được gửi vào Ema
 
 Hướng dẫn lấy lại mật khẩu bằng hình ảnh nếu Quý khách không xem được Video
 
-[![Hình 4]][Hình 4]
-
-[Hình 4]: ../../assets/images/invoice1/1.0_layMK_4.png
+![Hình 4](../../assets/images/invoice1/1.0_layMK_4.png)
 
 Bạn nhập tên tài khoản (Thường sẽ là mã số thuế của doanh nghiệp), và xác nhận lại 2 lần mật khẩu , sau đó nhấn nhận
 Để thực hiện chức năng này, bạn bắt buộc phải cài plugin, và dùng đúng chữ ký số đã đăng ký với phần mềm

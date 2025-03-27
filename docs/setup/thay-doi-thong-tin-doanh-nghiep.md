@@ -16,9 +16,7 @@ Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm 
 
 ### Bước 1: Thay đổi trên phần mềm M-invoice
 
-[![Hình 1]][Hình 1]
-
-[Hình 1]: ../assets/images/invoice2/2.0_thay-doi-thong-tin-doanh-nghiep_1.png
+![Hình 1](../assets/images/invoice2/2.0_thay-doi-thong-tin-doanh-nghiep_1.png)
 
 Bạn vào phần **Hệ thông --> Quản lý doanh nghiệp --> Thông tin doanh nghiệp**
 
@@ -32,9 +30,7 @@ Bạn vào phần **Hệ thông --> Quản lý doanh nghiệp --> Thông tin doa
 
 **Hướng dẫn sử dụng bằng hình ảnh nếu Quý khách không xem được video**
 
-[![Hình 2]][Hình 2]
-
-[Hình 2]: ../assets/images/invoice2/2.0_thay-doi-thong-tin-doanh-nghiep_2.png
+![Hình 2](../assets/images/invoice2/2.0_thay-doi-thong-tin-doanh-nghiep_2.png)
 
 Quý khách truy cập vào **Đăng ký phát hành --> Lập tờ khai**
 
@@ -42,26 +38,18 @@ Quý khách truy cập vào **Đăng ký phát hành --> Lập tờ khai**
 
     Với những quý khách đã có tờ khai đăng ký trước đó, thì hình thức sẽ phải chọn là Thay đổi
 
-[![Hình 3]][Hình 3]
+![Hình 3](../assets/images/invoice2/2.0_thay-doi-thong-tin-doanh-nghiep_3.png)
 
-[Hình 3]: ../assets/images/invoice2/2.0_thay-doi-thong-tin-doanh-nghiep_3.png
-
-[![Hình 4]][Hình 4]
-
-[Hình 4]: ../assets/images/invoice2/2.0_thay-doi-thong-tin-doanh-nghiep_4.png
+![Hình 4](../assets/images/invoice2/2.0_thay-doi-thong-tin-doanh-nghiep_4.png)
 
 Quý khách cần thay đổi ở đâu thì cập nhật thông tin ở đó
 
-[![Hình 5]][Hình 5]
-
-[Hình 5]: ../assets/images/invoice2/2.0_thay-doi-thong-tin-doanh-nghiep_5.png
+![Hình 5](../assets/images/invoice2/2.0_thay-doi-thong-tin-doanh-nghiep_5.png)
 
 Quý khác chọn đúng hình thức hóa đơn của đơn vị mình đang sử dụng
 Sau đó ấn **Lưu**
 
-[![Hình 6]][Hình 6]
-
-[Hình 6]: ../assets/images/invoice2/2.0_thay-doi-thong-tin-doanh-nghiep_6.png
+![Hình 6](../assets/images/invoice2/2.0_thay-doi-thong-tin-doanh-nghiep_6.png)
 
 !!! note ""
 
@@ -75,6 +63,4 @@ Sau đó ấn **Lưu**
 
     Có bất kỳ vướng mắc nào trong quá trình sử dụng hãy liên hệ với M-Invoice tại mục Hỗ trợ kỹ thuật góc phải bên dưới màn hình hoặc gọi tổng đài kỹ thuật của M-Invoice (1900.955.557 Nhánh 1)
 
-[![Hình 7]][Hình 7]
-
-[Hình 7]: ../assets/images/invoice2/hotro.png
+![Hình 7](../assets/images/invoice2/hotro.png)

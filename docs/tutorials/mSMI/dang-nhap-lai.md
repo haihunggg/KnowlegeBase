@@ -2,24 +2,19 @@
 
 ## **Hướng dẫn đăng nhập lại tài khoản bị mất kết nối**
 
-
 ### Bước 1: Truy cập vào phần mềm mSMI, ngay ở giao diện anh chị bấm vào đăng nhập lại
 
-[![Hình 1]][Hình 1]
-
-[Hình 1]: ../../assets/images/mSMI/mmsi_dangNhapLai_1.png
+![Hình 1](../../assets/images/mSMI/mmsi_dangNhapLai_1.png)
 
 ### Bước 2: Điền lại thông tin mật khẩu chính xác vào phần mềm
 
-[![Hình 2]][Hình 2]
-
-[Hình 2]: ../../assets/images/mSMI/mmsi_dangNhapLai_2.png
+![Hình 2](../../assets/images/mSMI/mmsi_dangNhapLai_2.png)
 
 Tích thêm vào nhớ tài khoản để có thể kích hoạt tự động đồng bộ
 
 ???+ Warning "Lưu ý"
 
-    Nếu đã điền mật khẩu mới nhất nhưng không đăng nhập được, anh chị có thể kiểm tra mật khẩu tại trang https://hoadondientu.gdt.gov.vn theo [Hướng dẫn](lay-mat-khau-hddt.md)
+    Nếu đã điền lại mật khẩu nhưng không đăng nhập lại được, anh chị có thể lấy lại mật khẩu tại trang [Hoadondientu](https://hoadondientu.gdt.gov.vn){:target="_blank"} theo [Hướng dẫn](lay-mat-khau-hddt.md)
 
 !!! info "Xin chân thành cảm ơn Quý khách hàng đã tin dùng sản phẩm của M-Invoice"
 
