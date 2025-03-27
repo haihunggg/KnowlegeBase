@@ -6,6 +6,8 @@
 
     Để lấy lại được mật khẩu, bắt buộc phải cắm chữ ký số và chữ ký số đã được cài đặt.
 
+Nếu chưa có biểu tượng như hình anh chị truy cập vào trang web bằng đường link : [Hoadondientu](https://hoadondientu.gdt.gov.vn){:target="_blank"} và tải file cài đặt ở đây : 
+
 ### Bước 1: Kiểm tra máy tính đã có plugin của Hoadondientu hay chưa như hình dưới :
 
 ![Hình 1](../../assets/images/mSMI/mSMI_hddt_1.png)

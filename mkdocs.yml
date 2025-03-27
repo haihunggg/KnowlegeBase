@@ -305,24 +305,28 @@ nav:
       # - License: license.md
       - "":
           - "Hướng dẫn sử dụng":
+              - Đăng nhập: tutorials/thao-tac/dang-nhap.md
+              - Dashboard 1.0: tutorials/thao-tac/dashboard.md
+              - Thêm mới chữ ký số: tutorials/thao-tac/them-CKS.md
+              - Cài đặt plugin : tutorials/thao-tac/cai-dat-plugin.md
               - tutorials/thao-tac/sua-tien-bang-tay.md
           - "Các lỗi thường gặp khi sử dụng phần mềm":
               - Sửa tiền bằng tay: tutorials/thao-tac/sua-tien-bang-tay.md
               - Tạo hóa đơn bằng file excel: tutorials/thao-tac/nhap-excel-hang-loat.md
               - Nhập file excel chi tiết: tutorials/thao-tac/nhap-excel-chi-tiet.md
-              - Thêm mới chữ ký số: tutorials/thao-tac/them-CKS.md
               - Xem in hàng loạt: tutorials/thao-tac/in-hang-loat.md
               - Thêm mới tài khoản: tutorials/thao-tac/them-user.md
               - Lấy lại mật khẩu: tutorials/thao-tac/lay-mat-khau.md
               - Thay đổi địa chỉ: tutorials/thao-tac/thay-doi-dia-chi.md
-          - "Nghiệp vụ hoá đơn điện tử":
-              - Giải trình hóa đơn: tutorials/nghiep-vu/lap-04ss.md
-              - Điều chỉnh hóa đơn: tutorials/nghiep-vu/dieu-chinh.md
-              - Thay thế hóa đơn: tutorials/nghiep-vu/thay-the.md
-              - Hủy hóa đơn: tutorials/nghiep-vu/huy.md
-          - "Danh mục và báo cáo":
               - Báo cáo chi tiết: tutorials/thao-tac/bao-cao-chi-tiet.md
               - Báo cáo bảng kê bán ra PL01: tutorials/thao-tac/bao-cao-pl01.md
+          - "Các lỗi thường gặp": 
+              - Gửi mail báo "Xác thực không hợp lệ": tutorials/loi-thuong-gap/gui-mail-loi.md            
+          - "Nghiệp vụ hoá đơn điện tử":
+              - Hủy hóa đơn: tutorials/nghiep-vu/huy.md
+              - Điều chỉnh hóa đơn: tutorials/nghiep-vu/dieu-chinh.md
+              - Thay thế hóa đơn: tutorials/nghiep-vu/thay-the.md
+              - Giải trình hóa đơn: tutorials/nghiep-vu/lap-04ss.md
   - M-invoice 2.0:
       - "":
           - "Hướng dẫn sử dụng":
@@ -334,6 +338,8 @@ nav:
               - setup/them-cks-moi.md
               - setup/cap-nhat-ky-hieu.md
               - setup/thay-doi-thong-tin-doanh-nghiep.md
+          - "Các lỗi thường gặp khi sử dụng phần mềm":
+              - setup/in-hang-loat.md
               - setup/chinh-thap-phan.md
               - setup/gui-mail.md
               - setup/ky-hang-loat.md
@@ -383,6 +389,8 @@ nav:
   - mSMI:
       - "":
           - Hướng dẫn sử dụng:
+              - Đăng nhập: tutorials/mSMI/dang-nhap.md
+              - Dashboard mSMI: tutorials/mSMI/dashboard.md
               - Tra cứu hóa đơn: tutorials/mSMI/tra-cuu-va-tai-hoa-don.md
               - Kiểm tra tình trạng Mã số thuế: tutorials/mSMI/kiem-tra-mst.md
               - Đồng bộ hóa đơn mua vào bán ra: tutorials/mSMI/dong-bo-hoa-don.md
