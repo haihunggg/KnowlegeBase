@@ -441,6 +441,8 @@ nav:
   - mBHXH:
       - "":
           - Hướng dẫn sử dụng:
+              - tutorials/mBHXH/dang-nhap.md
+              - tutorials/mBHXH/dashboard.md
               - tutorials/mBHXH/dang-ky-tai-khoan.md
           - "Các lỗi thường gặp khi sử dụng phần mềm":
               - ""
