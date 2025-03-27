@@ -1,4 +1,4 @@
-# **Dashboard**
+# **Dashboard 2.0**
 
 Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm hóa đơn điện tử M-Invoice ở phiên bản 2.0 vô cùng mạch lạc và dễ hiểu.
 
