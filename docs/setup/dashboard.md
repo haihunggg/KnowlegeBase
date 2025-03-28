@@ -16,25 +16,42 @@ Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm 
 
 ![Hình 1](../assets/images/invoice2/2.0_dash_1.png)
 
-**Số 1: Xem các hoá đơn chờ ký và đang gửi trong 1 tháng gần nhất**
+![Hình 6](../assets/images/invoice2/2.0_dash_6.png)
+
+???+ Note "Số 1"
+
+    **Xem các hoá đơn "chờ ký" và "đang gửi" trong 1 tháng gần nhất**
 
 ![Hình 2](../assets/images/invoice2/2.0_dash_2.png)
 
-**Số 2: Quý khách hàng click vào sẽ ra danh sách hoá đơn**
+???+ Note "Số 2"
 
-**Số 3: Số lượng hoá đơn khách hàng đã dùng và số lượng còn lại**
+    **Quý khách hàng click vào sẽ ra danh sách hoá đơn**
+
+???+ Note "Số 3"
+
+    **Số lượng hoá đơn khách hàng đã dùng và số lượng còn lại**
 
 ![Hình 3](../assets/images/invoice2/2.0_dash_3.png)
 
-**Số 4: Danh sách thông báo sai sót 04ss**
+???+ Note "Số 4"
+
+    **Danh sách thông báo sai sót 04ss**
 
 ![Hình 4](../assets/images/invoice2/2.0_dash_4.png)
 
-**Số 5: Bấm vào "lập hoá đơn" ở ký hiệu mới nhất để lập hoá đơn nhanh**
+???+ Note "Số 5"
+
+    **Bấm vào "lập hoá đơn" ở ký hiệu mới nhất để lập hoá đơn nhanh**
 
 ![Hình 5](../assets/images/invoice2/2.0_dash_5.png)
 
-**Số 6: Danh sách chữ ký số đang dùng và trạng thái của chữ ký số**
+???+ Note "Số 6"
+
+    **Danh sách chữ ký số đang dùng và trạng thái của chữ ký số**
+
+    Trường hợp anh chị muốn thay đổi cks khi vừa thêm mới hoặc gia hạn thì có thể bấm vào **thay đổi chứng thư số trên tờ khai** hoặc
+    xem chi tiết ở đây [Hướng dẫn thêm cks mới](them-cks-moi.md#attribute-lists){ data-preview }
 
 ???+ info "Xin chân thành cảm ơn quý khách hàng đã tin dùng sản phẩm của M-Invoice"
 
