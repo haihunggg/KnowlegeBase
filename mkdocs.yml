@@ -358,7 +358,7 @@ nav:
               - setup/dieu-chinh-va-thay-the-tren-he-thong-khac.md
               - setup/huy-hoa-don.md
               - setup/huy-hoa-don-hang-loat.md
-
+              - setup/giai-trinh-mau04ss.md
       # - setup/index.md
       # - Changing the colors: setup/changing-the-colors.md
       # - Changing the fonts: setup/changing-the-fonts.md
@@ -493,48 +493,51 @@ nav:
           # - "Người dùng và phân quyền":
           #     - setup/them-nguoi-dung.md
           #     - setup/phan-quyen.md
-    # - mBHXH:
-    #   - Hướng dẫn:
-    #       - "Các thao tác thường gặp khi sử dụng phần mềm":
-    #                     - setup/plugin.md
-    #                     - setup/them-cks-moi.md
-    #                     - setup/lap-va-phat-hanh-hoa-don.md
-    #                     - setup/thay-doi-thong-tin-doanh-nghiep.md
-    #                     - setup/xoa-hoa-don.md
-    #                     - setup/sua-hoa-don.md
-    #                     - setup/in-hang-loat.md
-    #                     - setup/chinh-thap-phan.md
-    #                     - setup/sao-chep-hoa-don.md
-    #                     - setup/gui-mail.md
-    #                     - setup/ky-hang-loat.md
-    #                     - setup/chuyen-ky-hieu.md
-    #                     - setup/cap-nhat-ky-hieu.md
-    #                       # - tutorials/thaoTac/suaTienBangTay.md
-    #                       # - tutorials/thaoTac/baoCaoChiTietHoaDon.md
-    #                       # - tutorials/thaoTac/basic.md
-    #                       # - tutorials/thaoTac/navigation.md
-    #                       # - tutorials/thaoTac/engage.md
-    #       - "Nghiệp vụ hoá đơn điện tử":
-    #                     - setup/thay-the-hoa-don.md
-    #                     - setup/dieu-chinh-hoa-don.md
-    #                     - setup/dieu-chinh-va-thay-the-tren-he-thong-khac.md
-    #                     - setup/huy-hoa-don.md
-    #                     - setup/huy-hoa-don-hang-loat.md
-    #                       #- setup/setting-up-versioning.md
-    #                       # - "Điều chỉnh hoá đơn":
-    #                       #     - setup/dieuChinh.md
-    #                       # # - tutorials/social/basic.md
-    #                       # # - tutorials/social/custom.md
-    #       - "Danh mục và báo cáo":
-    #                     - setup/bao-cao-tong-hop.md
-    #                     - setup/bao-cao-chi-tiet.md
-    #                     - setup/danh-muc-hang-hoa.md
-    #                     - setup/danh-muc-khach-hang.md
-    #                     - setup/danh-muc-don-vi-tinh.md
-    #                     - setup/danh-muc-thay-doi-thue-suat.md
-    #       - "Người dùng và phân quyền":
-    #                     - setup/them-nguoi-dung.md
-    #                     - setup/phan-quyen.md
+  - Chữ ký số:
+      - "":
+          - "Chữ ký số IntrustCA":
+              - setup/Chu-ky-so/them-intrustca.md
+              - setup/Chu-ky-so/thue-dien-tu-intrustca.md
+              - setup/Chu-ky-so/web-intrustca.md
+              - setup/Chu-ky-so/app-intrustca.md
+          #     - setup/them-cks-moi.md
+          #     - setup/lap-va-phat-hanh-hoa-don.md
+          #     - setup/thay-doi-thong-tin-doanh-nghiep.md
+          #     - setup/xoa-hoa-don.md
+          #     - setup/sua-hoa-don.md
+          #     - setup/in-hang-loat.md
+          #     - setup/chinh-thap-phan.md
+          #     - setup/sao-chep-hoa-don.md
+          #     - setup/gui-mail.md
+          #     - setup/ky-hang-loat.md
+          #     - setup/chuyen-ky-hieu.md
+          #     - setup/cap-nhat-ky-hieu.md
+          #       # - tutorials/thaoTac/suaTienBangTay.md
+          #       # - tutorials/thaoTac/baoCaoChiTietHoaDon.md
+          #       # - tutorials/thaoTac/basic.md
+          #       # - tutorials/thaoTac/navigation.md
+          #       # - tutorials/thaoTac/engage.md
+          # - "Nghiệp vụ hoá đơn điện tử":
+          #     - setup/thay-the-hoa-don.md
+          #     - setup/dieu-chinh-hoa-don.md
+          #     - setup/dieu-chinh-va-thay-the-tren-he-thong-khac.md
+          #     - setup/huy-hoa-don.md
+          #     - setup/huy-hoa-don-hang-loat.md
+          #       #- setup/setting-up-versioning.md
+          #       # - "Điều chỉnh hoá đơn":
+          #       #     - setup/dieuChinh.md
+          #       # # - tutorials/social/basic.md
+          #       # # - tutorials/social/custom.md
+          # - "Danh mục và báo cáo":
+          #     - setup/bao-cao-tong-hop.md
+          #     - setup/bao-cao-chi-tiet.md
+          #     - setup/danh-muc-hang-hoa.md
+          #     - setup/danh-muc-khach-hang.md
+          #     - setup/danh-muc-don-vi-tinh.md
+          #     - setup/danh-muc-thay-doi-thue-suat.md
+          # - "Người dùng và phân quyền":
+          #     - setup/them-nguoi-dung.md
+          #     - setup/phan-quyen.md
     # - setup/index.md
     # - Changing the colors: setup/changing-the-colors.md
     # - Changing the fonts: setup/changing-the-fonts.md

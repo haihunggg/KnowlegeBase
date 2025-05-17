@@ -57,6 +57,13 @@
   font-weight: bold;
 }
 
+#__nav_6_1_1_label,
+#__nav_6_1_2_label,
+#__nav_6_1_3_label,
+#__nav_6_1_4_label {
+  font-weight: bold;
+}
+
 #__nav_5_1 {
   font-weight: bold;
 }
