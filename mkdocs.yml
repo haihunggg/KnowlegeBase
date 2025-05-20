@@ -359,6 +359,9 @@ nav:
               - setup/huy-hoa-don.md
               - setup/huy-hoa-don-hang-loat.md
               - setup/giai-trinh-mau04ss.md
+          - "Xăng dầu ⛽":
+              - setup/xang-dau/huong-dan-xang-dau.md
+              - setup/xang-dau/ket-xuat-bao-cao-tru-bom.md
       # - setup/index.md
       # - Changing the colors: setup/changing-the-colors.md
       # - Changing the fonts: setup/changing-the-fonts.md
