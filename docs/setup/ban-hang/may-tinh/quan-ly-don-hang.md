@@ -18,7 +18,7 @@ Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm 
 
 ![Hình 2](../../../assets/images/mSeller/may-tinh/don-hang-2.png)
 
-![Hình 3](../../../assets/images/mSeller/may-tinh/ddon-hang-3.png)
+![Hình 3](../../../assets/images/mSeller/may-tinh/don-hang-3.png)
 
 ???+ tip "Chú thích theo ảnh"
 
