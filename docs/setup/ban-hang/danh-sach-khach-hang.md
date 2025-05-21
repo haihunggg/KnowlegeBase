@@ -16,9 +16,8 @@ Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm 
 
 ### Bước 2: Bấm dấu cộng để thêm khách hàng
 
-![Hình 2](../../assets/images/mSeller/danh-sach-khach-hang-2.png){: style="height:650px"}
-
-![Hình 3](../../assets/images/mSeller/danh-sach-khach-hang-3.png){: style="height:650px"}
+![Hình 2](../../assets/images/mSeller/danh-sach-khach-hang-2.png){: style="height:500px"}
+![Hình 3](../../assets/images/mSeller/danh-sach-khach-hang-3.png){: style="height:500px"}
 
 1. Điền thông tin doanh nghiệp nếu khách hàng là doanh nghiệp
 2. Điền thông tin người mua nếu khách hàng là cá nhân

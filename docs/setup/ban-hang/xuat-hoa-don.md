@@ -50,10 +50,11 @@ Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm 
 ![Hình 5](../../assets/images/mSeller/xuat-hoa-don-5.png){: style="height:500px"}
 ![Hình 6](../../assets/images/mSeller/xuat-hoa-don-6.png){: style="height:500px"}
 
-Chọn in đơn hàng để ra in bill đơn hàng
-![Hình 9](../../assets/images/mSeller/xuat-hoa-don-9.png){: style="height:600px"}
+<span style="color: red; font-weight: bold">Chọn in đơn hàng để ra in bill đơn hàng</span>
 
-Chọn in hóa đơn luôn sau khi khách hàng thanh toán
+![Hình 9](../../assets/images/mSeller/xuat-hoa-don-9.png)
+
+<span style="color: red; font-weight: bold">Chọn in hóa đơn luôn sau khi khách hàng thanh toán</span>
 
 ![Hình 7](../../assets/images/mSeller/xuat-hoa-don-7.png){: style="height:500px"}
 ![Hình 8](../../assets/images/mSeller/xuat-hoa-don-8.png){: style="height:500px"}
