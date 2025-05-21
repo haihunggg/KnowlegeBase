@@ -33,7 +33,7 @@ Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm 
 
 ![Hình 4](../../assets/images/mSeller/xuat-hoa-don-4.png){: style="height:650px"}
 
-???+ Warning "Chú thích theo ảnh"
+???+ tip "Chú thích theo ảnh"
 
       1. Thêm sản phẩm nếu khách hàng mua nhiều
       2. Chọn đến khách hàng nếu là doanh nghiệp hoặc người mua để lại thông tin (cách thêm khách hàng theo hướng dẫn sau [Danh sách khách hàng](danh-sach-khach-hang.md#attribute-lists){ data-preview })
