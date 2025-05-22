@@ -478,3 +478,9 @@ nav:
               - setup/Chu-ky-so/thue-dien-tu-intrustca.md
               - setup/Chu-ky-so/web-intrustca.md
               - setup/Chu-ky-so/app-intrustca.md
+  - Tài liệu:
+      - "":
+          - "Tài liệu kỹ thuật 🖥️":
+              - ""
+          - "Tài liệu kinh doanh 💼":
+              - setup/tai-lieu/tai-lieu-kinh-doanh.md
