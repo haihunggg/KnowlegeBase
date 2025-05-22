@@ -480,7 +480,7 @@ nav:
               - setup/Chu-ky-so/app-intrustca.md
   - Tài liệu:
       - "":
-          - "Tài liệu kỹ thuật 🖥️":
-              - ""
           - "Tài liệu kinh doanh 💼":
               - setup/tai-lieu/tai-lieu-kinh-doanh.md
+          - "Tài liệu kỹ thuật 🖥️":
+              - ""
