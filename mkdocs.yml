@@ -293,6 +293,13 @@ nav:
   #         - How to upgrade: insiders/upgrade.md
   # - Community:
   - Home: index.md
+  # - Danh sách đơn vị tích hợp:
+  #     - "":
+  #         - "":
+  #             - Danh sách đơn vị tích hợp: setup/ds-don-vi-tich-hop/danh-sach-don-vi-tich-hop.md
+  - Đơn vị tích hợp:
+      - Danh sách đơn vị tích hợp: setup/ds-don-vi-tich-hop/danh-sach-don-vi-tich-hop.md
+
   - M-invoice 1.0:
       # - Installation: getting-started.md
       # - Publishing your site: publishing-your-site.md
