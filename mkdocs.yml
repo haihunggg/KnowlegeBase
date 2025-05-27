@@ -131,6 +131,7 @@ extra:
   generator: false
 # Extensions
 markdown_extensions:
+  - tables
   - pymdownx.details
   - pymdownx.superfences
   - abbr
@@ -299,6 +300,7 @@ nav:
   #             - Danh sách đơn vị tích hợp: setup/ds-don-vi-tich-hop/danh-sach-don-vi-tich-hop.md
   - Đơn vị tích hợp:
       - Danh sách đơn vị tích hợp: setup/ds-don-vi-tich-hop/danh-sach-don-vi-tich-hop.md
+      - Bổ sung các điểm mới theo ND70: setup/ds-don-vi-tich-hop/bo-sung-nd70.md
 
   - M-invoice 1.0:
       # - Installation: getting-started.md

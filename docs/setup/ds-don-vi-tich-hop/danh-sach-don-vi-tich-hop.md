@@ -4,21 +4,44 @@ hide:
 ---
 
 <style>
+  :root {
+    --bg-table: #ffffff;
+    --text-color: #000000;
+    --bg-header: #007acc;
+    --bg-row-alt: #fafafa;
+    --bg-hover: #e8f4ff;
+    --border-color: #ddd;
+    --highlight-color: yellow;
+    --filter-bg: #fff;
+  }
+
+  html[data-theme='dark'] {
+    --bg-table: #1e1e1e;
+    --text-color: #eeeeee;
+    --bg-header: #007acc;
+    --bg-row-alt: #2a2a2a;
+    --bg-hover: #2d3c4d;
+    --border-color: #444;
+    --highlight-color: #ffd700;
+    --filter-bg: #2a2a2a;
+  }
+
   #sheet-table-container {
     width: 100%;
     overflow-x: auto;
     padding: 16px;
     box-sizing: border-box;
     font-family: "Segoe UI", Roboto, Arial, sans-serif;
-    background-color: #f9f9f9;
+    background-color: var(--bg-row-alt);
+    color: var(--text-color);
   }
 
   #sheet-table-container table {
     width: 100%;
     border-collapse: collapse;
     font-size: 0.9em;
-    background: white;
-    border: 1px solid #ddd;
+    background: var(--bg-table);
+    border: 1px solid var(--border-color);
     border-radius: 8px;
     table-layout: auto;
   }
@@ -27,14 +50,15 @@ hide:
   td {
     padding: 10px 16px;
     text-align: left;
-    border-bottom: 1px solid #eee;
+    border-bottom: 1px solid var(--border-color);
     vertical-align: top;
     word-break: break-word;
+    color: var(--text-color);
   }
 
   th {
-    background-color: #007acc;
-    color: white;
+    background-color: var(--bg-header);
+    color: #ffffff;
     font-weight: 600;
     position: sticky;
     top: 0;
@@ -42,11 +66,11 @@ hide:
   }
 
   tr:nth-child(even) td {
-    background-color: #fafafa;
+    background-color: var(--bg-row-alt);
   }
 
   tr:hover td {
-    background-color: #e8f4ff;
+    background-color: var(--bg-hover);
   }
 
   .filter-row input,
@@ -54,12 +78,14 @@ hide:
     width: 100%;
     padding: 5px;
     font-size: 0.85em;
-    border: 1px solid #ccc;
+    border: 1px solid var(--border-color);
     border-radius: 4px;
+    background-color: var(--filter-bg);
+    color: var(--text-color);
   }
 
   .highlight {
-    background-color: yellow;
+    background-color: var(--highlight-color);
     font-weight: bold;
   }
 </style>
