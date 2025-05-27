@@ -6,7 +6,7 @@
 
     🔸 Từ thời điểm Nghị định có hiệu lực, phương thức "HUỶ HOÁ ĐƠN” chính thức bị bãi bỏ. Việc xử lý sai sót về hóa đơn sẽ được thực hiện thông qua hình thức “ĐIỀU CHỈNH” (API `api/InvoiceApi78/DieuChinh`) hoặc “THAY THẾ” (API `api/InvoiceApi78/ThayThe`) hóa đơn theo đúng quy định hiện hành.
 
-    🔸 Đồng thời, phương thức gọi API hủy hóa đơn (API `/api/InvoiceApi78/HuyHoaDon`) cũng sẽ bị ngưng sử dụng. Đối với các hệ thống tích hợp, Quý khách vui lòng cập nhật lại quy trình xử lý hóa đơn để đảm bảo tuân thủ.
+    🔸 Đồng thời, phương thức gọi API hủy hóa đơn (API `/api/InvoiceApi78/HuyHoaDon`) cũng sẽ bị ngưng sử dụng. Đối với các hệ thống tích hợp, Quý đối tác vui lòng cập nhật để tránh gặp gián đoạn trong quá trình xử lý nghiệp vụ.
 
 ???+ Info "Bổ sung loại hóa đơn"
 
