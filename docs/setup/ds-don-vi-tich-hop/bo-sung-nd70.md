@@ -2,11 +2,11 @@
 
 ???+ Danger "📢 THÔNG BÁO VỀ VIỆC BỎ PHƯƠNG THỨC HỦY HÓA ĐƠN THEO NGHỊ ĐỊNH 70/2025/NĐ-CP"
 
-    Căn cứ theo quy định mới tại Nghị định số 70/2025/NĐ-CP sửa đổi, bổ sung Nghị định 123/2020/NĐ-CP về hóa đơn, chứng từ điện tử, chúng tôi xin thông báo:
+    Căn cứ theo quy định mới tại Nghị định số 70/2025/NĐ-CP sửa đổi, bổ sung Nghị định 123/2020/NĐ-CP về hóa đơn, chúng tôi xin thông báo:
 
-    🔸 Từ thời điểm Nghị định có hiệu lực, phương thức “hủy hóa đơn” chính thức bị bãi bỏ. Việc xử lý sai sót về hóa đơn sẽ được thực hiện thông qua hình thức “điều chỉnh” hoặc “thay thế” hóa đơn theo đúng quy định hiện hành.
+    🔸 Từ thời điểm Nghị định có hiệu lực, phương thức "HUỶ HOÁ ĐƠN” chính thức bị bãi bỏ. Việc xử lý sai sót về hóa đơn sẽ được thực hiện thông qua hình thức “ĐIỀU CHỈNH” (API `api/InvoiceApi78/DieuChinh`) hoặc “THAY THẾ” (API `api/InvoiceApi78/ThayThe`) hóa đơn theo đúng quy định hiện hành.
 
-    🔸 Đồng thời, phương thức gọi API hủy hóa đơn (API `/HuyHoaDon`) cũng sẽ bị ngừng hỗ trợ. Đối với các hệ thống tích hợp, Quý khách vui lòng cập nhật lại quy trình xử lý hóa đơn để đảm bảo tuân thủ.
+    🔸 Đồng thời, phương thức gọi API hủy hóa đơn (API `/api/InvoiceApi78/HuyHoaDon`) cũng sẽ bị ngưng sử dụng. Đối với các hệ thống tích hợp, Quý khách vui lòng cập nhật lại quy trình xử lý hóa đơn để đảm bảo tuân thủ.
 
 ???+ Info "Bổ sung loại hóa đơn"
 
@@ -20,49 +20,237 @@
 
     Người bán
 
-    | Tên trường              | Kiểu dữ liệu | Độ dài | Bắt buộc | Ghi chú                                                  |
-    |--------------------------|--------------|--------|-----------|-----------------------------------------------------------|
-    | `ma_ch`                  | string       | 250    |           | Mã cửa hàng                                              |
-    | `ten_ch`                 | string       | 250    |           | Tên cửa hàng                                              |
-    | `dchicuahang`            | string       | 250    |           | Địa chỉ cửa hàng                                          |
+    <table border="1" cellspacing="0" cellpadding="5" style="border-collapse: collapse; width: 100%;">
+    <thead>
+    <tr>
+      <th style="width: 150px; text-align: left;">Tên trường</th>
+      <th style="text-align: left;">Kiểu dữ liệu</th>
+      <th style="text-align: left;">Độ dài</th>
+      <th style="text-align: left;">Bắt buộc</th>
+      <th style="width: 200px; text-align: left;">Ghi chú</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+      <td><code>ma_ch</code></td>
+      <td>string</td>
+      <td>250</td>
+      <td></td>
+      <td>Mã cửa hàng</td>
+    </tr>
+    <tr>
+      <td><code>ten_ch</code></td>
+      <td>string</td>
+      <td>250</td>
+      <td></td>
+      <td>Tên cửa hàng</td>
+    </tr>
+    <tr>
+      <td><code>dchicuahang</code></td>
+      <td>string</td>
+      <td>250</td>
+      <td></td>
+      <td>Địa chỉ cửa hàng</td>
+    </tr>
+    </tbody>
+    </table>
 
 
     Người mua
 
-    | Tên trường              | Kiểu dữ liệu | Độ dài | Bắt buộc | Ghi chú                                                  |
-    |--------------------------|--------------|--------|-----------|-----------------------------------------------------------|
-    | `mdvqhnsach_nmua`        | string       | 7      | Bắt buộc  | Mã đơn vị Quan hệ Ngân sách (Theo Khoản 7 điều 1 NĐ 70)   |
-    | `so_hchieu`              | string       | 20     |           | Số hộ chiếu người mua                                     |
-    | `cccd`                   | string       | 20     |           | Căn cước công dân người mua                               |
-    | `socialDeductionAmount` | decimal      | 21,6   |           | Phí vận chuyển *(Liên hệ Kỹ thuật để cấu hình thêm)*     |
-    | `ratioOrtherTax`        | decimal      | 21,6   |           | Thuế Tiêu thụ đặc biệt *(Liên hệ Kỹ thuật để cấu hình)*  |
-    | `ortherFee`             | decimal      | 21,6   |           | Tiền thuế Tiêu thụ đặc biệt *(Liên hệ Kỹ thuật để cấu hình)* |
+    <table border="1" cellspacing="0" cellpadding="5" style="border-collapse: collapse; width: 100%;">
+    <thead>
+    <tr>
+      <th style="width: 170px; text-align: left;">Tên trường</th>
+      <th style="text-align: left;">Kiểu dữ liệu</th>
+      <th style="text-align: left;">Độ dài</th>
+      <th style="text-align: left;">Bắt buộc</th>
+      <th style="width: 200px; text-align: left;">Ghi chú</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+      <td><code>mdvqhnsach_nmua</code></td>
+      <td>string</td>
+      <td>7</td>
+      <td>Bắt buộc</td>
+      <td>Mã đơn vị Quan hệ Ngân sách (Theo Khoản 7 điều 1 NĐ 70)</td>
+    </tr>
+    <tr>
+      <td><code>so_hchieu</code></td>
+      <td>string</td>
+      <td>20</td>
+      <td></td>
+      <td>Số hộ chiếu người mua</td>
+    </tr>
+    <tr>
+      <td><code>cccd</code></td>
+      <td>string</td>
+      <td>20</td>
+      <td></td>
+      <td>Căn cước công dân người mua</td>
+    </tr>
+    <tr>
+      <td><code>socialDeductionAmount</code></td>
+      <td>decimal</td>
+      <td>21,6</td>
+      <td></td>
+      <td>Phí vận chuyển <em>(Liên hệ Kỹ thuật để cấu hình thêm)</em></td>
+    </tr>
+    <tr>
+      <td><code>ratioOrtherTax</code></td>
+      <td>decimal</td>
+      <td>21,6</td>
+      <td></td>
+      <td>Thuế Tiêu thụ đặc biệt <em>(Liên hệ Kỹ thuật để cấu hình)</em></td>
+    </tr>
+    <tr>
+      <td><code>ortherFee</code></td>
+      <td>decimal</td>
+      <td>21,6</td>
+      <td></td>
+      <td>Tiền thuế Tiêu thụ đặc biệt <em>(Liên hệ Kỹ thuật để cấu hình)</em></td>
+    </tr>
+    </tbody>
+    </table>
 
-??? Info "Bổ sung hóa đơn bán tài sản công"
+??? Info "Bổ sung thêm các trường thông tin (áp dụng hóa đơn bán tài sản công)"
 
-    | Tên trường         | Kiểu dữ liệu | Độ dài | Bắt buộc | Ghi chú                                                               |
-    |--------------------|--------------|--------|-----------|------------------------------------------------------------------------|
-    | `mdvqhnsach_nban`  | string       | 7      | Bắt buộc  | Mã đơn vị quan hệ ngân sách (Mã số đơn vị có quan hệ với ngân sách của đơn vị bán tài sản công) |
-    | `so_qdinh`         | string       | 50     |           | Số quyết định (Số quyết định bán tài sản)                             |
-    | `ngay_qdinh`       | date         | –      |           | Ngày quyết định (Ngày quyết định bán tài sản)                         |
-    | `cqbhanh_qdinh`    | string       | 200    |           | Cơ quan ban hành quyết định                                           |
-    | `hthuc_ban`        | string       | 200    |           | Hình thức bán                                                          |
-    | `dd_vchuyen`       | string       | 400    |           | Địa điểm vận chuyển hàng đến                                          |
-    | `tg_vchuyen`       | date         | –      |           | Ngày bắt đầu vận chuyển                                               |
-    | `tg_vchuyen_den`   | date         | –      |           | Ngày vận chuyển đến                                                   |
+    <table border="1" cellspacing="0" cellpadding="5" style="border-collapse: collapse; width: 100%;">
+    <thead>
+    <tr>
+      <th style="width: 170px; text-align: left;">Tên trường</th>
+      <th style="text-align: left;">Kiểu dữ liệu</th>
+      <th style="text-align: left;">Độ dài</th>
+      <th style="text-align: left;">Bắt buộc</th>
+      <th style="width: 200px; text-align: left;">Ghi chú</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+      <td><code>mdvqhnsach_nban</code></td>
+      <td>string</td>
+      <td>7</td>
+      <td>Bắt buộc</td>
+      <td>Mã đơn vị quan hệ ngân sách (Mã số đơn vị có quan hệ với ngân sách của đơn vị bán tài sản công)</td>
+    </tr>
+    <tr>
+      <td><code>so_qdinh</code></td>
+      <td>string</td>
+      <td>50</td>
+      <td></td>
+      <td>Số quyết định (Số quyết định bán tài sản)</td>
+    </tr>
+    <tr>
+      <td><code>ngay_qdinh</code></td>
+      <td>date</td>
+      <td>–</td>
+      <td></td>
+      <td>Ngày quyết định (Ngày quyết định bán tài sản)</td>
+    </tr>
+    <tr>
+      <td><code>cqbhanh_qdinh</code></td>
+      <td>string</td>
+      <td>200</td>
+      <td></td>
+      <td>Cơ quan ban hành quyết định</td>
+    </tr>
+    <tr>
+      <td><code>hthuc_ban</code></td>
+      <td>string</td>
+      <td>200</td>
+      <td></td>
+      <td>Hình thức bán</td>
+    </tr>
+    <tr>
+      <td><code>dd_vchuyen</code></td>
+      <td>string</td>
+      <td>400</td>
+      <td></td>
+      <td>Địa điểm vận chuyển hàng đến</td>
+    </tr>
+    <tr>
+      <td><code>tg_vchuyen</code></td>
+      <td>date</td>
+      <td>–</td>
+      <td></td>
+      <td>Ngày bắt đầu vận chuyển</td>
+    </tr>
+    <tr>
+      <td><code>tg_vchuyen_den</code></td>
+      <td>date</td>
+      <td>–</td>
+      <td></td>
+      <td>Ngày vận chuyển đến</td>
+    </tr>
+    </tbody>
+    </table>
 
-??? Info "Bổ sung các trường đối với phần chi tiết hóa đơn"
+??? Info "Bổ sung các trường thông tin đối với phần chi tiết hóa đơn"
 
-    Bổ sung thêm `Hàng hóa đặc trưng` giá trị tính chất là `5`
+    Bổ sung thêm `HÀNG HÓA ĐẶC TRƯNG` giá trị tính chất là `5`
 
     Tính chất hàng hóa đặc trưng sẽ thêm các trường sau
 
-    | Tên trường     | Kiểu dữ liệu | Độ dài | Bắt buộc | Ghi chú                                                                                   |
-    |----------------|--------------|--------|-----------|--------------------------------------------------------------------------------------------|
-    | `skhung`       | string       | 200    | Bắt buộc  | Số khung <br><span style="color:red">(Đối với hóa đơn đặc trưng Bán mô tô, xe mô tô)</span> |
-    | `smay`         | string       | 200    | Bắt buộc  | Số Máy <br><span style="color:red">(Đối với hóa đơn đặc trưng Bán mô tô, xe mô tô)</span>   |
-    | `bien_sxe`     | string       | 200    | Bắt buộc  | Biển số xe <br><span style="color:red">(Đối với hóa đơn đặc trưng Bán mô tô, xe mô tô)</span>|
-    | `ten_ngui`     | string       | 200    | Bắt buộc  | Tên người gửi hàng <br><span style="color:red">(Đối với Dịch vụ vận chuyển trên nền tảng số, TMĐT)</span> |
-    | `dc_ngui`      | string       | 200    | Bắt buộc  | Địa chỉ người gửi hàng <br><span style="color:red">(Đối với Dịch vụ vận chuyển trên nền tảng số, TMĐT)</span> |
-    | `mst_ngui`     | string       | 200    | Bắt buộc  | MST người gửi hàng <br><span style="color:red">(Đối với Dịch vụ vận chuyển trên nền tảng số, TMĐT)</span> |
-    | `sddanh_ngui`  | string       | 200    | Bắt buộc  | Căn cước công dân người gửi <br><span style="color:red">(Đối với Dịch vụ vận chuyển trên nền tảng số, TMĐT)</span> |
+    <table border="1" cellspacing="0" cellpadding="5" style="border-collapse: collapse; width: 100%;">
+    <thead>
+    <tr>
+      <th style="width: 150px; text-align: left;">Tên trường</th>
+      <th style="text-align: left;">Kiểu dữ liệu</th>
+      <th style="text-align: left;">Độ dài</th>
+      <th style="text-align: left;">Bắt buộc</th>
+      <th style="width: 200px; text-align: left;">Ghi chú</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+      <td><code>skhung</code></td>
+      <td>string</td>
+      <td>200</td>
+      <td>Bắt buộc</td>
+      <td>Số khung<br><span style="color:red">(Đối với hóa đơn đặc trưng Bán mô tô, xe mô tô)</span></td>
+    </tr>
+    <tr>
+      <td><code>smay</code></td>
+      <td>string</td>
+      <td>200</td>
+      <td>Bắt buộc</td>
+      <td>Số Máy<br><span style="color:red">(Đối với hóa đơn đặc trưng Bán mô tô, xe mô tô)</span></td>
+    </tr>
+    <tr>
+      <td><code>bien_sxe</code></td>
+      <td>string</td>
+      <td>200</td>
+      <td>Bắt buộc</td>
+      <td>Biển số xe<br><span style="color:red">(Đối với hóa đơn đặc trưng Bán mô tô, xe mô tô)</span></td>
+    </tr>
+    <tr>
+      <td><code>ten_ngui</code></td>
+      <td>string</td>
+      <td>200</td>
+      <td>Bắt buộc</td>
+      <td>Tên người gửi hàng<br><span style="color:red">(Đối với Dịch vụ vận chuyển trên nền tảng số, TMĐT)</span></td>
+    </tr>
+    <tr>
+      <td><code>dc_ngui</code></td>
+      <td>string</td>
+      <td>200</td>
+      <td>Bắt buộc</td>
+      <td>Địa chỉ người gửi hàng<br><span style="color:red">(Đối với Dịch vụ vận chuyển trên nền tảng số, TMĐT)</span></td>
+    </tr>
+    <tr>
+      <td><code>mst_ngui</code></td>
+      <td>string</td>
+      <td>200</td>
+      <td>Bắt buộc</td>
+      <td>MST người gửi hàng<br><span style="color:red">(Đối với Dịch vụ vận chuyển trên nền tảng số, TMĐT)</span></td>
+    </tr>
+    <tr>
+      <td><code>sddanh_ngui</code></td>
+      <td>string</td>
+      <td>200</td>
+      <td>Bắt buộc</td>
+      <td>Căn cước công dân người gửi<br><span style="color:red">(Đối với Dịch vụ vận chuyển trên nền tảng số, TMĐT)</span></td>
+    </tr>
+    </tbody>
+    </table>
