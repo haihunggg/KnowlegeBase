@@ -1,4 +1,4 @@
-## **Thông tin và các trường bổ sung theo ND70 (áp dụng từ ngày 01/06/2025)**
+## **Thông tin và các trường bổ sung theo NGHỊ ĐỊNH 70/2025/NĐ-CP (áp dụng từ ngày 01/06/2025)**
 
 ???+ Danger "📢 THÔNG BÁO VỀ VIỆC BỎ PHƯƠNG THỨC HỦY HÓA ĐƠN THEO NGHỊ ĐỊNH 70/2025/NĐ-CP"
 
