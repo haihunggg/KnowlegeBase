@@ -188,7 +188,7 @@
 
 ??? Info "Bổ sung các trường thông tin đối với phần chi tiết hóa đơn"
 
-    Bổ sung thêm `HÀNG HÓA ĐẶC TRƯNG` giá trị tính chất là `5`
+    Bổ sung thêm tính chất `HÀNG HÓA ĐẶC TRƯNG` giá trị tính chất là `5`
 
     Tính chất hàng hóa đặc trưng sẽ thêm các trường sau
 
