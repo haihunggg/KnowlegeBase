@@ -152,6 +152,7 @@ Công thức giảm thuế mẫu
       "inv_buyerBankName": "Ngân hàng TMCP Á Châu - ACB",
       "inv_paymentMethodName": "TM/CK",
       "nonTaxZone": 0,
+      "tlptdoanhthu20": 2,
       "isDeductionNQ43": true,
       "tgtck20": 5000,
       "inv_discountAmount": 0,
@@ -195,7 +196,7 @@ Công thức giảm thuế mẫu
 
     ![Hình 1](../../assets/images/tich-hop/nq174-1.png)
 
-??? Note "🔹 Trường hợp 2: Các thông tin trường cần thêm để giảm trên từng dòng hàng"
+??? Note "🔹 Trường hợp 2: Các thông tin trường cần thêm để giảm trên từng dòng hàng (dùng cho các trường hợp hóa đơn có cả hàng hóa giảm và không giảm)"
 
     Các trường thông tin:
     <table border="1" cellpadding="8" cellspacing="0" style="border-collapse: collapse; width: 100%;">
@@ -259,6 +260,7 @@ Công thức giảm thuế mẫu
       "inv_buyerBankName": "Ngân hàng TMCP Á Châu - ACB",
       "inv_paymentMethodName": "TM/CK",
       "nonTaxZone": 0,
+      "tlptdoanhthu20": 2,
       "isDeductionNQ43": true,
       "inv_discountAmount": 0,
       "inv_TotalAmount": 606340,
