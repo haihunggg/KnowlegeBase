@@ -77,9 +77,9 @@ Công thức giảm thuế mẫu
   </tbody>
 </table>
 
-Cách thể hiện trên hóa đơn
+<span style="color:red">Cách trường thông tin cần truyền</span>
 
-??? Note "🔹 Trường hợp 1: Giảm trên cả hóa đơn"
+??? Note "🔹 Trường hợp 1: Các thông tin trường cần thêm để giảm trên cả hóa đơn"
 
     Các trường thông tin:
     <table border="1" cellspacing="0" cellpadding="5" style="border-collapse: collapse; width: 100%;">
@@ -191,8 +191,11 @@ Cách thể hiện trên hóa đơn
         ]
         }
     ```
+    Kết quả mong muốn:
 
-??? Note "🔹 Trường hợp 2: Giảm trên từng dòng hàng"
+    ![Hình 1](../../assets/images/tich-hop/nq174-1.png)
+
+??? Note "🔹 Trường hợp 2: Các thông tin trường cần thêm để giảm trên từng dòng hàng"
 
     Các trường thông tin:
     <table border="1" cellpadding="8" cellspacing="0" style="border-collapse: collapse; width: 100%;">
@@ -296,3 +299,6 @@ Cách thể hiện trên hóa đơn
     ]
     }
     ```
+    Kết quả mong muốn:
+
+    ![Hình 2](../../assets/images/tich-hop/nq174-2.png)
