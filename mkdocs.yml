@@ -333,6 +333,7 @@ nav:
               #- Hủy hóa đơn: tutorials/nghiep-vu/huy.md
               - Lập biên bản hóa đơn sai sót: tutorials/nghiep-vu/lap-bien-ban-hoa-don.md
               - Điều chỉnh hóa đơn: tutorials/nghiep-vu/dieu-chinh.md
+              - Điều chỉnh hoá đơn về 0: tutorials/nghiep-vu/dieu-chinh-giam-ve-0.md
               - Thay thế hóa đơn: tutorials/nghiep-vu/thay-the.md
               - Giải trình hóa đơn: tutorials/nghiep-vu/lap-04ss.md
   - M-invoice 2.0:
@@ -365,6 +366,7 @@ nav:
           - "Nghiệp vụ hoá đơn điện tử":
               - setup/thay-the-hoa-don.md
               - setup/dieu-chinh-hoa-don.md
+              - Điều chỉnh hoá đơn về 0: setup/dieu-chinh-giam-ve-0.md
               - setup/dieu-chinh-va-thay-the-tren-he-thong-khac.md
               - Lập biên bản hóa đơn sai sót: setup/lap-bien-ban-hoa-don.md
               #    - setup/huy-hoa-don-hang-loat.md

@@ -1,6 +1,6 @@
 # **Hướng dẫn lập biên bản hoá đơn điều chỉnh thay thế**
 
-!!! Ghi chú
+!!! Note "Ghi chú"
 
     Người sử dụng có thể sử dụng thao tác này để lập biên bản khi làm nghiệp vụ thay thế hay điều chỉnh hóa đơn
 
@@ -20,9 +20,7 @@
 
 ![Hình 3](../../assets/images/invoice1/1-bienban-3.png)
 
-<span style="color:red;">Cần phải có plugin ký nếu là chữ ký số USB</span>
-
-[Hướng dẫn cài đặt plugin](../thao-tac/cai-dat-plugin.md#attribute-lists){ data-preview }
+<span style="color:red;">Hiện tại chỉ ký được biên bản nếu cks là cks hsm</span>
 
 ### Bước 4 : Xem và in biên bản
 
