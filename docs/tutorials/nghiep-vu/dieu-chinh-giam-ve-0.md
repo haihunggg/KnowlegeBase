@@ -43,7 +43,7 @@ Kiểm tra các thông tin hóa đơn nếu đúng thì bấm lưu
 
 ![Hình 6](../../assets/images/invoice1/1.0_dieu-chinh-giam_6.png)
 
-Sau khi điều chỉnh người dùng có thể lập biên bản theo hướng dẫn sau [Hướng dẫn lập biên bản hóa đơn](../tutorials/nghiep-vu/lap-bien-ban-hoa-don.md#attribute-lists){ data-preview }
+Sau khi điều chỉnh người dùng có thể lập biên bản theo hướng dẫn sau [Hướng dẫn lập biên bản hóa đơn](../nghiep-vu/lap-bien-ban-hoa-don.md#attribute-lists){ data-preview }
 
 ???+ info "Xin chân thành cảm ơn quý khách hàng đã tin dùng sản phẩm của M-Invoice"
 
