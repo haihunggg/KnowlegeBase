@@ -47,7 +47,8 @@
 #__nav_4_1_1_label,
 #__nav_4_1_2_label,
 #__nav_4_1_3_label,
-#__nav_4_1_4_label {
+#__nav_4_1_4_label,
+#__nav_4_1_5_label {
   font-weight: bold;
 }
 
@@ -72,7 +73,8 @@
   font-weight: bold;
 }
 
-#__nav_5_1 {
+#__nav_5_1_1_label,
+#__nav_5_1_2_label {
   font-weight: bold;
 }
 

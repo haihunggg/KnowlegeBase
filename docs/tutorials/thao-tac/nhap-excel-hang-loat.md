@@ -48,6 +48,14 @@
 
     + Phần trăm thuế: NSD nhập đúng phần trăm thuế là 5,10,7, -1 tương  với không chịu thuế và -2 tương ứng với không kê khai
 
+![Hình 5](../../assets/images/invoice1/1.0_excelHangLoat_5.png)
+
+???+ Warning "NĐ70"
+
+    Theo nghị định 70 sẽ có thông tin của các trường mới như căn cước công dân, mã đơn vị quan hệ ngân sách, hộ chiếu, mã cửa hàng và tên cửa hàng
+
+    Anh chị có thể điền vào đằng sau của các thông tin khác của hóa đơn như hình ảnh trên
+
 !!! info "Xin chân thành cảm ơn Quý khách hàng đã tin dùng sản phẩm của M-Invoice"
 
     Có bất kỳ vướng mắc nào trong quá trình sử dụng hãy liên hệ với M-Invoice tại mục Hỗ trợ kỹ thuật góc phải bên dưới màn hình hoặc gọi tổng đài kỹ thuật của M-Invoice (1900.955.557 Nhánh 1)
