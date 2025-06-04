@@ -336,6 +336,7 @@ nav:
               - Điều chỉnh hoá đơn về 0: tutorials/nghiep-vu/dieu-chinh-giam-ve-0.md
               - Thay thế hóa đơn: tutorials/nghiep-vu/thay-the.md
               - Giải trình hóa đơn: tutorials/nghiep-vu/lap-04ss.md
+              - Gửi mẫu 04ss thay thế hoặc điều chỉnh hoá đơn: tutorials/nghiep-vu/thay-the-mau04ss.md
   - M-invoice 2.0:
       - "":
           - "Hướng dẫn sử dụng":
@@ -351,15 +352,11 @@ nav:
               - setup/chinh-thap-phan.md
               - setup/gui-mail.md
               - setup/ky-hang-loat.md
+              - setup/nhap-excel-hang-loat.md
+              - setup/nhap-excel-chi-tiet.md
               - setup/chuyen-ky-hieu.md
               - setup/them-nguoi-dung.md
               - setup/phan-quyen.md
-              - setup/bao-cao-tong-hop.md
-              - setup/bao-cao-chi-tiet.md
-              - setup/danh-muc-hang-hoa.md
-              - setup/danh-muc-khach-hang.md
-              - setup/danh-muc-don-vi-tinh.md
-              - setup/danh-muc-thay-doi-thue-suat.md
           - "Các lỗi thường gặp khi sử dụng phần mềm":
               - setup/cac-loi-ky-hoa-don.md
               - setup/tong-hop-cac-loi-cqt.md
@@ -371,6 +368,14 @@ nav:
               - Lập biên bản hóa đơn sai sót: setup/lap-bien-ban-hoa-don.md
               #    - setup/huy-hoa-don-hang-loat.md
               - setup/giai-trinh-mau04ss.md
+              - setup/thay-the-mau04ss.md
+          - "Danh mục và báo cáo":
+              - setup/bao-cao-tong-hop.md
+              - setup/bao-cao-chi-tiet.md
+              - setup/danh-muc-hang-hoa.md
+              - setup/danh-muc-khach-hang.md
+              - setup/danh-muc-don-vi-tinh.md
+              - setup/danh-muc-thay-doi-thue-suat.md
           - "Xăng dầu ⛽":
               - setup/xang-dau/huong-dan-xang-dau.md
               - setup/xang-dau/ket-xuat-bao-cao-tru-bom.md
@@ -490,6 +495,8 @@ nav:
               - setup/Chu-ky-so/thue-dien-tu-intrustca.md
               - setup/Chu-ky-so/web-intrustca.md
               - setup/Chu-ky-so/app-intrustca.md
+          - "Ký điện tử":
+              - setup/Chu-ky-so/ky-bang-foxit.md
   - Tài liệu:
       - "":
           - "Tài liệu kinh doanh 💼":
