@@ -21,15 +21,15 @@ Nghiệp vụ này cung cấp khả năng hủy hàng loạt hóa đơn đã ký
 
 **Thao tác cài đặt và thực hiện như sau**
 
-### Bước 1: Chọn vào phần Xử lý sai xót --> Thông báo HĐ sai xót 04/ss-HDDT
+### **Bước 1: Chọn vào phần Xử lý sai xót --> Thông báo HĐ sai xót 04/ss-HDDT**
 
 ![Hình 1](../assets/images/invoice2/2.0_huy-hang-loat_1.png)
 
-### Bước 2: Nhấn vào Thêm (F4)
+### **Bước 2: Nhấn vào Thêm (F4)**
 
 ![Hình 2](../assets/images/invoice2/2.0_huy-hang-loat_2.png)
 
-### Bước 3 : Nhấn chọn hóa đơn
+### **Bước 3 : Nhấn chọn hóa đơn**
 
 ![Hình 3](../assets/images/invoice2/2.0_huy-hang-loat_3.png)
 
@@ -41,11 +41,11 @@ Nghiệp vụ này cung cấp khả năng hủy hàng loạt hóa đơn đã ký
 4: nhấn để tích chọn hàng loạt
 5: Nhấn Đồng ý để lưu
 
-### Bước 4 : Nhập thông tin vào phần lý do sai sót sau đó nhấn Lưu
+### **Bước 4 : Nhập thông tin vào phần lý do sai sót sau đó nhấn Lưu**
 
 ![Hình 5](../assets/images/invoice2/2.0_huy-hang-loat_5.png)
 
-### Bước 5 : Chọn 04ss chọn ký
+### **Bước 5 : Chọn 04ss chọn ký**
 
 ![Hình 6](../assets/images/invoice2/2.0_huy-hang-loat_6.png)
 

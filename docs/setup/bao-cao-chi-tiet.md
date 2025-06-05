@@ -4,17 +4,17 @@ Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm 
 
 ## **Hướng dẫn xem báo cáo chi tiết hóa đơn**
 
-### Bước 1: Ở giao diện trang chủ chọn Báo cáo --> Báo cáo chi tiết hóa đơn
+### **Bước 1: Ở giao diện trang chủ chọn Báo cáo --> Báo cáo chi tiết hóa đơn**
 
 ![Hình 1](../assets/images/invoice2/2.0_bao-cao-chi-tiet_1.png)
 
-### Bước 2: Chọn điều kiện lọc
+### **Bước 2: Chọn điều kiện lọc**
 
 ![Hình 2](../assets/images/invoice2/2.0_bao-cao-chi-tiet_2.png)
 
 Nhấn nhận để hệ thống tải báo cáo theo điều kiện lọc
 
-### Bước 3 : Chọn tải file Excel để kết xuất báo cáo về
+### **Bước 3 : Chọn tải file Excel để kết xuất báo cáo về**
 
 ![Hình 3](../assets/images/invoice2/2.0_bao-cao-chi-tiet_3.png)
 

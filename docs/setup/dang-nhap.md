@@ -6,7 +6,7 @@ Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm 
 
 **Thao tác cài đặt và thực hiện như sau**
 
-### Bước 1: Truy cập trình duyệt
+### **Bước 1: Truy cập trình duyệt**
 
 Quý khách truy cập vào trình duyệt đang dùng:
 
@@ -31,7 +31,7 @@ Mã_số_thuế: là mã số thuế của công ty
 
 ![Hình 2](../assets/images/invoice2/2.0_dang-nhap_2.png)
 
-### Bước 2: Điền thông tin tài khoản để đăng nhập
+### **Bước 2: Điền thông tin tài khoản để đăng nhập**
 
 ![Hình 3](../assets/images/invoice2/2.0_dang-nhap_3.png)
 

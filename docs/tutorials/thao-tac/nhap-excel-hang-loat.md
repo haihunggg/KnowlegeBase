@@ -11,15 +11,15 @@
 [pip]: #with-pip
 [docker]: #with-docker -->
 
-### Bước 1: NSD click vào chức năng chọn Tạo hóa đơn từ file excel
+### **Bước 1: NSD click vào chức năng chọn Tạo hóa đơn từ file excel**
 
 ![Hình 1](../../assets/images/invoice1/1.0_excelHangLoat_1.png)
 
-### Bước 2: NSD Tải file mẫu excel để nhập thông tin
+### **Bước 2: NSD Tải file mẫu excel để nhập thông tin**
 
 ![Hình 2](../../assets/images/invoice1/1.0_excelHangLoat_2.png)
 
-### Bước 3 : NSD Điền đầy đủ thông tin khách hàng tại excel
+### **Bước 3 : NSD Điền đầy đủ thông tin khách hàng tại excel**
 
 ![Hình 3](../../assets/images/invoice1/1.0_excelHangLoat_3.png)
 
@@ -32,7 +32,7 @@
     - **Ngày hóa đơn:** NSD để đúng định dạng `dd/MM/yyyy`.
     Nếu nhập sai sẽ báo lỗi và không nhận được.
 
-### Bước 4: Điền đầy đủ thông tin tại chi tiết
+### **Bước 4: Điền đầy đủ thông tin tại chi tiết**
 
 ![Hình 4](../../assets/images/invoice1/1.0_excelHangLoat_4.png)
 
@@ -129,7 +129,7 @@ MkDocs on GitHub Pages in a step-by-step guide.
 [Python Markdown Extensions]: https://facelessuser.github.io/pymdown-extensions/
 [Using Python's pip to Manage Your Projects' Dependencies]: https://realpython.com/what-is-pip/
 
-### with docker
+### **with docker**
 
 The official [Docker image] is a great way to get up and running in a few
 minutes, as it comes with all dependencies pre-installed. Open up a terminal
@@ -196,7 +196,7 @@ The following plugins are bundled with the Docker image:
     The new image will have additional packages installed and can be used
     exactly like the official image.
 
-### with git
+### **with git**
 
 Material for MkDocs can be directly used from [GitHub] by cloning the
 repository into a subfolder of your project root which might be useful if you

@@ -10,7 +10,7 @@ Sử dụng để thêm đơn vị tính mới ngoài đơn vị tính có trên
 
     Trong quá trình lập hoá đơn, có nhiều đơn vị tính không có trên phần mềm. Để giảm thao tác nhập lại khi nhập đơn vị tính, M-Invoice hướng dẫn NSD thực hiện thao tác thêm đơn vị tính mới vào phần mềm:
 
-### Trên giao diện trang chủ truy cập Danh mục --> đơn vị tính
+### **Trên giao diện trang chủ truy cập Danh mục --> đơn vị tính**
 
 ![Hình 1](../assets/images/invoice2/2.0_danh-muc-don-vi-tinh_1.png)
 

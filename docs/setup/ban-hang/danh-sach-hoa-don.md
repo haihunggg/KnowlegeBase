@@ -10,7 +10,7 @@ Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm 
 
 **Thao tác cài đặt và thực hiện như sau**
 
-### Bước 1: Truy cập danh sách hóa đơn
+### **Bước 1: Truy cập danh sách hóa đơn**
 
 ![Hình 1](../../assets/images/mSeller/danh-sach-hoa-don-1.png){: style="height:650px"}
 
@@ -18,7 +18,7 @@ Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm 
 
 <span style="color: red; font-weight: bold">Anh/chị có thể tìm kiếm theo số hóa đơn ở thanh tìm kiếm</span>
 
-### Bước 2: Ký gửi hóa đơn
+### **Bước 2: Ký gửi hóa đơn**
 
 - Quý khách vuốt sang phải để chọn in hoặc ký hóa đơn
 
@@ -28,7 +28,7 @@ Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm 
 
 ![Hình 3](../../assets/images/mSeller/danh-sach-hoa-don-3.png){: style="height:650px"}
 
-### Bước 3: Gửi mail và Chia sẻ cho khách hàng
+### **Bước 3: Gửi mail và Chia sẻ cho khách hàng**
 
 ![Hình 4](../../assets/images/mSeller/danh-sach-hoa-don-4.png){: style="height:650px"}
 

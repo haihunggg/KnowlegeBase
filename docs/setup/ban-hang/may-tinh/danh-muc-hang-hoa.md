@@ -12,11 +12,11 @@ Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm 
 
 **Thao tác cài đặt và thực hiện như sau**
 
-### Bước 1: Truy cập Danh mục -> hàng hóa
+### **Bước 1: Truy cập Danh mục -> hàng hóa**
 
 ![Hình 1](../../../assets/images/mSeller/may-tinh/danh-muc-hang-hoa-1.png)
 
-### Bước 2: Thêm sửa xóa hàng hoá
+### **Bước 2: Thêm sửa xóa hàng hoá**
 
 **Thêm hàng hoá**
 
@@ -26,7 +26,7 @@ Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm 
 
 ![Hình 3](../../../assets/images/mSeller/may-tinh/danh-muc-hang-hoa-3.png)
 
-### Bước 3 : Nhập hàng hoá từ excel
+### **Bước 3 : Nhập hàng hoá từ excel**
 
 **Anh chị có thể kết xuất hàng hoá đã nhập ra excel nếu có nhu cầu**
 

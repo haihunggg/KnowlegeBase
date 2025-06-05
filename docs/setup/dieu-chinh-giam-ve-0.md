@@ -21,21 +21,21 @@ Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm 
 
 **Thao tác cài đặt và thực hiện như sau**
 
-### Bước 1: Chọn hóa đơn cần điều chỉnh -> Xử lý sai sót --> Thay thế
+### **Bước 1: Chọn hóa đơn cần điều chỉnh -> Xử lý sai sót --> Thay thế**
 
 ![Hình 1](../assets/images/invoice2/2.0_dieuchinhgiam_1.png)
 
-### Bước 2 : Bấm chọn hàng hóa để chọn lại hàng hóa của hóa đơn bị điều chỉnh
+### **Bước 2 : Bấm chọn hàng hóa để chọn lại hàng hóa của hóa đơn bị điều chỉnh**
 
 ![Hình 2](../assets/images/invoice2/2.0_dieuchinhgiam_2.png)
 
 ![Hình 3](../assets/images/invoice2/2.0_dieuchinhgiam_3.png)
 
-### Bước 3 : Điền âm số lượng hóa đơn
+### **Bước 3 : Điền âm số lượng hóa đơn**
 
 ![Hình 4](../assets/images/invoice2/2.0_dieuchinhgiam_4.png)
 
-### Bước 4 : Kiểm tra các thông tin của hóa đơn -> LƯU
+### **Bước 4 : Kiểm tra các thông tin của hóa đơn -> LƯU**
 
 ![Hình 5](../assets/images/invoice2/2.0_dieuchinhgiam_5.png)
 

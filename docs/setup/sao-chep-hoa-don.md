@@ -10,15 +10,15 @@ Chức năng Sao chép giúp tạo nhanh 1 hóa đơn có nội dung tương t�
 
     Trong quá trình sử dụng hóa đơn điện tử, người dùng có những hóa đơn trùng nhau về mặt hàng hoặc thông tin của khách hàng. Sau đây, M-Invoice cho phép người sử dụng có thể tạo nhanh 1 hóa đơn mới từ 1 hóa đơn cũ có nội dung tương tự bằng chức năng Sao chép (Copy) 1 hóa đơn có sẵn.
 
-### Bước 1: Chọn hóa đơn muốn dùng làm mẫu
+### **Bước 1: Chọn hóa đơn muốn dùng làm mẫu**
 
 ![Hình 1](../assets/images/invoice2/2.0_sao-chep-hoa-don_1.png)
 
-### Bước 2: Click button "Sao chép"
+### **Bước 2: Click button "Sao chép"**
 
 ![Hình 2](../assets/images/invoice2/2.0_sao-chep-hoa-don_2.png)
 
-### Bước 3: Kiểm tra và chỉnh sửa nội dung hóa đơn được tạo ra
+### **Bước 3: Kiểm tra và chỉnh sửa nội dung hóa đơn được tạo ra**
 
 ???+ Note "Ghi chú"
 
@@ -28,7 +28,7 @@ Chức năng Sao chép giúp tạo nhanh 1 hóa đơn có nội dung tương t�
 
 ![Hình 3](../assets/images/invoice2/2.0_sao-chep-hoa-don_3.png)
 
-### Bước 4: Click "Lưu" để xác nhận lưu hóa đơn, "Đóng" để thoát trình tạo mới hóa đơn
+### **Bước 4: Click "Lưu" để xác nhận lưu hóa đơn, "Đóng" để thoát trình tạo mới hóa đơn**
 
 ![Hình 4](../assets/images/invoice2/2.0_sao-chep-hoa-don_4.png)
 

@@ -15,11 +15,11 @@
     frameborder="0" allowfullscreen>
 </iframe>
 
-### Bước 1: Chọn hóa đơn cần làm thay thế chọn phần Nghiệp vụ chọn lập hóa đơn thay thế
+### **Bước 1: Chọn hóa đơn cần làm thay thế chọn phần Nghiệp vụ chọn lập hóa đơn thay thế**
 
 ![Hình 1](../../assets/images/invoice1/1.0_thayThe_1.png)
 
-### Bước 2: Điền lại phần chi tiết hóa đơn như 1 tờ hóa đơn mới
+### **Bước 2: Điền lại phần chi tiết hóa đơn như 1 tờ hóa đơn mới**
 
 ![Hình 2](../../assets/images/invoice1/1.0_thayThe_2.png)
 
@@ -27,7 +27,7 @@ Nếu hóa đơn có nhiều dòng hàng hóa, bạn cũng có thể cọn copy 
 
 ![Hình 3](../../assets/images/invoice1/1.0_thayThe_3.png)
 
-### Bước 3 : Sau khi nhập xong bạn tiến hành lưu lại và ký gửi CQT 1 cách bình thường
+### **Bước 3 : Sau khi nhập xong bạn tiến hành lưu lại và ký gửi CQT 1 cách bình thường**
 
 ![Hình 4](../../assets/images/invoice1/1.0_thayThe_4.png)
 

@@ -6,11 +6,11 @@ Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm 
 
 **Tại trang chủ**
 
-### Bước 1: Anh/chị chọn Danh mục --> Danh sách giao dịch xăng dầu
+### **Bước 1: Anh/chị chọn Danh mục --> Danh sách giao dịch xăng dầu**
 
 ![Hình 1](../../assets/images/xangdau/huong-dan-1.png)
 
-### Bước 2:
+### **Bước 2:**
 
 **2.1: Tại giao diện “Danh sách giao dịch xăng dầu” có các log giao dịch được đẩy lên từ cò bơm**
 
@@ -50,27 +50,27 @@ Kiểm tra đủ thông tin khách hàng anh/chị nhấn “Lưu” để tạo
 
 ![Hình 9](../../assets/images/xangdau/huong-dan-9.png)
 
-### Bước 3 : Anh/chị quay trở lại “Danh sách giao dịch” tại log giao dịch cột “Số hóa đơn” hiển thị số hóa đơn đã tạo
+### **Bước 3 : Anh/chị quay trở lại “Danh sách giao dịch” tại log giao dịch cột “Số hóa đơn” hiển thị số hóa đơn đã tạo**
 
 ![Hình 10](../../assets/images/xangdau/huong-dan-10.png)
 
-### Bước 4 : Anh/chị vào mục “hóa đơn đầu ra”
+### **Bước 4 : Anh/chị vào mục “hóa đơn đầu ra”**
 
 ![Hình 11](../../assets/images/xangdau/huong-dan-11.png)
 
-### Bước 5 : Anh/chị chọn ký hiệu hóa đơn tương ứng
+### **Bước 5 : Anh/chị chọn ký hiệu hóa đơn tương ứng**
 
 ![Hình 12](../../assets/images/xangdau/huong-dan-12.png)
 
-### Bước 6 : Anh/chị nhập số hóa đơn tại cột “Số HĐ”
+### **Bước 6 : Anh/chị nhập số hóa đơn tại cột “Số HĐ”**
 
 ![Hình 13](../../assets/images/xangdau/huong-dan-13.png)
 
-### Bước 7 : Anh chị chọn biểu tượng “xem in” để kiểm tra thông tin hóa đơn
+### **Bước 7 : Anh chị chọn biểu tượng “xem in” để kiểm tra thông tin hóa đơn**
 
 ![Hình 14](../../assets/images/xangdau/huong-dan-14.png)
 
-### Bước 8 : Anh/chị chọn “ký gửi CQT”
+### **Bước 8 : Anh/chị chọn “ký gửi CQT”**
 
 ![Hình 15](../../assets/images/xangdau/huong-dan-15.png)
 

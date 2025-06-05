@@ -10,11 +10,11 @@ Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm 
 
 **Thao tác cài đặt và thực hiện như sau**
 
-### Bước 1: Truy cập Giao dịch
+### **Bước 1: Truy cập Giao dịch**
 
 ![Hình 1](../../assets/images/mSeller/sua-xoa-1.png){: style="height:650px"}
 
-### Bước 2: Vuốt sang phải để sửa xóa
+### **Bước 2: Vuốt sang phải để sửa xóa**
 
 ![Hình 2](../../assets/images/mSeller/sua-xoa-2.png){: style="height:650px"}
 

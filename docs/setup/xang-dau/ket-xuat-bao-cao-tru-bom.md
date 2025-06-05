@@ -2,23 +2,23 @@
 
 Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm hóa đơn điện tử M-Invoice ở phiên bản 2.0 vô cùng mạch lạc và dễ hiểu.
 
-### Bước 1: Anh/chị chọn Danh mục --> Danh sách giao dịch xăng dầu
+### **Bước 1: Anh/chị chọn Danh mục --> Danh sách giao dịch xăng dầu**
 
 ![Hình 1](../../assets/images/xangdau/huong-dan-1.png)
 
-### Bước 2: Chọn “Kết xuất báo cáo”
+### **Bước 2: Chọn “Kết xuất báo cáo”**
 
 ![Hình 2](../../assets/images/xangdau/ket-xuat-bao-cao-2.png)
 
-### Bước 3 : Anh/Chị chọn loại báo cáo tương ứng
+### **Bước 3 : Anh/Chị chọn loại báo cáo tương ứng**
 
 ![Hình 3](../../assets/images/xangdau/ket-xuat-bao-cao-3.png)
 
-### Bước 4 : Anh/chị lọc theo dữ liệu ngày tương ứng
+### **Bước 4 : Anh/chị lọc theo dữ liệu ngày tương ứng**
 
 ![Hình 3](../../assets/images/xangdau/ket-xuat-bao-cao-4.png)
 
-### Bước 5 : Chọn “Kết xuất Excel”
+### **Bước 5 : Chọn “Kết xuất Excel”**
 
 ![Hình 5](../../assets/images/xangdau/ket-xuat-bao-cao-5.png)
 

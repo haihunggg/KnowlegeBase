@@ -20,19 +20,19 @@ Chức năng Sao chép giúp tạo nhanh 1 hóa đơn có nội dung tương t�
 
 **Hướng dẫn sử dụng bằng hình ảnh nếu Quý khách không xem được video**
 
-### Bước 1: Chọn hóa đơn cần gửi email
+### **Bước 1: Chọn hóa đơn cần gửi email**
 
 ![Hình 1](../assets/images/invoice2/2.0_gui-mail_1.png)
 
-### Bước 2: Click button "Gửi email"
+### **Bước 2: Click button "Gửi email"**
 
 ![Hình 2](../assets/images/invoice2/2.0_gui-mail_2.png)
 
-### Bước 3: Nhập địa chỉ email cần gửi đến
+### **Bước 3: Nhập địa chỉ email cần gửi đến**
 
 ![Hình 3](../assets/images/invoice2/2.0_gui-mail_3.png)
 
-### Bước 4: Click "Gửi Email" để gửi email hóa đơn đi
+### **Bước 4: Click "Gửi Email" để gửi email hóa đơn đi**
 
 ![Hình 4](../assets/images/invoice2/2.0_gui-mail_4.png)
 

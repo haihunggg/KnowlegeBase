@@ -10,11 +10,11 @@ Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm 
 
 **Thao tác cài đặt và thực hiện như sau**
 
-### Bước 1: Truy cập Tài khoản -> danh sách hàng hóa
+### **Bước 1: Truy cập Tài khoản -> danh sách hàng hóa**
 
 ![Hình 1](../../assets/images/mSeller/danh-sach-hang-hoa-1.png){: style="height:650px"}
 
-### Bước 2: Bấm dấu cộng để thêm hàng hoá
+### **Bước 2: Bấm dấu cộng để thêm hàng hoá**
 
 ![Hình 2](../../assets/images/mSeller/danh-sach-hang-hoa-2.png){: style="height:500px"}
 ![Hình 3](../../assets/images/mSeller/danh-sach-hang-hoa-3.png){: style="height:500px"}
@@ -24,7 +24,7 @@ Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm 
 
 <span style="color: red; font-weight: bold">Mã hàng hóa là bắt buộc nhập để khi lập hóa đơn có thể truy xuất nhanh chóng</span>
 
-### Bước 3 : Bấm **LƯU** để lưu khách hàng
+### **Bước 3 : Bấm **LƯU** để lưu khách hàng**
 
 ![Hình 4](../../assets/images/mSeller/danh-sach-hang-hoa-4.png){: style="height:650px"}
 

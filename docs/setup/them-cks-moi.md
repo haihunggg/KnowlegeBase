@@ -4,7 +4,7 @@ Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm 
 
 ## **Hướng dẫn thay đổi CKS hoặc thêm CKS mới vào phần mềm**
 
-### Bước 1: Cắm CKS vào máy tính, kiểm tra xem plugin đã được bật chưa
+### **Bước 1: Cắm CKS vào máy tính, kiểm tra xem plugin đã được bật chưa**
 
 ![Hình 1](../assets/images/invoice2/2.0_them-cks-moi_1.png)
 
@@ -14,7 +14,7 @@ Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm 
 
     Nếu chưa, bạn chỉ cần gõ vào ô tìm kiếm của window ( window + S) tìm kiếm **Minvoice - Plugin Version 2.0** rồi bật  lên là được.
 
-### Bước 2: Thêm CKS vào phần mềm hóa đơn
+### **Bước 2: Thêm CKS vào phần mềm hóa đơn**
 
 ![Hình 2](../assets/images/invoice2/2.0_them-cks-moi_2.png)
 
@@ -30,7 +30,7 @@ Click vào loại **CKS** phù hợp nhất với mình
 
 Ở thanh Taskbar sẽ hiển thị lên biểu tượng của công cụ **Plugin Minvoice** các bạn chọn vào đó để thêm **CKS** mới của mình
 
-### Bước 3 : Làm tờ khai 01 thay đổi lên thuế về việc thay đổi CKS hay thông tin doanh nghiệp
+### **Bước 3 : Làm tờ khai 01 thay đổi lên thuế về việc thay đổi CKS hay thông tin doanh nghiệp**
 
 ![Hình 6](../assets/images/invoice2/2.0_them-cks-moi_6.png)
 
@@ -70,7 +70,7 @@ Các bạn vào phần **Đăng ký phát hành >> Lập tờ khai >> Thêm (F4)
 
 6, Sau khi add xong CKS, quý khách nhấn Lưu để **lưu** lại dữ liệu tờ khai 01 này
 
-### Bước 4 : Sau khi hoàn thành, các bạn chọn tờ khai mình vừa lập chọn Ký và gửi CQT
+### **Bước 4 : Sau khi hoàn thành, các bạn chọn tờ khai mình vừa lập chọn Ký và gửi CQT**
 
 ![Hình 11](../assets/images/invoice2/2.0_them-cks-moi_11.png)
 

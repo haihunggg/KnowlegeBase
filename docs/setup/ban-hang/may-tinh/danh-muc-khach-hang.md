@@ -12,11 +12,11 @@ Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm 
 
 **Thao tác cài đặt và thực hiện như sau**
 
-### Bước 1: Truy cập Danh mục -> khách hàng
+### **Bước 1: Truy cập Danh mục -> khách hàng**
 
 ![Hình 1](../../../assets/images/mSeller/may-tinh/danh-muc-khach-hang-1.png)
 
-### Bước 2: Thêm sửa xóa khách hàng
+### **Bước 2: Thêm sửa xóa khách hàng**
 
 **Thêm khách hàng**
 
@@ -34,7 +34,7 @@ Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm 
 
 ![Hình 3](../../../assets/images/mSeller/may-tinh/danh-muc-khach-hang-3.png)
 
-### Bước 3 : Nhập khách hàng từ excel
+### **Bước 3 : Nhập khách hàng từ excel**
 
 **Anh chị có thể kết xuất khách hàng đã nhập ra excel nếu có nhu cầu**
 

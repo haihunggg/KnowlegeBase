@@ -6,15 +6,15 @@
 
     Để tải được excel báo cáo chi tiết hoá đơn, các bạn phải cài đặt plugin ký số Minvoice
 
-### Bước 1: Truy cập vào phần Hóa đơn HĐ123 >> Báo cáo >> Báo cáo chi tiết hóa đơn
+### **Bước 1: Truy cập vào phần Hóa đơn HĐ123 >> Báo cáo >> Báo cáo chi tiết hóa đơn**
 
 ![Hình 1](../../assets/images/invoice1/1.0_baoCaoChiTiet_1.png)
 
-### Bước 2: Chọn các điều kiện để lọc báo cáo
+### **Bước 2: Chọn các điều kiện để lọc báo cáo**
 
 ![Hình 2](../../assets/images/invoice1/1.0_baoCaoChiTiet_2.png)
 
-### Bước 3 : Kết xuất báo cáo
+### **Bước 3 : Kết xuất báo cáo**
 
 ![Hình 3](../../assets/images/invoice1/1.0_baoCaoChiTiet_3.png)
 

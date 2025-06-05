@@ -10,7 +10,7 @@ Sử dụng để thêm mã hàng hoá, dịch vụ
 
     Trong quá trình lập hoá đơn, các mặt hàng được đặt theo mã do đơn vị đặt tên. Sau đây, M-Invoice hướng dẫn NSD tạo mã hàng hoá, dịch vụ
 
-### Trên giao diện trang chủ truy cập Danh mục --> Hàng hóa, dịch vụ
+### **Trên giao diện trang chủ truy cập Danh mục --> Hàng hóa, dịch vụ**
 
 ![Hình 1](../assets/images/invoice2/2.0_danh-muc-hang-hoa_1.png)
 

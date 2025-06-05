@@ -20,29 +20,29 @@ Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm 
 
 **Thao tác cài đặt và thực hiện như sau**
 
-### Bước 1: Nhấn vào xử lý sai sót => Thông báo HĐ sai sót 04ss-HDDT
+### **Bước 1: Nhấn vào xử lý sai sót => Thông báo HĐ sai sót 04ss-HDDT**
 
 ![Hình 1](../../assets/images/invoice1/1.0_gui04ss_1.png)
 
-### Bước 2: Bấm thêm
+### **Bước 2: Bấm thêm**
 
 ![Hình 2](../../assets/images/invoice1/1.0_gui04ss_2.png)
 
-### Bước 3 : Click chọn hoá đơn
+### **Bước 3 : Click chọn hoá đơn**
 
 ![Hình 3](../../assets/images/invoice1/1.0_gui04ss_3.png)
 
-### Bước 4 : Chọn ký hiệu, số hoá đơn 'bị điều chỉnh' hoặc 'bị thay thế'
+### **Bước 4 : Chọn ký hiệu, số hoá đơn 'bị điều chỉnh' hoặc 'bị thay thế'**
 
 ![Hình 4](../../assets/images/invoice1/1.0_gui04ss_4.png)
 
-### Bước 5 : Chọn tính chất là => thay thế hoặc điều chỉnh (phụ thuộc vào nghiệp vụ mà anh chị làm), điền lý do sai sót cụ thể và điên thông tin đúng
+### **Bước 5 : Chọn tính chất là => thay thế hoặc điều chỉnh (phụ thuộc vào nghiệp vụ mà anh chị làm), điền lý do sai sót cụ thể và điên thông tin đúng**
 
 ![Hình 5](../../assets/images/invoice1/1.0_gui04ss_5.png)
 
 ![Hình 6](../../assets/images/invoice1/1.0_gui04ss_6.png)
 
-### Bước 6: Bấm lưu -> ký thông báo 04ss giải trình
+### **Bước 6: Bấm lưu -> ký thông báo 04ss giải trình**
 
 ![Hình 1](../../assets/images/invoice1/1.0_gui04ss_7.png)
 

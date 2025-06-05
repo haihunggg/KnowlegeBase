@@ -19,21 +19,21 @@ Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm 
         width="100%" 
         height="600px"></iframe>
 
-### Bước 1: Quý khách truy cập vào phần danh mục --> Hàng hóa dịch vụ
+### **Bước 1: Quý khách truy cập vào phần danh mục --> Hàng hóa dịch vụ**
 
 ![Hình 1](../assets/images/invoice2/2.0_danh-muc-thay-doi-thue-suat_1.png)
 
-### Bước 2: Tích chọn vào những hàng hóa cần thay đổi (1), (2)
+### **Bước 2: Tích chọn vào những hàng hóa cần thay đổi (1), (2)**
 
 ![Hình 2](../assets/images/invoice2/2.0_danh-muc-thay-doi-thue-suat_2.png)
 
 Các bạn cũng có thể tích toàn bộ trên một trang bằng cách nhấn vào tích (3)
 
-### Bước 3: Nhấn vào phần thay đổi thuế suất
+### **Bước 3: Nhấn vào phần thay đổi thuế suất**
 
 ![Hình 3](../assets/images/invoice2/2.0_danh-muc-thay-doi-thue-suat_3.png)
 
-### Bước 4: Chọn loại thuế suất áp dụng mới sau đó nhấn chuyển đổi
+### **Bước 4: Chọn loại thuế suất áp dụng mới sau đó nhấn chuyển đổi**
 
 ![Hình 4](../assets/images/invoice2/2.0_danh-muc-thay-doi-thue-suat_4.png)
 

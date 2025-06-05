@@ -14,7 +14,7 @@ Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm 
 
 **Thao tác cài đặt và thực hiện như sau**
 
-### Bước 1: Thay đổi trên phần mềm M-invoice
+### **Bước 1: Thay đổi trên phần mềm M-invoice**
 
 ![Hình 1](../assets/images/invoice2/2.0_thay-doi-thong-tin-doanh-nghiep_1.png)
 
@@ -22,7 +22,7 @@ Bạn vào phần **Hệ thông --> Quản lý doanh nghiệp --> Thông tin doa
 
 Điền các thông tin Quý khách cần thay đổi vào phần mềm sau đó nhấn **Lưu**
 
-### Bước 2: Làm tờ khai 01 thay đổi thông tin với cơ quan thuế
+### **Bước 2: Làm tờ khai 01 thay đổi thông tin với cơ quan thuế**
 
 <p align="center" style="font-weight: bold;">Hướng dẫn video làm tờ khai</p>
 

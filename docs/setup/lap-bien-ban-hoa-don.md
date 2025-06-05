@@ -8,7 +8,7 @@
 
     Chỉ lập được khi ở trạng thái thay thế hoặc điều chỉnh
 
-### Bước 1: Truy cập mục xử lý sai sót
+### **Bước 1: Truy cập mục xử lý sai sót**
 
 <span style="color:red;">Sau khi đã làm thay thế hoặc điều chỉnh</span>
 
@@ -18,17 +18,17 @@
 
 Chọn lập biên bản
 
-### Bước 2: Kiểm tra thông tin người bán, người mua, điền lý do thay thế hoặc lý do điều chỉnh
+### **Bước 2: Kiểm tra thông tin người bán, người mua, điền lý do thay thế hoặc lý do điều chỉnh**
 
 ![Hình 2](../assets/images/invoice2/2.0_bienban_2.png)
 
-### Bước 3 : Lưu hoặc ký biên bản thay thế, điều chỉnh
+### **Bước 3 : Lưu hoặc ký biên bản thay thế, điều chỉnh**
 
 ![Hình 3](../assets/images/invoice2/2.0_bienban_3.png)
 
 <span style="color:red;">Hiện tại chỉ ký được biên bản nếu cks là cks hsm</span>
 
-### Bước 4 : Xem và in biên bản
+### **Bước 4 : Xem và in biên bản**
 
 ![Hình 4](../assets/images/invoice2/2.0_bienban_4.png)
 

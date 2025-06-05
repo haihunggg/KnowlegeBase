@@ -2,16 +2,17 @@
 
 ## **Hướng dẫn cài đặt plugin hóa đơn điện tử M-Invoice**
 
-### Bước 1: Anh chị chọn vào hình sau và chọn "Tải plugin ký hóa đơn điện tử" 
+### **Bước 1: Anh chị chọn vào hình sau và chọn "Tải plugin ký hóa đơn điện tử"**
 
-![Hình 1](../../assets/images/invoice1/1.0_plugin_1.png) 
+![Hình 1](../../assets/images/invoice1/1.0_plugin_1.png)
 
-### Bước 2: Click chọn vào phần mềm có tên "Set up" vừa được tải về
+### **Bước 2: Click chọn vào phần mềm có tên "Set up" vừa được tải về**
 
 ![Hình 1](../../assets/images/invoice1/1.0_plugin_2.png)
 
-Nếu anh chị không thấy file "Set up" hiển thị như hình, hãy truy cập vào thư mục "Download" trên máy tính và click chọn. 
-### Bước 3: Sau khi click vào file cài đặt, cửa sổ cài đặt sẽ hiện lên, anh chị bấm install để tiến hành cài đặt.
+Nếu anh chị không thấy file "Set up" hiển thị như hình, hãy truy cập vào thư mục "Download" trên máy tính và click chọn.
+
+### **Bước 3: Sau khi click vào file cài đặt, cửa sổ cài đặt sẽ hiện lên, anh chị bấm install để tiến hành cài đặt.**
 
 ![Hình 1](../../assets/images/invoice1/1.0_plugin_3.png)
 
@@ -26,6 +27,5 @@ Anh chị có thể click vào mục "Hóa đơn" để kiểm tra số lượng
 !!! info "Xin chân thành cảm ơn Quý khách hàng đã tin dùng sản phẩm của M-Invoice"
 
     Có bất kỳ vướng mắc nào trong quá trình sử dụng hãy liên hệ với M-Invoice tại mục Hỗ trợ kỹ thuật góc phải bên dưới màn hình hoặc gọi tổng đài kỹ thuật của M-Invoice (1900.955.557 Nhánh 1)
-
 
 ![Hình 5](../../assets/images/invoice1/1.0_suaTienBangTay_5.png)
