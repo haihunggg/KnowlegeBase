@@ -1,8 +1,8 @@
-# **Lấy lại mã cơ quan thuế**
+# **Lấy mã cơ quan thuế**
 
 Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm hóa đơn điện tử M-Invoice ở phiên bản 2.0 vô cùng mạch lạc và dễ hiểu.
 
-## **Hướng dẫn lấy lại mã cơ quan thuế đối với hóa đơn ở trạng thái đang gửi**
+## **Hướng dẫn lấy mã cơ quan thuế đối với hóa đơn ở trạng thái đang gửi**
 
 ### **Bước 1: Ở giao diện trang chủ -> Hóa đơn đầu ra -> 'LẤY MÃ CƠ QUAN THUẾ'**
 
