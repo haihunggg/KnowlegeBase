@@ -10,7 +10,7 @@ Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm 
 
 ![Hình 2](../assets/images/invoice2/2.0_lay-macqt_2.png)
 
-**Bấm đồng ý để lẫy mã cơ quan thuế ở tất cả các ký hiệu đang sử dụng**
+**Bấm đồng ý để lấy mã cơ quan thuế ở tất cả các ký hiệu đang sử dụng**
 
 ![Hình 3](../assets/images/invoice2/2.0_lay-macqt_3.png)
 
