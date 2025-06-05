@@ -16,13 +16,13 @@
     frameborder="0" allowfullscreen>
 </iframe>
 
-### Bước 1: Anh chị truy cập vào Hóa đơn NĐ 123 >> Quản lý thông báo 04/ss
+### **Bước 1: Anh chị truy cập vào Hóa đơn NĐ 123 >> Quản lý thông báo 04/ss**
 
 ![Hình 1](../../assets/images/invoice1/1.0_04ss_1.png)
 
 Anh chị bấm thêm để hiển thị form thêm 04/ss
 
-### Bước 2: Trên form anh chị chọn vào button chọn hóa đơn
+### **Bước 2: Trên form anh chị chọn vào button chọn hóa đơn**
 
 ![Hình 2](../../assets/images/invoice1/1.0_04ss_2.png)
 
@@ -33,14 +33,14 @@ Sau khi click vào chọn hóa đơn, giao diện lọc hóa đơn cần làm gi
 - Anh chị lọc các điều kiện liên quan tới hóa đơn mình cần và bấm vào tìm kiếm.
 - Sau khi đã tìm được hóa đơn cần lập, anh chị tích vào ô trống đầu dòng để chọn và bấm lưu.
 
-### Bước 3 : Sau khi nhấn Lưu phần mềm sẽ tự động sinh ra 1 form để lập mẫu 04ss
+### **Bước 3 : Sau khi nhấn Lưu phần mềm sẽ tự động sinh ra 1 form để lập mẫu 04ss**
 
 ![Hình 4](../../assets/images/invoice1/1.0_04ss_4.png)
 
 Các bạn chỉ cần kiểm tra lại thông tin, chọn tính chất thông báo là "Giải trình", sau đó điền vào phần lý do
 Khi nhập lý do xong hãy nhấn phím tab để phần mềm lưu lại được mục lý do, sau đó nhấn Ghi(F10)
 
-### Bước 4 : Ký gửi 04ss thông báo sai sót đến CQT
+### **Bước 4 : Ký gửi 04ss thông báo sai sót đến CQT**
 
 ![Hình 5](../../assets/images/invoice1/1.0_04ss_5.png)
 

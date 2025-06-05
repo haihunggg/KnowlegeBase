@@ -10,11 +10,11 @@ Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm 
 
 **Thao tác cài đặt và thực hiện như sau**
 
-### Bước 1: Truy cập Tài khoản -> danh sách khách hàng
+### **Bước 1: Truy cập Tài khoản -> danh sách khách hàng**
 
 ![Hình 1](../../assets/images/mSeller/danh-sach-khach-hang-1.png){: style="height:650px"}
 
-### Bước 2: Bấm dấu cộng để thêm khách hàng
+### **Bước 2: Bấm dấu cộng để thêm khách hàng**
 
 ![Hình 2](../../assets/images/mSeller/danh-sach-khach-hang-2.png){: style="height:500px"}
 ![Hình 3](../../assets/images/mSeller/danh-sach-khach-hang-3.png){: style="height:500px"}
@@ -24,7 +24,7 @@ Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm 
 
 <span style="color: red; font-weight: bold">Mã KH là bắt buộc nhập để khi lập sẽ tìm kiếm theo Mã KH (trường hơp là người mua anh chị nên điền mã KH là số điện thoại của khách để dễ truy xuất)</span>
 
-### Bước 3 : Bấm **LƯU** để lưu khách hàng
+### **Bước 3 : Bấm **LƯU** để lưu khách hàng**
 
 ![Hình 4](../../assets/images/mSeller/danh-sach-khach-hang-4.png){: style="height:650px"}
 

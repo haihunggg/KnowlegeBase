@@ -10,15 +10,15 @@ Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm 
 
 <p align="center" style="font-weight: bold;">Hướng dẫn phân quyền chi tiết </p>
 
-### Bước 1: Hệ thống --> Quản lý người dùng --> Người sử dụng
+### **Bước 1: Hệ thống --> Quản lý người dùng --> Người sử dụng**
 
 ![Hình 1](../assets/images/invoice2/2.0_them-nguoi-dung_1.png)
 
-### Bước 2: Chọn người dùng mà bạn muốn phần quyền chọn phân quyền
+### **Bước 2: Chọn người dùng mà bạn muốn phần quyền chọn phân quyền**
 
 ![Hình 2](../assets/images/invoice2/2.0_phan-quyen_2.png)
 
-### Bước 3: Chọn Cks và phần ký hiệu hóa đơn, bạn muốn tài khoản được sử dụng
+### **Bước 3: Chọn Cks và phần ký hiệu hóa đơn, bạn muốn tài khoản được sử dụng**
 
 ![Hình 3](../assets/images/invoice2/2.0_phan-quyen_3.png)
 
@@ -32,7 +32,7 @@ Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm 
 
     Phần phân quyền này liên quan đến việc phân quyền cho người sử dụng nào xem được các ký hiệu nào bằng cách tích chọn vào các ký hiệu mà bạn muốn người dùng muốn tài khoản đó được xem
 
-### Bước 4: Chọn quyền truy cập hóa đơn theo người sử dụng
+### **Bước 4: Chọn quyền truy cập hóa đơn theo người sử dụng**
 
 ![Hình 5](../assets/images/invoice2/2.0_phan-quyen_5.png)
 

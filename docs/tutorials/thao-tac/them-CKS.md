@@ -1,6 +1,6 @@
 # **Hướng dẫn thay đổi CKS hoặc add thêm CKS mới vào phần mềm**
 
-### Bước 1: Cắm CKS vào máy tính, kiểm tra xem plugin đã được bật chưa
+### **Bước 1: Cắm CKS vào máy tính, kiểm tra xem plugin đã được bật chưa**
 
 ![Hình 1](../../assets/images/invoice1/1.0_addCKS_1.jpg)
 
@@ -8,7 +8,7 @@ Click vào biểu tượng HIDE (hay dẫu mũi tên chỉ lên) (1) nếu có b
 
 Nếu chưa, bạn chỉ cần gõ vào ô tìm kiếm của window ( window + S) tìm kiếm Mivoice - Plugin rồi bật nó lên là được.
 
-### Bước 2: Thêm CKS vào phần mềm Minvoice
+### **Bước 2: Thêm CKS vào phần mềm Minvoice**
 
 ![Hình 2](../../assets/images/invoice1/1.0_addCKS_2.jpg)
 
@@ -18,7 +18,7 @@ Các bạn vào Hệ thông >> Đăng ký chữ ký số >> Thêm (F4)
 
 Ở thanh Taskbar sẽ hiển thị lên biểu tượng của công cụ Plugin Minvoice, các bạn chọn vào đó để thêm CKS mới của mình
 
-### Bước 3 : Phân quyền CKS cho người dùng
+### **Bước 3 : Phân quyền CKS cho người dùng**
 
 ![Hình 4](../../assets/images/invoice1/1.0_addCKS_4.jpg)
 
@@ -29,7 +29,7 @@ Chọn tài khoản mà bạn sử dụng >> chọn nút Phân quyền
 
 Chọn vào mục Chữ ký số tích chọn vào cks mình vừa thêm vào , sau đó nhấn Nhận (F10)
 
-### Bước 4: Làm tờ khai 01 thay đổi lên thuế về việc thay đổi CKS
+### **Bước 4: Làm tờ khai 01 thay đổi lên thuế về việc thay đổi CKS**
 
 ![Hình 6](../../assets/images/invoice1/1.0_addCKS_6.jpg)
 
@@ -64,7 +64,7 @@ Khi thêm xong chúng ta nhấn Ghi (F10)
 
 Như vậy đã xuất hiện ra 1 tờ thay đổi mới, việc của chúng ta chỉ cần Ký (F7) và Gửi CQT để gửi tờ khai 01 về việc thay đổi đổi CKS
 
-### Bước 5: Việc của chúng ta bây giờ là đợi CQT chấp nhận cho chúng ta sử dụng CKS mới (Thông thường quá trình này sẽ mất khoảng 1 ngày) là chúng ta có thể ký được bằng CKS mới bình thường
+### **Bước 5: Việc của chúng ta bây giờ là đợi CQT chấp nhận cho chúng ta sử dụng CKS mới (Thông thường quá trình này sẽ mất khoảng 1 ngày) là chúng ta có thể ký được bằng CKS mới bình thường**
 
 !!! info "Xin chân thành cảm ơn Quý khách hàng đã tin dùng sản phẩm của M-Invoice"
 

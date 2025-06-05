@@ -10,15 +10,15 @@ Chức năng Sao chép giúp tạo nhanh 1 hóa đơn có nội dung tương t�
 
     Khi sử dụng phần mềm hóa đơn, NSD đôi khi sẽ tạo nhầm hóa đơn ở một dải ký hiệu khác. M-invoice sẽ giới thiệu với NSD tính năng  chuyển ký hiêu hóa đơn hóa đơn trên hệ thống
 
-### Bước 1: Chọn hóa đơn cần chuyển ký hiệu --> Chức năng
+### **Bước 1: Chọn hóa đơn cần chuyển ký hiệu --> Chức năng**
 
 ![Hình 1](../assets/images/invoice2/2.0_chuyen-ky-hieu_1.png)
 
-### Bước 2: Ở mục Chức năng --> Chuyển ký hiệu
+### **Bước 2: Ở mục Chức năng --> Chuyển ký hiệu**
 
 ![Hình 2](../assets/images/invoice2/2.0_chuyen-ky-hieu_2.png)
 
-### Bước 3: Chọn ký hiệu mà bạn muốn chuyển sang --> Cập nhật
+### **Bước 3: Chọn ký hiệu mà bạn muốn chuyển sang --> Cập nhật**
 
 ![Hình 3](../assets/images/invoice2/2.0_chuyen-ky-hieu_3.png)
 

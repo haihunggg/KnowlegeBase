@@ -22,15 +22,15 @@ Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm 
 
 **Hướng dẫn sử dụng bằng hình ảnh nếu Quý khách không xem được video**
 
-### Bước 1: Chọn hóa đơn cần thay thế
+### **Bước 1: Chọn hóa đơn cần thay thế**
 
 ![Hình 1](../assets/images/invoice2/2.0_thay-the-hoa-don_1.png)
 
-### Bước 2: Chọn phần Xử lý sai sót --> Thay thế
+### **Bước 2: Chọn phần Xử lý sai sót --> Thay thế**
 
 ![Hình 2](../assets/images/invoice2/2.0_thay-the-hoa-don_2.png)
 
-### Bước 3 : Điền lại nội dung thông tin hóa đơn
+### **Bước 3 : Điền lại nội dung thông tin hóa đơn**
 
 ![Hình 3](../assets/images/invoice2/2.0_thay-the-hoa-don_3.png)
 
@@ -38,7 +38,7 @@ Bạn có thể chọn lại dòng hàng hoá cũ ở hoá đơn trước đó
 
 ![Hình 4](../assets/images/invoice2/2.0_thay-the-hoa-don_4.png)
 
-### Bước 4 : Lưu nội dung hóa đơn và ký gửi
+### **Bước 4 : Lưu nội dung hóa đơn và ký gửi**
 
 Sau khi Thay thế nội dung hóa đơn thành 1 hóa đơn đúng. Người sử dụng có thể Ký và gửi hóa đơn đã được lập Thay thế như một hóa đơn thông thường.
 

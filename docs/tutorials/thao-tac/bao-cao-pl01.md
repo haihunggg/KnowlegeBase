@@ -2,11 +2,11 @@
 
 ## **Hướng dẫn xem và tải bảng kê bán ra PL01 hóa đơn NĐ123**
 
-### Bước 1: Truy cập vào phần Hóa đơn HĐ123 >> Báo cáo >> Bảng kê bán ra (Mẫu PL01-1)
+### **Bước 1: Truy cập vào phần Hóa đơn HĐ123 >> Báo cáo >> Bảng kê bán ra (Mẫu PL01-1)**
 
 ![Hình 1](../../assets/images/invoice1/1.0_PL01_1.png)
 
-### Bước 2: Chọn các điều kiện để lọc báo cáo
+### **Bước 2: Chọn các điều kiện để lọc báo cáo**
 
 ![Hình 2](../../assets/images/invoice1/1.0_PL01_2.png)
 
@@ -14,7 +14,7 @@
 
     Nếu hóa đơn có nhiều dòng hàng hóa trong 1 hóa đơn, anh chị tích vào mục chi tiết để kết quả được đúng nhất.
 
-### Bước 3 : Kết xuất báo cáo
+### **Bước 3 : Kết xuất báo cáo**
 
 ![Hình 3](../../assets/images/invoice1/1.0_PL01_3.png)
 

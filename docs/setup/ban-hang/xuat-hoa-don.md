@@ -10,7 +10,7 @@ Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm 
 
 **Thao tác cài đặt và thực hiện như sau**
 
-### Bước 1: Màn hàn hình Dashbroad ở Trang chủ
+### **Bước 1: Màn hàn hình Dashbroad ở Trang chủ**
 
 ![Hình 1](../../assets/images/mSeller/xuat-hoa-don-1.png){: style="height:650px"}
 
@@ -23,7 +23,7 @@ Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm 
     + Biểu đồ số đơn hàng bán ra theo ngày
     + Hàng hóa bán chạy theo doanh thu hoặc số lượng
 
-### Bước 2: Tạo giao dịch
+### **Bước 2: Tạo giao dịch**
 
 ![Hình 2](../../assets/images/mSeller/xuat-hoa-don-2.png){: style="height:500px"}
 ![Hình 3](../../assets/images/mSeller/xuat-hoa-don-3.png){: style="height:500px"}
@@ -45,7 +45,7 @@ Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm 
       5. Tích nếu muốn xuất hóa đơn ở dạng chờ ký luôn
       6. Điền **chiết khấu** và **phí vận chuyển** nếu có
 
-### Bước 3: Bấm Thanh toán để ra phiếu đơn hàng
+### **Bước 3: Bấm Thanh toán để ra phiếu đơn hàng**
 
 ![Hình 5](../../assets/images/mSeller/xuat-hoa-don-5.png){: style="height:500px"}
 ![Hình 6](../../assets/images/mSeller/xuat-hoa-don-6.png){: style="height:500px"}

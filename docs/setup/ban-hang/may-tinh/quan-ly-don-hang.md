@@ -10,11 +10,11 @@ Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm 
 
 **Thao tác cài đặt và thực hiện như sau**
 
-### Bước 1: Truy cập mục ĐƠN HÀNG
+### **Bước 1: Truy cập mục ĐƠN HÀNG**
 
 ![Hình 1](../../../assets/images/mSeller/may-tinh/don-hang-1.png)
 
-### Bước 2: Tạo giao dịch
+### **Bước 2: Tạo giao dịch**
 
 ![Hình 2](../../../assets/images/mSeller/may-tinh/don-hang-2.png)
 
@@ -33,7 +33,7 @@ Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm 
 **Có thể xem in trước khi lưu**
 ![Hình 4](../../../assets/images/mSeller/may-tinh/don-hang-4.png)
 
-### Bước 3: Tạo hóa đơn từ giao dịch
+### **Bước 3: Tạo hóa đơn từ giao dịch**
 
 ![Hình 5](../../../assets/images/mSeller/may-tinh/don-hang-5.png)
 
@@ -44,7 +44,7 @@ Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm 
 
 <span style="color: red; font-weight: bold">Phải là giao dịch có "trạng thái xuất hóa đơn" là "Chưa xuất" thì mới tạo được hóa đơn</span>
 
-### Bước 4: Các thao tác thường sử dụng
+### **Bước 4: Các thao tác thường sử dụng**
 
 ![Hình 6](../../../assets/images/mSeller/may-tinh/don-hang-6.png)
 

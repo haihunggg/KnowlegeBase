@@ -10,17 +10,17 @@ Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm 
 
 **Thao tác cài đặt và thực hiện như sau**
 
-### Bước 1: Truy cập Báo cáo -> Báo cáo chi tiết đơn hàng bán ra
+### **Bước 1: Truy cập Báo cáo -> Báo cáo chi tiết đơn hàng bán ra**
 
 ![Hình 1](../../../assets/images/mSeller/may-tinh/bao-cao-chi-tiet-1.png)
 
-### Bước 2: Lọc báo cáo chi tiết hóa đơn
+### **Bước 2: Lọc báo cáo chi tiết hóa đơn**
 
 Anh/chị có thể lọc theo các điều kiện dưới đây
 
 ![Hình 2](../../../assets/images/mSeller/may-tinh/bao-cao-chi-tiet-2.png)
 
-### Bước 3: Kết xuất excel
+### **Bước 3: Kết xuất excel**
 
 ![Hình 3](../../../assets/images/mSeller/may-tinh/bao-cao-chi-tiet-3.png)
 

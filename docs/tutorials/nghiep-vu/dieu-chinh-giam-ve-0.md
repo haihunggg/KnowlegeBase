@@ -21,21 +21,21 @@ Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm 
 
 **Thao tác cài đặt và thực hiện như sau**
 
-### Bước 1: Chọn hóa đơn cần điều chỉnh -> Nghiệp vụ --> Điều chỉnh
+### **Bước 1: Chọn hóa đơn cần điều chỉnh -> Nghiệp vụ --> Điều chỉnh**
 
 ![Hình 1](../../assets/images/invoice1/1.0_dieu-chinh-giam_1.png)
 
-### Bước 2 : Bấm chọn hàng hóa để chọn lại hàng hóa của hóa đơn bị điều chỉnh
+### **Bước 2 : Bấm chọn hàng hóa để chọn lại hàng hóa của hóa đơn bị điều chỉnh**
 
 ![Hình 2](../../assets/images/invoice1/1.0_dieu-chinh-giam_2.png)
 
 ![Hình 3](../../assets/images/invoice1/1.0_dieu-chinh-giam_3.png)
 
-### Bước 3 : Điền âm số lượng hóa đơn
+### **Bước 3 : Điền âm số lượng hóa đơn**
 
 ![Hình 4](../../assets/images/invoice1/1.0_dieu-chinh-giam_4.png)
 
-### Bước 4 : Kiểm tra các thông tin của hóa đơn -> LƯU
+### **Bước 4 : Kiểm tra các thông tin của hóa đơn -> LƯU**
 
 ![Hình 5](../../assets/images/invoice1/1.0_dieu-chinh-giam_5.png)
 

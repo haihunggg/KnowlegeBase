@@ -12,13 +12,13 @@ Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm 
 
 **Thao tác cài đặt và thực hiện như sau**
 
-### Bước 1: Truy cập đường link sau để đăng nhập
+### **Bước 1: Truy cập đường link sau để đăng nhập**
 
 [Phần mềm bán hàng](https://banhang.minvoice.com.vn/#/login){:target="\_blank"}
 
 ![Hình 1](../../../assets/images/mSeller/may-tinh/dang-nhap-trang-chu-1.png)
 
-### Bước 2: Màn hình trang chủ (Dashboard)
+### **Bước 2: Màn hình trang chủ (Dashboard)**
 
 ![Hình 2](../../../assets/images/mSeller/may-tinh/dang-nhap-trang-chu-2.png)
 

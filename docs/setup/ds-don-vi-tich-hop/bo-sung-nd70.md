@@ -84,7 +84,7 @@
       <td>Số hộ chiếu người mua</td>
     </tr>
     <tr>
-      <td><code>cccd</code></td>
+      <td><code>cccdan</code></td>
       <td>string</td>
       <td>20</td>
       <td></td>

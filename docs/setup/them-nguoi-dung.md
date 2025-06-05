@@ -8,11 +8,11 @@ Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm 
 
     Trong quá trình sử dụng phần mềm hóa đơn điện tử M-invoice, có nhiều người sử dụng phần mềm chung 1 tài khoản sẽ có bất tiện, sau đây Minvoice sẽ hướng dẫn tạo thêm user để có thể phân quyền quản lý dễ dàng hơn
 
-### Bước 1: Hệ thống --> Quản lý người dùng --> Người sử dụng
+### **Bước 1: Hệ thống --> Quản lý người dùng --> Người sử dụng**
 
 ![Hình 1](../assets/images/invoice2/2.0_them-nguoi-dung_1.png)
 
-### Bước 2: Nhấm Thêm(F4) để bắt đầu thêm người dùng mới
+### **Bước 2: Nhấm Thêm(F4) để bắt đầu thêm người dùng mới**
 
 ![Hình 2](../assets/images/invoice2/2.0_them-nguoi-dung_2.png)
 

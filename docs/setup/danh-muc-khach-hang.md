@@ -10,7 +10,7 @@ Sử dụng giảm bớt thao tác điền thông tin khách hàng
 
     Trong quá trình lập hoá đơn cần điền thông tin khách hàng và để giảm bớt thao tác nhập thông tin khách hàng, M-invoice hướng dẫn NSD thực hiện thêm danh mục khách hàng
 
-### Trên giao diện trang chủ truy cập Danh mục --> khách hàng
+### **Trên giao diện trang chủ truy cập Danh mục --> khách hàng**
 
 ![Hình 1](../assets/images/invoice2/2.0_danh-muc-khach-hang_1.png)
 

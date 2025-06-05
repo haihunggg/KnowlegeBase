@@ -8,21 +8,21 @@
 
     Chỉ lập được khi ở trạng thái thay thế hoặc điều chỉnh
 
-### Bước 1: Chọn hóa đơn vừa được làm thay thế hoặc điều chỉnh
+### **Bước 1: Chọn hóa đơn vừa được làm thay thế hoặc điều chỉnh**
 
 ![Hình 1](../../assets/images/invoice1/1-bienban-1.png)
 
-### Bước 2: Kiểm tra thông tin người bán, người mua, điền lý do thay thế hoặc lý do điều chỉnh
+### **Bước 2: Kiểm tra thông tin người bán, người mua, điền lý do thay thế hoặc lý do điều chỉnh**
 
 ![Hình 2](../../assets/images/invoice1/1-bienban-2.png)
 
-### Bước 3 : Lưu hoặc ký biên bản thay thế, điều chỉnh
+### **Bước 3 : Lưu hoặc ký biên bản thay thế, điều chỉnh**
 
 ![Hình 3](../../assets/images/invoice1/1-bienban-3.png)
 
 <span style="color:red;">Hiện tại chỉ ký được biên bản nếu cks là cks hsm</span>
 
-### Bước 4 : Xem và in biên bản
+### **Bước 4 : Xem và in biên bản**
 
 ![Hình 4](../../assets/images/invoice1/1-bienban-4.png)
 

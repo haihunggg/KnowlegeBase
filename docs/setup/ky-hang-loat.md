@@ -16,11 +16,11 @@ Chức năng này sinh ra nhằm mục đích cung cấp cho khách hàng có nh
 
 **Hướng dẫn sử dụng bằng hình ảnh nếu Quý khách không xem được video**
 
-### Bước 1: Chọn vào chức nằng ký hoá đơn hàng loạt
+### **Bước 1: Chọn vào chức nằng ký hoá đơn hàng loạt**
 
 ![Hình 1](../assets/images/invoice2/2.0_ky-hang-loat_1.png)
 
-### Bước 2: Chọn các hoá đơn cần ký
+### **Bước 2: Chọn các hoá đơn cần ký**
 
 ![Hình 2](../assets/images/invoice2/2.0_ky-hang-loat_2.png)
 

@@ -22,23 +22,23 @@ Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm 
 
 **Hướng dẫn sử dụng bằng hình ảnh nếu Quý khách không xem được video**
 
-### Bước 1: Ở giao diện trang chủ chọn HOÁ ĐƠN ĐẦU RA nhấn Thêm để bắt đầu lập hóa đơn mới
+### **Bước 1: Ở giao diện trang chủ chọn HOÁ ĐƠN ĐẦU RA nhấn Thêm để bắt đầu lập hóa đơn mới**
 
 ![Hình 1](../assets/images/invoice2/2.0_nhap-excel-chi-tiet_1.png)
 
-### Bước 2: Điền đầy đủ thông tin người mua sau đó nhấn nhận excel chi tiết
+### **Bước 2: Điền đầy đủ thông tin người mua sau đó nhấn nhận excel chi tiết**
 
 ![Hình 2](../assets/images/invoice2/2.0_nhap-excel-chi-tiet_2.png)
 
-### Bước 3: Chọn tải file mẫu
+### **Bước 3: Chọn tải file mẫu**
 
 ![Hình 3](../assets/images/invoice2/2.0_nhap-excel-chi-tiet_5.png)
 
-### Bước 4: Điền đầy đủ thông tin cần thiết vào file excel sau đó nhấn lưu lại
+### **Bước 4: Điền đầy đủ thông tin cần thiết vào file excel sau đó nhấn lưu lại**
 
 ![Hình 4](../assets/images/invoice2/2.0_nhap-excel-chi-tiet_3.png)
 
-### Bước 5: Quay lại phần mềm nhấn Choose File để tải file mẫu lên, sau đó nhận Nhận File
+### **Bước 5: Quay lại phần mềm nhấn Choose File để tải file mẫu lên, sau đó nhận Nhận File**
 
 ![Hình 4](../assets/images/invoice2/2.0_nhap-excel-chi-tiet_4.png)
 

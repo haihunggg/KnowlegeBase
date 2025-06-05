@@ -20,15 +20,15 @@ Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm 
 
 **Hướng dẫn sử dụng bằng hình ảnh nếu Quý khách không xem được video**
 
-### Bước 1: Nhấn vào biểu tượng cài đặt trên trang chủ giao diện
+### **Bước 1: Nhấn vào biểu tượng cài đặt trên trang chủ giao diện**
 
 ![Hình 1](../assets/images/invoice2/2.0_plugin_1.png)
 
-### Bước 2: Nhấn Save để tải bộ cài về
+### **Bước 2: Nhấn Save để tải bộ cài về**
 
 ![Hình 2](../assets/images/invoice2/2.0_plugin_2.png)
 
-### Bước 3 : Mở bộ cài và cài đặt
+### **Bước 3 : Mở bộ cài và cài đặt**
 
 ![Hình 3](../assets/images/invoice2/2.0_plugin_3.png)
 
@@ -46,7 +46,7 @@ Bạn chon **Install** để bắt đầu cài đặt
 
 Bạn chờ cho bộ cài Dowload và tự động cài đặt là hoàn thành
 
-### Bước 4 : Kiểm tra bộ cài đã được cài đặt thành công hay chưa
+### **Bước 4 : Kiểm tra bộ cài đã được cài đặt thành công hay chưa**
 
 ![Hình 7](../assets/images/invoice2/2.0_plugin_7.png)
 

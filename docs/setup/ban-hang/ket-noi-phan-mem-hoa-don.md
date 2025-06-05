@@ -12,23 +12,23 @@ Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm 
 
 **Thao tác cài đặt và thực hiện như sau**
 
-### Bước 1: Mở app mSeller trên máy pos
+### **Bước 1: Mở app mSeller trên máy pos**
 
 <span style="color: red; font-weight: bold">Tìm đến phần mềm theo hình ảnh sau</span>
 
 ![Hình 0](../../assets/images/mSeller/ket-noi-hoa-don-0.png){: style="height:650px"}
 
-### Bước 2: Điền thông tin đăng nhập
+### **Bước 2: Điền thông tin đăng nhập**
 
 <span style="color: red; font-weight: bold">Điền mã số thuế và tài khoản mật khẩu đã được cung cấp</span>
 
 ![Hình 1](../../assets/images/mSeller/ket-noi-hoa-don-1.png){: style="height:650px"}
 
-### Bước 3 : Truy cập Tài khoản -> Cấu hình tham số hệ thống
+### **Bước 3 : Truy cập Tài khoản -> Cấu hình tham số hệ thống**
 
 ![Hình 2](../../assets/images/mSeller/ket-noi-hoa-don-2.png){: style="height:650px"}
 
-### Bước 4 : Điền thông tin cấu hình
+### **Bước 4 : Điền thông tin cấu hình**
 
 ![Hình 3](../../assets/images/mSeller/ket-noi-hoa-don-3.png){: style="height:650px"}
 
@@ -41,7 +41,7 @@ Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm 
    ![Hình 5](../../assets/images/mSeller/ket-noi-hoa-don-5.png)
    ![Hình 6](../../assets/images/mSeller/ket-noi-hoa-don-6.png)
 
-### Bước 5 : Bấm **LƯU** để lưu cấu hình
+### **Bước 5 : Bấm **LƯU** để lưu cấu hình**
 
 ![Hình 7](../../assets/images/mSeller/ket-noi-hoa-don-7.png){: style="height:650px"}
 

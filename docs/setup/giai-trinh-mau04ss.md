@@ -16,23 +16,23 @@ Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm 
 
 **Hướng dẫn sử dụng bằng hình ảnh nếu Quý khách không xem được video**
 
-### Bước 1: Nhấn vào xử ký sai sót => Thông báo HĐ sai sót 04ss-HDDT
+### **Bước 1: Nhấn vào xử ký sai sót => Thông báo HĐ sai sót 04ss-HDDT**
 
 ![Hình 1](../assets/images/invoice2/2.0_giai-trinh_1.png)
 
-### Bước 2: Bấm thêm
+### **Bước 2: Bấm thêm**
 
 ![Hình 2](../assets/images/invoice2/2.0_giai-trinh_2.png)
 
-### Bước 3 : Click chọn hoá đơn
+### **Bước 3 : Click chọn hoá đơn**
 
 ![Hình 3](../assets/images/invoice2/2.0_giai-trinh_3.png)
 
-### Bước 4 : Chọn ký hiệu, số hoá đơn cần giải trình
+### **Bước 4 : Chọn ký hiệu, số hoá đơn cần giải trình**
 
 ![Hình 4](../assets/images/invoice2/2.0_giai-trinh_4.png)
 
-### Bước 5 : Chọn tính chất là => giải trình, điền lý do sai sót cụ thể và điên thông tin đúng
+### **Bước 5 : Chọn tính chất là => giải trình, điền lý do sai sót cụ thể và điên thông tin đúng**
 
 ![Hình 5](../assets/images/invoice2/2.0_giai-trinh_5.png)
 

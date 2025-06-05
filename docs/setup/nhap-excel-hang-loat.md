@@ -22,15 +22,15 @@ Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm 
 
 **Hướng dẫn sử dụng bằng hình ảnh nếu Quý khách không xem được video**
 
-### Bước 1: Ở giao diện lập hóa đơn chọn mục Chức năng >> Nhận excel
+### **Bước 1: Ở giao diện lập hóa đơn chọn mục Chức năng >> Nhận excel**
 
 ![Hình 1](../assets/images/invoice2/2.0_nhap-excel-hang-loat_1.png)
 
-### Bước 2: Sau đó tiến hành tải file mẫu excel về
+### **Bước 2: Sau đó tiến hành tải file mẫu excel về**
 
 ![Hình 2](../assets/images/invoice2/2.0_nhap-excel-hang-loat_2.png)
 
-### Bước 3: Nhập thông tin khách hàng tại excel
+### **Bước 3: Nhập thông tin khách hàng tại excel**
 
 ![Hình 3](../assets/images/invoice2/2.0_nhap-excel-hang-loat_3.png)
 
@@ -43,7 +43,7 @@ Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm 
     - **Ngày hóa đơn:** NSD để đúng định dạng `'dd/MM/yyyy`.
     Nếu nhập sai sẽ báo lỗi và không nhận được.
 
-### Bước 4: Điền đầy đủ thông tin tại chi tiết
+### **Bước 4: Điền đầy đủ thông tin tại chi tiết**
 
 !!! warning "Lưu ý"
 
