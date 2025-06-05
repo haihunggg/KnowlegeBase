@@ -10,17 +10,9 @@ Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm 
 
 ![Hình 2](../assets/images/invoice2/2.0_lay-macqt_2.png)
 
-**Bấm đồng ý để lẫy mã cơ quan thuế**
+**Bấm đồng ý để lẫy mã cơ quan thuế ở tất cả các ký hiệu đang sử dụng**
 
 ![Hình 3](../assets/images/invoice2/2.0_lay-macqt_3.png)
-
-???+ warning "Lưu ý"
-
-    Trường hợp doanh nghiệp sử dụng nhiều ký hiệu và có hóa đơn đang gửi anh chị phải chọn qua các ký hiệu mà muốn lấy mã cơ quan thuế và làm lại các thao tác ở trên
-
-**Thao tác chọn ký hiệu**
-
-![Hình 4](../assets/images/invoice2/2.0_lay-macqt_4.png)
 
 ???+ info "Xin chân thành cảm ơn quý khách hàng đã tin dùng sản phẩm của M-Invoice"
 
