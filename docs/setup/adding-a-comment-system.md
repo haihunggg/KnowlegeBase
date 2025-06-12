@@ -111,3 +111,8 @@ If you wish to enable comments for an entire folder, you can use the
   [comments]: https://github.com/squidfunk/mkdocs-material/blob/master/src/templates/partials/comments.html
   [overriding partials]: ../customization.md#overriding-partials
   [built-in meta plugin]: ../plugins/meta.md
+
+
+
+
+<div class="last-updated">Last updated on <strong>Feb 18, 2025</strong> by <strong>Trinh Hoai Nhat</strong></div>

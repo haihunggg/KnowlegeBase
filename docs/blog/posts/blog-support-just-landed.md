@@ -226,3 +226,8 @@ Some ideas already proposed by users:
 What's still missing from the brand new [built-in blog plugin]? Feel free to
 share your ideas in the comments. Together, we can build one of the best modern
 engines for technical blogging!
+
+
+
+
+<div class="last-updated">Last updated on <strong>Feb 5, 2025</strong> by <strong>unknown</strong></div>

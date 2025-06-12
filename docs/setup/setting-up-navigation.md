@@ -646,3 +646,8 @@ of CSS:
     ```
 
   [additional style sheet]: ../customization.md#additional-css
+
+
+
+
+<div class="last-updated">Last updated on <strong>Feb 18, 2025</strong> by <strong>Trinh Hoai Nhat</strong></div>

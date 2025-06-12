@@ -640,3 +640,8 @@ __Are you missing something? Please [open a discussion] and let us know!__
   [Layer icon]: ../assets/screenshots/social-cards-layer-icon.png
   [Layer icon circles]: ../assets/screenshots/social-cards-layer-icon-circles.png
   [open a discussion]: https://github.com/squidfunk/mkdocs-material/discussions/new
+
+
+
+
+<div class="last-updated">Last updated on <strong>Feb 18, 2025</strong> by <strong>Trinh Hoai Nhat</strong></div>

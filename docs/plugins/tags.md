@@ -950,3 +950,8 @@ listing entirely:
     ```
 
 If this setting is left empty, no tags or pages are excluded.
+
+
+
+
+<div class="last-updated">Last updated on <strong>Feb 5, 2025</strong> by <strong>unknown</strong></div>

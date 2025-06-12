@@ -705,3 +705,8 @@ The following templates are added by the [built-in blog plugin]:
 
   [blog.html]: https://github.com/squidfunk/mkdocs-material/blob/master/src/templates/blog.html
   [blog-post.html]: https://github.com/squidfunk/mkdocs-material/blob/master/src/templates/blog-post.html
+
+
+
+
+<div class="last-updated">Last updated on <strong>Feb 18, 2025</strong> by <strong>Trinh Hoai Nhat</strong></div>

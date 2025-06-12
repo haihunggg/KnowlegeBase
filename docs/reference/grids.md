@@ -299,3 +299,8 @@ by using a `div` with the `grid` class:
   [admonitions]: admonitions.md
   [code blocks]: code-blocks.md
   [content tabs]: content-tabs.md
+
+
+
+
+<div class="last-updated">Last updated on <strong>Feb 5, 2025</strong> by <strong>unknown</strong></div>

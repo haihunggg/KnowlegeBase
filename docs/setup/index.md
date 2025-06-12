@@ -88,3 +88,8 @@ offline-capable.
   [Optimized site]: building-an-optimized-site.md
   [Data Privacy]: ensuring-data-privacy.md
   [Offline usage]: building-for-offline-usage.md
+
+
+
+
+<div class="last-updated">Last updated on <strong>Feb 18, 2025</strong> by <strong>Trinh Hoai Nhat</strong></div>

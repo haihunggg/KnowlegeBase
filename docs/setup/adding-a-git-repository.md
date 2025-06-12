@@ -353,3 +353,8 @@ plugins:
 ```
 
   [git-authors]: https://github.com/timvink/mkdocs-git-authors-plugin/
+
+
+
+
+<div class="last-updated">Last updated on <strong>Feb 18, 2025</strong> by <strong>Trinh Hoai Nhat</strong></div>

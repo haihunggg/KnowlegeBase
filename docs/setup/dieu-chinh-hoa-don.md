@@ -58,3 +58,8 @@ Sau khi điều chỉnh nội dung hóa đơn thành 1 hóa đơn đúng. Ngư�
     Có bất kỳ vướng mắc nào trong quá trình sử dụng hãy liên hệ với M-Invoice tại mục Hỗ trợ kỹ thuật góc phải bên dưới màn hình hoặc gọi tổng đài kỹ thuật của M-Invoice (1900.955.557 Nhánh 1)
 
 ![Hình 5](../assets/images/invoice2/hotro.png)
+
+
+
+
+<div class="last-updated">Last updated on <strong>Mar 10, 2025</strong> by <strong>Trinh Hoai Nhat</strong></div>

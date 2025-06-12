@@ -15,6 +15,7 @@ copyright: Copyrights © 2025 Hóa đơn điện tử M-invoice. All Rights Rese
 # Configuration
 theme:
   name: material
+  language: vi
   logo: assets/minvoice_white_horizontal.png
   custom_dir: material/overrides
   features:
@@ -69,7 +70,7 @@ theme:
   palette:
     - scheme: default
       primary: custom #indigo
-      accent: red #indigo
+      accent: indigo
       toggle:
         icon: material/weather-sunny
         name: Switch to dark mode
@@ -77,7 +78,7 @@ theme:
 
     - scheme: slate
       primary: custom #indigo
-      accent: red #indigo
+      accent: indigo
       toggle:
         icon: material/weather-night
         name: Switch to light mode
@@ -92,6 +93,10 @@ theme:
 # CSS
 extra_css:
   - stylesheets/extra.css
+
+# JS
+extra_javascript:
+  - stylesheets/extra.js
 
 # Plugins
 plugins:
@@ -109,6 +114,10 @@ hooks:
 
 # Additional configuration
 extra:
+  i18n:
+    toc: "Mục lục"
+    search:
+      placeholder: "Search..."
   status:
     new: Recently added
     deprecated: Deprecated
@@ -116,18 +125,10 @@ extra:
     provider: google
     property: !ENV GOOGLE_ANALYTICS_KEY
   social:
-    - icon: fontawesome/brands/github
-      link: https://github.com/nam1812hy
-    - icon: fontawesome/brands/docker
-      link: https://github.com/nam1812hy
-    - icon: fontawesome/brands/python
-      link: https://github.com/nam1812hy
-    - icon: fontawesome/brands/bluesky
-      link: https://github.com/nam1812hy
-    - icon: fontawesome/brands/mastodon
-      link: https://github.com/nam1812hy
-    - icon: fontawesome/brands/x-twitter
-      link: https://github.com/nam1812hy
+    - icon: fontawesome/brands/facebook
+      link: https://www.facebook.com/hoadondientu.m.invoice
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/@HoaDonDienTuMinvoice
   generator: false
 # Extensions
 markdown_extensions:
@@ -381,29 +382,10 @@ nav:
           - "Xăng dầu ⛽":
               - setup/xang-dau/huong-dan-xang-dau.md
               - setup/xang-dau/ket-xuat-bao-cao-tru-bom.md
-      # - setup/index.md
-      # - Changing the colors: setup/changing-the-colors.md
-      # - Changing the fonts: setup/changing-the-fonts.md
-      # - Changing the language: setup/changing-the-language.md
-      # - Changing the logo and icons: setup/changing-the-logo-and-icons.md
-      # - Ensuring data privacy: setup/ensuring-data-privacy.md
-      # - Setting up navigation: setup/setting-up-navigation.md
-      # - Setting up site search: setup/setting-up-site-search.md
-      # - Setting up site analytics: setup/setting-up-site-analytics.md
-      # - Setting up social cards: setup/setting-up-social-cards.md
-      # - Setting up a blog: setup/setting-up-a-blog.md
-      # - Setting up tags: setup/setting-up-tags.md
-      # - Setting up versioning: setup/setting-up-versioning.md
-      # - Setting up the header: setup/setting-up-the-header.md
-      # - Setting up the footer: setup/setting-up-the-footer.md
-      # - Adding a git repository: setup/adding-a-git-repository.md
-      # - Adding a comment system: setup/adding-a-comment-system.md
-      # - Building an optimized site: setup/building-an-optimized-site.md
-      # - Building for offline usage: setup/building-for-offline-usage.md
-      # - Extensions:
-      #     - setup/extensions/index.md
-      #     - Python Markdown: setup/extensions/python-markdown.md
-      #     - Python Markdown Extensions: setup/extensions/python-markdown-extensions.md
+  - Chứng từ TNCN:
+      - "":
+          - Hướng dẫn sử dụng:
+              - chung-tu/dang-nhap.md
   - mSMI:
       - "":
           - Hướng dẫn sử dụng:

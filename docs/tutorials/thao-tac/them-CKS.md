@@ -71,3 +71,8 @@ Như vậy đã xuất hiện ra 1 tờ thay đổi mới, việc của chúng t
     Có bất kỳ vướng mắc nào trong quá trình sử dụng hãy liên hệ với M-Invoice tại mục Hỗ trợ kỹ thuật góc phải bên dưới màn hình hoặc gọi tổng đài kỹ thuật của M-Invoice (1900.955.557 Nhánh 1)
 
 ![Hình 10](../../assets/images/invoice1/1.0_suaTienBangTay_5.png)
+
+
+
+
+<div class="last-updated">Last updated on <strong>Jun 5, 2025</strong> by <strong>nhatth</strong></div>

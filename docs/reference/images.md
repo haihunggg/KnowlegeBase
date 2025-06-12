@@ -217,3 +217,8 @@ hash fragment to the image URL:
   [Zelda dark world]: ../assets/images/zelda-dark-world.png#only-dark
   [color schemes]: ../setup/changing-the-colors.md#color-scheme
   [custom color schemes]: ../setup/changing-the-colors.md#custom-color-schemes
+
+
+
+
+<div class="last-updated">Last updated on <strong>Feb 5, 2025</strong> by <strong>unknown</strong></div>

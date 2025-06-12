@@ -27,3 +27,8 @@
 
 
 ![Hình 5](../../assets/images/invoice1/1.0_suaTienBangTay_5.png)
+
+
+
+
+<div class="last-updated">Last updated on <strong>Mar 27, 2025</strong> by <strong>truongnl</strong></div>

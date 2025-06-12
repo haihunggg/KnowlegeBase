@@ -56,3 +56,8 @@ Trên đây là các bước thực hiện báo chế độ ốm đau thông th�
     Có bất kỳ vướng mắc nào trong quá trình sử dụng hãy liên hệ với M-Invoice tại mục Hỗ trợ kỹ thuật góc phải bên dưới màn hình hoặc gọi tổng đài kỹ thuật của M-Invoice (1900.955.557 Nhánh 2)
 
 ![Hình 7](../../assets/images/mBHXH/hotro.png)
+
+
+
+
+<div class="last-updated">Last updated on <strong>Mar 18, 2025</strong> by <strong>Trinh Hoai Nhat</strong></div>

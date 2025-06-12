@@ -91,3 +91,8 @@ Besides plugins, there are some utilities that build on top of MkDocs in order
 to provide extended functionality, like for example support for versioning.
 
   [Insiders]: insiders/index.md
+
+
+
+
+<div class="last-updated">Last updated on <strong>Feb 5, 2025</strong> by <strong>unknown</strong></div>

@@ -106,3 +106,8 @@ plugins:
 For a list of all settings, please consult the [plugin documentation][optimize].
 
   [optimize]: ../plugins/optimize.md
+
+
+
+
+<div class="last-updated">Last updated on <strong>Feb 18, 2025</strong> by <strong>Trinh Hoai Nhat</strong></div>

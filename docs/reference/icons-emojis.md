@@ -237,3 +237,8 @@ This is exactly what Material for MkDocs does in its templates.
 
   [extending the theme]: ../customization.md#extending-the-theme
   [include]: https://jinja.palletsprojects.com/en/2.11.x/templates/#include
+
+
+
+
+<div class="last-updated">Last updated on <strong>Feb 5, 2025</strong> by <strong>unknown</strong></div>

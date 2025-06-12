@@ -112,3 +112,8 @@ If you still find yourself with more questions, feel free to [reach out to Kathi
 via mail at sponsors@squidfunk.com for additional support.
 
   [reach out to Kathi]: ../support.md/#sponsoring-support
+
+
+
+
+<div class="last-updated">Last updated on <strong>Feb 5, 2025</strong> by <strong>unknown</strong></div>

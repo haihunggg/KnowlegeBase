@@ -110,3 +110,8 @@ Many users switched from [GitBook] to Material for MkDocs, as they want to keep
 control and ownership of their documentation, favoring an Open Source solution.
 
   [GitBook]: https://www.gitbook.com/
+
+
+
+
+<div class="last-updated">Last updated on <strong>Feb 5, 2025</strong> by <strong>unknown</strong></div>

@@ -70,3 +70,8 @@ automatically.
 [Scroll to the top of this page][top] to see it in action.
 
   [top]: #
+
+
+
+
+<div class="last-updated">Last updated on <strong>Feb 18, 2025</strong> by <strong>Trinh Hoai Nhat</strong></div>

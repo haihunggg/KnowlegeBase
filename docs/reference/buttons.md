@@ -82,3 +82,8 @@ together with any valid icon shortcode, which can be easily found with a few key
 
   [icon syntax]: icons-emojis.md#using-icons
   [icon search]: icons-emojis.md#search
+
+
+
+
+<div class="last-updated">Last updated on <strong>Feb 5, 2025</strong> by <strong>unknown</strong></div>

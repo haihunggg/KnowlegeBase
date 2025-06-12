@@ -78,6 +78,16 @@
   font-weight: bold;
 }
 
+#__nav_9_1_1_label,
+#__nav_9_1_2_label {
+  font-weight: bold;
+}
+
+#__nav_10_1_1_label,
+#__nav_10_1_2_label {
+  font-weight: bold;
+}
+
 #__nav_5_1 {
   font-weight: bold;
 }
@@ -88,4 +98,76 @@
 
 .mdx-hero__content {
   max-width: 21rem !important;
+}
+
+/* Bo góc nhẹ cho thanh tìm kiếm mặc định */
+.md-search__form {
+  border-radius: 10px !important; /* hoặc 8px nếu muốn bo ít hơn */
+}
+
+.md-button md-button--primary {
+  border-radius: 20px !important; /* hoặc 8px nếu muốn bo ít hơn */
+}
+
+.md-button {
+  border-radius: 20px !important; /* hoặc 8px nếu muốn bo ít hơn */
+}
+
+/* 💡 Gạch chân và màu chữ cho tab đang chọn */
+.md-tabs__item--active {
+  background-color: transparent !important; /* Loại bỏ nền xám mặc định */
+  position: relative;
+}
+/* Gạch chân nhỏ phía dưới tab đang chọn */
+.md-tabs__item--active::after {
+  content: "";
+  position: absolute;
+  left: 25%;
+  bottom: 0;
+  width: 50%;
+  height: 3px;
+  background-color: #ffffff !important; /* Màu thanh highlight */
+  border-radius: 2px;
+}
+
+/*chỉnh màu ở thanh nav*/
+/* Áp dụng chung */
+.md-nav__link {
+  border-radius: 8px;
+  transition: background 0.2s, border 0.2s;
+  padding: 0.3em 0.6em;
+}
+
+/* Chế độ sáng (default) */
+body[data-md-color-scheme="default"] .md-nav__link:hover {
+  background-color: #eaf0fe;
+  border: 1px solid #ccc;
+}
+
+body[data-md-color-scheme="default"] .md-nav__link--active {
+  color: #2d6df6 !important;
+  background-color: #eaf0fe;
+  font-weight: bold;
+  border: 0.5px solid #2d6df6;
+}
+
+/* Chế độ tối (slate) */
+body[data-md-color-scheme="slate"] .md-nav__link:hover {
+  background-color: rgba(255, 255, 255, 0.08);
+  border: 1px solid rgba(255, 255, 255, 0.15);
+}
+
+body[data-md-color-scheme="slate"] .md-nav__link--active {
+  color: #88b5ff !important;
+  background-color: rgba(255, 255, 255, 0.1);
+  font-weight: bold;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+.last-updated {
+  text-align: right;
+  font-size: 0.75em;
+  color: #777;
+  margin-top: 2em;
+  font-style: italic;
 }

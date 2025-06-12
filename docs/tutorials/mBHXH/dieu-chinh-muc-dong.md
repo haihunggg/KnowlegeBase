@@ -47,3 +47,8 @@ Trên đây là các bước thực hiện điều chỉnh mức đóng BHXH cho
     Có bất kỳ vướng mắc nào trong quá trình sử dụng hãy liên hệ với M-Invoice tại mục Hỗ trợ kỹ thuật góc phải bên dưới màn hình hoặc gọi tổng đài kỹ thuật của M-Invoice (1900.955.557 Nhánh 2)
 
 ![Hình 9](../../assets/images/mBHXH/hotro.png)
+
+
+
+
+<div class="last-updated">Last updated on <strong>Mar 18, 2025</strong> by <strong>Trinh Hoai Nhat</strong></div>

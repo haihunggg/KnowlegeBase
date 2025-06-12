@@ -1083,3 +1083,8 @@ plugins:
   [open a discussion]: https://github.com/squidfunk/mkdocs-material/discussions
   [change request]: ../contributing/requesting-a-change.md
   [issue tracker]: https://github.com/squidfunk/mkdocs-material/issues
+
+
+
+
+<div class="last-updated">Last updated on <strong>Feb 5, 2025</strong> by <strong>unknown</strong></div>

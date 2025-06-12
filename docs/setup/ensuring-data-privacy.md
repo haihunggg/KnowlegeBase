@@ -336,3 +336,8 @@ Use [additional JavaScript] to query the result:
 
   [additional JavaScript]: ../customization.md#additional-javascript
   [changes the settings]: #change-cookie-settings
+
+
+
+
+<div class="last-updated">Last updated on <strong>Feb 18, 2025</strong> by <strong>Trinh Hoai Nhat</strong></div>

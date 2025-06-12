@@ -799,3 +799,8 @@ See reference for usage:
   [GitHub Flavored Markdown]: https://github.github.com/gfm/
   [Tasklist specification]: https://github.github.com/gfm/#task-list-items-extension-
   [Using task lists]: ../../reference/lists.md#using-task-lists
+
+
+
+
+<div class="last-updated">Last updated on <strong>Feb 18, 2025</strong> by <strong>Trinh Hoai Nhat</strong></div>

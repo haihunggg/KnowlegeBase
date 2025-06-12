@@ -186,3 +186,8 @@ When publishing a new version, [mike] will create a redirect in the root of
 your project documentation to the version associated with the alias:
 
 _docs.example.com_ :octicons-arrow-right-24: _docs.example.com/0.1_
+
+
+
+
+<div class="last-updated">Last updated on <strong>Feb 18, 2025</strong> by <strong>Trinh Hoai Nhat</strong></div>

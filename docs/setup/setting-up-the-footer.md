@@ -185,3 +185,8 @@ includes the `copyright` property set in `mkdocs.yml`.
   [generator notice]: #generator-notice
   [extend the theme]: ../customization.md#extending-the-theme
   [overriding partials]: ../customization.md#overriding-partials
+
+
+
+
+<div class="last-updated">Last updated on <strong>Feb 18, 2025</strong> by <strong>Trinh Hoai Nhat</strong></div>

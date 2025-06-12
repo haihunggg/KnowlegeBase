@@ -251,3 +251,7 @@ other providers:
   [Vercel]: https://deborahwrites.com/guides/deploy-host-mkdocs/deploy-mkdocs-material-vercel/
   [Scaleway]: https://www.scaleway.com/en/docs/tutorials/using-bucket-website-with-mkdocs/
 
+
+
+
+<div class="last-updated">Last updated on <strong>Feb 5, 2025</strong> by <strong>unknown</strong></div>
