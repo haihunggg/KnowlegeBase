@@ -29,7 +29,6 @@ theme:
     # - content.tabs.link
     - content.tooltips
     # - header.autohide
-    #- navigation.expand
     - navigation.footer
     - navigation.indexes
     - navigation.instant
@@ -384,8 +383,22 @@ nav:
               - setup/xang-dau/ket-xuat-bao-cao-tru-bom.md
   - Chứng từ TNCN:
       - "":
-          - Hướng dẫn sử dụng:
-              - chung-tu/dang-nhap.md
+          - "Hướng dẫn sử dụng":
+              - Các điểm mới về chứng từ khấu trừ thuế TNCN theo Nghị định 70/2025/NĐ-CP: chung-tu/diem-moi.md
+              - Đăng nhập: chung-tu/dang-nhap.md
+              - chung-tu/plugin.md
+              - chung-tu/lap-va-phat-hanh-hoa-don.md
+              - chung-tu/gui-mail.md
+              - chung-tu/nhap-excel-hang-loat.md
+              - chung-tu/in-hang-loat.md
+          - "Nghiệp vụ chứng từ điện tử":
+              - chung-tu/thay-the-hoa-don.md
+              - chung-tu/dieu-chinh-hoa-don.md
+              - chung-tu/giai-trinh-mau04ss.md
+          - "Danh mục và báo cáo":
+              - chung-tu/danh-muc-khach-hang.md
+              - chung-tu/bao-cao-tong-hop.md
+
   - mSMI:
       - "":
           - Hướng dẫn sử dụng:
@@ -445,7 +458,7 @@ nav:
   - mBHXH:
       - "":
           - Hướng dẫn sử dụng:
-              - tutorials/mBHXH/dang-nhap.md
+              - Đăng nhập: tutorials/mBHXH/dang-nhap.md
               - tutorials/mBHXH/dashboard.md
               - tutorials/mBHXH/dang-ky-tai-khoan.md
           - "Các lỗi thường gặp khi sử dụng phần mềm":
@@ -460,7 +473,7 @@ nav:
   - mSeller:
       - "":
           - "Hướng dẫn sử dụng trên máy POS 📱":
-              - setup/ban-hang/ket-noi-phan-mem-hoa-don.md
+              - Kết nối phần mềm hoá đơn: setup/ban-hang/ket-noi-phan-mem-hoa-don.md
               - setup/ban-hang/danh-sach-khach-hang.md
               - setup/ban-hang/danh-sach-hang-hoa.md
               - setup/ban-hang/xuat-hoa-don.md

@@ -135,7 +135,7 @@
 .md-nav__link {
   border-radius: 8px;
   transition: background 0.2s, border 0.2s;
-  padding: 0.3em 0.6em;
+  padding: 0.2em 0.5em;
 }
 
 /* Chế độ sáng (default) */

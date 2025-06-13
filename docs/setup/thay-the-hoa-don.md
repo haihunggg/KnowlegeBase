@@ -48,7 +48,4 @@ Sau khi Thay thế nội dung hóa đơn thành 1 hóa đơn đúng. Người s�
 
 ![Hình 5](../assets/images/invoice2/hotro.png)
 
-
-
-
 <div class="last-updated">Last updated on <strong>Jun 5, 2025</strong> by <strong>nhatth</strong></div>
