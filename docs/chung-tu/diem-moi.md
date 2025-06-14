@@ -2,7 +2,80 @@
 
 Nghị định số 70/2025/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 123/2020/NĐ-CP có hiệu lực từ ngày 01/06/2025 đã cập nhật nhiều điểm mới về chứng từ khấu trừ thuế TNCN.
 
-### **1. Cập nhật 4 thay đổi quan trọng về chứng từ khấu trừ thuế TNCN theo Nghị định 70/2025/NĐ-CP so với Nghị định 123/2020/NĐ-CP**
+### **1. Nội dung thay đổi so với phiên bản 1.0**
+
+<div style="overflow-x: auto; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1); background: #fff; padding: 1rem; margin-bottom: 1rem;">
+
+<table style="width: 100%; border-collapse: collapse; min-width: 700px;">
+  <thead style="background-color: #2c5f2d; color: #fff;">
+    <tr>
+      <th style="text-align: left; padding: 12px 16px;">TIÊU THỨC</th>
+      <th style="padding: 12px 16px;">PHIÊN BẢN 1.0</th>
+      <th style="padding: 12px 16px;">PHIÊN BẢN 2.0</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="padding: 12px 16px;">Mẫu số</td>
+      <td style="text-align: center;">CTT56</td>
+      <td style="text-align: center;">03/TNCN</td>
+    </tr>
+    <tr>
+      <td style="padding: 12px 16px;">Ký hiệu</td>
+      <td style="text-align: center;">AA/2025E</td>
+      <td style="text-align: center;">CT/25E</td>
+    </tr>
+    <tr>
+      <td style="padding: 12px 16px;">Đăng ký sử dụng chứng từ điện tử</td>
+      <td style="text-align: center; color: red;">❌</td>
+      <td style="text-align: center; color: green;">✅</td>
+    </tr>
+    <tr>
+      <td style="padding: 12px 16px;">Lập chứng từ và gửi lên CQT</td>
+      <td style="text-align: center; color: red;">❌</td>
+      <td style="text-align: center; color: green;">✅</td>
+    </tr>
+    <tr>
+      <td style="padding: 12px 16px;">Hủy chứng từ</td>
+      <td style="text-align: center; color: green;">✅</td>
+      <td style="text-align: center; color: red;">❌</td>
+    </tr>
+    <tr>
+      <td style="padding: 12px 16px;">Gửi thông báo 04/SS</td>
+      <td style="text-align: center; color: red;">❌</td>
+      <td style="text-align: center; color: green;">✅</td>
+    </tr>
+    <tr>
+      <td style="padding: 12px 16px;">Thay thế chứng từ</td>
+      <td style="text-align: center; color: red;">❌</td>
+      <td style="text-align: center; color: green;">✅</td>
+    </tr>
+    <tr>
+      <td style="padding: 12px 16px;">Điều chỉnh chứng từ</td>
+      <td style="text-align: center; color: red;">❌</td>
+      <td style="text-align: center; color: green;">✅</td>
+    </tr>
+    <tr>
+      <td style="padding: 12px 16px;">Mẫu in mặc định</td>
+      <td style="text-align: center;">18 tiêu chí</td>
+      <td style="text-align: center;">19 tiêu chí<br><small>(Bổ sung khoản từ thiện, nhân đạo)</small></td>
+    </tr>
+    <tr>
+      <td style="padding: 12px 16px;">Cách tính thu nhập thực nhận</td>
+      <td style="text-align: center;">Thu nhập chịu thuế - Số thuế khấu trừ</td>
+      <td style="text-align: center;">Thu nhập tính thuế - Số thuế khấu trừ</td>
+    </tr>
+    <tr>
+      <td style="padding: 12px 16px;">Phương thức sinh số</td>
+      <td style="text-align: center;">Sinh số và ngày trước khi ký</td>
+      <td style="text-align: center;">Sinh số và ngày sau khi ký</td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
+
+### **2. Cập nhật 4 thay đổi quan trọng về chứng từ khấu trừ thuế TNCN theo Nghị định 70/2025/NĐ-CP so với Nghị định 123/2020/NĐ-CP**
 
 Nghị định 70/2025/NĐ-CP sửa đổi, bổ sung Nghị định 123/2020/NĐ-CP với các điểm thay đổi về chứng từ khấu trừ thuế thu nhập cá nhân như sau:
 
@@ -114,7 +187,7 @@ Nghị định 70/2025/NĐ-CP sửa đổi, bổ sung Nghị định 123/2020/N�
 
 </div>
 
-### **2. Việc cần làm để chuyển đổi đáp ứng Nghị định 70/2025/NĐ-CP**
+### **3. Việc cần làm để chuyển đổi đáp ứng Nghị định 70/2025/NĐ-CP**
 
 Tổ chức/cá nhân trả thu nhập cần thực hiện chuyển đổi đáp ứng Nghị định 70/2025/NĐ-CP như sau:
 

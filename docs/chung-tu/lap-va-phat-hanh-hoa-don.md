@@ -32,6 +32,22 @@ Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm 
 
     ![Hình 4](../assets/images/chung-tu/ct_lapchungtu_4.png)
 
+    ???+ note "Nội dung trên chứng từ (Khoản 18, Điều 1, nghị định 70)"
+
+        **a)** Tên chứng từ khấu trừ thuế; ký hiệu mẫu chứng từ khấu trừ thuế, ký hiệu chứng từ khấu trừ thuế, số thứ tự chứng từ khấu trừ thuế;
+
+        **b)** Tên, địa chỉ, mã số thuế của tổ chức, cá nhân chi trả thu nhập;
+
+        **c)** Tên, địa chỉ, số điện thoại, mã số thuế của cá nhân nhận thu nhập (nếu cá nhân đã có mã số thuế) hoặc số định danh cá nhân;
+
+        **d)** Quốc tịch (nếu người nộp thuế không thuộc quốc tịch Việt Nam);
+
+        **đ)** Khoản thu nhập, thời điểm trả thu nhập, tổng thu nhập chịu thuế, khoản đóng bảo hiểm bắt buộc; khoản từ thiện, nhân đạo, khuyến học; số thuế đã khấu trừ;
+
+        **e)** Ngày, tháng, năm lập chứng từ khấu trừ thuế;
+
+        **g)** Họ tên, chữ ký của người trả thu nhập.
+
     ???+ note "Thông tin người nộp thuế"
 
         - Anh chị điền tin của người nộp thuế như Họ và tên, CCCDAN, MST TNCN, ....
@@ -42,7 +58,39 @@ Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm 
 
         👉 Đây là số thứ tự dòng của người lao động trong Phụ lục 05-1/BK-TNCN – là bảng kê chi tiết danh sách những người được quyết toán thay.
 
-        **Trường hợp quý khách xuất nhiều cho một thông tin người nộp thuế**  -> có thể thêm vào phần danh mục -> người nộp thuế theo hướng dẫn sau đây
+        **Trường hợp quý khách xuất nhiều cho một thông tin người nộp thuế**  -> có thể thêm vào phần danh mục -> người nộp thuế theo hướng dẫn sau đây [Danh mục người nộp thuế](danh-muc-khach-hang.md#attribute-lists){ data-preview }
+
+    ???+ note "Cách xác định số thuế khấu trừ"
+
+        ???+ note "Đối với cá nhân có hợp đồng lao động trên 03 tháng"
+
+            Cách tính thuế TNCN đối với cá nhân cư trú có hợp đồng lao động trên 03 tháng và có nguồn thu nhập từ tiền công, tiền lương
+
+            Những công thức áp dụng để tính thuế TNCN:
+
+            **(1)** Thuế TNCN cần nộp = Thu nhập tính thuế × Thuế suất.
+
+            **(2)** Thu nhập tính thuế = Thu nhập phải chịu thuế − các khoản giảm trừ.
+
+            **(3)** Thu nhập phải chịu thuế = Tổng tiền lương nhận được − Các khoản được miễn thuế.
+
+        ??? note "Đối với cá nhân ký hợp đồng lao động dưới 03 tháng hoặc không ký hợp đồng"
+
+            Căn cứ điểm i khoản 1 Điều 25 Thông tư 111/2013/TT-BTC quy định với nội dung là cá nhân cư trú ký kết hợp đồng lao động dưới 03 tháng hoặc không ký kết hợp đồng lao động có mức thu nhập dưới 2.000.000 đồng/tháng thì không cần chịu thuế với mức 10%. Trường hợp cá nhân cư trú ký kết hợp đồng lao động dưới 03 tháng hoặc không ký kết hợp đồng lao động có mức thu nhập từ tiền lương, tiền công trên 2.000.000 đồng/tháng thì phải khấu trừ là 10%.
+
+            Công thức tính thuế thu nhập cá nhân cho trường hợp 02 là:
+
+            Thuế thu nhập cá nhân phải nộp = 10% × Tổng thu nhập trước khi trả
+
+        ??? note "Cách tính thuế TNCN đối với cá nhân không cư trú"
+
+            Theo quy định của pháp luật cá nhân không cư trú sẽ không được tính khoản giảm trừ gia cảnh nên chỉ cần có mức thu nhập lớn hơn 0 thì sẽ phải chịu mức khấu trừ thuế thu nhập cá nhân là 20%. Những khoản mà nhóm đối tượng cá nhân không cư trú được giảm là khoản đóng bảo hiểm, quỹ hưu trí, đóng góp khuyến học, làm thiện nguyện.
+
+            Công thức tính thuế thu nhập cá nhân đối với cá nhân không cư trú là:
+
+            Thuế thu nhập cá nhân phải nộp = 20% × Thu nhập chịu thuế
+
+            Trong đó: Thu nhập chịu thuế bao gồm tiền công, tiền lương và những khoản thu khác mà cá nhân nộp thuế nhận trong kỳ tính thuế.
 
     ???+ note "Thông tin thuế TNCN"
 
@@ -50,7 +98,7 @@ Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm 
 
         - Điền từ tháng đến tháng và năm muốn lập  <span style="color: red; font-weight: bold;">Trường hợp người nộp thuế làm thời vụ và lập tháng ngắt quãng thì lập ra những tờ khác nhau. VD:1, 5, 8 -> LẬP 3 TỜ</span>
 
-        - Điền các thông thông tin tính thuế,.... nếu chưa rõ cách tính hãy xem cách tính ở đây -->
+        - Điền các thông tin tính thuế,....
 
     ![Hình 5](../assets/images/chung-tu/ct_lapchungtu_5.png)
 

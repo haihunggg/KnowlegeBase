@@ -8,7 +8,7 @@ Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm 
 
     Mẫu 04/SS giải trình phù hợp trong các trường hợp sai sót sau
 
-    - Sai thông tin người nộp thuế, tên người nộp thuế, địa chỉ, .....
+    - sai về tên, địa chỉ của người mua, ... nhưng không sai mã số thuế, phần tiền
 
 **Thao tác cài đặt và thực hiện như sau**
 

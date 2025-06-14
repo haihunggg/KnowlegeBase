@@ -10,38 +10,32 @@ Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm 
     Chỉ được phép sử dụng nghiệp vụ điều chỉnh chứng từ với các điều kiện sau:
 
     1. chứng từ cần điều chỉnh đã được gửi CQT thành công
-    2. chứng từ cần điều chỉnh ở Trạng thái Gốc (Mới) hoặc `bị điều chỉnh`
+    2.
+    3. chứng từ cần điều chỉnh ở Trạng thái Gốc (Mới) hoặc `bị điều chỉnh`
 
 ???+ Warning "Lưu ý"
 
     Nếu đã lựa chọn nghiệp vụ điều chỉnh thì không được thay thế chứng từ
 
-**Thao tác cài đặt và thực hiện như sau**
+**Thao tác điều chỉnh như sau**
 
-=== "Điều chỉnh thuế suất"
+=== "Điều chỉnh giảm thu nhập chịu thuế"
 
-    ### Bước 1: Chọn chứng từ cần điều chỉnh --> Xử lý sai sót --> Điều chỉnh
+    ### **Bước 1: Chọn chứng từ cần điều chỉnh --> Nghiệp vụ --> Điều chỉnh chứng từ**
 
-    ![Hình 1](../assets/images/invoice2/2.0_dieu-chinh-thue-suat_1.png)
+    ![Hình 1](../assets/images/chung-tu/ct_dieuchinh_1.png)
 
-    ### Bước 2: Ghi âm hoàn toàn dòng sai thuế suất và ghi lại đúng dòng đó và chọn đúng thuế suất đúng
+    ### **Bước 2: Ghi âm thu nhập chịu thuế cần giảm và giảm các thông tin bị giảm theo**
 
-    ![Hình 2](../assets/images/invoice2/2.0_dieu-chinh-thue-suat_2.png)
+    **VD: Trước khi điều chỉnh**
 
-=== "Điều chỉnh sai tên hàng, đơn vị tính"
+    ![Hình 1](../assets/images/chung-tu/ct_dieuchinh_2.png)
 
-    ### Bước 1: Chọn chứng từ cần điều chỉnh --> Xử lý sai sót --> Điều chỉnh
+    **VD: Sau khi điều chỉnh**
 
-    ![Hình 3](../assets/images/invoice2/2.0_dieu-chinh-thue-suat_1.png)
+    **Trường hơp trên khoản đóng bảo hiểm và khoản đóng từ thiện không giảm thì không điền**
 
-    ### Bước 2: Điền nội dung phần tên hàng hóa bị sai và sửa lại tên đúng
-    Tên hàng : Điền nội dung phần tên hàng hóa bị sai và sửa lại tên đúng
-
-    VD: Sai tên hàng hóa dịch vụ của "hàng hóa 1", tên hàng hóa đúng là "Tên hàng hóa 2"
-    Tính chất : Ghi chú diễn giải
-    VD : Điều chỉnh tên hàng hóa dịch vụ
-
-    ![Hình 4](../assets/images/invoice2/2.0_dieu-chinh-hang-hoa_2.png)
+    ![Hình 1](../assets/images/chung-tu/ct_dieuchinh_3.png)
 
 Sau khi điều chỉnh nội dung chứng từ thành 1 chứng từ đúng. Người sử dụng có thể Ký và gửi chứng từ đã được lập điều chỉnh như một chứng từ thông thường.
 
