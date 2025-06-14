@@ -6,7 +6,7 @@ Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm 
 
 ???+ Danger "Lưu ý"
 
-    Trường hợp quý khách đã sử dụng hóa đơn điện tử  [M-Invoice phiên bản 2.0](../setup/dang-nhap.md#attribute-lists){ data-preview } để ký hóa đơn thì bỏ qua bước này
+    Trường hợp quý khách đã sử dụng hóa đơn điện tử  [M-Invoice phiên bản 2.0](../setup/dang-nhap.md#attribute-lists){ data-preview } để ký hóa đơn thì chỉ cần chuột phải vào biểu tượng plugin cập nhật lên phiên bản 1.1.3
 
 **Thao tác cài đặt và thực hiện như sau**
 

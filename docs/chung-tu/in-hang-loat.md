@@ -12,7 +12,7 @@ Trong quá trình phát hành chứng từ người dùng sẽ có nhu cầu in 
 
     ![Hình 1](../assets/images/chung-tu/ct_inhangloat_1.png)
 
-    ### **Bước 2: Chọn **in tất cả**
+    ### **Bước 2: Chọn in tất cả
 
     ![Hình 2](../assets/images/chung-tu/ct_inhangloat_2.png)
 
