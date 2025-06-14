@@ -495,6 +495,8 @@ nav:
               - setup/Chu-ky-so/thue-dien-tu-intrustca.md
               - setup/Chu-ky-so/web-intrustca.md
               - setup/Chu-ky-so/app-intrustca.md
+          - "Chữ ký số ICA":
+              - setup/Chu-ky-so/cai-dat-ica.md
           - "Ký điện tử":
               - setup/Chu-ky-so/ky-bang-foxit.md
   - Tài liệu:
