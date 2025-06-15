@@ -20,10 +20,10 @@ Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm 
 
 **Đường link mà quý khách có thể truy cập:**
 
-1.  Mã_số_thuế.minvoice.vn
+1.  Mã_số_thuế.mtncn.minvoice.vn
 
 Mã_số_thuế: là mã số thuế của công ty
-**VD: 0106026495.minvoice.vn**
+**VD: 0106026495.mtncn.minvoice.vn**
 
 ![Hình 1](../assets/images/chung-tu/ct_dangnhap_1.png)
 
