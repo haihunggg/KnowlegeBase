@@ -1,6 +1,6 @@
 # **Đăng ký tờ khai chứng từ hoặc thêm, thay đổi cks mới vào phần mềm**
 
-Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm hóa đơn điện tử M-Invoice ở phiên bản 2.0 vô cùng mạch lạc và dễ hiểu.
+Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm chứng từ điện tử M-Invoice ở phiên bản 2.0 vô cùng mạch lạc và dễ hiểu.
 
 ## **Hướng dẫn đăng ký tờ khai chứng từ hoặc thêm, thay đổi cks mới vào phần mềm**
 
@@ -14,7 +14,7 @@ Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm 
 
     Nếu chưa, bạn chỉ cần gõ vào ô tìm kiếm của window ( window + S) tìm kiếm **Minvoice - Plugin Version 2.0** rồi bật  lên là được. Phiên bản để sử dụng chứng từ là 1.1.3
 
-### **Bước 2: Thêm CKS vào phần mềm hóa đơn**
+### **Bước 2: Thêm CKS vào phần mềm chứng từ**
 
 ![Hình 1](../assets/images/chung-tu/ct_tokhai_1.png)
 
@@ -62,7 +62,7 @@ Các bạn vào phần **Đăng ký phát hành --> Tờ khai đăng ký --> Th�
 
 ![Hình 7](../assets/images/chung-tu/ct_tokhai_7.png)
 
-1,2,3 Anh chị tích chọn vào các loại hóa đơn phù hợp với hình thức doanh nghiệp mình sử dụng
+1,2,3 Anh chị tích chọn vào các loại chứng từ phù hợp với hình thức doanh nghiệp mình sử dụng
 
 ![Hình 8](../assets/images/chung-tu/ct_tokhai_8.png)
 

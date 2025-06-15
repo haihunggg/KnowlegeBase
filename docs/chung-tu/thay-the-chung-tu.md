@@ -22,7 +22,7 @@ Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm 
 
 ![Hình 1](../assets/images/chung-tu/ct_thaythe_1.png)
 
-### **Bước 2: Điền lý do sai sót và điền lại thông tin hóa đơn cần thay thế**
+### **Bước 2: Điền lý do sai sót và điền lại thông tin chứng từ cần thay thế**
 
 ![Hình 2](../assets/images/chung-tu/ct_thaythe_2.png)
 

@@ -388,15 +388,16 @@ nav:
               - Đăng nhập: chung-tu/dang-nhap.md
               - chung-tu/plugin.md
               - chung-tu/them-cks-moi.md
-              - chung-tu/lap-va-phat-hanh-hoa-don.md
+              - chung-tu/tao-ky-hieu.md
+              - chung-tu/lap-va-phat-hanh-chung-tu.md
               - chung-tu/gui-mail.md
               - chung-tu/nhap-excel-hang-loat.md
-              - chung-tu/in-hang-loat.md
+              - chung-tu/tai-hang-loat.md
               - chung-tu/them-nguoi-dung.md
               - chung-tu/phan-quyen.md
           - "Nghiệp vụ chứng từ điện tử":
-              - chung-tu/thay-the-hoa-don.md
-              - chung-tu/dieu-chinh-hoa-don.md
+              - chung-tu/thay-the-chung-tu.md
+              - chung-tu/dieu-chinh-chung-tu.md
               - chung-tu/giai-trinh-mau04ss.md
           - "Danh mục và báo cáo":
               - chung-tu/danh-muc-khach-hang.md

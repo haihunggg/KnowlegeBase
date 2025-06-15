@@ -10,8 +10,8 @@ Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm 
     Chỉ được phép sử dụng nghiệp vụ điều chỉnh chứng từ với các điều kiện sau:
 
     1. chứng từ cần điều chỉnh đã được gửi CQT thành công
-    2.
-    3. chứng từ cần điều chỉnh ở Trạng thái Gốc (Mới) hoặc `bị điều chỉnh`
+
+    2. chứng từ cần điều chỉnh ở Trạng thái Gốc (Mới) hoặc `bị điều chỉnh`
 
 ???+ Warning "Lưu ý"
 

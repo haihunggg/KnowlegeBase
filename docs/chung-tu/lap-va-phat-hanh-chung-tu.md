@@ -10,6 +10,12 @@ Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm 
 
         Khi sử dụng phần mềm chứng từ, NSD sẽ cần lập và phát hành chứng từ. M-invoice sẽ giới thiệu với NSD tính năng lập và phát hành chứng từ trên hệ thống
 
+        Điều kiện để có thể phát hành chứng từ:
+
+        1. Đã đăng ký tờ khai Mẫu số: 01/ĐKTĐ-CTĐT với CQT (nếu chưa đăng ký hãy xem [tại đây](them-cks-moi.md#attribute-lists){ data-preview })
+
+        2. Đã tạo ký hiệu chứng từ (nếu chưa tạo hãy xem [tại đây](tao-ky-hieu.md#attribute-lists){ data-preview })
+
     <p align="center" style="font-weight: bold;">Hướng dẫn lập và phát hành chứng từ</p>
 
     <p align="center" style="font-weight: bold;">Anh chị có thể kiểm tra thông tin bản quyền và số lượng mua chứng từ theo ảnh sau</p>
