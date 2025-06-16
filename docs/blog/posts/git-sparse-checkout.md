@@ -98,3 +98,8 @@ jobs:
 That's all there is! We're super happy with the results and hope that this will
 help you to speed up your documentation builds in [GitHub Actions] as well. As
 always, feel free to share your thoughts and experiences in the comments below.
+
+
+
+
+<div class="last-updated">Last updated on <strong>Feb 5, 2025</strong> by <strong>unknown</strong></div>

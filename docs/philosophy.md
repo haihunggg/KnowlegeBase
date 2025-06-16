@@ -22,3 +22,8 @@ discusses the [conventions] used in this documentation.
   markup ensures that your documentation works for everyone.
 
 - **Open Source**: You're in good company – choose a mature and actively maintained solution built with state-of-the-art Open Source technologies, trusted by more than 50.000 individuals and organizations. Licensed under MIT.
+
+
+
+
+<div class="last-updated">Last updated on <strong>Feb 5, 2025</strong> by <strong>unknown</strong></div>

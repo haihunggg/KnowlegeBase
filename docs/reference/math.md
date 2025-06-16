@@ -196,3 +196,8 @@ consider:
 In summary, KaTeX shines with its speed and simplicity, whereas MathJax offers
 more features and better compatibility at the expense of speed. The choice
 between the two will largely depend on your specific needs and constraints.
+
+
+
+
+<div class="last-updated">Last updated on <strong>Feb 5, 2025</strong> by <strong>unknown</strong></div>

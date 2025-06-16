@@ -164,3 +164,8 @@ For further notes on icon usage, please consult the [icon reference].
   [custom_dir]: https://www.mkdocs.org/user-guide/configuration/#custom_dir
   [Bootstrap]: https://icons.getbootstrap.com/
   [icon reference]: ../reference/icons-emojis.md#using-icons
+
+
+
+
+<div class="last-updated">Last updated on <strong>Feb 18, 2025</strong> by <strong>Trinh Hoai Nhat</strong></div>

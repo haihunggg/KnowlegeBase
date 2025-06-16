@@ -151,3 +151,8 @@ file system:
   [Site analytics]: ../setup/setting-up-site-analytics.md
   [Versioning]: ../setup/setting-up-versioning.md
   [Comment systems]: ../setup/adding-a-comment-system.md
+
+
+
+
+<div class="last-updated">Last updated on <strong>Feb 5, 2025</strong> by <strong>unknown</strong></div>

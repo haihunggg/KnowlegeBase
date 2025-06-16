@@ -153,3 +153,8 @@ unsure, please ask us first by [creating a discussion].
   [requirements]: #how-it-works
   [explicitly mentioned in our documentation]: ?q=%22extends+base%22
   [creating a discussion]: https://github.com/squidfunk/mkdocs-material/discussions
+
+
+
+
+<div class="last-updated">Last updated on <strong>Feb 5, 2025</strong> by <strong>unknown</strong></div>

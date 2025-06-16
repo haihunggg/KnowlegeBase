@@ -244,3 +244,8 @@ following plugins have support for multiple instances:
 - [Built-in social plugin][social]
 
 </div>
+
+
+
+
+<div class="last-updated">Last updated on <strong>Feb 5, 2025</strong> by <strong>unknown</strong></div>

@@ -56,3 +56,8 @@ that case, we will show them in a tabbed view so you can see one or the other.
   shows you how to design your own custom social cards.
 
 [:octicons-repo-template-24: Template Repository](https://github.com/mkdocs-material/create-social-cards)
+
+
+
+
+<div class="last-updated">Last updated on <strong>Feb 5, 2025</strong> by <strong>unknown</strong></div>

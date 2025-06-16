@@ -119,3 +119,8 @@ documentation project without vendor lock-in.
 [&nbsp; Choose a sponsoring tier <span class="mdx-sponsorship-count" data-mdx-component="sponsorship-count"></span>][sponsoring-tiers]{ .md-button .md-button--primary .mdx-sponsorship-button }
 
   [sponsoring-tiers]: sponsoring-tiers.md
+
+
+
+
+<div class="last-updated">Last updated on <strong>Feb 5, 2025</strong> by <strong>unknown</strong></div>

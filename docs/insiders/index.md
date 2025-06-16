@@ -227,3 +227,8 @@ get all the information you need to get started:
 ----
 
 __We're looking forward to welcoming you as a sponsor!__
+
+
+
+
+<div class="last-updated">Last updated on <strong>Feb 5, 2025</strong> by <strong>unknown</strong></div>

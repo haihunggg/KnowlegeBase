@@ -233,3 +233,8 @@ template defines an `else` branch, which would set a default if none was given.
 
   [title]: #setting-the-page-title
   [description]: #setting-the-page-description
+
+
+
+
+<div class="last-updated">Last updated on <strong>Feb 5, 2025</strong> by <strong>unknown</strong></div>

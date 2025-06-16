@@ -53,3 +53,8 @@ configuration settings: [instant loading], [site analytics], [git repository],
   [Versioning]: setting-up-versioning.md
   [Git repository]: adding-a-git-repository.md
   [Comment systems]: adding-a-comment-system.md
+
+
+
+
+<div class="last-updated">Last updated on <strong>Feb 18, 2025</strong> by <strong>Trinh Hoai Nhat</strong></div>

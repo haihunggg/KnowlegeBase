@@ -25,3 +25,8 @@ Chọn mục Bán ra hoặc Mua vào tùy thuộc nhu cầu đang cần sử d�
     Có bất kỳ vướng mắc nào trong quá trình sử dụng hãy liên hệ với M-Invoice tại mục Hỗ trợ kỹ thuật góc phải bên dưới màn hình hoặc gọi tổng đài kỹ thuật của M-Invoice (1900.955.557 Nhánh 1)
 
 ![Hình 4](../../assets/images/mSMI/msmi_footer.png)
+
+
+
+
+<div class="last-updated">Last updated on <strong>Mar 10, 2025</strong> by <strong>Trinh Hoai Nhat</strong></div>

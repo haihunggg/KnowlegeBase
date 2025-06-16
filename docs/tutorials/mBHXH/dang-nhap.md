@@ -25,3 +25,5 @@
     Có bất kỳ vướng mắc nào trong quá trình sử dụng hãy liên hệ với M-Invoice tại mục Hỗ trợ kỹ thuật góc phải bên dưới màn hình hoặc gọi tổng đài kỹ thuật của M-Invoice (1900.955.557 Nhánh 1)
 
 ![Hình 5](../../assets/images/invoice1/1.0_suaTienBangTay_5.png)
+
+<div class="last-updated">Last updated on <strong>Mar 27, 2025</strong> by <strong>Trinh Hoai Nhat</strong></div>

@@ -53,3 +53,8 @@ Như vậy, chúng ta đã thành công kiểm tra tình trạng mã số thuế
     Có bất kỳ vướng mắc nào trong quá trình sử dụng hãy liên hệ với M-Invoice tại mục Hỗ trợ kỹ thuật góc phải bên dưới màn hình hoặc gọi tổng đài kỹ thuật của M-Invoice (1900.955.557 Nhánh 1)
 
 ![Hình 7](../../assets/images/mSMI/msmi_footer.png)
+
+
+
+
+<div class="last-updated">Last updated on <strong>Mar 27, 2025</strong> by <strong>Trịnh Hoài Nhất</strong></div>

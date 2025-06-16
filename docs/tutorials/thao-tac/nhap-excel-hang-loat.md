@@ -213,3 +213,8 @@ pip install -e mkdocs-material
 ```
 
 [GitHub]: https://github.com/squidfunk/mkdocs-material -->
+
+
+
+
+<div class="last-updated">Last updated on <strong>Jun 5, 2025</strong> by <strong>nhatth</strong></div>

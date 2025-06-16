@@ -502,3 +502,8 @@ extra_templates:
 
 Note that the path to `iframe.html` is relative to the
 [`docs_dir`][mkdocs.docs_dir] directory.
+
+
+
+
+<div class="last-updated">Last updated on <strong>Feb 5, 2025</strong> by <strong>unknown</strong></div>

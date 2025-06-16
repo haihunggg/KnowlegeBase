@@ -401,3 +401,8 @@ can tune the `slate` theme with:
 1.  The `hue` value must be in the range of `[0, 360]`
 
   [attribute selector]: https://www.w3.org/TR/selectors-4/#attribute-selectors
+
+
+
+
+<div class="last-updated">Last updated on <strong>Feb 18, 2025</strong> by <strong>Trinh Hoai Nhat</strong></div>

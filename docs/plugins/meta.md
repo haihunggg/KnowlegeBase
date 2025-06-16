@@ -200,3 +200,8 @@ plugins:
 
 The provided path is resolved from the [`docs` directory][mkdocs.docs_dir]
 recursively.
+
+
+
+
+<div class="last-updated">Last updated on <strong>Feb 5, 2025</strong> by <strong>unknown</strong></div>

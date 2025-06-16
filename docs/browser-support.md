@@ -65,3 +65,8 @@ the following older browser versions might work with some additional effort:
   mainly due to missing support for [custom properties]. The last version of
   Material for MkDocs to support Internet Explorer is
   <!-- md:version 4.6.3 -->.
+
+
+
+
+<div class="last-updated">Last updated on <strong>Feb 5, 2025</strong> by <strong>unknown</strong></div>

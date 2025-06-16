@@ -15,6 +15,7 @@ copyright: Copyrights © 2025 Hóa đơn điện tử M-invoice. All Rights Rese
 # Configuration
 theme:
   name: material
+  language: vi
   logo: assets/minvoice_white_horizontal.png
   custom_dir: material/overrides
   features:
@@ -28,7 +29,6 @@ theme:
     # - content.tabs.link
     - content.tooltips
     # - header.autohide
-    #- navigation.expand
     - navigation.footer
     - navigation.indexes
     - navigation.instant
@@ -69,7 +69,7 @@ theme:
   palette:
     - scheme: default
       primary: custom #indigo
-      accent: red #indigo
+      accent: indigo
       toggle:
         icon: material/weather-sunny
         name: Switch to dark mode
@@ -77,7 +77,7 @@ theme:
 
     - scheme: slate
       primary: custom #indigo
-      accent: red #indigo
+      accent: indigo
       toggle:
         icon: material/weather-night
         name: Switch to light mode
@@ -92,6 +92,10 @@ theme:
 # CSS
 extra_css:
   - stylesheets/extra.css
+
+# JS
+extra_javascript:
+  - stylesheets/extra.js
 
 # Plugins
 plugins:
@@ -109,6 +113,10 @@ hooks:
 
 # Additional configuration
 extra:
+  i18n:
+    toc: "Mục lục"
+    search:
+      placeholder: "Search..."
   status:
     new: Recently added
     deprecated: Deprecated
@@ -116,18 +124,10 @@ extra:
     provider: google
     property: !ENV GOOGLE_ANALYTICS_KEY
   social:
-    - icon: fontawesome/brands/github
-      link: https://github.com/nam1812hy
-    - icon: fontawesome/brands/docker
-      link: https://github.com/nam1812hy
-    - icon: fontawesome/brands/python
-      link: https://github.com/nam1812hy
-    - icon: fontawesome/brands/bluesky
-      link: https://github.com/nam1812hy
-    - icon: fontawesome/brands/mastodon
-      link: https://github.com/nam1812hy
-    - icon: fontawesome/brands/x-twitter
-      link: https://github.com/nam1812hy
+    - icon: fontawesome/brands/facebook
+      link: https://www.facebook.com/hoadondientu.m.invoice
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/@HoaDonDienTuMinvoice
   generator: false
 # Extensions
 markdown_extensions:
@@ -381,29 +381,28 @@ nav:
           - "Xăng dầu ⛽":
               - setup/xang-dau/huong-dan-xang-dau.md
               - setup/xang-dau/ket-xuat-bao-cao-tru-bom.md
-      # - setup/index.md
-      # - Changing the colors: setup/changing-the-colors.md
-      # - Changing the fonts: setup/changing-the-fonts.md
-      # - Changing the language: setup/changing-the-language.md
-      # - Changing the logo and icons: setup/changing-the-logo-and-icons.md
-      # - Ensuring data privacy: setup/ensuring-data-privacy.md
-      # - Setting up navigation: setup/setting-up-navigation.md
-      # - Setting up site search: setup/setting-up-site-search.md
-      # - Setting up site analytics: setup/setting-up-site-analytics.md
-      # - Setting up social cards: setup/setting-up-social-cards.md
-      # - Setting up a blog: setup/setting-up-a-blog.md
-      # - Setting up tags: setup/setting-up-tags.md
-      # - Setting up versioning: setup/setting-up-versioning.md
-      # - Setting up the header: setup/setting-up-the-header.md
-      # - Setting up the footer: setup/setting-up-the-footer.md
-      # - Adding a git repository: setup/adding-a-git-repository.md
-      # - Adding a comment system: setup/adding-a-comment-system.md
-      # - Building an optimized site: setup/building-an-optimized-site.md
-      # - Building for offline usage: setup/building-for-offline-usage.md
-      # - Extensions:
-      #     - setup/extensions/index.md
-      #     - Python Markdown: setup/extensions/python-markdown.md
-      #     - Python Markdown Extensions: setup/extensions/python-markdown-extensions.md
+  - Chứng từ TNCN:
+      - "":
+          - "Hướng dẫn sử dụng":
+              - Các điểm mới về chứng từ khấu trừ thuế TNCN theo Nghị định 70/2025/NĐ-CP: chung-tu/diem-moi.md
+              - Đăng nhập: chung-tu/dang-nhap.md
+              - chung-tu/plugin.md
+              - chung-tu/them-cks-moi.md
+              - chung-tu/tao-ky-hieu.md
+              - chung-tu/lap-va-phat-hanh-chung-tu.md
+              - chung-tu/gui-mail.md
+              - chung-tu/nhap-excel-hang-loat.md
+              - chung-tu/tai-hang-loat.md
+              - chung-tu/them-nguoi-dung.md
+              - chung-tu/phan-quyen.md
+          - "Nghiệp vụ chứng từ điện tử":
+              - chung-tu/thay-the-chung-tu.md
+              - chung-tu/dieu-chinh-chung-tu.md
+              - chung-tu/giai-trinh-mau04ss.md
+          - "Danh mục và báo cáo":
+              - chung-tu/danh-muc-khach-hang.md
+              - chung-tu/bao-cao-tong-hop.md
+
   - mSMI:
       - "":
           - Hướng dẫn sử dụng:
@@ -463,7 +462,7 @@ nav:
   - mBHXH:
       - "":
           - Hướng dẫn sử dụng:
-              - tutorials/mBHXH/dang-nhap.md
+              - Đăng nhập: tutorials/mBHXH/dang-nhap.md
               - tutorials/mBHXH/dashboard.md
               - tutorials/mBHXH/dang-ky-tai-khoan.md
           - "Các lỗi thường gặp khi sử dụng phần mềm":
@@ -478,7 +477,7 @@ nav:
   - mSeller:
       - "":
           - "Hướng dẫn sử dụng trên máy POS 📱":
-              - setup/ban-hang/ket-noi-phan-mem-hoa-don.md
+              - Kết nối phần mềm hoá đơn: setup/ban-hang/ket-noi-phan-mem-hoa-don.md
               - setup/ban-hang/danh-sach-khach-hang.md
               - setup/ban-hang/danh-sach-hang-hoa.md
               - setup/ban-hang/xuat-hoa-don.md
@@ -497,6 +496,8 @@ nav:
               - setup/Chu-ky-so/thue-dien-tu-intrustca.md
               - setup/Chu-ky-so/web-intrustca.md
               - setup/Chu-ky-so/app-intrustca.md
+          - "Chữ ký số ICA":
+              - setup/Chu-ky-so/cai-dat-ica.md
           - "Ký điện tử":
               - setup/Chu-ky-so/ky-bang-foxit.md
   - Tài liệu:

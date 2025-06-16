@@ -345,3 +345,8 @@ essential extensions like [SuperFences] and [InlineHilite].
   [CodeHilite support]: https://github.com/squidfunk/mkdocs-material/releases/tag/0.1.0
   [Highlight]: https://facelessuser.github.io/pymdown-extensions/extensions/highlight/
   [InlineHilite]: https://facelessuser.github.io/pymdown-extensions/extensions/inlinehilite/
+
+
+
+
+<div class="last-updated">Last updated on <strong>Feb 18, 2025</strong> by <strong>Trinh Hoai Nhat</strong></div>

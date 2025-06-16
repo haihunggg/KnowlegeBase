@@ -304,3 +304,8 @@ Công thức giảm thuế mẫu
     Kết quả mong muốn:
 
     ![Hình 2](../../assets/images/tich-hop/nq174-2.png)
+
+
+
+
+<div class="last-updated">Last updated on <strong>May 28, 2025</strong> by <strong>nhatth</strong></div>

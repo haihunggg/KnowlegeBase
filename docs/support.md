@@ -64,3 +64,8 @@ Organizational sponsors at "The Organization" tier or higher are entitled to
 prioritized bug support. While we cannot guarantee immediate resolution, as
 some problems are harder to fix than others, it ensures that your issues are
 addressed with urgency.
+
+
+
+
+<div class="last-updated">Last updated on <strong>Feb 8, 2025</strong> by <strong>Trinh Hoai Nhat</strong></div>

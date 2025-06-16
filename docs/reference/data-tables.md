@@ -189,3 +189,8 @@ The plugin [mkdocs-table-reader-plugin][table-reader-docs] allows you to
 import data from a CSV or Excel file.
 
   [table-reader-docs]: https://timvink.github.io/mkdocs-table-reader-plugin/
+
+
+
+
+<div class="last-updated">Last updated on <strong>Feb 5, 2025</strong> by <strong>unknown</strong></div>

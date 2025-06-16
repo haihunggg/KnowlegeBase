@@ -205,3 +205,8 @@ The latest release brings three simple ways to control more precisely what goes
 into the search index and what doesn't. It complements the already very powerful
 [mkdocs-exclude-search] plugin, allowing for new methods of shaping the
 structure, size and content of the search index.
+
+
+
+
+<div class="last-updated">Last updated on <strong>Feb 5, 2025</strong> by <strong>unknown</strong></div>

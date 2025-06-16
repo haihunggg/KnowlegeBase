@@ -21,7 +21,7 @@ Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm 
 
 **Thao tác cài đặt và thực hiện như sau**
 
-### **Bước 1: Chọn hóa đơn cần điều chỉnh -> Xử lý sai sót --> Thay thế**
+### **Bước 1: Chọn hóa đơn cần điều chỉnh --> Xử lý sai sót --> Điều chỉnh**
 
 ![Hình 1](../assets/images/invoice2/2.0_dieuchinhgiam_1.png)
 
@@ -43,10 +43,17 @@ Kiểm tra các thông tin hóa đơn nếu đúng thì bấm lưu hoặc ký
 
 ![Hình 6](../assets/images/invoice2/2.0_dieuchinhgiam_6.png)
 
-Sau khi điều chỉnh người dùng có thể lập biên bản theo hướng dẫn sau [Hướng dẫn lập biên bản hóa đơn](lap-bien-ban-hoa-don.md#attribute-lists){ data-preview }
+???+ Danger "Hướng dẫn"
+
+    Sau khi điều chỉnh người dùng có thể lập biên bản theo hướng dẫn sau [Hướng dẫn lập biên bản hóa đơn](lap-bien-ban-hoa-don.md#attribute-lists){ data-preview }
 
 ???+ info "Xin chân thành cảm ơn quý khách hàng đã tin dùng sản phẩm của M-Invoice"
 
     Có bất kỳ vướng mắc nào trong quá trình sử dụng hãy liên hệ với M-Invoice tại mục Hỗ trợ kỹ thuật góc phải bên dưới màn hình hoặc gọi tổng đài kỹ thuật của M-Invoice (1900.955.557 Nhánh 1)
 
 ![Hình 5](../assets/images/invoice2/hotro.png)
+
+
+
+
+<div class="last-updated">Last updated on <strong>Jun 5, 2025</strong> by <strong>nhatth</strong></div>
