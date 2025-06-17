@@ -292,23 +292,11 @@ Nghị định 70/2025/NĐ-CP sửa đổi, bổ sung Nghị định 123/2020/N�
   </table>
 </div>
 
-### **3. Việc cần làm để chuyển đổi đáp ứng Nghị định 70/2025/NĐ-CP**
+📞 Quý doanh nghiệp có nhu cầu tư vấn báo giá hoặc hỗ trợ kỹ thuật phần mềm chứng từ TNCN M-invoice, vui lòng liên hệ:
 
-Tổ chức/cá nhân trả thu nhập cần thực hiện chuyển đổi đáp ứng Nghị định 70/2025/NĐ-CP như sau:
+🌐 [M-invoice](https://minvoice.vn/){:target="\_blank"}
 
-**Bước 1**: Ngừng phát hành chứng từ theo quy định cũ
-
-**Bước 2**: Đăng ký sử dụng chứng từ điện tử với cơ quan thuế
-
-**Bước 3**: Cập nhật mẫu chứng từ theo quy định mới
-
-**Bước 4**: Truyền nhận dữ liệu chứng từ đến cơ quan thuế
-
-**Bước 5**: Xử lý chứng từ điện đã lập sai theo quy định
-
-Trên đây là hướng dẫn chuyển tiếp sử dụng chứng từ điện tử khấu trừ thuế TNCN theo Nghị định 70/2025/NĐ-CP mới nhất.
-
-Quý doanh nghiệp quan tâm và có nhu cầu tư vấn báo giá, hỗ trợ kỹ thuật phần mềm chứng từ TNCN M-invoice hãy liên hệ [M-invoice](https://minvoice.vn/){:target="\_blank"} hoặc theo mục hỗ trợ và số điện thoại tổng đài phía dưới đây
+📱 Hoặc theo mục Hỗ trợ và số điện thoại tổng đài ở cuối trang.
 
 ???+ info "Xin chân thành cảm ơn quý khách hàng đã tin dùng sản phẩm của M-Invoice"
 

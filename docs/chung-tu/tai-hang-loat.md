@@ -8,7 +8,11 @@ Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm 
 
     Trong quá trình phát hành chứng từ người dùng sẽ có nhu cầu tải chứng từ PDF và XML. M-invoice xin giới thiệu với khách hàng và người sử dụng tính năng tải chứng từ PDF và XML
 
-=== "Cách 1: Tải nhiều chứng từ PDF"
+=== "Cách 1: Tải nhiều PDF bằng cách xem in"
+
+    ???+ Note "Ghi chú"
+
+        Cách này sẽ gộp chung nhiều chứng từ 1 file .PDF
 
     ### **Bước 1: Lọc những chứng từ muốn tải (theo quý hoặc tháng, tùy chọn)**
 
@@ -25,6 +29,36 @@ Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm 
     ### **Bước 4: Chọn SAVE AS PDF và chọn size A4 -> SAVE**
 
     ![Hình 3](../assets/images/chung-tu/ct_inhangloat_3.png)
+
+    Như vậy quý khách đã tải PDF hàng loạt thành công
+
+=== "Cách 2: Tải nhiều PDF bằng plugin"
+
+    ???+ Note "Ghi chú"
+
+        Cách này sẽ tách chứng từ ra file .PDF riêng
+
+    Cách này yêu cầu cần cài đặt plugin nếu anh chị chưa cài đặt thì có thể xem [Hướng dẫn](plugin.md#attribute-lists){ data-preview }
+
+    ![Hình 7](../assets/images/invoice2/2.0_plugin_7.png)
+
+    **Nếu đã cài đặt theo ảnh trên rồi thì bỏ qua bước cài đặt**
+
+    ### **Bước 1: Lọc những chứng từ muốn tải (theo quý hoặc tháng, tùy chọn)**
+
+    ![Hình 0](../assets/images/chung-tu/ct_inhangloat_0.png)
+
+    ### **Bước 2: Tích chọn chứng từ muốn tải hoặc chọn tất cả**
+
+    ![Hình 1](../assets/images/chung-tu/ct_inhangloat_1.png)
+
+    ### **Bước 3: Chọn tải PDF**
+
+    ![Hình 2](../assets/images/chung-tu/ct_inhangloat_6.png)
+
+    ### **Bước 4: Đợi quá trình tải hoàn tất**
+
+    ![Hình 2](../assets/images/chung-tu/ct_inhangloat_7.png)
 
     Như vậy quý khách đã tải PDF hàng loạt thành công
 
