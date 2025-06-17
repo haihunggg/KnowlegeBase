@@ -362,7 +362,7 @@ nav:
           - "Các lỗi thường gặp khi sử dụng phần mềm":
               - setup/cac-loi-ky-hoa-don.md
               - setup/tong-hop-cac-loi-cqt.md
-              - setup/loi-ket-noi-khong-nhan-duoc-phan-hoi-tu-cqt.md
+              - setup/cac-loi/loi-ket-noi-khong-nhan-duoc-phan-hoi-tu-cqt.md
           - "Nghiệp vụ hoá đơn điện tử":
               - setup/thay-the-hoa-don.md
               - setup/dieu-chinh-hoa-don.md
