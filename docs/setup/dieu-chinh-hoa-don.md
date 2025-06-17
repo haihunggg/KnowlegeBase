@@ -53,13 +53,19 @@ Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm 
 
 Sau khi điều chỉnh nội dung hóa đơn thành 1 hóa đơn đúng. Người sử dụng có thể Ký và gửi hóa đơn đã được lập điều chỉnh như một hóa đơn thông thường.
 
+???+ Danger "Hướng dẫn lập biên bản"
+
+    Theo Nghị định 70/2025/NĐ-CP, việc lập Biên bản điều chỉnh/thay thế chứng từ điện tử khấu trừ thuế TNCN là bắt buộc trong các trường hợp có sai sót.
+
+    Sau khi điều chỉnh người dùng lập biên bản theo hướng dẫn sau
+
+    🖱️ **Click vào đây để xem:**
+    📄 [Hướng dẫn lập biên bản hóa đơn](lap-bien-ban-hoa-don.md#attribute-lists){ data-preview }
+
 ???+ info "Xin chân thành cảm ơn quý khách hàng đã tin dùng sản phẩm của M-Invoice"
 
     Có bất kỳ vướng mắc nào trong quá trình sử dụng hãy liên hệ với M-Invoice tại mục Hỗ trợ kỹ thuật góc phải bên dưới màn hình hoặc gọi tổng đài kỹ thuật của M-Invoice (1900.955.557 Nhánh 1)
 
 ![Hình 5](../assets/images/invoice2/hotro.png)
-
-
-
 
 <div class="last-updated">Last updated on <strong>Mar 10, 2025</strong> by <strong>Trinh Hoai Nhat</strong></div>

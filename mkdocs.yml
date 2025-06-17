@@ -362,6 +362,7 @@ nav:
           - "Các lỗi thường gặp khi sử dụng phần mềm":
               - setup/cac-loi-ky-hoa-don.md
               - setup/tong-hop-cac-loi-cqt.md
+              - setup/loi-ket-noi-khong-nhan-duoc-phan-hoi-tu-cqt.md
           - "Nghiệp vụ hoá đơn điện tử":
               - setup/thay-the-hoa-don.md
               - setup/dieu-chinh-hoa-don.md
@@ -385,6 +386,7 @@ nav:
       - "":
           - "Hướng dẫn sử dụng":
               - Các điểm mới về chứng từ khấu trừ thuế TNCN theo Nghị định 70/2025/NĐ-CP: chung-tu/diem-moi.md
+              - Việc cần làm để chuyển đổi đáp ứng Nghị định 70/2025/NĐ-CP: chung-tu/viec-can-lam.md
               - Đăng nhập: chung-tu/dang-nhap.md
               - chung-tu/plugin.md
               - chung-tu/them-cks-moi.md

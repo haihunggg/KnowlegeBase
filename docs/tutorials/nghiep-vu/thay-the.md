@@ -33,13 +33,19 @@ Nếu hóa đơn có nhiều dòng hàng hóa, bạn cũng có thể cọn copy 
 
 Lúc này hóa đơn cũ sẽ chuyển thành hóa đơn bị thay thế và sẽ coi như 1 hóa đơn hủy, còn hóa đơn mới vừa tạo sẽ trở thành hóa đơn thay thế. Người sử dụng có thể Ký và gửi hóa đơn đã được lập Thay thế như một hóa đơn thông thường.
 
+???+ Danger "Hướng dẫn lập biên bản"
+
+    Theo Nghị định 70/2025/NĐ-CP, việc lập Biên bản điều chỉnh/thay thế chứng từ điện tử khấu trừ thuế TNCN là bắt buộc trong các trường hợp có sai sót.
+
+    Sau khi điều chỉnh người dùng lập biên bản theo hướng dẫn sau
+
+    🖱️ **Click vào đây để xem:**
+    📄 [Hướng dẫn lập biên bản hóa đơn](../nghiep-vu/lap-bien-ban-hoa-don.md#attribute-lists){ data-preview }
+
 !!! info "Xin chân thành cảm ơn Quý khách hàng đã tin dùng sản phẩm của M-Invoice"
 
     Có bất kỳ vướng mắc nào trong quá trình sử dụng hãy liên hệ với M-Invoice tại mục Hỗ trợ kỹ thuật góc phải bên dưới màn hình hoặc gọi tổng đài kỹ thuật của M-Invoice (1900.955.557 Nhánh 1)
 
 ![Hình 5](../../assets/images/invoice1/1.0_suaTienBangTay_5.png)
-
-
-
 
 <div class="last-updated">Last updated on <strong>Jun 5, 2025</strong> by <strong>nhatth</strong></div>

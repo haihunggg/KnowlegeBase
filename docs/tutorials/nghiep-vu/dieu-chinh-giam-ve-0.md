@@ -43,15 +43,21 @@ Kiểm tra các thông tin hóa đơn nếu đúng thì bấm lưu
 
 ![Hình 6](../../assets/images/invoice1/1.0_dieu-chinh-giam_6.png)
 
-Sau khi điều chỉnh người dùng có thể lập biên bản theo hướng dẫn sau [Hướng dẫn lập biên bản hóa đơn](../nghiep-vu/lap-bien-ban-hoa-don.md#attribute-lists){ data-preview }
+### **Bước 4 : Kiểm tra các thông tin của hóa đơn -> LƯU**
+
+???+ Danger "Hướng dẫn lập biên bản"
+
+    Theo Nghị định 70/2025/NĐ-CP, việc lập Biên bản điều chỉnh/thay thế chứng từ điện tử khấu trừ thuế TNCN là bắt buộc trong các trường hợp có sai sót.
+
+    Sau khi điều chỉnh người dùng lập biên bản theo hướng dẫn sau
+
+    🖱️ **Click vào đây để xem:**
+    📄 [Hướng dẫn lập biên bản hóa đơn](../nghiep-vu/lap-bien-ban-hoa-don.md#attribute-lists){ data-preview }
 
 ???+ info "Xin chân thành cảm ơn quý khách hàng đã tin dùng sản phẩm của M-Invoice"
 
     Có bất kỳ vướng mắc nào trong quá trình sử dụng hãy liên hệ với M-Invoice tại mục Hỗ trợ kỹ thuật góc phải bên dưới màn hình hoặc gọi tổng đài kỹ thuật của M-Invoice (1900.955.557 Nhánh 1)
 
 ![Hình 6](../../assets/images/invoice1/1.0_suaTienBangTay_5.png)
-
-
-
 
 <div class="last-updated">Last updated on <strong>Jun 5, 2025</strong> by <strong>nhatth</strong></div>
