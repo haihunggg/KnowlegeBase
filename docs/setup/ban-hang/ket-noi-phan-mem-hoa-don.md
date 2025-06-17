@@ -30,6 +30,10 @@ Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm 
 
 ### **Bước 4 : Điền thông tin cấu hình**
 
+???+ Danger "Lưu ý"
+
+    Thông tin ký hiệu hóa đơn được cấu hình trên web trước. App chọn giữa các ký hiệu có từ trên web
+
 ![Hình 3](../../assets/images/mSeller/ket-noi-hoa-don-3.png){: style="height:650px"}
 
 **Cách để lấy thông tin cấu hình**
