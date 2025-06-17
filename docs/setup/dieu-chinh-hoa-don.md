@@ -101,4 +101,4 @@ Bấm nút in ở trình duyệt hoặc bấm ctrl + P để in
 
 ![Hình 5](../assets/images/invoice2/hotro.png)
 
-<div class="last-updated">Last updated on <strong>Mar 10, 2025</strong> by <strong>Trinh Hoai Nhat</strong></div>
+<div class="last-updated">Last updated on <strong>Mar 17, 2025</strong> by <strong>Trinh Hoai Nhat</strong></div>

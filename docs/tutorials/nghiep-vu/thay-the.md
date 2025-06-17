@@ -104,4 +104,4 @@ Bấm nút in ở trình duyệt hoặc bấm ctrl + P để in hoặc chọn SA
 
 ![Hình 5](../../assets/images/invoice1/1.0_suaTienBangTay_5.png)
 
-<div class="last-updated">Last updated on <strong>Jun 5, 2025</strong> by <strong>nhatth</strong></div>
+<div class="last-updated">Last updated on <strong>Jun 17, 2025</strong> by <strong>nhatth</strong></div>
