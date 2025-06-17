@@ -12,6 +12,10 @@ Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm 
 
     Với loại doanh nghiệp hộ kinh doanh hoặc hộ bán vàng lưu ý chỉ chọn loại hóa đơn máy tính tiền (2C25...)
 
+???+ Danger "Lưu ý"
+
+    Với các khách hàng dùng ứng dụng mSeller trên điện thoại máy pos thì loại hình doanh nghiệp sử dụng là "Hộ kinh doanh"
+
 ![Hình 1](../../../assets/images/mSeller/may-tinh/loai-hinh-doanh-nghiep-1.png)
 
 ![Hình 1](../../../assets/images/mSeller/may-tinh/loai-hinh-doanh-nghiep-2.png)
