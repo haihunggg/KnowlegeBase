@@ -42,14 +42,47 @@ Bạn có thể chọn lại dòng hàng hoá cũ ở hoá đơn trước đó
 
 Sau khi Thay thế nội dung hóa đơn thành 1 hóa đơn đúng. Người sử dụng có thể Ký và gửi hóa đơn đã được lập Thay thế như một hóa đơn thông thường.
 
+## Hướng dẫn lập biên bản hoá đơn thay thế
+
 ???+ Danger "Hướng dẫn lập biên bản"
 
     Theo Nghị định 70/2025/NĐ-CP, việc lập Biên bản điều chỉnh/thay thế chứng từ điện tử khấu trừ thuế TNCN là bắt buộc trong các trường hợp có sai sót.
 
-    Sau khi điều chỉnh người dùng lập biên bản theo hướng dẫn sau
+!!! Note "Ghi chú"
 
-    🖱️ **Click vào đây để xem:**
-    📄 [Hướng dẫn lập biên bản hóa đơn](lap-bien-ban-hoa-don.md#attribute-lists){ data-preview }
+    Người sử dụng có thể sử dụng thao tác này để lập biên bản khi làm nghiệp vụ thay thế hay điều chỉnh hóa đơn
+
+!!! warning "Lưu ý"
+
+    Chỉ lập được khi ở trạng thái thay thế hoặc điều chỉnh
+
+### **Bước 1: Truy cập mục xử lý sai sót**
+
+<span style="color:red;">Sau khi đã làm thay thế hoặc điều chỉnh</span>
+
+![Hình 0](../assets/images/invoice2/2.0_bienban_0.png)
+
+![Hình 1](../assets/images/invoice2/2.0_bienban_1.png)
+
+Chọn lập biên bản
+
+### **Bước 2: Kiểm tra thông tin người bán, người mua, điền lý do thay thế hoặc lý do điều chỉnh**
+
+![Hình 2](../assets/images/invoice2/2.0_bienban_2.png)
+
+### **Bước 3 : Lưu hoặc ký biên bản thay thế, điều chỉnh**
+
+![Hình 3](../assets/images/invoice2/2.0_bienban_3.png)
+
+<span style="color:red;">Hiện tại chỉ ký được biên bản nếu cks là cks hsm</span>
+
+### **Bước 4 : Xem và in biên bản**
+
+![Hình 4](../assets/images/invoice2/2.0_bienban_4.png)
+
+![Hình 5](../assets/images/invoice2/2.0_bienban_5.png)
+
+Bấm nút in ở trình duyệt hoặc bấm ctrl + P để in
 
 ???+ info "Xin chân thành cảm ơn quý khách hàng đã tin dùng sản phẩm của M-Invoice"
 
