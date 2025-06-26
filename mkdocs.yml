@@ -314,75 +314,75 @@ nav:
       # - License: license.md
       - "":
           - "Hướng dẫn sử dụng":
-              - Đăng nhập: minvoice1/thao-tac/dang-nhap.md
-              - Dashboard 1.0: minvoice1/thao-tac/dashboard.md
-              - Thêm mới chữ ký số: minvoice1/thao-tac/them-CKS.md
-              - Cài đặt plugin: minvoice1/thao-tac/cai-dat-plugin.md
-              - Thay đổi địa chỉ: minvoice1/thao-tac/thay-doi-dia-chi.md
-              - Sửa tiền bằng tay: minvoice1/thao-tac/sua-tien-bang-tay.md
-              - Tạo hóa đơn bằng file excel: minvoice1/thao-tac/nhap-excel-hang-loat.md
-              - Nhập file excel chi tiết: minvoice1/thao-tac/nhap-excel-chi-tiet.md
-              - Tải hàng loạt hoá đơn PDF và XML: minvoice1/thao-tac/in-hang-loat.md
-              - Thêm mới tài khoản: minvoice1/thao-tac/them-user.md
-              - Lấy lại mật khẩu: minvoice1/thao-tac/lay-mat-khau.md
+              - Đăng nhập: minvoice1/huong-dan/dang-nhap.md
+              - Dashboard 1.0: minvoice1/huong-dan/dashboard.md
+              - Thêm mới chữ ký số: minvoice1/huong-dan/them-CKS.md
+              - Cài đặt plugin: minvoice1/huong-dan/cai-dat-plugin.md
+              - Thay đổi địa chỉ: minvoice1/huong-dan/thay-doi-dia-chi.md
+              - Sửa tiền bằng tay: minvoice1/huong-dan/sua-tien-bang-tay.md
+              - Tạo hóa đơn bằng file excel: minvoice1/huong-dan/nhap-excel-hang-loat.md
+              - Nhập file excel chi tiết: minvoice1/huong-dan/nhap-excel-chi-tiet.md
+              - Tải hàng loạt hoá đơn PDF và XML: minvoice1/huong-dan/in-hang-loat.md
+              - Thêm mới tài khoản: minvoice1/huong-dan/them-user.md
+              - Lấy lại mật khẩu: minvoice1/huong-dan/lay-mat-khau.md
           - "Các lỗi thường gặp khi sử dụng phần mềm":
               - Gửi mail báo "Xác thực không hợp lệ": minvoice1/loi-thuong-gap/gui-mail-loi.md
-          - "Nghiệp vụ hoá đơn điện tử":
+          - "Nghiệp vụ hoá đơn điện tử - Xử lý sai sót":
               #- Hủy hóa đơn: tutorials/nghiep-vu/huy.md
-              - Lập biên bản hóa đơn sai sót: minvoice1/nghiep-vu/lap-bien-ban-hoa-don.md
-              - Điều chỉnh hóa đơn: minvoice1/nghiep-vu/dieu-chinh.md
-              - Điều chỉnh hoá đơn về 0: minvoice1/nghiep-vu/dieu-chinh-giam-ve-0.md
-              - Thay thế hóa đơn: minvoice1/nghiep-vu/thay-the.md
-              - Giải trình hóa đơn: minvoice1/nghiep-vu/lap-04ss.md
-              - Gửi mẫu 04ss thay thế hoặc điều chỉnh hoá đơn: minvoice1/nghiep-vu/thay-the-mau04ss.md
+              - Lập biên bản hóa đơn sai sót: minvoice1/xu-ly-sai-sot/lap-bien-ban-hoa-don.md
+              - Điều chỉnh hóa đơn: minvoice1/xu-ly-sai-sot/dieu-chinh.md
+              - Điều chỉnh hoá đơn về 0: minvoice1/xu-ly-sai-sot/dieu-chinh-giam-ve-0.md
+              - Thay thế hóa đơn: minvoice1/xu-ly-sai-sot/thay-the.md
+              - Giải trình hóa đơn: minvoice1/xu-ly-sai-sot/lap-04ss.md
+              - Gửi mẫu 04ss thay thế hoặc điều chỉnh hoá đơn: minvoice1/xu-ly-sai-sot/thay-the-mau04ss.md
           - "Danh mục và báo cáo":
               - Báo cáo chi tiết: minvoice1/danh-muc-bao-cao/bao-cao-chi-tiet.md
               - Báo cáo bảng kê bán ra PL01: minvoice1/danh-muc-bao-cao/bao-cao-pl01.md
   - M-invoice 2.0:
       - "":
           - "Hướng dẫn sử dụng":
-              - setup/dang-nhap.md
-              - setup/dashboard.md
-              - setup/lap-va-phat-hanh-hoa-don.md
-              - setup/sao-chep-hoa-don.md
-              - setup/plugin.md
-              - setup/them-cks-moi.md
-              - setup/cap-nhat-ky-hieu.md
-              - setup/thay-doi-thong-tin-doanh-nghiep.md
-              - setup/in-hang-loat.md
-              - setup/chinh-thap-phan.md
-              - setup/gui-mail.md
-              - setup/ky-hang-loat.md
-              - setup/nhap-excel-hang-loat.md
-              - setup/nhap-excel-chi-tiet.md
-              - setup/chuyen-ky-hieu.md
-              - setup/them-nguoi-dung.md
-              - setup/phan-quyen.md
-              - setup/keo-bien-nd70.md
-              - setup/lay-macqt.md
+              - minvoice2/huong-dan/dang-nhap.md
+              - minvoice2/huong-dan/dashboard.md
+              - minvoice2/huong-dan/lap-va-phat-hanh-hoa-don.md
+              - minvoice2/huong-dan/sao-chep-hoa-don.md
+              - minvoice2/huong-dan/plugin.md
+              - minvoice2/huong-dan/them-cks-moi.md
+              - minvoice2/huong-dan/cap-nhat-ky-hieu.md
+              - minvoice2/huong-dan/thay-doi-thong-tin-doanh-nghiep.md
+              - minvoice2/huong-dan/in-hang-loat.md
+              - minvoice2/huong-dan/chinh-thap-phan.md
+              - minvoice2/huong-dan/gui-mail.md
+              - minvoice2/huong-dan/ky-hang-loat.md
+              - minvoice2/huong-dan/nhap-excel-hang-loat.md
+              - minvoice2/huong-dan/nhap-excel-chi-tiet.md
+              - minvoice2/huong-dan/chuyen-ky-hieu.md
+              - minvoice2/huong-dan/them-nguoi-dung.md
+              - minvoice2/huong-dan/phan-quyen.md
+              - minvoice2/huong-dan/keo-bien-nd70.md
+              - minvoice2/huong-dan/lay-macqt.md
           - "Các lỗi thường gặp khi sử dụng phần mềm":
-              - setup/cac-loi-ky-hoa-don.md
-              - setup/tong-hop-cac-loi-cqt.md
-              - setup/cac-loi/loi-ket-noi-khong-nhan-duoc-phan-hoi-tu-cqt.md
-          - "Nghiệp vụ hoá đơn điện tử":
-              - setup/thay-the-hoa-don.md
-              - setup/dieu-chinh-hoa-don.md
-              - Điều chỉnh hoá đơn về 0: setup/dieu-chinh-giam-ve-0.md
-              - setup/dieu-chinh-va-thay-the-tren-he-thong-khac.md
-              - Lập biên bản hóa đơn sai sót: setup/lap-bien-ban-hoa-don.md
+              - minvoice2/cac-loi-thuong-gap/cac-loi-ky-hoa-don.md
+              - minvoice2/cac-loi-thuong-gap/tong-hop-cac-loi-cqt.md
+              - minvoice2/cac-loi-thuong-gap/loi-ket-noi-khong-nhan-duoc-phan-hoi-tu-cqt.md
+          - "Nghiệp vụ hoá đơn điện tử - Xử lý sai sót":
+              - minvoice2/xu-ly-sai-sot/thay-the-hoa-don.md
+              - minvoice2/xu-ly-sai-sot/dieu-chinh-hoa-don.md
+              - Điều chỉnh hoá đơn về 0: minvoice2/xu-ly-sai-sot/dieu-chinh-giam-ve-0.md
+              - minvoice2/xu-ly-sai-sot/dieu-chinh-va-thay-the-tren-he-thong-khac.md
+              - Lập biên bản hóa đơn sai sót: minvoice2/xu-ly-sai-sot/lap-bien-ban-hoa-don.md
               #    - setup/huy-hoa-don-hang-loat.md
-              - setup/giai-trinh-mau04ss.md
-              - setup/thay-the-mau04ss.md
+              - minvoice2/xu-ly-sai-sot/giai-trinh-mau04ss.md
+              - minvoice2/xu-ly-sai-sot/thay-the-mau04ss.md
           - "Danh mục và báo cáo":
-              - setup/bao-cao-tong-hop.md
-              - setup/bao-cao-chi-tiet.md
-              - setup/danh-muc-hang-hoa.md
-              - setup/danh-muc-khach-hang.md
-              - setup/danh-muc-don-vi-tinh.md
-              - setup/danh-muc-thay-doi-thue-suat.md
+              - minvoice2/danh-muc-bao-cao/bao-cao-tong-hop.md
+              - minvoice2/danh-muc-bao-cao/bao-cao-chi-tiet.md
+              - minvoice2/danh-muc-bao-cao/danh-muc-hang-hoa.md
+              - minvoice2/danh-muc-bao-cao/danh-muc-khach-hang.md
+              - minvoice2/danh-muc-bao-cao/danh-muc-don-vi-tinh.md
+              - minvoice2/danh-muc-bao-cao/danh-muc-thay-doi-thue-suat.md
           - "Xăng dầu ⛽":
-              - setup/xang-dau/huong-dan-xang-dau.md
-              - setup/xang-dau/ket-xuat-bao-cao-tru-bom.md
+              - minvoice2/xang-dau/huong-dan-xang-dau.md
+              - minvoice2/xang-dau/ket-xuat-bao-cao-tru-bom.md
   - Chứng từ TNCN:
       - "":
           - "Hướng dẫn sử dụng":
