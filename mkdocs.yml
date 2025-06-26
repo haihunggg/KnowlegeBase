@@ -299,9 +299,9 @@ nav:
   #         - "":
   #             - Danh sách đơn vị tích hợp: setup/ds-don-vi-tich-hop/danh-sach-don-vi-tich-hop.md
   - Đơn vị tích hợp:
-      - Danh sách đơn vị tích hợp: setup/ds-don-vi-tich-hop/danh-sach-don-vi-tich-hop.md
-      - Bổ sung các điểm mới theo NGHỊ ĐỊNH 70/2025/NĐ-CP: setup/ds-don-vi-tich-hop/bo-sung-nd70.md
-      - Hướng dẫn tích hợp hóa đơn bán hàng theo Nghị quyết số 174/2024/QH15: setup/ds-don-vi-tich-hop/nqhi-quyet-so-174.md
+      - Danh sách đơn vị tích hợp: minvoice2/ds-don-vi-tich-hop/danh-sach-don-vi-tich-hop.md
+      - Bổ sung các điểm mới theo NGHỊ ĐỊNH 70/2025/NĐ-CP: minvoice2/ds-don-vi-tich-hop/bo-sung-nd70.md
+      - Hướng dẫn tích hợp hóa đơn bán hàng theo Nghị quyết số 174/2024/QH15: minvoice2/ds-don-vi-tich-hop/nqhi-quyet-so-174.md
   - M-invoice 1.0:
       # - Installation: getting-started.md
       # - Publishing your site: publishing-your-site.md
@@ -314,74 +314,76 @@ nav:
       # - License: license.md
       - "":
           - "Hướng dẫn sử dụng":
-              - Đăng nhập: tutorials/thao-tac/dang-nhap.md
-              - Dashboard 1.0: tutorials/thao-tac/dashboard.md
-              - Thêm mới chữ ký số: tutorials/thao-tac/them-CKS.md
-              - Cài đặt plugin: tutorials/thao-tac/cai-dat-plugin.md
-              - Thay đổi địa chỉ: tutorials/thao-tac/thay-doi-dia-chi.md
-              - Sửa tiền bằng tay: tutorials/thao-tac/sua-tien-bang-tay.md
-              - Tạo hóa đơn bằng file excel: tutorials/thao-tac/nhap-excel-hang-loat.md
-              - Nhập file excel chi tiết: tutorials/thao-tac/nhap-excel-chi-tiet.md
-              - Tải hàng loạt hoá đơn PDF và XML: tutorials/thao-tac/in-hang-loat.md
-              - Thêm mới tài khoản: tutorials/thao-tac/them-user.md
-              - Lấy lại mật khẩu: tutorials/thao-tac/lay-mat-khau.md
-              - Báo cáo chi tiết: tutorials/thao-tac/bao-cao-chi-tiet.md
-              - Báo cáo bảng kê bán ra PL01: tutorials/thao-tac/bao-cao-pl01.md
+              - Đăng nhập: minvoice1/huong-dan/dang-nhap.md
+              - Dashboard 1.0: minvoice1/huong-dan/dashboard.md
+              - Thêm mới chữ ký số: minvoice1/huong-dan/them-CKS.md
+              - Cài đặt plugin: minvoice1/huong-dan/cai-dat-plugin.md
+              - Thay đổi địa chỉ: minvoice1/huong-dan/thay-doi-dia-chi.md
+              - Sửa tiền bằng tay: minvoice1/huong-dan/sua-tien-bang-tay.md
+              - Tạo hóa đơn bằng file excel: minvoice1/huong-dan/nhap-excel-hang-loat.md
+              - Nhập file excel chi tiết: minvoice1/huong-dan/nhap-excel-chi-tiet.md
+              - Tải hàng loạt hoá đơn PDF và XML: minvoice1/huong-dan/in-hang-loat.md
+              - Thêm mới tài khoản: minvoice1/huong-dan/them-user.md
+              - Lấy lại mật khẩu: minvoice1/huong-dan/lay-mat-khau.md
           - "Các lỗi thường gặp khi sử dụng phần mềm":
-              - Gửi mail báo "Xác thực không hợp lệ": tutorials/loi-thuong-gap/gui-mail-loi.md
-          - "Nghiệp vụ hoá đơn điện tử":
+              - Gửi mail báo "Xác thực không hợp lệ": minvoice1/loi-thuong-gap/gui-mail-loi.md
+          - "Nghiệp vụ hoá đơn điện tử - Xử lý sai sót":
               #- Hủy hóa đơn: tutorials/nghiep-vu/huy.md
-              - Lập biên bản hóa đơn sai sót: tutorials/nghiep-vu/lap-bien-ban-hoa-don.md
-              - Điều chỉnh hóa đơn: tutorials/nghiep-vu/dieu-chinh.md
-              - Điều chỉnh hoá đơn về 0: tutorials/nghiep-vu/dieu-chinh-giam-ve-0.md
-              - Thay thế hóa đơn: tutorials/nghiep-vu/thay-the.md
-              - Giải trình hóa đơn: tutorials/nghiep-vu/lap-04ss.md
-              - Gửi mẫu 04ss thay thế hoặc điều chỉnh hoá đơn: tutorials/nghiep-vu/thay-the-mau04ss.md
+              - Lập biên bản hóa đơn sai sót: minvoice1/xu-ly-sai-sot/lap-bien-ban-hoa-don.md
+              - Điều chỉnh hóa đơn: minvoice1/xu-ly-sai-sot/dieu-chinh.md
+              - Điều chỉnh hoá đơn về 0: minvoice1/xu-ly-sai-sot/dieu-chinh-giam-ve-0.md
+              - Thay thế hóa đơn: minvoice1/xu-ly-sai-sot/thay-the.md
+              - Giải trình hóa đơn: minvoice1/xu-ly-sai-sot/lap-04ss.md
+              - Gửi mẫu 04ss thay thế hoặc điều chỉnh hoá đơn: minvoice1/xu-ly-sai-sot/thay-the-mau04ss.md
+          - "Danh mục và báo cáo":
+              - Báo cáo chi tiết: minvoice1/danh-muc-bao-cao/bao-cao-chi-tiet.md
+              - Báo cáo bảng kê bán ra PL01: minvoice1/danh-muc-bao-cao/bao-cao-pl01.md
   - M-invoice 2.0:
       - "":
           - "Hướng dẫn sử dụng":
-              - setup/dang-nhap.md
-              - setup/dashboard.md
-              - setup/lap-va-phat-hanh-hoa-don.md
-              - setup/sao-chep-hoa-don.md
-              - setup/plugin.md
-              - setup/them-cks-moi.md
-              - setup/cap-nhat-ky-hieu.md
-              - setup/thay-doi-thong-tin-doanh-nghiep.md
-              - setup/in-hang-loat.md
-              - setup/chinh-thap-phan.md
-              - setup/gui-mail.md
-              - setup/ky-hang-loat.md
-              - setup/nhap-excel-hang-loat.md
-              - setup/nhap-excel-chi-tiet.md
-              - setup/chuyen-ky-hieu.md
-              - setup/them-nguoi-dung.md
-              - setup/phan-quyen.md
-              - setup/keo-bien-nd70.md
-              - setup/lay-macqt.md
+              - minvoice2/huong-dan/dang-nhap.md
+              - minvoice2/huong-dan/dashboard.md
+              - minvoice2/huong-dan/lap-va-phat-hanh-hoa-don.md
+              - minvoice2/huong-dan/sao-chep-hoa-don.md
+              - minvoice2/huong-dan/plugin.md
+              - minvoice2/huong-dan/them-cks-moi.md
+              - minvoice2/huong-dan/cap-nhat-ky-hieu.md
+              - minvoice2/huong-dan/thay-doi-thong-tin-doanh-nghiep.md
+              - minvoice2/huong-dan/in-hang-loat.md
+              - minvoice2/huong-dan/chinh-thap-phan.md
+              - minvoice2/huong-dan/gui-mail.md
+              - minvoice2/huong-dan/ky-hang-loat.md
+              - minvoice2/huong-dan/nhap-excel-hang-loat.md
+              - minvoice2/huong-dan/nhap-excel-chi-tiet.md
+              - minvoice2/huong-dan/chuyen-ky-hieu.md
+              - minvoice2/huong-dan/them-nguoi-dung.md
+              - minvoice2/huong-dan/phan-quyen.md
+              - minvoice2/huong-dan/keo-bien-nd70.md
+              - minvoice2/huong-dan/lay-macqt.md
           - "Các lỗi thường gặp khi sử dụng phần mềm":
-              - setup/cac-loi-ky-hoa-don.md
-              - setup/tong-hop-cac-loi-cqt.md
-              - setup/cac-loi/loi-ket-noi-khong-nhan-duoc-phan-hoi-tu-cqt.md
-          - "Nghiệp vụ hoá đơn điện tử":
-              - setup/thay-the-hoa-don.md
-              - setup/dieu-chinh-hoa-don.md
-              - Điều chỉnh hoá đơn về 0: setup/dieu-chinh-giam-ve-0.md
-              - setup/dieu-chinh-va-thay-the-tren-he-thong-khac.md
-              - Lập biên bản hóa đơn sai sót: setup/lap-bien-ban-hoa-don.md
+              - minvoice2/cac-loi-thuong-gap/cac-loi-ky-hoa-don.md
+              - minvoice2/cac-loi-thuong-gap/tong-hop-cac-loi-cqt.md
+              - minvoice2/cac-loi-thuong-gap/loi-ket-noi-khong-nhan-duoc-phan-hoi-tu-cqt.md
+          - "Nghiệp vụ hoá đơn điện tử - Xử lý sai sót":
+              - minvoice2/xu-ly-sai-sot/thay-the-hoa-don.md
+              - minvoice2/xu-ly-sai-sot/dieu-chinh-hoa-don.md
+              - Điều chỉnh hoá đơn về 0: minvoice2/xu-ly-sai-sot/dieu-chinh-giam-ve-0.md
+              - minvoice2/xu-ly-sai-sot/dieu-chinh-va-thay-the-tren-he-thong-khac.md
+              - Lập biên bản hóa đơn sai sót: minvoice2/xu-ly-sai-sot/lap-bien-ban-hoa-don.md
               #    - setup/huy-hoa-don-hang-loat.md
-              - setup/giai-trinh-mau04ss.md
-              - setup/thay-the-mau04ss.md
+              - minvoice2/xu-ly-sai-sot/giai-trinh-mau04ss.md
+              - minvoice2/xu-ly-sai-sot/thay-the-mau04ss.md
           - "Danh mục và báo cáo":
-              - setup/bao-cao-tong-hop.md
-              - setup/bao-cao-chi-tiet.md
-              - setup/danh-muc-hang-hoa.md
-              - setup/danh-muc-khach-hang.md
-              - setup/danh-muc-don-vi-tinh.md
-              - setup/danh-muc-thay-doi-thue-suat.md
+              - minvoice2/danh-muc-bao-cao/bao-cao-tong-hop.md
+              - minvoice2/danh-muc-bao-cao/bao-cao-chi-tiet.md
+              - minvoice2/danh-muc-bao-cao/danh-muc-hang-hoa.md
+              - minvoice2/danh-muc-bao-cao/danh-muc-khach-hang.md
+              - minvoice2/danh-muc-bao-cao/danh-muc-don-vi-tinh.md
+              - minvoice2/danh-muc-bao-cao/danh-muc-thay-doi-thue-suat.md
           - "Xăng dầu ⛽":
-              - setup/xang-dau/huong-dan-xang-dau.md
-              - setup/xang-dau/ket-xuat-bao-cao-tru-bom.md
+              - minvoice2/xang-dau/huong-dan-xang-dau.md
+              - minvoice2/xang-dau/ket-xuat-bao-cao-tru-bom.md
+              - minvoice2/xang-dau/cap-nhat-giam-thue-gtgt-xang.md
   - Chứng từ TNCN:
       - "":
           - "Hướng dẫn sử dụng":
@@ -408,105 +410,66 @@ nav:
   - mSMI:
       - "":
           - Hướng dẫn sử dụng:
-              - Đăng nhập: tutorials/mSMI/dang-nhap.md
-              - Dashboard mSMI: tutorials/mSMI/dashboard.md
-              - Tra cứu hóa đơn: tutorials/mSMI/tra-cuu-va-tai-hoa-don.md
-              - Kiểm tra tình trạng Mã số thuế: tutorials/mSMI/kiem-tra-mst.md
-              - Đồng bộ hóa đơn mua vào bán ra: tutorials/mSMI/dong-bo-hoa-don.md
-              - Đồng bộ thông báo sai sót 04/SS: tutorials/mSMI/dong-bo-04ss.md
+              - Đăng nhập: msmi/dang-nhap.md
+              - Dashboard mSMI: msmi/dashboard.md
+              - Tra cứu hóa đơn: msmi/tra-cuu-va-tai-hoa-don.md
+              - Kiểm tra tình trạng Mã số thuế: msmi/kiem-tra-mst.md
+              - Đồng bộ hóa đơn mua vào bán ra: msmi/dong-bo-hoa-don.md
+              - Đồng bộ thông báo sai sót 04/SS: msmi/dong-bo-04ss.md
           - "Các lỗi thường gặp khi sử dụng phần mềm":
-              - Tài khoản HDDT mất kết nối: tutorials/mSMI/dang-nhap-lai.md
-              - Lấy lại mật khẩu trang Hoadondientu: tutorials/mSMI/lay-mat-khau-hddt.md
+              - Tài khoản HDDT mất kết nối: msmi/dang-nhap-lai.md
+              - Lấy lại mật khẩu trang Hoadondientu: msmi/lay-mat-khau-hddt.md
           - "Danh mục và báo cáo":
-              - Bảng kê bán ra - mua vào: tutorials/mSMI/bang-ke.md
-              - Báo cáo nhận vào PMKT: tutorials/mSMI/bao-cao-pmkt.md
-              - Tờ khai thuế 01GTGT: tutorials/mSMI/to-khai-thue01.md
-          # - "Các thao tác thường gặp khi sử dụng phần mềm":
-          #     - setup/plugin.md
-          #     - setup/them-cks-moi.md
-          #     - setup/lap-va-phat-hanh-hoa-don.md
-          #     - setup/thay-doi-thong-tin-doanh-nghiep.md
-          #     - setup/xoa-hoa-don.md
-          #     - setup/sua-hoa-don.md
-          #     - setup/in-hang-loat.md
-          #     - setup/chinh-thap-phan.md
-          #     - setup/sao-chep-hoa-don.md
-          #     - setup/gui-mail.md
-          #     - setup/ky-hang-loat.md
-          #     - setup/chuyen-ky-hieu.md
-          #     - setup/cap-nhat-ky-hieu.md
-          #       # - tutorials/thaoTac/suaTienBangTay.md
-          #       # - tutorials/thaoTac/baoCaoChiTietHoaDon.md
-          #       # - tutorials/thaoTac/basic.md
-          #       # - tutorials/thaoTac/navigation.md
-          #       # - tutorials/thaoTac/engage.md
-          # - "Nghiệp vụ hoá đơn điện tử":
-          #     - setup/thay-the-hoa-don.md
-          #     - setup/dieu-chinh-hoa-don.md
-          #     - setup/dieu-chinh-va-thay-the-tren-he-thong-khac.md
-          #     - setup/huy-hoa-don.md
-          #     - setup/huy-hoa-don-hang-loat.md
-          #       #- setup/setting-up-versioning.md
-          #       # - "Điều chỉnh hoá đơn":
-          #       #     - setup/dieuChinh.md
-          #       # # - tutorials/social/basic.md
-          #       # # - tutorials/social/custom.md
-          # - "Danh mục và báo cáo":
-          #     - setup/bao-cao-tong-hop.md
-          #     - setup/bao-cao-chi-tiet.md
-          #     - setup/danh-muc-hang-hoa.md
-          #     - setup/danh-muc-khach-hang.md
-          #     - setup/danh-muc-don-vi-tinh.md
-          #     - setup/danh-muc-thay-doi-thue-suat.md
-          # - "Người dùng và phân quyền":
-          #     - setup/them-nguoi-dung.md
-          #     - setup/phan-quyen.md
+              - Bảng kê bán ra - mua vào: msmi/bang-ke.md
+              - Báo cáo nhận vào PMKT: msmi/bao-cao-pmkt.md
+              - Tờ khai thuế 01GTGT: msmi/to-khai-thue01.md
+
   - mBHXH:
       - "":
           - Hướng dẫn sử dụng:
-              - Đăng nhập: tutorials/mBHXH/dang-nhap.md
-              - tutorials/mBHXH/dashboard.md
-              - tutorials/mBHXH/dang-ky-tai-khoan.md
+              - Đăng nhập: mbhxh/dang-nhap.md
+              - mbhxh/dashboard.md
+              - mbhxh/dang-ky-tai-khoan.md
           - "Các lỗi thường gặp khi sử dụng phần mềm":
               - ""
           - Nghiệp vụ bảo hiểm xã hội:
-              - tutorials/mBHXH/ho-so-bao-tang.md
-              - tutorials/mBHXH/ho-so-bao-giam.md
-              - tutorials/mBHXH/dieu-chinh-muc-dong.md
-              - tutorials/mBHXH/che-do-om-dau.md
-              - tutorials/mBHXH/che-do-thai-san.md
-              - tutorials/mBHXH/che-do-duong-suc.md
+              - mbhxh/ho-so-bao-tang.md
+              - mbhxh/ho-so-bao-giam.md
+              - mbhxh/dieu-chinh-muc-dong.md
+              - mbhxh/che-do-om-dau.md
+              - mbhxh/che-do-thai-san.md
+              - mbhxh/che-do-duong-suc.md
   - mSeller:
       - "":
           - "Hướng dẫn sử dụng trên máy POS 📱":
-              - Kết nối phần mềm hoá đơn: setup/ban-hang/ket-noi-phan-mem-hoa-don.md
-              - setup/ban-hang/danh-sach-khach-hang.md
-              - setup/ban-hang/danh-sach-hang-hoa.md
-              - setup/ban-hang/xuat-hoa-don.md
-              - setup/ban-hang/huong-dan-in.md
-              - setup/ban-hang/sua-xoa-giao-dich.md
-              - setup/ban-hang/danh-sach-hoa-don.md
+              - Kết nối phần mềm hoá đơn: mseller/may-pos/ket-noi-phan-mem-hoa-don.md
+              - mseller/may-pos/danh-sach-khach-hang.md
+              - mseller/may-pos/danh-sach-hang-hoa.md
+              - mseller/may-pos/xuat-hoa-don.md
+              - mseller/may-pos/huong-dan-in.md
+              - mseller/may-pos/sua-xoa-giao-dich.md
+              - mseller/may-pos/danh-sach-hoa-don.md
           - "Hướng dẫn sử dụng trên máy tính 💻":
-              - setup/ban-hang/may-tinh/dang-nhap-trang-chu.md
-              - setup/ban-hang/may-tinh/loai-hinh-doanh-nghiep.md
-              - setup/ban-hang/may-tinh/danh-muc-khach-hang.md
-              - setup/ban-hang/may-tinh/danh-muc-hang-hoa.md
-              - setup/ban-hang/may-tinh/quan-ly-don-hang.md
-              - setup/ban-hang/may-tinh/bao-cao-chi-tiet.md
+              - mseller/may-tinh/dang-nhap-trang-chu.md
+              - mseller/may-tinh/loai-hinh-doanh-nghiep.md
+              - mseller/may-tinh/danh-muc-khach-hang.md
+              - mseller/may-tinh/danh-muc-hang-hoa.md
+              - mseller/may-tinh/quan-ly-don-hang.md
+              - mseller/may-tinh/bao-cao-chi-tiet.md
   - Chữ ký số:
       - "":
           - "Chữ ký số IntrustCA":
-              - setup/Chu-ky-so/them-intrustca.md
-              - setup/Chu-ky-so/thue-dien-tu-intrustca.md
-              - setup/Chu-ky-so/web-intrustca.md
-              - setup/Chu-ky-so/app-intrustca.md
+              - chu-ky-so/chu-ky-so-intrustca/them-cks-intrustca-vao-phan-mem-hoa-don.md
+              - chu-ky-so/chu-ky-so-intrustca/thay-doi-cks-intrustca-tren-thue-dien-tu.md
+              - chu-ky-so/chu-ky-so-intrustca/huong-dan-ky-so-tren-web-intrustca.md
+              - chu-ky-so/chu-ky-so-intrustca/huong-dan-ky-so-tren-app-intrustca.md
           - "Chữ ký số ICA":
-              - setup/Chu-ky-so/cai-dat-ica.md
+              - chu-ky-so/chu-ky-so-ica/cai-dat-ica.md
           - "Ký điện tử":
-              - setup/Chu-ky-so/ky-bang-foxit.md
+              - chu-ky-so/ky-dien-tu/huong-dan-ky-so-tren-file-pdf-foxit-reader.md
   - Tài liệu:
       - "":
           - "Tài liệu kinh doanh 💼":
-              - setup/tai-lieu/tai-lieu-kinh-doanh.md
+              - tai-lieu/tai-lieu-kinh-doanh.md
           - "Tài liệu kỹ thuật 🖥️":
               - ""
