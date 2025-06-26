@@ -299,9 +299,9 @@ nav:
   #         - "":
   #             - Danh sách đơn vị tích hợp: setup/ds-don-vi-tich-hop/danh-sach-don-vi-tich-hop.md
   - Đơn vị tích hợp:
-      - Danh sách đơn vị tích hợp: setup/ds-don-vi-tich-hop/danh-sach-don-vi-tich-hop.md
-      - Bổ sung các điểm mới theo NGHỊ ĐỊNH 70/2025/NĐ-CP: setup/ds-don-vi-tich-hop/bo-sung-nd70.md
-      - Hướng dẫn tích hợp hóa đơn bán hàng theo Nghị quyết số 174/2024/QH15: setup/ds-don-vi-tich-hop/nqhi-quyet-so-174.md
+      - Danh sách đơn vị tích hợp: minvoice2/ds-don-vi-tich-hop/danh-sach-don-vi-tich-hop.md
+      - Bổ sung các điểm mới theo NGHỊ ĐỊNH 70/2025/NĐ-CP: minvoice2/ds-don-vi-tich-hop/bo-sung-nd70.md
+      - Hướng dẫn tích hợp hóa đơn bán hàng theo Nghị quyết số 174/2024/QH15: minvoice2/ds-don-vi-tich-hop/nqhi-quyet-so-174.md
   - M-invoice 1.0:
       # - Installation: getting-started.md
       # - Publishing your site: publishing-your-site.md
