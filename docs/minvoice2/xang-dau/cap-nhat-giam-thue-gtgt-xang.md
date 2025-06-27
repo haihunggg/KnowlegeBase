@@ -7,7 +7,7 @@
 Tránh áp dụng sai mức thuế GTGT (giảm 8%) đối với mặt hàng không được giảm, cụ thể là mặt hàng xăng, vốn vẫn chịu thuế suất 10% theo quy định.</small>
 
 ✅ **2. Hạn chế rủi ro sai sót khi kê khai và quyết toán thuế**  
-<small>Nếu áp dụng nhầm thuế suất 8% cho mặt hàng xăng, có thể gây ra:</small>  
+<small>Nếu áp dụng nhầm thuế suất cho mặt hàng xăng, có thể gây ra:</small>  
 <small>• Sai lệch số liệu thuế GTGT đầu ra</small>  
 <small>• Nguy cơ bị truy thu thuế, xử phạt hành chính khi cơ quan thuế kiểm tra</small>  
 <small>• Việc cập nhật đúng giúp doanh nghiệp chủ động trong việc quyết toán thuế cuối kỳ.</small>
