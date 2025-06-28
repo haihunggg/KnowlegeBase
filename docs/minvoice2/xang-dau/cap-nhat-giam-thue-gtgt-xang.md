@@ -1,18 +1,22 @@
 # **🧾 Hướng dẫn cập nhật giảm thuế GTGT đối với mặt hàng xăng**
 
-🎯 **Mục đích:**
+<small>
+🎯 <strong>Mục đích:</strong><br><br>
 
-✅ **1. Đảm bảo tuân thủ đúng quy định pháp luật hiện hành**  
-<small>Giúp doanh nghiệp và người dùng phần mềm áp dụng chính xác chính sách thuế theo nghị quyết của Quốc hội ngày 17/6/2025.  
-Tránh áp dụng sai mức thuế GTGT (giảm 8%) đối với mặt hàng không được giảm, cụ thể là mặt hàng xăng, vốn vẫn chịu thuế suất 10% theo quy định.</small>
+✅ <strong>1. Đảm bảo tuân thủ đúng quy định pháp luật hiện hành</strong><br>
+Giúp doanh nghiệp và người dùng phần mềm cập nhật kịp thời chính sách thuế theo nghị quyết của Quốc hội ngày 17/6/2025.<br>
+Áp dụng đúng mức thuế GTGT đã được điều chỉnh giảm từ 10% xuống còn 8% đối với mặt hàng xăng, theo quy định mới.<br><br>
 
-✅ **2. Hạn chế rủi ro sai sót khi kê khai và quyết toán thuế**  
-<small>Nếu áp dụng nhầm thuế suất cho mặt hàng xăng, có thể gây ra:</small>  
-<small>• Sai lệch số liệu thuế GTGT đầu ra</small>  
-<small>• Nguy cơ bị truy thu thuế, xử phạt hành chính khi cơ quan thuế kiểm tra</small>  
-<small>• Việc cập nhật đúng giúp doanh nghiệp chủ động trong việc quyết toán thuế cuối kỳ.</small>
+✅ <strong>2. Hạn chế rủi ro sai sót khi kê khai và quyết toán thuế</strong><br>
+Việc không cập nhật kịp thời mức thuế mới cho mặt hàng xăng có thể dẫn đến:<br>
+• Sai lệch số liệu thuế GTGT đầu ra<br>
+• Nguy cơ bị truy thu thuế, xử phạt hành chính khi cơ quan thuế kiểm tra<br>
+• Gây khó khăn trong việc quyết toán thuế cuối kỳ<br><br>
 
-## **Hướng dẫn áp dụng thuế suất GTGT đối với mặt hàng xăng theo Nghị quyết của Quốc hội ngày 17/6/2025**
+➡️ Do đó, cập nhật chính xác mức thuế suất mới 8% cho mặt hàng xăng là cần thiết để đảm bảo tuân thủ và tránh các rủi ro không đáng có.
+</small>
+
+## **Hướng dẫn áp dụng thuế suất GTGT 8% đối với mặt hàng xăng theo Nghị quyết của Quốc hội ngày 17/6/2025**
 
 ???+ Note "Xăng được giảm 2% thuế GTGT từ ngày 01/7/2025 ?"
 
@@ -28,28 +32,28 @@ Tránh áp dụng sai mức thuế GTGT (giảm 8%) đối với mặt hàng kh�
 
 ### **Bước 1. Trên màn hình trang chủ bấm chọn Danh mục -> Mặt hàng xăng dầu**
 
-![Hình 1](../../assets/images/xangdau/giam-thue-1.png)
+![Hình 1](../../assets/images/xangdau/giam-thue-1.png "Hãy bấm vào để xem rõ hơn")
 
 ### **Bước 2: Chọn mặt hàng được giảm -> bấm Sửa**
 
-![Hình 1](../../assets/images/xangdau/giam-thue-2.png)
+![Hình 1](../../assets/images/xangdau/giam-thue-2.png "Hãy bấm vào để xem rõ hơn")
 
 ### **Bước 3: Chọn mục thuế suất -> chọn 8% -> bấm Lưu**
 
-![Hình 1](../../assets/images/xangdau/giam-thue-3.png)
+![Hình 1](../../assets/images/xangdau/giam-thue-3.png "Hãy bấm vào để xem rõ hơn")
 
-![Hình 1](../../assets/images/xangdau/giam-thue-4.png)
+![Hình 1](../../assets/images/xangdau/giam-thue-4.png "Hãy bấm vào để xem rõ hơn")
 
-![Hình 1](../../assets/images/xangdau/giam-thue-5.png)
+![Hình 1](../../assets/images/xangdau/giam-thue-5.png "Hãy bấm vào để xem rõ hơn")
 
 ### **Bước 3: Cập nhật giảm thuế GTGT thành công**
 
-![Hình 1](../../assets/images/xangdau/giam-thue-6.png)
+![Hình 1](../../assets/images/xangdau/giam-thue-6.png "Hãy bấm vào để xem rõ hơn")
 
 ???+ info "Xin chân thành cảm ơn quý khách hàng đã tin dùng sản phẩm của M-Invoice"
 
     Có bất kỳ vướng mắc nào trong quá trình sử dụng hãy liên hệ với M-Invoice tại mục Hỗ trợ kỹ thuật góc phải bên dưới màn hình hoặc gọi tổng đài kỹ thuật của M-Invoice (1900.955.557 Nhánh 1)
 
-![Hình 5](../../assets/images/invoice2/hotro.png)
+![Hình 5](../../assets/images/invoice2/hotro.png "Hãy bấm vào để xem rõ hơn")
 
-<div class="last-updated">Last updated on <strong>Jun 26, 2025</strong> by <strong>nhatth</strong></div>
+<div class="last-updated">Last updated on <strong>Jun 28, 2025</strong> by <strong>nhatth</strong></div>
