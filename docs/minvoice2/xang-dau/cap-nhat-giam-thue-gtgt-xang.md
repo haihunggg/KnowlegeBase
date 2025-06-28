@@ -46,7 +46,7 @@ Việc không cập nhật kịp thời mức thuế mới cho mặt hàng xăng
 
 ![Hình 1](../../assets/images/xangdau/giam-thue-5.png "Hãy bấm vào để xem rõ hơn")
 
-### **Bước 3: Cập nhật giảm thuế GTGT thành công**
+### **Bước 4: Cập nhật giảm thuế GTGT thành công**
 
 ![Hình 1](../../assets/images/xangdau/giam-thue-6.png "Hãy bấm vào để xem rõ hơn")
 
