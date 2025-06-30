@@ -54,7 +54,7 @@ Việc không cập nhật kịp thời mức thuế mới cho mặt hàng xăng
 
 ![Hình 1](../../assets/images/xangdau/giam-thue-6.png "Hãy bấm vào để xem rõ hơn")
 
-<p style="color:#cc0000; font-weight:bold; font-size:20px;">Nếu có mặt hàng dầu làm tương tự các bước trên</p>
+<p style="color:#cc0000; font-weight:bold; font-size:20px;">Nếu còn các mặt hàng xăng dầu làm tương tự các bước trên</p>
 
 ???+ info "Xin chân thành cảm ơn quý khách hàng đã tin dùng sản phẩm của M-Invoice"
 
