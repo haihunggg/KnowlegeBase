@@ -22,7 +22,7 @@
 
 ### **Bước 1: Cắm CKS vào máy tính, kiểm tra xem plugin đã được bật chưa**
 
-![Hình 1](../../assets/images/invoice1/2.0_them-cks-moi_1.png)
+![Hình 1](../../assets/images/invoice1/2.0_them-cks-moi_1.png "Hãy bấm vào để xem rõ hơn")
 
 !!! note ""
 
@@ -32,13 +32,13 @@
 
 ### **Bước 2: Thêm CKS vào phần mềm hóa đơn**
 
-![Hình 1](../../assets/images/invoice1/1.0_dang-ky-nd70_1.png)
+![Hình 1](../../assets/images/invoice1/1.0_dang-ky-nd70_1.png "Hãy bấm vào để xem rõ hơn")
 
-![Hình 1](../../assets/images/invoice1/1.0_dang-ky-nd70_2.png)
+![Hình 1](../../assets/images/invoice1/1.0_dang-ky-nd70_2.png "Hãy bấm vào để xem rõ hơn")
 
 Các bạn vào **Hệ thông --> Đăng ký chữ ký số --> Thêm chứng thư số**
 
-![Hình 1](../../assets/images/invoice1/1.0_dang-ky-nd70_3.png)
+![Hình 1](../../assets/images/invoice1/1.0_dang-ky-nd70_3.png "Hãy bấm vào để xem rõ hơn")
 
 Click vào loại **CKS** phù hợp nhất với mình
 
@@ -46,13 +46,13 @@ Click vào loại **CKS** phù hợp nhất với mình
 
 ### **Bước 3 : Làm tờ khai 01**
 
-![Hình 1](../../assets/images/invoice1/1.0_dang-ky-nd70_4.png)
+![Hình 1](../../assets/images/invoice1/1.0_dang-ky-nd70_4.png "Hãy bấm vào để xem rõ hơn")
 
 Các bạn vào phần **Đăng ký phát hành >> Tờ khai đăng ký/thay đổi NĐ70/2025 >> Thêm (F4)**
 
-![Hình 1](../../assets/images/invoice1/1.0_dang-ky-nd70_11.png)
+![Hình 1](../../assets/images/invoice1/1.0_dang-ky-nd70_11.png "Hãy bấm vào để xem rõ hơn")
 
-![Hình 1](../../assets/images/invoice1/1.0_dang-ky-nd70_5.png)
+![Hình 1](../../assets/images/invoice1/1.0_dang-ky-nd70_5.png "Hãy bấm vào để xem rõ hơn")
 
 !!! note ""
 
@@ -62,7 +62,7 @@ Các bạn vào phần **Đăng ký phát hành >> Tờ khai đăng ký/thay đ�
 
     + Chọn **Thay đổi** thông tin nếu bạn muốn thay đổi địa chỉ, tên doanh nghiệp, hay thêm CKS mới vào phần mềm
 
-![Hình 1](../../assets/images/invoice1/1.0_dang-ky-nd70_6.png)
+![Hình 1](../../assets/images/invoice1/1.0_dang-ky-nd70_6.png "Hãy bấm vào để xem rõ hơn")
 
 ???+ note "Thông tin người đại diện pháp luật"
 
@@ -80,9 +80,9 @@ Các bạn vào phần **Đăng ký phát hành >> Tờ khai đăng ký/thay đ�
 
 **QUY TRÌNH XỬ LÝ TỜ KHAI ĐĂNG KÝ THEO NĐ70**
 
-![Hình 6](../../assets/images/invoice1/2.0_to-khai-nd70_8.png)
+![Hình 6](../../assets/images/invoice1/2.0_to-khai-nd70_8.png "Hãy bấm vào để xem rõ hơn")
 
-![Hình 6](../../assets/images/invoice1/2.0_to-khai-nd70_9.png)
+![Hình 6](../../assets/images/invoice1/2.0_to-khai-nd70_9.png "Hãy bấm vào để xem rõ hơn")
 
 <div style="font-size:14px; color:#b00020; background-color:#fff3f3; padding:12px; border-left:4px solid #b00020; border-radius:6px;">
   <p><strong>🚨 Theo Khoản 11, Điều 1 Nghị định 70/2025/NĐ‑CP:</strong><br>
@@ -92,7 +92,7 @@ Các bạn vào phần **Đăng ký phát hành >> Tờ khai đăng ký/thay đ�
   <p><strong>🔐 OTP</strong> được sử dụng để <strong>xác thực tài khoản eTax</strong> đã đăng ký với Tổng cục Thuế, giúp <strong>đảm bảo an toàn, bảo mật</strong> trước khi thực hiện xác thực sinh trắc học.</p>
 </div>
 
-![Hình 1](../../assets/images/invoice1/1.0_dang-ky-nd70_7.png)
+![Hình 1](../../assets/images/invoice1/1.0_dang-ky-nd70_7.png "Hãy bấm vào để xem rõ hơn")
 
 ???+ note "Thông tin người nhận các thông báo quan trọng liên quan đến hóa đơn điện tử (trường sẽ là thông tin của kế toán, kế toán trưởng)"
 
@@ -106,11 +106,11 @@ Các bạn vào phần **Đăng ký phát hành >> Tờ khai đăng ký/thay đ�
 
     **Email liên hệ**: mail nhận thông báo từ thuế
 
-![Hình 1](../../assets/images/invoice1/1.0_dang-ky-nd70_8.png)
+![Hình 1](../../assets/images/invoice1/1.0_dang-ky-nd70_8.png "Hãy bấm vào để xem rõ hơn")
 
 1,2,3,4,Các bạn tích chọn vào các loại hóa đơn phù hợp với hình thức doanh nghiệp mình sử dụng
 
-![Hình 1](../../assets/images/invoice1/1.0_dang-ky-nd70_9.png)
+![Hình 1](../../assets/images/invoice1/1.0_dang-ky-nd70_9.png "Hãy bấm vào để xem rõ hơn")
 
 5, chọn **Thêm** để thêm cks hay để Add CKS mới thay đổi vào tờ khai **nếu có rồi thì k cần làm bước này**
 
@@ -120,7 +120,7 @@ Các bạn vào phần **Đăng ký phát hành >> Tờ khai đăng ký/thay đ�
 
 ### **Bước 4 : Sau khi hoàn thành, các bạn chọn tờ khai mình vừa lập chọn Ký và gửi CQT**
 
-![Hình 1](../../assets/images/invoice1/1.0_dang-ky-nd70_10.png)
+![Hình 1](../../assets/images/invoice1/1.0_dang-ky-nd70_10.png "Hãy bấm vào để xem rõ hơn")
 
 Như vậy đã hoàn tất quá trình đăng ký hay thay đổi thông tin hóa đơn sử dụng.
 
@@ -132,6 +132,6 @@ Như vậy đã hoàn tất quá trình đăng ký hay thay đổi thông tin h�
 
     Có bất kỳ vướng mắc nào trong quá trình sử dụng hãy liên hệ với M-Invoice tại mục Hỗ trợ kỹ thuật góc phải bên dưới màn hình hoặc gọi tổng đài kỹ thuật của M-Invoice (1900.955.557 Nhánh 1)
 
-![Hình 12](../../assets/images/invoice2/hotro.png)
+![Hình 12](../../assets/images/invoice2/hotro.png "Hãy bấm vào để xem rõ hơn")
 
 <div class="last-updated">Last updated on <strong>Jun 5, 2025</strong> by <strong>nhatth</strong></div>

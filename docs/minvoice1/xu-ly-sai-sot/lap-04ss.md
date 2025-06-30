@@ -24,26 +24,19 @@
 
 **Thao tác cài đặt và thực hiện như sau**
 
-<iframe style="width: 43rem; height: 380px"
-    src="https://www.youtube.com/embed/THGtf-CWDAM" 
-    frameborder="0" allowfullscreen>
-</iframe>
-
-**Hướng dẫn sử dụng bằng hình ảnh nếu Quý khách không xem được video**
-
 ### **Bước 1: Anh chị truy cập vào Hóa đơn NĐ 123 >> Quản lý thông báo 04/ss**
 
-![Hình 1](../../assets/images/invoice1/1.0_04ss_1.png)
+![Hình 1](../../assets/images/invoice1/1.0_04ss_1.png "Hãy bấm vào để xem rõ hơn")
 
-![Hình 1](../../assets/images/invoice1/1.0_04ss_7.png)
+![Hình 1](../../assets/images/invoice1/1.0_04ss_7.png "Hãy bấm vào để xem rõ hơn")
 
 Anh chị bấm thêm để hiển thị form thêm 04/ss
 
 ### **Bước 2: Trên form anh chị chọn vào button chọn hóa đơn**
 
-![Hình 2](../../assets/images/invoice1/1.0_04ss_2.png)
+![Hình 2](../../assets/images/invoice1/1.0_04ss_2.png "Hãy bấm vào để xem rõ hơn")
 
-![Hình 3](../../assets/images/invoice1/1.0_04ss_3.png)
+![Hình 3](../../assets/images/invoice1/1.0_04ss_3.png "Hãy bấm vào để xem rõ hơn")
 
 Sau khi click vào chọn hóa đơn, giao diện lọc hóa đơn cần làm giải trình sẽ hiển thị:
 
@@ -52,14 +45,14 @@ Sau khi click vào chọn hóa đơn, giao diện lọc hóa đơn cần làm gi
 
 ### **Bước 3 : Sau khi nhấn Lưu phần mềm sẽ tự động sinh ra 1 form để lập mẫu 04ss**
 
-![Hình 4](../../assets/images/invoice1/1.0_04ss_4.png)
+![Hình 4](../../assets/images/invoice1/1.0_04ss_4.png "Hãy bấm vào để xem rõ hơn")
 
 Các bạn chỉ cần kiểm tra lại thông tin, điền vào phần lý do
 Khi nhập lý do xong, nhấn Ghi(F10) để lưu
 
 ### **Bước 4 : Ký gửi 04ss thông báo sai sót đến CQT**
 
-![Hình 5](../../assets/images/invoice1/1.0_04ss_5.png)
+![Hình 5](../../assets/images/invoice1/1.0_04ss_5.png "Hãy bấm vào để xem rõ hơn")
 
 Sau khi bấm lưu, phần mềm sẽ thông báo ký gửi 04ss lên CQT, anh chị bấm đồng ý
 
@@ -67,6 +60,6 @@ Sau khi bấm lưu, phần mềm sẽ thông báo ký gửi 04ss lên CQT, anh c
 
     Có bất kỳ vướng mắc nào trong quá trình sử dụng hãy liên hệ với M-Invoice tại mục Hỗ trợ kỹ thuật góc phải bên dưới màn hình hoặc gọi tổng đài kỹ thuật của M-Invoice (1900.955.557 Nhánh 1)
 
-![Hình 6](../../assets/images/invoice1/1.0_suaTienBangTay_5.png)
+![Hình 6](../../assets/images/invoice1/1.0_suaTienBangTay_5.png "Hãy bấm vào để xem rõ hơn")
 
 <div class="last-updated">Last updated on <strong>Jun 30, 2025</strong> by <strong>nhatth</strong></div>
