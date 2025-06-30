@@ -20,41 +20,39 @@
 
 ## **Hướng dẫn đăng ký thay đổi tờ khai theo NĐ70 đáp ứng xác thực sinh trắc học của Cục Thuế**
 
-=== "TH1: Đăng ký mới"
-
 ### **Bước 1: Cắm CKS vào máy tính, kiểm tra xem plugin đã được bật chưa**
 
-![Hình 1](../../assets/images/invoice2/2.0_them-cks-moi_1.png)
+![Hình 1](../../assets/images/invoice1/2.0_them-cks-moi_1.png)
 
 !!! note ""
 
     Click vào biểu tượng **HIDE** (hay dẫu mũi tên chỉ lên) (1) nếu có biểu tượng Plugin của Minvoice như thế plugin đã bật thành công
 
-    Nếu chưa, bạn chỉ cần gõ vào ô tìm kiếm của window ( window + S) tìm kiếm **Minvoice - Plugin Version 2.0** rồi bật  lên là được.
+    Nếu chưa, bạn chỉ cần gõ vào ô tìm kiếm của window ( window + S) tìm kiếm **Minvoice Plugin** rồi bật  lên là được.
 
 ### **Bước 2: Thêm CKS vào phần mềm hóa đơn**
 
-![Hình 2](../../assets/images/invoice2/2.0_them-cks-moi_2.png)
+![Hình 1](../../assets/images/invoice1/1.0_dang-ky-nd70_1.png)
 
-![Hình 3](../../assets/images/invoice2/2.0_them-cks-moi_3.png)
+![Hình 1](../../assets/images/invoice1/1.0_dang-ky-nd70_2.png)
 
 Các bạn vào **Hệ thông --> Đăng ký chữ ký số --> Thêm chứng thư số**
 
-![Hình 4](../../assets/images/invoice2/2.0_them-cks-moi_4.png)
+![Hình 1](../../assets/images/invoice1/1.0_dang-ky-nd70_3.png)
 
 Click vào loại **CKS** phù hợp nhất với mình
-
-![Hình 5](../../assets/images/invoice2/2.0_them-cks-moi_5.png)
 
 Ở thanh Taskbar sẽ hiển thị lên biểu tượng của công cụ **Plugin Minvoice** các bạn chọn vào đó để thêm **CKS** mới của mình
 
 ### **Bước 3 : Làm tờ khai 01**
 
-![Hình 6](../../assets/images/invoice2/2.0_to-khai-nd70_1.png)
+![Hình 1](../../assets/images/invoice1/1.0_dang-ky-nd70_4.png)
 
 Các bạn vào phần **Đăng ký phát hành >> Tờ khai đăng ký/thay đổi NĐ70/2025 >> Thêm (F4)**
 
-![Hình 6](../../assets/images/invoice2/2.0_to-khai-nd70_2.png)
+![Hình 1](../../assets/images/invoice1/1.0_dang-ky-nd70_11.png)
+
+![Hình 1](../../assets/images/invoice1/1.0_dang-ky-nd70_5.png)
 
 !!! note ""
 
@@ -64,7 +62,7 @@ Các bạn vào phần **Đăng ký phát hành >> Tờ khai đăng ký/thay đ�
 
     + Chọn **Thay đổi** thông tin nếu bạn muốn thay đổi địa chỉ, tên doanh nghiệp, hay thêm CKS mới vào phần mềm
 
-![Hình 6](../../assets/images/invoice2/2.0_to-khai-nd70_3.png)
+![Hình 1](../../assets/images/invoice1/1.0_dang-ky-nd70_6.png)
 
 ???+ note "Thông tin người đại diện pháp luật"
 
@@ -82,9 +80,9 @@ Các bạn vào phần **Đăng ký phát hành >> Tờ khai đăng ký/thay đ�
 
 **QUY TRÌNH XỬ LÝ TỜ KHAI ĐĂNG KÝ THEO NĐ70**
 
-![Hình 6](../../assets/images/invoice2/2.0_to-khai-nd70_8.png)
+![Hình 6](../../assets/images/invoice1/2.0_to-khai-nd70_8.png)
 
-![Hình 6](../../assets/images/invoice2/2.0_to-khai-nd70_9.png)
+![Hình 6](../../assets/images/invoice1/2.0_to-khai-nd70_9.png)
 
 <div style="font-size:14px; color:#b00020; background-color:#fff3f3; padding:12px; border-left:4px solid #b00020; border-radius:6px;">
   <p><strong>🚨 Theo Khoản 11, Điều 1 Nghị định 70/2025/NĐ‑CP:</strong><br>
@@ -94,7 +92,7 @@ Các bạn vào phần **Đăng ký phát hành >> Tờ khai đăng ký/thay đ�
   <p><strong>🔐 OTP</strong> được sử dụng để <strong>xác thực tài khoản eTax</strong> đã đăng ký với Tổng cục Thuế, giúp <strong>đảm bảo an toàn, bảo mật</strong> trước khi thực hiện xác thực sinh trắc học.</p>
 </div>
 
-![Hình 6](../../assets/images/invoice2/2.0_to-khai-nd70_4.png)
+![Hình 1](../../assets/images/invoice1/1.0_dang-ky-nd70_7.png)
 
 ???+ note "Thông tin người nhận các thông báo quan trọng liên quan đến hóa đơn điện tử (trường sẽ là thông tin của kế toán, kế toán trưởng)"
 
@@ -108,11 +106,11 @@ Các bạn vào phần **Đăng ký phát hành >> Tờ khai đăng ký/thay đ�
 
     **Email liên hệ**: mail nhận thông báo từ thuế
 
-![Hình 6](../../assets/images/invoice2/2.0_to-khai-nd70_5.png)
+![Hình 1](../../assets/images/invoice1/1.0_dang-ky-nd70_8.png)
 
 1,2,3,4,Các bạn tích chọn vào các loại hóa đơn phù hợp với hình thức doanh nghiệp mình sử dụng
 
-![Hình 6](../../assets/images/invoice2/2.0_to-khai-nd70_6.png)
+![Hình 1](../../assets/images/invoice1/1.0_dang-ky-nd70_9.png)
 
 5, chọn **Thêm** để thêm cks hay để Add CKS mới thay đổi vào tờ khai **nếu có rồi thì k cần làm bước này**
 
@@ -122,7 +120,7 @@ Các bạn vào phần **Đăng ký phát hành >> Tờ khai đăng ký/thay đ�
 
 ### **Bước 4 : Sau khi hoàn thành, các bạn chọn tờ khai mình vừa lập chọn Ký và gửi CQT**
 
-![Hình 6](../../assets/images/invoice2/2.0_to-khai-nd70_7.png)
+![Hình 1](../../assets/images/invoice1/1.0_dang-ky-nd70_10.png)
 
 Như vậy đã hoàn tất quá trình đăng ký hay thay đổi thông tin hóa đơn sử dụng.
 

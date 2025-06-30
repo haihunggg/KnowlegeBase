@@ -1,4 +1,4 @@
-# **Hướng dẫn hủy hóa đơn theo NĐ123**
+# **Thông báo 04/SS-HDDT sai sót theo NĐ70**
 
 <div style="font-size:14px; color:#1a1a1a; background-color:#f3faff; padding:12px; border-left:4px solid #007acc; border-radius:6px;">
   <p><strong>📘 Căn cứ tại Khoản 13 Điều 1 Nghị định 70/2025/NĐ-CP</strong> sửa đổi Điều 19 Nghị định 123/2020/NĐ-CP, quy định về việc lập <strong>Mẫu 04/SS-HĐĐT</strong> như sau:</p>
@@ -35,6 +35,8 @@
 
 ![Hình 1](../../assets/images/invoice1/1.0_04ss_1.png)
 
+![Hình 1](../../assets/images/invoice1/1.0_04ss_7.png)
+
 Anh chị bấm thêm để hiển thị form thêm 04/ss
 
 ### **Bước 2: Trên form anh chị chọn vào button chọn hóa đơn**
@@ -52,8 +54,8 @@ Sau khi click vào chọn hóa đơn, giao diện lọc hóa đơn cần làm gi
 
 ![Hình 4](../../assets/images/invoice1/1.0_04ss_4.png)
 
-Các bạn chỉ cần kiểm tra lại thông tin, chọn tính chất thông báo là "Giải trình", sau đó điền vào phần lý do
-Khi nhập lý do xong hãy nhấn phím tab để phần mềm lưu lại được mục lý do, sau đó nhấn Ghi(F10)
+Các bạn chỉ cần kiểm tra lại thông tin, điền vào phần lý do
+Khi nhập lý do xong, nhấn Ghi(F10) để lưu
 
 ### **Bước 4 : Ký gửi 04ss thông báo sai sót đến CQT**
 
@@ -61,12 +63,10 @@ Khi nhập lý do xong hãy nhấn phím tab để phần mềm lưu lại đư�
 
 Sau khi bấm lưu, phần mềm sẽ thông báo ký gửi 04ss lên CQT, anh chị bấm đồng ý
 
-Ở mục trạng thái CQT, nếu cơ quan thuế đồng ý về việc hủy hóa đơn thì phần trạng thái sẽ chuyển về chấp nhận và ngược lại
-
 !!! info "Xin chân thành cảm ơn Quý khách hàng đã tin dùng sản phẩm của M-Invoice"
 
     Có bất kỳ vướng mắc nào trong quá trình sử dụng hãy liên hệ với M-Invoice tại mục Hỗ trợ kỹ thuật góc phải bên dưới màn hình hoặc gọi tổng đài kỹ thuật của M-Invoice (1900.955.557 Nhánh 1)
 
 ![Hình 6](../../assets/images/invoice1/1.0_suaTienBangTay_5.png)
 
-<div class="last-updated">Last updated on <strong>Jun 5, 2025</strong> by <strong>nhatth</strong></div>
+<div class="last-updated">Last updated on <strong>Jun 30, 2025</strong> by <strong>nhatth</strong></div>

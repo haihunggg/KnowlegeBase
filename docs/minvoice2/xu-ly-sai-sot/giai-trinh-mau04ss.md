@@ -1,4 +1,4 @@
-# **Giải trình hoá đơn theo NĐ70**
+# **Thông báo 04/SS-HDDT sai sót theo NĐ70**
 
 <div style="font-size:14px; color:#1a1a1a; background-color:#f3faff; padding:12px; border-left:4px solid #007acc; border-radius:6px;">
   <p><strong>📘 Căn cứ tại Khoản 13 Điều 1 Nghị định 70/2025/NĐ-CP</strong> sửa đổi Điều 19 Nghị định 123/2020/NĐ-CP, quy định về việc lập <strong>Mẫu 04/SS-HĐĐT</strong> như sau:</p>
