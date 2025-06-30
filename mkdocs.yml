@@ -318,7 +318,9 @@ nav:
               - Dashboard 1.0: minvoice1/huong-dan/dashboard.md
               - Thêm mới chữ ký số: minvoice1/huong-dan/them-CKS.md
               - Cài đặt plugin: minvoice1/huong-dan/cai-dat-plugin.md
-              - Thay đổi địa chỉ: minvoice1/huong-dan/thay-doi-dia-chi.md
+              - Đăng ký thay đổi tờ khai theo NĐ70: minvoice1/huong-dan/dang-ky-thay-doi-to-khai-theo-ND70.md
+              - Thay đổi địa chỉ doanh nghiệp trên hóa đơn: minvoice1/huong-dan/thay-doi-dia-chi-tren-hoa-don.md
+              - Thay đổi thông tin doanh nghiệp: minvoice1/huong-dan/thay-doi-thong-tin-doanh-nghiep.md
               - Sửa tiền bằng tay: minvoice1/huong-dan/sua-tien-bang-tay.md
               - Tạo hóa đơn bằng file excel: minvoice1/huong-dan/nhap-excel-hang-loat.md
               - Nhập file excel chi tiết: minvoice1/huong-dan/nhap-excel-chi-tiet.md
@@ -333,8 +335,7 @@ nav:
               - Điều chỉnh hóa đơn: minvoice1/xu-ly-sai-sot/dieu-chinh.md
               - Điều chỉnh hoá đơn về 0: minvoice1/xu-ly-sai-sot/dieu-chinh-giam-ve-0.md
               - Thay thế hóa đơn: minvoice1/xu-ly-sai-sot/thay-the.md
-              - Giải trình hóa đơn: minvoice1/xu-ly-sai-sot/lap-04ss.md
-              - Gửi mẫu 04ss thay thế hoặc điều chỉnh hoá đơn: minvoice1/xu-ly-sai-sot/thay-the-mau04ss.md
+              - Giải trình hóa đơn theo NĐ70: minvoice1/xu-ly-sai-sot/lap-04ss.md
           - "Danh mục và báo cáo":
               - Báo cáo chi tiết: minvoice1/danh-muc-bao-cao/bao-cao-chi-tiet.md
               - Báo cáo bảng kê bán ra PL01: minvoice1/danh-muc-bao-cao/bao-cao-pl01.md
@@ -346,8 +347,10 @@ nav:
               - minvoice2/huong-dan/lap-va-phat-hanh-hoa-don.md
               - minvoice2/huong-dan/sao-chep-hoa-don.md
               - minvoice2/huong-dan/plugin.md
+              - minvoice2/huong-dan/dang-ky-thay-doi-to-khai-theo-ND70.md
               - minvoice2/huong-dan/them-cks-moi.md
               - minvoice2/huong-dan/cap-nhat-ky-hieu.md
+              - minvoice2/huong-dan/thay-doi-dia-chi-tren-hoa-don.md
               - minvoice2/huong-dan/thay-doi-thong-tin-doanh-nghiep.md
               - minvoice2/huong-dan/in-hang-loat.md
               - minvoice2/huong-dan/chinh-thap-phan.md
@@ -372,7 +375,6 @@ nav:
               - Lập biên bản hóa đơn sai sót: minvoice2/xu-ly-sai-sot/lap-bien-ban-hoa-don.md
               #    - setup/huy-hoa-don-hang-loat.md
               - minvoice2/xu-ly-sai-sot/giai-trinh-mau04ss.md
-              - minvoice2/xu-ly-sai-sot/thay-the-mau04ss.md
           - "Danh mục và báo cáo":
               - minvoice2/danh-muc-bao-cao/bao-cao-tong-hop.md
               - minvoice2/danh-muc-bao-cao/bao-cao-chi-tiet.md

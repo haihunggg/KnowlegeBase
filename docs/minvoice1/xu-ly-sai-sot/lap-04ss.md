@@ -1,20 +1,35 @@
 # **Hướng dẫn hủy hóa đơn theo NĐ123**
 
-!!! note "Người sử dụng có thể sử dụng Giải trình hóa đơn đối với các trường hợp sai sót dưới đây:"
+<div style="font-size:14px; color:#1a1a1a; background-color:#f3faff; padding:12px; border-left:4px solid #007acc; border-radius:6px;">
+  <p><strong>📘 Căn cứ tại Khoản 13 Điều 1 Nghị định 70/2025/NĐ-CP</strong> sửa đổi Điều 19 Nghị định 123/2020/NĐ-CP, quy định về việc lập <strong>Mẫu 04/SS-HĐĐT</strong> như sau:</p>
 
-    - Hóa đơn cần Giải trình đã được gửi CQT thành công hoặc hóa đơn đã có mã CQT cấp.
+  <p><strong>🧾 Khi người bán phát hiện hóa đơn điện tử đã lập sai</strong> (bao gồm:<br>
+  – Hóa đơn điện tử đã được cấp mã của cơ quan thuế;<br>
+  – Hóa đơn điện tử không có mã nhưng đã gửi dữ liệu đến cơ quan thuế), thì xử lý theo các trường hợp:</p>
 
-    - Hóa đơn sai sót thuộc các trường hợp : Sai tên, địa chỉ người mua, không áp dụng cho sai mã số thuế.
+  <p><strong>🔹 Trường hợp 1:</strong> Sai <u>tên</u>, <u>địa chỉ</u> người mua nhưng <strong>không sai mã số thuế</strong> và các nội dung khác không sai:<br>
+  → Người bán <strong>thông báo cho người mua</strong> về sai sót.<br>
+  → <strong>Không phải lập lại hóa đơn.</strong><br>
+  → Người bán thực hiện <strong>thông báo với cơ quan thuế</strong> theo <u>Mẫu số 04/SS-HĐĐT</u> theo hướng dẫn dưới đây.</p>
 
-!!! warning "Lưu ý"
+  <p><strong>🔹 Trường hợp 2:</strong> Sai các nội dung quan trọng như:<br>
+  – <strong>Mã số thuế</strong> của người mua;<br>
+  – <strong>Số tiền</strong> ghi trên hóa đơn;<br>
+  – <strong>Thuế suất</strong>, <strong>tiền thuế</strong>;<br>
+  – <strong>Hàng hóa</strong> ghi sai quy cách, chất lượng,...<br>
+  → Người bán được phép <strong>lựa chọn</strong> giữa 2 cách xử lý:<br>
+  ✅ <strong>Lập hóa đơn điều chỉnh</strong> hoặc<br>
+  ✅ <strong>Lập hóa đơn thay thế</strong> theo đúng quy định hiện hành.</p>
+</div>
 
-    Giải trình hóa đơn không làm thay đổi tính chất của hóa đơn.
-    Giải trình không giới hạn số lượng và mọi tính chất hóa đơn đều có thể thực hiện giải trình.
+**Thao tác cài đặt và thực hiện như sau**
 
 <iframe style="width: 43rem; height: 380px"
     src="https://www.youtube.com/embed/THGtf-CWDAM" 
     frameborder="0" allowfullscreen>
 </iframe>
+
+**Hướng dẫn sử dụng bằng hình ảnh nếu Quý khách không xem được video**
 
 ### **Bước 1: Anh chị truy cập vào Hóa đơn NĐ 123 >> Quản lý thông báo 04/ss**
 
@@ -53,8 +68,5 @@ Sau khi bấm lưu, phần mềm sẽ thông báo ký gửi 04ss lên CQT, anh c
     Có bất kỳ vướng mắc nào trong quá trình sử dụng hãy liên hệ với M-Invoice tại mục Hỗ trợ kỹ thuật góc phải bên dưới màn hình hoặc gọi tổng đài kỹ thuật của M-Invoice (1900.955.557 Nhánh 1)
 
 ![Hình 6](../../assets/images/invoice1/1.0_suaTienBangTay_5.png)
-
-
-
 
 <div class="last-updated">Last updated on <strong>Jun 5, 2025</strong> by <strong>nhatth</strong></div>

@@ -20,37 +20,40 @@
 
     ### **Bước 1: Truy cập hệ thống -> thông tin doanh nghiệp**
 
-    ![Hình 1](../../assets/images/invoice2/2.0_thay-doi-thong-tin-doanh-nghiep_1.png "Hãy bấm vào để xem rõ hơn")
+    ![Hình 1](../../assets/images/invoice1/1.0_diaChi_1.png "Hãy bấm vào để xem rõ hơn")
 
     Bạn vào phần **Hệ thông --> Quản lý doanh nghiệp --> Thông tin doanh nghiệp**
 
-    ![Hình 1](../../assets/images/invoice2/2.0_thay-doi-thong-tin-doanh-nghiep_7.png "Hãy bấm vào để xem rõ hơn")
+    ![Hình 1](../../assets/images/invoice1/1.0_diaChi_2.png "Hãy bấm vào để xem rõ hơn")
 
     Điền địa chỉ đúng rồi bấm **Lưu**
 
-    ### **Bước 2: Làm tờ khai 01 thay đổi thông tin với cơ quan thuế (Đăng ký phát hành -> Lập tờ khai)**
+    ### **Bước 2: Làm tờ khai 01 thay đổi thông tin với cơ quan thuế (Hóa đơn NĐ123 --> Đăng ký/thay đổi thông tin SD HDDT)**
 
     <p align="center" style="font-weight: bold;">Hướng dẫn video làm tờ khai</p>
 
-    <iframe style="width: 43rem; height: 380px" src="https://www.youtube.com/embed/QCUDtrKGSFg?si=7q9Qa3huXRSGe6lh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe style="width: 43rem; height: 380px" src="https://www.youtube.com/embed/GslGyYLCIDk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
     **Hướng dẫn sử dụng bằng hình ảnh nếu Quý khách không xem được video**
 
-    ![Hình 2](../../assets/images/invoice2/2.0_thay-doi-thong-tin-doanh-nghiep_2.png "Hãy bấm vào để xem rõ hơn")
+    ![Hình 1](../../assets/images/invoice1/1.0_diaChi_3.png "Hãy bấm vào để xem rõ hơn")
 
-    Quý khách truy cập vào **Đăng ký phát hành --> Lập tờ khai**
+    Quý khách truy cập vào **Hóa đơn NĐ123 --> Đăng ký/thay đổi thông tin SD HDDT**
 
     ???+ Warning "Lưu ý"
 
         Với những quý khách đã có tờ khai đăng ký trước đó, thì hình thức sẽ phải chọn là Thay đổi
 
-    ![Hình 3](../../assets/images/invoice2/2.0_thay-doi-thong-tin-doanh-nghiep_3.png "Hãy bấm vào để xem rõ hơn")
+    ![Hình 1](../../assets/images/invoice1/1.0_diaChi_4.png "Hãy bấm vào để xem rõ hơn")
 
-    ![Hình 4](../../assets/images/invoice2/2.0_thay-doi-thong-tin-doanh-nghiep_4.png "Hãy bấm vào để xem rõ hơn")
+    ![Hình 1](../../assets/images/invoice1/1.0_diaChi_5.png "Hãy bấm vào để xem rõ hơn")
 
     **Kiểm tra địa chỉ xem đã chính xác hay chưa**
 
-    ![Hình 5](../../assets/images/invoice2/2.0_thay-doi-thong-tin-doanh-nghiep_5.png "Hãy bấm vào để xem rõ hơn")
+    ![Hình 1](../../assets/images/invoice1/1.0_diaChi_6.png "Hãy bấm vào để xem rõ hơn")
+
+    ![Hình 1](../../assets/images/invoice1/1.0_diaChi_7.png "Hãy bấm vào để xem rõ hơn")
+
 
     ???+ danger "Cảnh báo"
 
@@ -58,7 +61,7 @@
 
         Sau đó ấn **Lưu**
 
-    ![Hình 6](../../assets/images/invoice2/2.0_thay-doi-thong-tin-doanh-nghiep_6.png "Hãy bấm vào để xem rõ hơn")
+    ![Hình 1](../../assets/images/invoice1/1.0_diaChi_8.png "Hãy bấm vào để xem rõ hơn")
 
     !!! note ""
 
