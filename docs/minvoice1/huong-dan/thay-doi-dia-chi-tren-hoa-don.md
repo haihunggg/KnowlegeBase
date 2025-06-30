@@ -1,16 +1,16 @@
 # **Thay đổi địa chỉ doanh nghiệp trên hóa đơn**
 
+<div style="font-size:16px; color:#b00020; background-color:#fff8f6; padding:12px; border-left:4px solid #d93025; border-radius:6px;">
+  <p><strong>📢 Thông báo từ M-Invoice:</strong><br>
+  M-Invoice xin thông báo đến <strong>Quý khách hàng</strong> đang sử dụng dịch vụ hóa đơn điện tử cần <strong>liên hệ cơ quan Thuế địa phương</strong> để lấy hướng dẫn về <u>địa chỉ mới nhất</u>, sau đó <strong>cập nhật lên hệ thống hóa đơn điện tử M-Invoice</strong> nhằm đảm bảo thông tin <strong>địa chỉ trên hóa đơn khi phát hành được chính xác.</strong></p>
+</div>
+
 <div style="font-size:14px; color:#333;">
   <p><strong>✅ Chức năng này dùng để làm gì?</strong><br>
   Chức năng thay đổi địa chỉ doanh nghiệp giúp cập nhật thông tin mới trên hệ thống quản lý, đảm bảo tính pháp lý và đồng bộ với dữ liệu của cơ quan nhà nước.</p>
 
   <p><strong>✅ Vì sao cần dùng chức năng này?</strong><br>
   Vì địa chỉ trụ sở là thông tin pháp lý quan trọng. Nếu không cập nhật kịp thời, doanh nghiệp có thể bị xử phạt, thông tin trên hóa đơn – hợp đồng bị sai lệch, ảnh hưởng đến giao dịch và uy tín doanh nghiệp.</p>
-</div>
-
-<div style="font-size:14px; color:#b00020; background-color:#fff8f6; padding:12px; border-left:4px solid #d93025; border-radius:6px;">
-  <p><strong>📢 Thông báo từ M-Invoice:</strong><br>
-  M-Invoice xin thông báo đến <strong>Quý khách hàng</strong> đang sử dụng dịch vụ hóa đơn điện tử cần <strong>liên hệ cơ quan Thuế địa phương</strong> để lấy hướng dẫn về <u>địa chỉ mới nhất</u>, sau đó <strong>cập nhật lên hệ thống hóa đơn điện tử M-Invoice</strong> nhằm đảm bảo thông tin <strong>địa chỉ trên hóa đơn khi phát hành được chính xác.</strong></p>
 </div>
 
 ## **Hướng dẫn thay đổi địa chỉ doanh nghiệp trên hóa đơnp**
