@@ -21,7 +21,7 @@
 
 ![Hình 1](../../assets/images/invoice1/1.0_diaChi_1.png "Hãy bấm vào để xem rõ hơn")
 
-Bạn vào phần **Hóa đơn NĐ123 --> Đăng ký/thay đổi thông tin SD HDDT**
+Bạn vào phần **Hệ thông --> Quản lý doanh nghiệp --> Thông tin doanh nghiệp**
 
 ### **Bước 2: Điền địa chỉ đúng rồi bấm Lưu**
 
