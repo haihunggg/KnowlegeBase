@@ -1,4 +1,4 @@
-# **Đăng ký thay đổi tờ khai theo NĐ70**
+# **Đăng ký / thay đổi tờ khai theo NĐ70**
 
 <div style="font-size:14px; color:#b00020; background-color:#fff3f3; padding:12px; border-left:4px solid #b00020; border-radius:6px;">
   <p><strong>🚨 Quan trọng:</strong> <br>
@@ -20,7 +20,11 @@
 
 ## **Hướng dẫn đăng ký thay đổi tờ khai theo NĐ70 đáp ứng xác thực sinh trắc học của Cục Thuế**
 
-=== "TH1: Đăng ký mới"
+???+ note "Hướng dẫn này áp dụng cho ?"
+
+    Thay đổi thông tin doanh nghiệp(địa chỉ doanh nghiệp, tên doanh nghiệp, tên người đại diện pháp luật, chữ ký số mới, chữ ký số gia hạn, cơ quan thuế quản lý, hình thức hóa đơn, loại hóa đơn sử dụng)
+
+    Đăng ký mới cho các doanh nghiệp mới sử dụng hóa đơn
 
 ### **Bước 1: Cắm CKS vào máy tính, kiểm tra xem plugin đã được bật chưa**
 
@@ -32,7 +36,7 @@
 
     Nếu chưa, bạn chỉ cần gõ vào ô tìm kiếm của window ( window + S) tìm kiếm **Minvoice - Plugin Version 2.0** rồi bật  lên là được.
 
-### **Bước 2: Thêm CKS vào phần mềm hóa đơn**
+### **Bước 2: Thêm CKS mới hoặc CKS gia hạn vào phần mềm hóa đơn**
 
 ![Hình 2](../../assets/images/invoice2/2.0_them-cks-moi_2.png "Hãy bấm vào để xem rõ hơn")
 
@@ -80,20 +84,6 @@ Các bạn vào phần **Đăng ký phát hành >> Tờ khai đăng ký/thay đ�
 
     **Hộ chiếu**
 
-**QUY TRÌNH XỬ LÝ TỜ KHAI ĐĂNG KÝ THEO NĐ70**
-
-![Hình 6](../../assets/images/invoice2/2.0_to-khai-nd70_8.png "Hãy bấm vào để xem rõ hơn")
-
-![Hình 6](../../assets/images/invoice2/2.0_to-khai-nd70_9.png "Hãy bấm vào để xem rõ hơn")
-
-<div style="font-size:14px; color:#b00020; background-color:#fff3f3; padding:12px; border-left:4px solid #b00020; border-radius:6px;">
-  <p><strong>🚨 Theo Khoản 11, Điều 1 Nghị định 70/2025/NĐ‑CP:</strong><br>
-  Kể từ ngày <strong>01/07/2025</strong>, khi đăng ký hoặc thay đổi sử dụng hóa đơn điện tử (<em>Mẫu 01/ĐKTĐ‑HĐĐT</em>), người nộp thuế <strong>bắt buộc phải xác thực sinh trắc học</strong> qua ứng dụng <strong>eTax Mobile</strong>.<br>
-  <strong>Nếu không xác thực trong vòng 24 giờ</strong>, <span style="color:red;"><strong>tờ khai sẽ bị hủy</strong></span> trên hệ thống thuế điện tử.</p>
-
-  <p><strong>🔐 OTP</strong> được sử dụng để <strong>xác thực tài khoản eTax</strong> đã đăng ký với Tổng cục Thuế, giúp <strong>đảm bảo an toàn, bảo mật</strong> trước khi thực hiện xác thực sinh trắc học.</p>
-</div>
-
 ![Hình 6](../../assets/images/invoice2/2.0_to-khai-nd70_4.png "Hãy bấm vào để xem rõ hơn")
 
 ???+ note "Thông tin người nhận các thông báo quan trọng liên quan đến hóa đơn điện tử (trường sẽ là thông tin của kế toán, kế toán trưởng)"
@@ -124,7 +114,45 @@ Các bạn vào phần **Đăng ký phát hành >> Tờ khai đăng ký/thay đ�
 
 ![Hình 6](../../assets/images/invoice2/2.0_to-khai-nd70_7.png "Hãy bấm vào để xem rõ hơn")
 
-Như vậy đã hoàn tất quá trình đăng ký hay thay đổi thông tin hóa đơn sử dụng.
+### **Bước 5 : Xác thực OTP tờ khai đăng ký/thay đổi thông tin sử dụng hóa đơn điện tử theo yêu cầu của Cơ quan thuế**
+
+**QUY TRÌNH XỬ LÝ TỜ KHAI ĐĂNG KÝ THEO NĐ70**
+
+![Hình 6](../../assets/images/invoice2/2.0_to-khai-nd70_8.png "Hãy bấm vào để xem rõ hơn")
+
+???+ note "Nội dung"
+
+    Hướng dẫn thực hiện xác thực OTP tờ khai đăng ký/thay đổi thông tin sử dụng hóa đơn điện tử theo yêu cầu của Cơ quan thuế trên app eTax mobile.
+
+**Hướng dẫn thực hiện**
+
+### **1. Cơ quan thuế gửi email thông báo việc tờ khai đăng ký/thay đổi thông tin sử dụng hóa đơn điện tử cần xác thực OTP trong vòng 01 ngày làm việc.**
+
+![Hình 6](../../assets/images/invoice2/2.0_to-khai-nd70_9.png "Hãy bấm vào để xem rõ hơn")
+
+### **2. Đăng nhập app etax mobile bằng số Căn cước công dân.**
+
+![Hình 1](../../assets/images/invoice2/2.0_to-khai-nd70_10.png){: style="height:650px"}
+
+### **3. Chọn mục Hóa đơn điện tử.**
+
+![Hình 1](../../assets/images/invoice2/2.0_to-khai-nd70_11.png){: style="height:650px"}
+
+### **4. Nhấn vào mục Tờ khai chờ xác thực.**
+
+![Hình 1](../../assets/images/invoice2/2.0_to-khai-nd70_12.png){: style="height:650px"}
+
+### **5. Thực hiện xác thực.**
+
+![Hình 1](../../assets/images/invoice2/2.0_to-khai-nd70_13.png){: style="height:650px"}
+
+**Sau khi thực hiện xong bước xác thực OTP, tức tờ khai đã được xử lý đến mục tích xanh sau đây trên quy trình tờ khai. Đơn vị chờ Cơ quan thuế phản hồi các thông điệp tiếp theo.**
+
+![Hình 1](../../assets/images/invoice2/2.0_to-khai-nd70_14.png){: style="width:780px"}
+
+### **6. Quay về phần mềm hóa đơn điện tử M-invoice để kiểm tra tờ khai tại cột Phản hồi CQT trên danh sách tờ khai.**
+
+![Hình 6](../../assets/images/invoice2/2.0_to-khai-nd70_15.png "Hãy bấm vào để xem rõ hơn")
 
 ???+ Danger "Chú ý"
 
@@ -136,4 +164,4 @@ Như vậy đã hoàn tất quá trình đăng ký hay thay đổi thông tin h�
 
 ![Hình 12](../../assets/images/invoice2/hotro.png "Hãy bấm vào để xem rõ hơn")
 
-<div class="last-updated">Last updated on <strong>Jun 5, 2025</strong> by <strong>nhatth</strong></div>
+<div class="last-updated">Last updated on <strong>Jul 3, 2025</strong> by <strong>nhatth</strong></div>

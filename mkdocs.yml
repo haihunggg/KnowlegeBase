@@ -316,11 +316,10 @@ nav:
           - "Hướng dẫn sử dụng":
               - Đăng nhập: minvoice1/huong-dan/dang-nhap.md
               - Dashboard 1.0: minvoice1/huong-dan/dashboard.md
-              - Thêm mới chữ ký số: minvoice1/huong-dan/them-CKS.md
               - Cài đặt plugin: minvoice1/huong-dan/cai-dat-plugin.md
-              - Đăng ký thay đổi tờ khai theo NĐ70: minvoice1/huong-dan/dang-ky-thay-doi-to-khai-theo-ND70.md
+              - Đăng ký / thay đổi tờ khai theo NĐ70: minvoice1/huong-dan/dang-ky-thay-doi-to-khai-theo-ND70.md
+              - Thay đổi CKS hoặc thêm CKS mới vào phần mềm theo NĐ70: minvoice1/huong-dan/them-CKS.md
               - Thay đổi địa chỉ doanh nghiệp trên hóa đơn: minvoice1/huong-dan/thay-doi-dia-chi-tren-hoa-don.md
-              - Thay đổi thông tin doanh nghiệp: minvoice1/huong-dan/thay-doi-thong-tin-doanh-nghiep.md
               - Sửa tiền bằng tay: minvoice1/huong-dan/sua-tien-bang-tay.md
               - Tạo hóa đơn bằng file excel: minvoice1/huong-dan/nhap-excel-hang-loat.md
               - Nhập file excel chi tiết: minvoice1/huong-dan/nhap-excel-chi-tiet.md
@@ -351,7 +350,6 @@ nav:
               - minvoice2/huong-dan/them-cks-moi.md
               - minvoice2/huong-dan/cap-nhat-ky-hieu.md
               - minvoice2/huong-dan/thay-doi-dia-chi-tren-hoa-don.md
-              - minvoice2/huong-dan/thay-doi-thong-tin-doanh-nghiep.md
               - minvoice2/huong-dan/in-hang-loat.md
               - minvoice2/huong-dan/chinh-thap-phan.md
               - minvoice2/huong-dan/gui-mail.md

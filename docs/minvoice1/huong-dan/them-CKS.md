@@ -1,78 +1,161 @@
-# **Hướng dẫn thay đổi CKS hoặc add thêm CKS mới vào phần mềm**
+# **Thay đổi CKS hoặc thêm CKS mới vào phần mềm theo NĐ70**
 
-### **Bước 1: Cắm CKS vào máy tính, kiểm tra xem plugin đã được bật chưa**
+<div style="font-size:14px; color:#b00020; background-color:#fff3f3; padding:12px; border-left:4px solid #b00020; border-radius:6px;">
+  <p><strong>🚨 Quan trọng:</strong> <br>
+  Bắt buộc xác thực sinh trắc học khi đăng ký/thay đổi thông tin sử dụng hóa đơn điện tử từ <strong>Nghị định 70/2025/NĐ-CP</strong></p>
 
-![Hình 1](../../assets/images/invoice1/1.0_addCKS_1.jpg)
+  <p>Từ <strong>ngày 01/07/2025</strong>, người nộp thuế (NNT) khi đăng ký hoặc thay đổi thông tin sử dụng hóa đơn điện tử sẽ <strong>bắt buộc phải xác thực sinh trắc học</strong> trên ứng dụng <strong>eTax Mobile</strong>.</p>
 
-Click vào biểu tượng HIDE (hay dẫu mũi tên chỉ lên) (1) nếu có biểu tượng Plugin của Minvoice như thế plugin đã bật thành công
+  <p><strong>🔍 Quy trình thực hiện như sau:</strong><br>
+  ✅ NNT gửi tờ khai đăng ký/thay đổi thông tin trên hệ thống hóa đơn điện tử.<br>
+  ✅ Truy cập ứng dụng <strong>eTax Mobile</strong> để thực hiện xác thực sinh trắc học.<br>
+  ✅ Sau khi xác thực thành công → Cơ quan thuế (CQT) gửi kết quả xác thực.<br>
+  ✅ Trong 01 ngày làm việc, CQT sẽ thông báo chấp nhận/không chấp nhận hồ sơ.</p>
 
-Nếu chưa, bạn chỉ cần gõ vào ô tìm kiếm của window ( window + S) tìm kiếm Mivoice - Plugin rồi bật nó lên là được.
+  <p><strong>❌ Lưu ý:</strong><br>
+  Nếu sau <strong>24h</strong> mà NNT <strong>không xác thực</strong> hoặc xác thực <strong>không thành công</strong>, <span style="color:red;"><strong>tờ khai sẽ bị hủy</strong></span>.</p>
 
-### **Bước 2: Thêm CKS vào phần mềm Minvoice**
+  <p><strong>👉 Để tránh gián đoạn</strong> trong quá trình sử dụng hóa đơn điện tử, NNT cần <strong>chủ động xác thực ngay sau khi gửi tờ khai!</strong></p>
+</div>
 
-![Hình 2](../../assets/images/invoice1/1.0_addCKS_2.jpg)
+## **Hướng dẫn Thay đổi CKS hoặc thêm CKS mới vào phần mềm và nộp tờ khai theo NĐ70 đáp ứng xác thực sinh trắc học của Cục Thuế**
 
-Các bạn vào Hệ thông >> Đăng ký chữ ký số >> Thêm (F4)
+### **Bước 1: Cắm CKS vào máy tính, kiểm tra xem plugin đã được bật chưa (nếu đang ký được hóa đơn thì bỏ qua bước này)**
 
-![Hình 3](../../assets/images/invoice1/1.0_addCKS_3.jpg)
+![Hình 1](../../assets/images/invoice1/2.0_them-cks-moi_1.png "Hãy bấm vào để xem rõ hơn")
 
-Ở thanh Taskbar sẽ hiển thị lên biểu tượng của công cụ Plugin Minvoice, các bạn chọn vào đó để thêm CKS mới của mình
+!!! note ""
 
-### **Bước 3 : Phân quyền CKS cho người dùng**
+    Click vào biểu tượng **HIDE** (hay dẫu mũi tên chỉ lên) (1) nếu có biểu tượng Plugin của Minvoice như thế plugin đã bật thành công
 
-![Hình 4](../../assets/images/invoice1/1.0_addCKS_4.jpg)
+    Nếu chưa, bạn chỉ cần gõ vào ô tìm kiếm của window ( window + S) tìm kiếm **Minvoice Plugin** rồi bật  lên là được.
 
-Các bạn vào Hệ thống >>> Quản trị người dùng >>> Người sử dùng
-Chọn tài khoản mà bạn sử dụng >> chọn nút Phân quyền
+### **Bước 2: Thêm CKS vào phần mềm hóa đơn**
 
-![Hình 5](../../assets/images/invoice1/1.0_addCKS_5.jpg)
+![Hình 1](../../assets/images/invoice1/1.0_dang-ky-nd70_1.png "Hãy bấm vào để xem rõ hơn")
 
-Chọn vào mục Chữ ký số tích chọn vào cks mình vừa thêm vào , sau đó nhấn Nhận (F10)
+![Hình 1](../../assets/images/invoice1/1.0_dang-ky-nd70_2.png "Hãy bấm vào để xem rõ hơn")
 
-### **Bước 4: Làm tờ khai 01 thay đổi lên thuế về việc thay đổi CKS**
+Các bạn vào **Hệ thông --> Đăng ký chữ ký số --> Thêm chứng thư số**
 
-![Hình 6](../../assets/images/invoice1/1.0_addCKS_6.jpg)
+![Hình 1](../../assets/images/invoice1/1.0_dang-ky-nd70_3.png "Hãy bấm vào để xem rõ hơn")
 
-Bạn vào Hóa đơn NĐ123 >> Đăng ký/ Thay đổi thông tin SD HDDT
+Click vào loại **CKS** phù hợp nhất với mình
 
-![Hình 7](../../assets/images/invoice1/1.0_addCKS_7.jpg)
+Ở thanh Taskbar sẽ hiển thị lên biểu tượng của công cụ **Plugin Minvoice** các bạn chọn vào đó để thêm **CKS** mới của mình
 
-!!! note "Ghi chú"
+### **Bước 3 : Làm tờ khai 01**
 
-       - Hình thức chọn Thay đổi
+![Hình 1](../../assets/images/invoice1/1.0_dang-ky-nd70_4.png "Hãy bấm vào để xem rõ hơn")
 
-       - Địa danh chọn tỉnh thành phố hiện tại
+Các bạn vào phần **Đăng ký phát hành >> Tờ khai đăng ký/thay đổi NĐ70/2025 >> Thêm (F4)**
 
-       - Mã cơ quan thuế quản lý chọn mã cơ quan thuế quản lý tương ứng
+![Hình 1](../../assets/images/invoice1/1.0_dang-ky-nd70_11.png "Hãy bấm vào để xem rõ hơn")
 
-       - Email, số điện thoại Bạn điền mail và sđt của giám đốc hoặc kế toán trưởng
+![Hình 1](../../assets/images/invoice1/1.0_dang-ky-nd70_5.png "Hãy bấm vào để xem rõ hơn")
 
-       - Hình thức hóa đơn : Chọn loại có mã của CQT hoặc không có mã
+!!! note ""
 
-       - Phương thức truyền dữ liệu : Chọn Chuyền đẩy đủ thông tin hóa đơn
+    Ở phần **Đăng ký/Thay đổi thông tin sử dụng hóa đơn điện tử**
 
-       - Hình thức gửi dữ liệu : Chọn Chuyền dữ liệu qua tổ chức truyền nhận
+    + Chọn **Đăng ký mới** nếu bạn chưa từng sử dụng hóa đơn theo nghị định 123 (Hóa đơn có mã của CQT)
 
-       - Loại hóa đơn : Chọn loại hóa đơn mà bạn đang sử dụng
+    + Chọn **Thay đổi** thông tin nếu bạn muốn thay đổi địa chỉ, tên doanh nghiệp, hay thêm CKS mới vào phần mềm
 
-![Hình 8](../../assets/images/invoice1/1.0_addCKS_8.jpg)
+![Hình 1](../../assets/images/invoice1/1.0_dang-ky-nd70_6.png "Hãy bấm vào để xem rõ hơn")
 
-Tiếp sau đó nhấn phím dấu + (F9) để tiến hành thêm cks mới vào tờ khai (Giống như thêm cks vào phần mềm ở bước trên)
-Khi thêm xong chúng ta nhấn Ghi (F10)
+???+ note "Thông tin người đại diện pháp luật"
 
-![Hình 9](../../assets/images/invoice1/1.0_addCKS_9.jpg)
+    Ở phần này các bạn điền đẩy đủ các phần như sau
 
-Như vậy đã xuất hiện ra 1 tờ thay đổi mới, việc của chúng ta chỉ cần Ký (F7) và Gửi CQT để gửi tờ khai 01 về việc thay đổi đổi CKS
+    **Tên người đại diện**: tên giám đốc
 
-### **Bước 5: Việc của chúng ta bây giờ là đợi CQT chấp nhận cho chúng ta sử dụng CKS mới (Thông thường quá trình này sẽ mất khoảng 1 ngày) là chúng ta có thể ký được bằng CKS mới bình thường**
+    **Đia chỉ liên hệ** : địa chỉ công ty
 
-!!! info "Xin chân thành cảm ơn Quý khách hàng đã tin dùng sản phẩm của M-Invoice"
+    **Số điện thoại** : số điện thoại
+
+    **Căn cước công dân**
+
+    **Hộ chiếu**
+
+![Hình 1](../../assets/images/invoice1/1.0_dang-ky-nd70_7.png "Hãy bấm vào để xem rõ hơn")
+
+???+ note "Thông tin người nhận các thông báo quan trọng liên quan đến hóa đơn điện tử (trường sẽ là thông tin của kế toán, kế toán trưởng)"
+
+    Ở phần này các bạn điền đẩy đủ các phần như sau
+
+    **Người liên hệ**: tên kế toán, ...
+
+    **Đia chỉ liên hệ** : địa chỉ nhận thông báo nếu có
+
+    **điện thoại liên hệ** : số điện thoại nhận thông báo
+
+    **Email liên hệ**: mail nhận thông báo từ thuế
+
+![Hình 1](../../assets/images/invoice1/1.0_dang-ky-nd70_8.png "Hãy bấm vào để xem rõ hơn")
+
+1,2,3,4,Các bạn tích chọn vào các loại hóa đơn phù hợp với hình thức doanh nghiệp mình sử dụng
+
+![Hình 1](../../assets/images/invoice1/1.0_dang-ky-nd70_9.png "Hãy bấm vào để xem rõ hơn")
+
+5, chọn **Thêm** để thêm cks hay để Add CKS mới thay đổi vào tờ khai **nếu có rồi thì k cần làm bước này**
+
+6, Thông tin tổ chức chức cung cấp dịch vụ và truyền nhận (sẽ mặc định là: CÔNG TY TNHH HÓA ĐƠN ĐIỆN TỬ M-INVOICE)
+
+7, Sau khi add xong CKS, quý khách nhấn Lưu để **lưu** lại dữ liệu tờ khai 01 này
+
+### **Bước 4 : Sau khi hoàn thành, các bạn chọn tờ khai mình vừa lập chọn Ký và gửi CQT**
+
+![Hình 1](../../assets/images/invoice1/1.0_dang-ky-nd70_10.png "Hãy bấm vào để xem rõ hơn")
+
+### **Bước 5 : Xác thực OTP tờ khai đăng ký/thay đổi thông tin sử dụng hóa đơn điện tử theo yêu cầu của Cơ quan thuế**
+
+**QUY TRÌNH XỬ LÝ TỜ KHAI ĐĂNG KÝ THEO NĐ70**
+
+![Hình 6](../../assets/images/invoice1/2.0_to-khai-nd70_8.png "Hãy bấm vào để xem rõ hơn")
+
+???+ note "Nội dung"
+
+    Hướng dẫn thực hiện xác thực OTP tờ khai đăng ký/thay đổi thông tin sử dụng hóa đơn điện tử theo yêu cầu của Cơ quan thuế trên app eTax mobile.
+
+**Hướng dẫn thực hiện**
+
+### **1. Cơ quan thuế gửi email thông báo việc tờ khai đăng ký/thay đổi thông tin sử dụng hóa đơn điện tử cần xác thực OTP trong vòng 01 ngày làm việc.**
+
+![Hình 6](../../assets/images/invoice1/2.0_to-khai-nd70_9.png "Hãy bấm vào để xem rõ hơn")
+
+### **2. Đăng nhập app etax mobile bằng số Căn cước công dân.**
+
+![Hình 1](../../assets/images/invoice1/1.0_to-khai-nd70_10.png){: style="height:650px"}
+
+### **3. Chọn mục Hóa đơn điện tử.**
+
+![Hình 1](../../assets/images/invoice1/1.0_to-khai-nd70_11.png){: style="height:650px"}
+
+### **4. Nhấn vào mục Tờ khai chờ xác thực.**
+
+![Hình 1](../../assets/images/invoice1/1.0_to-khai-nd70_12.png){: style="height:650px"}
+
+### **5. Thực hiện xác thực.**
+
+![Hình 1](../../assets/images/invoice1/1.0_to-khai-nd70_13.png){: style="height:650px"}
+
+**Sau khi thực hiện xong bước xác thực OTP, tức tờ khai đã được xử lý đến mục tích xanh sau đây trên quy trình tờ khai. Đơn vị chờ Cơ quan thuế phản hồi các thông điệp tiếp theo.**
+
+![Hình 1](../../assets/images/invoice1/1.0_to-khai-nd70_14.png){: style="width:780px"}
+
+### **6. Quay về phần mềm hóa đơn điện tử M-invoice để kiểm tra tờ khai tại cột Phản hồi CQT trên danh sách tờ khai.**
+
+![Hình 6](../../assets/images/invoice1/1.0_to-khai-nd70_15.png "Hãy bấm vào để xem rõ hơn")
+
+???+ Danger "Chú ý"
+
+    <span style="color: red; font-size: 20px">**Các bạn vui lòng chờ đến khi CQT chấp nhận tờ khai thì mới có thể lập được hóa đơn**</span>
+
+???+ info "Xin chân thành cảm ơn quý khách hàng đã tin dùng sản phẩm của M-Invoice"
 
     Có bất kỳ vướng mắc nào trong quá trình sử dụng hãy liên hệ với M-Invoice tại mục Hỗ trợ kỹ thuật góc phải bên dưới màn hình hoặc gọi tổng đài kỹ thuật của M-Invoice (1900.955.557 Nhánh 1)
 
-![Hình 10](../../assets/images/invoice1/1.0_suaTienBangTay_5.png)
+![Hình 12](../../assets/images/invoice2/hotro.png "Hãy bấm vào để xem rõ hơn")
 
-
-
-
-<div class="last-updated">Last updated on <strong>Jun 5, 2025</strong> by <strong>nhatth</strong></div>
+<div class="last-updated">Last updated on <strong>Jul 3, 2025</strong> by <strong>nhatth</strong></div>

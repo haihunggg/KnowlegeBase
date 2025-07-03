@@ -1,12 +1,28 @@
-# **Thay đổi CKS hoặc thêm CKS mới vào phần mềm**
+# **Thay đổi CKS hoặc thêm CKS mới vào phần mềm theo NĐ70**
 
-Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm hóa đơn điện tử M-Invoice ở phiên bản 2.0 vô cùng mạch lạc và dễ hiểu.
+<div style="font-size:14px; color:#b00020; background-color:#fff3f3; padding:12px; border-left:4px solid #b00020; border-radius:6px;">
+  <p><strong>🚨 Quan trọng:</strong> <br>
+  Bắt buộc xác thực sinh trắc học khi đăng ký/thay đổi thông tin sử dụng hóa đơn điện tử từ <strong>Nghị định 70/2025/NĐ-CP</strong></p>
 
-## **Hướng dẫn thay đổi CKS hoặc thêm CKS mới vào phần mềm**
+  <p>Từ <strong>ngày 01/07/2025</strong>, người nộp thuế (NNT) khi đăng ký hoặc thay đổi thông tin sử dụng hóa đơn điện tử sẽ <strong>bắt buộc phải xác thực sinh trắc học</strong> trên ứng dụng <strong>eTax Mobile</strong>.</p>
 
-### **Bước 1: Cắm CKS vào máy tính, kiểm tra xem plugin đã được bật chưa**
+  <p><strong>🔍 Quy trình thực hiện như sau:</strong><br>
+  ✅ NNT gửi tờ khai đăng ký/thay đổi thông tin trên hệ thống hóa đơn điện tử.<br>
+  ✅ Truy cập ứng dụng <strong>eTax Mobile</strong> để thực hiện xác thực sinh trắc học.<br>
+  ✅ Sau khi xác thực thành công → Cơ quan thuế (CQT) gửi kết quả xác thực.<br>
+  ✅ Trong 01 ngày làm việc, CQT sẽ thông báo chấp nhận/không chấp nhận hồ sơ.</p>
 
-![Hình 1](../../assets/images/invoice2/2.0_them-cks-moi_1.png)
+  <p><strong>❌ Lưu ý:</strong><br>
+  Nếu sau <strong>24h</strong> mà NNT <strong>không xác thực</strong> hoặc xác thực <strong>không thành công</strong>, <span style="color:red;"><strong>tờ khai sẽ bị hủy</strong></span>.</p>
+
+  <p><strong>👉 Để tránh gián đoạn</strong> trong quá trình sử dụng hóa đơn điện tử, NNT cần <strong>chủ động xác thực ngay sau khi gửi tờ khai!</strong></p>
+</div>
+
+## **Hướng dẫn Thay đổi CKS hoặc thêm CKS mới vào phần mềm và nộp tờ khai theo NĐ70 đáp ứng xác thực sinh trắc học của Cục Thuế**
+
+### **Bước 1: Cắm CKS vào máy tính, kiểm tra xem plugin đã được bật chưa (nếu đang ký được hóa đơn thì bỏ qua bước này)**
+
+![Hình 1](../../assets/images/invoice2/2.0_them-cks-moi_1.png "Hãy bấm vào để xem rõ hơn")
 
 !!! note ""
 
@@ -16,27 +32,27 @@ Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm 
 
 ### **Bước 2: Thêm CKS vào phần mềm hóa đơn**
 
-![Hình 2](../../assets/images/invoice2/2.0_them-cks-moi_2.png)
+![Hình 2](../../assets/images/invoice2/2.0_them-cks-moi_2.png "Hãy bấm vào để xem rõ hơn")
 
-![Hình 3](../../assets/images/invoice2/2.0_them-cks-moi_3.png)
+![Hình 3](../../assets/images/invoice2/2.0_them-cks-moi_3.png "Hãy bấm vào để xem rõ hơn")
 
 Các bạn vào **Hệ thông --> Đăng ký chữ ký số --> Thêm chứng thư số**
 
-![Hình 4](../../assets/images/invoice2/2.0_them-cks-moi_4.png)
+![Hình 4](../../assets/images/invoice2/2.0_them-cks-moi_4.png "Hãy bấm vào để xem rõ hơn")
 
 Click vào loại **CKS** phù hợp nhất với mình
 
-![Hình 5](../../assets/images/invoice2/2.0_them-cks-moi_5.png)
+![Hình 5](../../assets/images/invoice2/2.0_them-cks-moi_5.png "Hãy bấm vào để xem rõ hơn")
 
 Ở thanh Taskbar sẽ hiển thị lên biểu tượng của công cụ **Plugin Minvoice** các bạn chọn vào đó để thêm **CKS** mới của mình
 
-### **Bước 3 : Làm tờ khai 01 thay đổi lên thuế về việc thay đổi CKS hay thông tin doanh nghiệp**
+### **Bước 3 : Làm tờ khai 01**
 
-![Hình 6](../../assets/images/invoice2/2.0_them-cks-moi_6.png)
+![Hình 6](../../assets/images/invoice2/2.0_to-khai-nd70_1.png "Hãy bấm vào để xem rõ hơn")
 
-Các bạn vào phần **Đăng ký phát hành >> Lập tờ khai >> Thêm (F4)**
+Các bạn vào phần **Đăng ký phát hành >> Tờ khai đăng ký/thay đổi NĐ70/2025 >> Thêm (F4)**
 
-![Hình 7](../../assets/images/invoice2/2.0_them-cks-moi_7.png)
+![Hình 6](../../assets/images/invoice2/2.0_to-khai-nd70_2.png "Hãy bấm vào để xem rõ hơn")
 
 !!! note ""
 
@@ -46,44 +62,100 @@ Các bạn vào phần **Đăng ký phát hành >> Lập tờ khai >> Thêm (F4)
 
     + Chọn **Thay đổi** thông tin nếu bạn muốn thay đổi địa chỉ, tên doanh nghiệp, hay thêm CKS mới vào phần mềm
 
-![Hình 8](../../assets/images/invoice2/2.0_them-cks-moi_8.png)
+![Hình 6](../../assets/images/invoice2/2.0_to-khai-nd70_3.png "Hãy bấm vào để xem rõ hơn")
 
-!!! note ""
+???+ note "Thông tin người đại diện pháp luật"
 
     Ở phần này các bạn điền đẩy đủ các phần như sau
 
-    **Tên người liên hệ** (giám đốc hay kế toán trưởng)
+    **Tên người đại diện**: tên giám đốc
 
-    **Đia chỉ liên hệ** : Địa chỉ công ty hiện tại hay địa chỉ công ty muốn thay đổi
+    **Đia chỉ liên hệ** : địa chỉ công ty
 
-    **Email liên hệ** : mail của công ty hay mail của kết toán trưởng
+    **Số điện thoại** : số điện thoại
 
-    **Điện thoại liên hệ** : SĐT của công ty hay SĐT của kết toán trưởng
+    **Căn cước công dân**
 
-![Hình 9](../../assets/images/invoice2/2.0_them-cks-moi_9.png)
+    **Hộ chiếu**
+
+![Hình 6](../../assets/images/invoice2/2.0_to-khai-nd70_4.png "Hãy bấm vào để xem rõ hơn")
+
+???+ note "Thông tin người nhận các thông báo quan trọng liên quan đến hóa đơn điện tử (trường sẽ là thông tin của kế toán, kế toán trưởng)"
+
+    Ở phần này các bạn điền đẩy đủ các phần như sau
+
+    **Người liên hệ**: tên kế toán, ...
+
+    **Đia chỉ liên hệ** : địa chỉ nhận thông báo nếu có
+
+    **điện thoại liên hệ** : số điện thoại nhận thông báo
+
+    **Email liên hệ**: mail nhận thông báo từ thuế
+
+![Hình 6](../../assets/images/invoice2/2.0_to-khai-nd70_5.png "Hãy bấm vào để xem rõ hơn")
 
 1,2,3,4,Các bạn tích chọn vào các loại hóa đơn phù hợp với hình thức doanh nghiệp mình sử dụng
 
-![Hình 10](../../assets/images/invoice2/2.0_them-cks-moi_10.png)
+![Hình 6](../../assets/images/invoice2/2.0_to-khai-nd70_6.png "Hãy bấm vào để xem rõ hơn")
 
 5, chọn **Thêm** để thêm cks hay để Add CKS mới thay đổi vào tờ khai **nếu có rồi thì k cần làm bước này**
 
-6, Sau khi add xong CKS, quý khách nhấn Lưu để **lưu** lại dữ liệu tờ khai 01 này
+6, Thông tin tổ chức chức cung cấp dịch vụ và truyền nhận (sẽ mặc định là: CÔNG TY TNHH HÓA ĐƠN ĐIỆN TỬ M-INVOICE)
+
+7, Sau khi add xong CKS, quý khách nhấn Lưu để **lưu** lại dữ liệu tờ khai 01 này
 
 ### **Bước 4 : Sau khi hoàn thành, các bạn chọn tờ khai mình vừa lập chọn Ký và gửi CQT**
 
-![Hình 11](../../assets/images/invoice2/2.0_them-cks-moi_11.png)
+![Hình 6](../../assets/images/invoice2/2.0_to-khai-nd70_7.png "Hãy bấm vào để xem rõ hơn")
 
-Như vậy đã hoàn tất quá trình đăng ký hay thay đổi thông tin hóa đơn sử dụng.
+### **Bước 5 : Xác thực OTP tờ khai đăng ký/thay đổi thông tin sử dụng hóa đơn điện tử theo yêu cầu của Cơ quan thuế**
+
+**QUY TRÌNH XỬ LÝ TỜ KHAI ĐĂNG KÝ THEO NĐ70**
+
+![Hình 6](../../assets/images/invoice2/2.0_to-khai-nd70_8.png "Hãy bấm vào để xem rõ hơn")
+
+???+ note "Nội dung"
+
+    Hướng dẫn thực hiện xác thực OTP tờ khai đăng ký/thay đổi thông tin sử dụng hóa đơn điện tử theo yêu cầu của Cơ quan thuế trên app eTax mobile.
+
+**Hướng dẫn thực hiện**
+
+### **1. Cơ quan thuế gửi email thông báo việc tờ khai đăng ký/thay đổi thông tin sử dụng hóa đơn điện tử cần xác thực OTP trong vòng 01 ngày làm việc.**
+
+![Hình 6](../../assets/images/invoice2/2.0_to-khai-nd70_9.png "Hãy bấm vào để xem rõ hơn")
+
+### **2. Đăng nhập app etax mobile bằng số Căn cước công dân.**
+
+![Hình 1](../../assets/images/invoice2/2.0_to-khai-nd70_10.png){: style="height:650px"}
+
+### **3. Chọn mục Hóa đơn điện tử.**
+
+![Hình 1](../../assets/images/invoice2/2.0_to-khai-nd70_11.png){: style="height:650px"}
+
+### **4. Nhấn vào mục Tờ khai chờ xác thực.**
+
+![Hình 1](../../assets/images/invoice2/2.0_to-khai-nd70_12.png){: style="height:650px"}
+
+### **5. Thực hiện xác thực.**
+
+![Hình 1](../../assets/images/invoice2/2.0_to-khai-nd70_13.png){: style="height:650px"}
+
+**Sau khi thực hiện xong bước xác thực OTP, tức tờ khai đã được xử lý đến mục tích xanh sau đây trên quy trình tờ khai. Đơn vị chờ Cơ quan thuế phản hồi các thông điệp tiếp theo.**
+
+![Hình 1](../../assets/images/invoice2/2.0_to-khai-nd70_14.png){: style="width:780px"}
+
+### **6. Quay về phần mềm hóa đơn điện tử M-invoice để kiểm tra tờ khai tại cột Phản hồi CQT trên danh sách tờ khai.**
+
+![Hình 6](../../assets/images/invoice2/2.0_to-khai-nd70_15.png "Hãy bấm vào để xem rõ hơn")
 
 ???+ Danger "Chú ý"
 
-    <span style="color: red; font-size: 20px">**Các bạn vui lòng chờ đến khi CQT chấp nhận tờ khai thì mới có thể sử dụng được CKS mới**</span>
+    <span style="color: red; font-size: 20px">**Các bạn vui lòng chờ đến khi CQT chấp nhận tờ khai thì mới có thể lập được hóa đơn**</span>
 
 ???+ info "Xin chân thành cảm ơn quý khách hàng đã tin dùng sản phẩm của M-Invoice"
 
     Có bất kỳ vướng mắc nào trong quá trình sử dụng hãy liên hệ với M-Invoice tại mục Hỗ trợ kỹ thuật góc phải bên dưới màn hình hoặc gọi tổng đài kỹ thuật của M-Invoice (1900.955.557 Nhánh 1)
 
-![Hình 12](../../assets/images/invoice2/hotro.png)
+![Hình 12](../../assets/images/invoice2/hotro.png "Hãy bấm vào để xem rõ hơn")
 
-<div class="last-updated">Last updated on <strong>Jun 5, 2025</strong> by <strong>nhatth</strong></div>
+<div class="last-updated">Last updated on <strong>Jul 03, 2025</strong> by <strong>nhatth</strong></div>
