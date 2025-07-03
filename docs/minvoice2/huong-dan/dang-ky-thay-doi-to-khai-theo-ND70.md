@@ -118,6 +118,41 @@ Các bạn vào phần **Đăng ký phát hành >> Tờ khai đăng ký/thay đ�
 
 **QUY TRÌNH XỬ LÝ TỜ KHAI ĐĂNG KÝ THEO NĐ70**
 
+<div style="border: 1px solid #ccc; padding: 16px 22px; border-radius: 8px; background-color: #fdfdfd; color: #2d2d2d; font-family: 'Roboto', 'Arial', sans-serif; font-size: 14px; line-height: 1.7;">
+  <strong style="font-size: 16px; color: #1a237e;">📌 Tóm tắt trình tự thực hiện đăng ký sử dụng hóa đơn</strong>
+
+  <ol style="padding-left: 20px; margin-top: 10px;">
+    <li style="margin-bottom: 10px;">
+      <strong>Gửi tờ khai đăng ký sử dụng hóa đơn mẫu 01/ĐKSD-HDDT</strong><br>
+      (qua tổ chức dịch vụ hóa đơn điện tử)<br>
+      <span style="color: #d84315;"><em>Lưu ý:</em></span> Kê khai <strong>chính xác thông tin người đại diện pháp luật</strong> so với thông tin đã đăng ký kinh doanh.
+    </li>
+
+    <li style="margin-bottom: 10px;">
+      <strong>Nhận thông tin tiếp nhận đăng ký sử dụng hóa đơn</strong><br>
+      Bao gồm:
+      <ul style="margin: 6px 0 6px 20px;">
+        <li>Mã hồ sơ</li>
+        <li>Mã giao dịch thủ tục hành chính</li>
+      </ul>
+      <span style="color: #1565c0;">Hiện đang áp dụng phương thức OTP cho người đại diện pháp luật là người Việt Nam.</span><br>
+      Sẽ mở rộng xác thực <strong>sinh trắc học</strong> và xác thực cho <strong>người nước ngoài</strong> theo lộ trình của <strong>Bộ Công an</strong>.
+    </li>
+
+    <li style="margin-bottom: 10px;">
+      <strong>Thông báo từ hệ thống</strong><br>
+      Hệ thống sẽ gửi email và hiển thị thông báo trên ứng dụng <strong>etaxmobile</strong> của người đại diện pháp luật.
+    </li>
+
+    <li>
+      <strong>Xác thực OTP trên etaxmobile</strong><br>
+      Đăng nhập bằng tài khoản <strong>định danh điện tử cá nhân</strong> (qua <strong>VNeID</strong>).<br>
+      Nhấn vào thông báo trong ứng dụng để thực hiện xác thực OTP.
+    </li>
+
+  </ol>
+</div>
+
 ![Hình 6](../../assets/images/invoice2/2.0_to-khai-nd70_8.png "Hãy bấm vào để xem rõ hơn")
 
 ???+ note "Nội dung"
@@ -130,7 +165,7 @@ Các bạn vào phần **Đăng ký phát hành >> Tờ khai đăng ký/thay đ�
 
 ![Hình 6](../../assets/images/invoice2/2.0_to-khai-nd70_9.png "Hãy bấm vào để xem rõ hơn")
 
-### **2. Đăng nhập app etax mobile bằng số Căn cước công dân.**
+### **2. Đăng nhập app etax mobile**
 
 ![Hình 1](../../assets/images/invoice2/2.0_to-khai-nd70_10.png){: style="height:650px"}
 
