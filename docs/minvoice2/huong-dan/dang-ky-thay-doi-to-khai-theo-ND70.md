@@ -20,6 +20,10 @@
 
 ## **Hướng dẫn đăng ký thay đổi tờ khai theo NĐ70 đáp ứng xác thực sinh trắc học của Cục Thuế**
 
+<iframe style="width: 43rem; height: 480px" src="https://www.youtube.com/embed/JZ8b6bfL0aM?si=ZFdY86boSQE4UjMt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+**Hướng dẫn sử dụng bằng hình ảnh nếu Quý khách không xem được video**
+
 ???+ note "Hướng dẫn này áp dụng cho ?"
 
     Thay đổi thông tin doanh nghiệp(địa chỉ doanh nghiệp, tên doanh nghiệp, tên người đại diện pháp luật, chữ ký số mới, chữ ký số gia hạn, cơ quan thuế quản lý, hình thức hóa đơn, loại hóa đơn sử dụng)
@@ -199,4 +203,4 @@ Các bạn vào phần **Đăng ký phát hành >> Tờ khai đăng ký/thay đ�
 
 ![Hình 12](../../assets/images/invoice2/hotro.png "Hãy bấm vào để xem rõ hơn")
 
-<div class="last-updated">Last updated on <strong>Jul 3, 2025</strong> by <strong>nhatth</strong></div>
+<div class="last-updated">Last updated on <strong>Jul 4, 2025</strong> by <strong>nhatth</strong></div>
