@@ -163,6 +163,47 @@ Các bạn vào phần **Đăng ký phát hành >> Tờ khai đăng ký/thay đ�
 
     Hướng dẫn thực hiện xác thực OTP tờ khai đăng ký/thay đổi thông tin sử dụng hóa đơn điện tử theo yêu cầu của Cơ quan thuế trên app eTax mobile.
 
+<div style="border: 1px solid #b0bec5; padding: 18px 24px; border-radius: 8px; background-color: #f7f9fc; color: #2d2d2d; font-family: 'Roboto', 'Arial', sans-serif; font-size: 14px; line-height: 1.7;">
+  <strong style="font-size: 16px; color: #1e3a8a;">📌 Trình tự bắt buộc để được sử dụng hoá đơn điện tử</strong>
+
+  <ol style="padding-left: 20px; margin-top: 12px;">
+    <li style="margin-bottom: 10px;">
+      <strong>Bước 1:</strong> Giám đốc phải có <strong>tài khoản định danh điện tử VNeID cấp 2</strong>.
+    </li>
+
+    <li style="margin-bottom: 10px;">
+      <strong>Bước 2:</strong> Doanh nghiệp phải được <strong>định danh thành công trên ứng dụng VNeID</strong>.<br>
+      👉 <em>Lưu ý:</em> Việc định danh này <strong>có thể ủy quyền</strong>.
+    </li>
+
+    <li style="margin-bottom: 10px;">
+      <strong>Bước 3:</strong> Giám đốc phải có <strong>tài khoản đăng nhập ứng dụng eTaxMobile</strong>.
+    </li>
+
+    <li>
+      <strong>Bước 4:</strong> Sau khi <strong>gửi tờ khai đăng ký sử dụng</strong> hoặc <strong>thay đổi thông tin</strong> trên phần mềm hóa đơn điện tử:<br>
+      🔐 <strong>Giám đốc phải trực tiếp</strong> đăng nhập eTaxMobile để duyệt và gửi tờ khai đến cơ quan thuế.<br>
+      ❌ <em style="color: #c62828;">Việc này không thể ủy quyền.</em>
+    </li>
+
+  </ol>
+
+  <p style="margin-top: 14px; background-color: #fff3e0; padding: 10px 14px; border-left: 4px solid #fb8c00; border-radius: 4px;">
+    <strong>🔎 Lưu ý:</strong>  
+    Những <strong>công ty mới thành lập</strong> bắt buộc phải làm định danh thì mới được sử dụng hóa đơn.<br>
+    Các <strong>công ty đang sử dụng hóa đơn điện tử</strong> cũng cần thực hiện lại các bước trên nếu:  
+    - Chữ ký số hết hạn  
+    - Thay đổi tên hoặc địa chỉ doanh nghiệp  
+  </p>
+
+  <p style="margin-top: 12px; color: #2e7d32;"><strong>✅ Kết luận:</strong> 100% Giám đốc cần chuẩn bị sẵn 2 ứng dụng:</p>
+  <ul style="margin-top: 6px; padding-left: 20px;">
+    <li><strong>VNeID</strong> – để định danh điện tử</li>
+    <li><strong>eTaxMobile</strong> – để xác nhận tờ khai với cơ quan thuế</li>
+  </ul>
+  <p style="margin-top: 8px;">➡️ Giúp quá trình đăng ký hóa đơn diễn ra <strong>nhanh chóng và thuận tiện</strong>.</p>
+</div>
+
 **Hướng dẫn thực hiện**
 
 ### **1. Cơ quan thuế gửi email thông báo việc tờ khai đăng ký/thay đổi thông tin sử dụng hóa đơn điện tử cần xác thực OTP trong vòng 01 ngày làm việc.**
