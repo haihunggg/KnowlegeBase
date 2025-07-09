@@ -328,6 +328,7 @@ nav:
               - Lấy lại mật khẩu: minvoice1/huong-dan/lay-mat-khau.md
           - "Các lỗi thường gặp khi sử dụng phần mềm":
               - Gửi mail báo "Xác thực không hợp lệ": minvoice1/loi-thuong-gap/gui-mail-loi.md
+              - Tổng hợp các lỗi truyền nhận thông điệp CQT: minvoice1/loi-thuong-gap/tong-hop-loi-truyen-nhan-thong-diep-cqt.md
           - "Nghiệp vụ hoá đơn điện tử - Xử lý sai sót":
               #- Hủy hóa đơn: tutorials/nghiep-vu/huy.md
               - Lập biên bản hóa đơn sai sót: minvoice1/xu-ly-sai-sot/lap-bien-ban-hoa-don.md
@@ -361,10 +362,11 @@ nav:
               - minvoice2/huong-dan/phan-quyen.md
               - minvoice2/huong-dan/keo-bien-nd70.md
               - minvoice2/huong-dan/lay-macqt.md
+              - minvoice2/huong-dan/chuyen-doi-so-dinh-danh-ca-nhan-thay-the-ma-so-thue.md
           - "Các lỗi thường gặp khi sử dụng phần mềm":
               - minvoice2/cac-loi-thuong-gap/cac-loi-ky-hoa-don.md
-              - minvoice2/cac-loi-thuong-gap/tong-hop-cac-loi-cqt.md
               - minvoice2/cac-loi-thuong-gap/loi-ket-noi-khong-nhan-duoc-phan-hoi-tu-cqt.md
+              - Tổng hợp các lỗi truyền nhận thông điệp CQT: minvoice2/cac-loi-thuong-gap/tong-hop-loi-truyen-nhan-thong-diep-cqt.md
           - "Nghiệp vụ hoá đơn điện tử - Xử lý sai sót":
               - minvoice2/xu-ly-sai-sot/thay-the-hoa-don.md
               - minvoice2/xu-ly-sai-sot/dieu-chinh-hoa-don.md
