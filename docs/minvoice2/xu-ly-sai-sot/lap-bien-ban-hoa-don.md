@@ -22,13 +22,41 @@ Chọn lập biên bản
 
 ![Hình 2](../../assets/images/invoice2/2.0_bienban_2.png)
 
-### **Bước 3 : Lưu hoặc ký biên bản thay thế, điều chỉnh**
+### **Bước 3 : Lưu biên bản thay thế, điều chỉnh**
 
 ![Hình 3](../../assets/images/invoice2/2.0_bienban_3.png)
 
-<span style="color:red;">Hiện tại chỉ ký được biên bản nếu cks là cks hsm</span>
+### **Bước 4 : Ký biên bản**
 
-### **Bước 4 : Xem và in biên bản**
+???+ Danger "Lưu ý"
+
+    Để ký được biên bản máy tính phải được cài đặt plugin ký số, nếu đã cài đặt thì bỏ qua bước này
+
+    🖱️ **Click vào đây để cài đặt:**
+    📄 [Hướng dẫn tải plugin](../huong-dan/plugin.md#attribute-lists){ data-preview }
+
+![Hình 3](../../assets/images/invoice2/2.0_bienban_6.png)
+
+![Hình 3](../../assets/images/invoice2/2.0_bienban_7.png)
+
+??? Bug "Trường hợp ký báo lỗi "mã lệnh không tồn tại" - Anh chị bấm vào đây để xem hướng dẫn"
+
+    <span style="color:red;">Anh chị vui lòng gỡ plugin ra cài lại để có thể ký được</span>
+
+    Bấm 'WINDOWS + R' gõ lệnh 'appwiz.cpl'
+
+    ![Hình 3](../../assets/images/invoice2/2.0_bienban_8.png)
+
+    Chọn đến minvoice plugin 2.0 kích đúp để gỡ bỏ
+
+    ![Hình 3](../../assets/images/invoice2/2.0_bienban_9.png)
+
+    Gỡ xong bấm vào đây để xem hướng dẫn cài lại plugin
+
+    🖱️ **Click vào đây để cài đặt:**
+    📄 [Hướng dẫn tải plugin](../huong-dan/plugin.md#attribute-lists){ data-preview }
+
+### **Bước 5 : Xem và in biên bản**
 
 ![Hình 4](../../assets/images/invoice2/2.0_bienban_4.png)
 
@@ -42,4 +70,4 @@ Bấm nút in ở trình duyệt hoặc bấm ctrl + P để in
 
 ![Hình 7](../../assets/images/invoice2/hotro.png)
 
-<div class="last-updated">Last updated on <strong>Jun 5, 2025</strong> by <strong>nhatth</strong></div>
+<div class="last-updated">Last updated on <strong>Jul 16, 2025</strong> by <strong>nhatth</strong></div>
