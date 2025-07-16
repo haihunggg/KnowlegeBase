@@ -386,6 +386,9 @@ nav:
               - minvoice2/xang-dau/huong-dan-xang-dau.md
               - minvoice2/xang-dau/ket-xuat-bao-cao-tru-bom.md
               - minvoice2/xang-dau/cap-nhat-giam-thue-gtgt-xang.md
+          - "New-invoice":
+              - minvoice2/new-invoice/dang-ky-thay-doi-to-khai-theo-ND70.md
+              - minvoice2/new-invoice/thay-doi-dia-chi-tren-hoa-don.md
   - Chứng từ TNCN:
       - "":
           - "Hướng dẫn sử dụng":
