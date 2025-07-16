@@ -31,6 +31,14 @@ Bạn vào phần **Hệ thông --> Quản lý doanh nghiệp --> Thông tin doa
 
 ![Hình 1](../../assets/images/invoice2/2.0_thay-doi-thong-tin-doanh-nghiep_7.png "Hãy bấm vào để xem rõ hơn")
 
+<p style="color: red; font-weight: bold;">Trường hợp anh chị bị lỗi sau</p>
+
+![Hình 1](../../assets/images/invoice2/2.0_thay-doi-thong-tin-doanh-nghiep_8.png "Hãy bấm vào để xem rõ hơn")
+
+**Chọn CQT quản lý và bấm lưu**
+
+![Hình 1](../../assets/images/invoice2/2.0_thay-doi-thong-tin-doanh-nghiep_9.png "Hãy bấm vào để xem rõ hơn")
+
 ???+ info "Xin chân thành cảm ơn quý khách hàng đã tin dùng sản phẩm của M-Invoice"
 
     Có bất kỳ vướng mắc nào trong quá trình sử dụng hãy liên hệ với M-Invoice tại mục Hỗ trợ kỹ thuật góc phải bên dưới màn hình hoặc gọi tổng đài kỹ thuật của M-Invoice (1900.955.557 Nhánh 1)
