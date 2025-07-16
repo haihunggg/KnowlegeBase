@@ -332,9 +332,9 @@ nav:
           - "Nghiệp vụ hoá đơn điện tử - Xử lý sai sót":
               #- Hủy hóa đơn: tutorials/nghiep-vu/huy.md
               - Lập biên bản hóa đơn sai sót: minvoice1/xu-ly-sai-sot/lap-bien-ban-hoa-don.md
+              - Thay thế hóa đơn: minvoice1/xu-ly-sai-sot/thay-the.md
               - Điều chỉnh hóa đơn: minvoice1/xu-ly-sai-sot/dieu-chinh.md
               - Điều chỉnh hoá đơn về 0: minvoice1/xu-ly-sai-sot/dieu-chinh-giam-ve-0.md
-              - Thay thế hóa đơn: minvoice1/xu-ly-sai-sot/thay-the.md
               - Thông báo 04/SS-HDDT sai sót theo NĐ70: minvoice1/xu-ly-sai-sot/lap-04ss.md
           - "Danh mục và báo cáo":
               - Báo cáo chi tiết: minvoice1/danh-muc-bao-cao/bao-cao-chi-tiet.md
@@ -368,13 +368,13 @@ nav:
               - minvoice2/cac-loi-thuong-gap/loi-ket-noi-khong-nhan-duoc-phan-hoi-tu-cqt.md
               - Tổng hợp các lỗi truyền nhận thông điệp CQT: minvoice2/cac-loi-thuong-gap/tong-hop-loi-truyen-nhan-thong-diep-cqt.md
           - "Nghiệp vụ hoá đơn điện tử - Xử lý sai sót":
+              - Lập biên bản hóa đơn sai sót: minvoice2/xu-ly-sai-sot/lap-bien-ban-hoa-don.md
               - minvoice2/xu-ly-sai-sot/thay-the-hoa-don.md
               - minvoice2/xu-ly-sai-sot/dieu-chinh-hoa-don.md
               - Điều chỉnh hoá đơn về 0: minvoice2/xu-ly-sai-sot/dieu-chinh-giam-ve-0.md
-              - minvoice2/xu-ly-sai-sot/dieu-chinh-va-thay-the-tren-he-thong-khac.md
-              - Lập biên bản hóa đơn sai sót: minvoice2/xu-ly-sai-sot/lap-bien-ban-hoa-don.md
               #    - setup/huy-hoa-don-hang-loat.md
               - minvoice2/xu-ly-sai-sot/giai-trinh-mau04ss.md
+              - minvoice2/xu-ly-sai-sot/dieu-chinh-va-thay-the-tren-he-thong-khac.md
           - "Danh mục và báo cáo":
               - minvoice2/danh-muc-bao-cao/bao-cao-tong-hop.md
               - minvoice2/danh-muc-bao-cao/bao-cao-chi-tiet.md

@@ -14,7 +14,7 @@ Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm 
 
 ???+ Warning "Lưu ý"
 
-    Nếu đã lựa chọn nghiệp vụ thay thế thì không được Hủy hóa đơn Thay thế hoặc Bị Thay thế, cũng không được điều chỉnh hóa đơn thay thế. Nghiệp vụ này không bắt buộc phải phải lập 04/SS
+    Nếu đã lựa chọn nghiệp vụ thay thế thì không được điều chỉnh hóa đơn thay thế. Nghiệp vụ này không bắt buộc phải phải lập 04/SS
 
 **Thao tác cài đặt và thực hiện như sau**
 
@@ -46,9 +46,7 @@ Sau khi Thay thế nội dung hóa đơn thành 1 hóa đơn đúng. Người s�
 
 ???+ Danger "Hướng dẫn lập biên bản"
 
-    Theo Nghị định 70/2025/NĐ-CP, việc lập Biên bản điều chỉnh/thay thế chứng từ điện tử khấu trừ thuế TNCN là bắt buộc trong các trường hợp có sai sót.
-
-!!! Note "Ghi chú"
+    Theo Nghị định 70/2025/NĐ-CP, việc lập Biên bản là bắt buộc trong các trường hợp làm nghiệp vụ điêu chỉnh/thay thế.
 
     Người sử dụng có thể sử dụng thao tác này để lập biên bản khi làm nghiệp vụ thay thế hay điều chỉnh hóa đơn
 

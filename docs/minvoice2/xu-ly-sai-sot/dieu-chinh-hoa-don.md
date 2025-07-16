@@ -57,9 +57,7 @@ Sau khi điều chỉnh nội dung hóa đơn thành 1 hóa đơn đúng. Ngư�
 
 ???+ Danger "Hướng dẫn lập biên bản"
 
-    Theo Nghị định 70/2025/NĐ-CP, việc lập Biên bản điều chỉnh/thay thế chứng từ điện tử khấu trừ thuế TNCN là bắt buộc trong các trường hợp có sai sót.
-
-!!! Note "Ghi chú"
+    Theo Nghị định 70/2025/NĐ-CP, việc lập Biên bản là bắt buộc trong các trường hợp làm nghiệp vụ điêu chỉnh/thay thế.
 
     Người sử dụng có thể sử dụng thao tác này để lập biên bản khi làm nghiệp vụ thay thế hay điều chỉnh hóa đơn
 
