@@ -58,7 +58,7 @@ Chọn lập biên bản
     🖱️ **Click vào đây để cài đặt:**
     📄 [Hướng dẫn tải plugin](../huong-dan/plugin.md#attribute-lists){ data-preview }
 
-### **Bước 5 : Xem và in biên bản**
+### **Bước 5 : Xem và in hoặc tải biên bản**
 
 ![Hình 4](../../assets/images/invoice2/2.0_bienban_4.png)
 
@@ -72,4 +72,4 @@ Bấm nút in ở trình duyệt hoặc bấm ctrl + P để in
 
 ![Hình 7](../../assets/images/invoice2/hotro.png)
 
-<div class="last-updated">Last updated on <strong>Jul 16, 2025</strong> by <strong>nhatth</strong></div>
+<div class="last-updated">Last updated on <strong>Jul 17, 2025</strong> by <strong>nhatth</strong></div>

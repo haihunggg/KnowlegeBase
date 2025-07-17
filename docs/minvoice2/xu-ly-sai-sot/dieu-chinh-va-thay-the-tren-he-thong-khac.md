@@ -1,5 +1,7 @@
 # **Điều chỉnh / Thay thế hoá đơn trên hệ thống khác**
 
+???+ Note "Ghi chú"
+
     📘 **CĂN CỨ TẠI NGHỊ ĐỊNH 70/2025/NĐ-CP**, SỬA ĐỔI **NGHỊ ĐỊNH 123/2020/NĐ-CP**, QUY ĐỊNH VỀ VIỆC LẬP **HÓA ĐƠN, CHỨNG TỪ** NHƯ SAU:
 
     ---
@@ -36,7 +38,7 @@
     <span style="font-size: 18px; color:#1a237e; font-weight:bold;">⚠️ 2. Sai sót lớn – **Làm thay đổi nghĩa vụ thuế hoặc thông tin trọng yếu:**</span>
 
     ❌ **Sai mã số thuế người mua**
-    → Phải lập **hóa đơn điều chỉnh** hoặc **hóa đơn thay thế**, kèm **biên bản thỏa thuận giữa hai bên**.
+    → Phải lập **hóa đơn thay thế**, kèm **biên bản thỏa thuận giữa hai bên**.
 
     ❌ **Sai thuế suất, số tiền, tiền thuế, đơn giá, thành tiền**
     → Phải lập **hóa đơn điều chỉnh** hoặc **hóa đơn thay thế**, kèm **biên bản thỏa thuận**.
@@ -45,7 +47,7 @@
     → Phải lập **hóa đơn điều chỉnh** hoặc **hóa đơn thay thế**, kèm **biên bản thỏa thuận**.
 
     ❌ **Sai mã hàng hóa, mã vạch, thông tin kỹ thuật**
-    → Nếu **ảnh hưởng đến giá trị hóa đơn** thì phải lập **hóa đơn điều chỉnh** hoặc **hóa đơn thay thế**, kèm **biên bản thỏa thuận**.
+    → Phải lập **hóa đơn điều chỉnh** hoặc **hóa đơn thay thế**, kèm **biên bản thỏa thuận**.
 
     🖱️ **Click vào đây để xem hướng dẫn điều chỉnh:**
     📄 [Điều chỉnh hóa đơn](dieu-chinh-hoa-don.md#attribute-lists){ data-preview }
@@ -72,15 +74,14 @@
 
 === "Thay thế hoá đơn trên hệ thống khác"
 
-    ???+ Note "Ghi chú"
+    ???+ Warning "Lưu ý"
+
         Thay thế hoá đơn (Áp dụng cho HĐ trong kỳ kê khai(chưa kê khai)) và chỉ được phép sử dụng nghiệp vụ thay thế hóa đơn với các điều kiện sau:
 
         1. Hóa đơn cần thay thế đã được gửi CQT thành công hoặc hóa đơn đã có mã CQT cấp
         2. Hóa đơn cần thay thế ở Trạng thái Gốc (Mới) hoặc Thay thế
 
-    ???+ Warning "Lưu ý"
-
-        Nếu đã lựa chọn nghiệp vụ thay thế thì không được Hủy hóa đơn Thay thế hoặc Bị Thay thế, cũng không được điều chỉnh hóa đơn thay thế. Nghiệp vụ này không bắt buộc phải phải lập 04/SS
+        Nếu đã lựa chọn nghiệp vụ thay thế thì không được điều chỉnh hóa đơn thay thế. Từ NGHỊ ĐỊNH 70/2025/NĐ-CP nghiệp vụ này không phải lập kèm 04/SS
 
     **Thao tác cài đặt và thực hiện như sau**
 
@@ -122,15 +123,15 @@
 
 === "Điều chỉnh hoá đơn trên hệ thống khác"
 
-    ???+ Note "Ghi chú"
+    ???+ Warning "Lưu ý"
+
+        Trong quá trình phát hành hóa đơn không tránh khỏi những sai sót. Sau đây, M-Invoice hướng dẫn NSD thực hiện xử lý hóa đơn đã lập có sai sót như sau:
         Điều chỉnh hoá đơn(Áp dụng HĐ trong kỳ (nhưng đã kê khai)hoặc qua kỳ kê khai) và chỉ được phép sử dụng nghiệp vụ điều chỉnh hóa đơn với các điều kiện sau:
 
         1. Hóa đơn cần điều chỉnh đã được gửi CQT thành công hoặc hóa đơn đã có mã CQT cấp
         2. Hóa đơn cần điều chỉnh ở Trạng thái Gốc (Mới) hoặc bị điều chỉnh
 
-    ???+ Warning "Lưu ý"
-
-        Nếu đã lựa chọn nghiệp vụ điều chỉnh thì không được Hủy hóa đơn Điều chỉnh hoặc Bị Điều chỉnh, cũng không được thay thế hóa đơn điều chỉnh. Nghiệp vụ này không bắt buộc lập 04/SS
+        Nếu đã lựa chọn nghiệp vụ điều chỉnh thì không được thay thế hóa đơn điều chỉnh. Từ NGHỊ ĐỊNH 70/2025/NĐ-CP nghiệp vụ này không phải lập kèm 04/SS
 
     **Thao tác cài đặt và thực hiện như sau**
 
@@ -190,4 +191,4 @@ Sau khi điều chỉnh hay thay thế nội dung hóa đơn thành 1 hóa đơn
 
 ![Hình 7](../../assets/images/invoice2/hotro.png)
 
-<div class="last-updated">Last updated on <strong>Mar 10, 2025</strong> by <strong>Trinh Hoai Nhat</strong></div>
+<div class="last-updated">Last updated on <strong>Jul 17, 2025</strong> by <strong>nhatth</strong></div>

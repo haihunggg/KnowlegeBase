@@ -38,7 +38,7 @@
     <span style="font-size: 18px; color:#1a237e; font-weight:bold;">⚠️ 2. Sai sót lớn – **Làm thay đổi nghĩa vụ thuế hoặc thông tin trọng yếu:**</span>
 
     ❌ **Sai mã số thuế người mua**
-    → Phải lập **hóa đơn điều chỉnh** hoặc **hóa đơn thay thế**, kèm **biên bản thỏa thuận giữa hai bên**.
+    → Phải lập **hóa đơn thay thế**, kèm **biên bản thỏa thuận giữa hai bên**.
 
     ❌ **Sai thuế suất, số tiền, tiền thuế, đơn giá, thành tiền**
     → Phải lập **hóa đơn điều chỉnh** hoặc **hóa đơn thay thế**, kèm **biên bản thỏa thuận**.
@@ -47,7 +47,9 @@
     → Phải lập **hóa đơn điều chỉnh** hoặc **hóa đơn thay thế**, kèm **biên bản thỏa thuận**.
 
     ❌ **Sai mã hàng hóa, mã vạch, thông tin kỹ thuật**
-    → Nếu **ảnh hưởng đến giá trị hóa đơn** thì phải lập **hóa đơn điều chỉnh** hoặc **hóa đơn thay thế**, kèm **biên bản thỏa thuận**.
+    → Phải lập **hóa đơn điều chỉnh** hoặc **hóa đơn thay thế**, kèm **biên bản thỏa thuận**.
+
+    - 📝 **Anh chị có thể làm điều chỉnh theo hướng dẫn dưới nội dung này ⬇️**
 
     ---
 
@@ -153,7 +155,7 @@ Sau khi điều chỉnh nội dung hóa đơn thành 1 hóa đơn đúng. Ngư�
 
 ## Hướng dẫn lập biên bản hoá đơn điều chỉnh
 
-???+ Danger "Hướng dẫn lập biên bản"
+???+ Note "Căn cứ"
 
     Theo Nghị định 70/2025/NĐ-CP, việc lập Biên bản là bắt buộc trong các trường hợp làm nghiệp vụ điêu chỉnh/thay thế.
 
@@ -161,33 +163,61 @@ Sau khi điều chỉnh nội dung hóa đơn thành 1 hóa đơn đúng. Ngư�
 
 !!! warning "Lưu ý"
 
-    Chỉ lập được khi ở trạng thái thay thế hoặc điều chỉnh
+    Chỉ lập được khi hóa đơn ở trạng thái thay thế hoặc điều chỉnh
 
 ### **Bước 1: Truy cập mục xử lý sai sót**
 
 <span style="color:red;">Sau khi đã làm thay thế hoặc điều chỉnh</span>
 
-![Hình 0](../../assets/images/invoice2/2.0_bienban_0.png "Hãy bấm vào để xem rõ hơn")
+![Hình 0](../../assets/images/invoice2/2.0_bienban_0.png)
 
-![Hình 1](../../assets/images/invoice2/2.0_bienban_1.png "Hãy bấm vào để xem rõ hơn")
+![Hình 1](../../assets/images/invoice2/2.0_bienban_1.png)
 
 Chọn lập biên bản
 
 ### **Bước 2: Kiểm tra thông tin người bán, người mua, điền lý do thay thế hoặc lý do điều chỉnh**
 
-![Hình 2](../../assets/images/invoice2/2.0_bienban_2.png "Hãy bấm vào để xem rõ hơn")
+![Hình 2](../../assets/images/invoice2/2.0_bienban_2.png)
 
-### **Bước 3 : Lưu hoặc ký biên bản thay thế, điều chỉnh**
+### **Bước 3 : Lưu biên bản thay thế, điều chỉnh**
 
-![Hình 3](../../assets/images/invoice2/2.0_bienban_3.png "Hãy bấm vào để xem rõ hơn")
+![Hình 3](../../assets/images/invoice2/2.0_bienban_3.png)
 
-<span style="color:red;">Hiện tại chỉ ký được biên bản nếu cks là cks hsm</span>
+### **Bước 4 : Ký biên bản**
 
-### **Bước 4 : Xem và in biên bản**
+???+ Danger "Lưu ý"
 
-![Hình 4](../../assets/images/invoice2/2.0_bienban_4.png "Hãy bấm vào để xem rõ hơn")
+    Để ký được biên bản máy tính phải được cài đặt plugin ký số, nếu đã cài đặt thì bỏ qua bước này
 
-![Hình 5](../../assets/images/invoice2/2.0_bienban_5.png "Hãy bấm vào để xem rõ hơn")
+    🖱️ **Click vào đây để cài đặt:**
+    📄 [Hướng dẫn tải plugin](../huong-dan/plugin.md#attribute-lists){ data-preview }
+
+![Hình 3](../../assets/images/invoice2/2.0_bienban_6.png)
+
+![Hình 3](../../assets/images/invoice2/2.0_bienban_7.png)
+
+??? Bug "Trường hợp ký báo lỗi "mã lệnh không tồn tại" - Anh chị bấm vào đây để xem hướng dẫn"
+
+    <span style="color:red;">Anh chị vui lòng gỡ plugin ra cài lại để có thể ký được</span>
+
+    Bấm 'WINDOWS + R' gõ lệnh 'appwiz.cpl'
+
+    ![Hình 3](../../assets/images/invoice2/2.0_bienban_8.png)
+
+    Chọn đến minvoice plugin 2.0 kích đúp để gỡ bỏ
+
+    ![Hình 3](../../assets/images/invoice2/2.0_bienban_9.png)
+
+    Gỡ xong bấm vào đây để xem hướng dẫn cài lại plugin
+
+    🖱️ **Click vào đây để cài đặt:**
+    📄 [Hướng dẫn tải plugin](../huong-dan/plugin.md#attribute-lists){ data-preview }
+
+### **Bước 5 : Xem và in hoặc tải biên bản**
+
+![Hình 4](../../assets/images/invoice2/2.0_bienban_4.png)
+
+![Hình 5](../../assets/images/invoice2/2.0_bienban_5.png)
 
 Bấm nút in ở trình duyệt hoặc bấm ctrl + P để in
 
@@ -197,4 +227,4 @@ Bấm nút in ở trình duyệt hoặc bấm ctrl + P để in
 
 ![Hình 5](../../assets/images/invoice2/hotro.png)
 
-<div class="last-updated">Last updated on <strong>Mar 17, 2025</strong> by <strong>Trinh Hoai Nhat</strong></div>
+<div class="last-updated">Last updated on <strong>Jul 17, 2025</strong> by <strong>nhatth</strong></div>

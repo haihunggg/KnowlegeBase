@@ -38,7 +38,7 @@
     <span style="font-size: 18px; color:#1a237e; font-weight:bold;">⚠️ 2. Sai sót lớn – **Làm thay đổi nghĩa vụ thuế hoặc thông tin trọng yếu:**</span>
 
     ❌ **Sai mã số thuế người mua**
-    → Phải lập **hóa đơn điều chỉnh** hoặc **hóa đơn thay thế**, kèm **biên bản thỏa thuận giữa hai bên**.
+    → Phải lập **hóa đơn thay thế**, kèm **biên bản thỏa thuận giữa hai bên**.
 
     ❌ **Sai thuế suất, số tiền, tiền thuế, đơn giá, thành tiền**
     → Phải lập **hóa đơn điều chỉnh** hoặc **hóa đơn thay thế**, kèm **biên bản thỏa thuận**.
@@ -47,13 +47,14 @@
     → Phải lập **hóa đơn điều chỉnh** hoặc **hóa đơn thay thế**, kèm **biên bản thỏa thuận**.
 
     ❌ **Sai mã hàng hóa, mã vạch, thông tin kỹ thuật**
-    → Nếu **ảnh hưởng đến giá trị hóa đơn** thì phải lập **hóa đơn điều chỉnh** hoặc **hóa đơn thay thế**, kèm **biên bản thỏa thuận**.
+    → Phải lập **hóa đơn điều chỉnh** hoặc **hóa đơn thay thế**, kèm **biên bản thỏa thuận**.
 
     🖱️ **Click vào đây để xem hướng dẫn điều chỉnh:**
     📄 [Điều chỉnh hóa đơn](dieu-chinh-hoa-don.md#attribute-lists){ data-preview }
 
     🖱️ **Click vào đây để xem hướng dẫn thay thế:**
     📄 [Thay thế hóa đơn](thay-the-hoa-don.md#attribute-lists){ data-preview }
+
     ---
 
     <span style="font-size: 18px; color:#1a237e; font-weight:bold;">🛑 **GHI NHỚ TỪ 01/06/2025**:</span>
@@ -63,6 +64,7 @@
     📌 **Trường hợp hóa đơn đã phát hành nhưng giao dịch bị hủy bỏ, hay bị sai thông tin cần hủy bỏ để lập hóa đơn mới**
 
     - 📝 **Anh chị làm điều chỉnh giảm về 0 (tương đương hủy) theo hướng dẫn dưới đây ⬇️**
+
     ---
 
 ## **Hướng dẫn điều chỉnh hoá đơn về không giá trị**
@@ -106,7 +108,7 @@ Kiểm tra các thông tin hóa đơn nếu đúng thì bấm lưu hoặc ký
 
 ## Hướng dẫn lập biên bản hoá đơn sau khi làm điều chỉnh giảm về 0
 
-???+ Danger "Hướng dẫn lập biên bản"
+???+ Note "Căn cứ"
 
     Theo Nghị định 70/2025/NĐ-CP, việc lập Biên bản là bắt buộc trong các trường hợp làm nghiệp vụ điêu chỉnh/thay thế.
 
@@ -114,7 +116,7 @@ Kiểm tra các thông tin hóa đơn nếu đúng thì bấm lưu hoặc ký
 
 !!! warning "Lưu ý"
 
-    Chỉ lập được khi ở trạng thái thay thế hoặc điều chỉnh
+    Chỉ lập được khi hóa đơn ở trạng thái thay thế hoặc điều chỉnh
 
 ### **Bước 1: Truy cập mục xử lý sai sót**
 
@@ -130,13 +132,41 @@ Chọn lập biên bản
 
 ![Hình 2](../../assets/images/invoice2/2.0_bienban_2.png)
 
-### **Bước 3 : Lưu hoặc ký biên bản thay thế, điều chỉnh**
+### **Bước 3 : Lưu biên bản thay thế, điều chỉnh**
 
 ![Hình 3](../../assets/images/invoice2/2.0_bienban_3.png)
 
-<span style="color:red;">Hiện tại chỉ ký được biên bản nếu cks là cks hsm</span>
+### **Bước 4 : Ký biên bản**
 
-### **Bước 4 : Xem và in biên bản**
+???+ Danger "Lưu ý"
+
+    Để ký được biên bản máy tính phải được cài đặt plugin ký số, nếu đã cài đặt thì bỏ qua bước này
+
+    🖱️ **Click vào đây để cài đặt:**
+    📄 [Hướng dẫn tải plugin](../huong-dan/plugin.md#attribute-lists){ data-preview }
+
+![Hình 3](../../assets/images/invoice2/2.0_bienban_6.png)
+
+![Hình 3](../../assets/images/invoice2/2.0_bienban_7.png)
+
+??? Bug "Trường hợp ký báo lỗi "mã lệnh không tồn tại" - Anh chị bấm vào đây để xem hướng dẫn"
+
+    <span style="color:red;">Anh chị vui lòng gỡ plugin ra cài lại để có thể ký được</span>
+
+    Bấm 'WINDOWS + R' gõ lệnh 'appwiz.cpl'
+
+    ![Hình 3](../../assets/images/invoice2/2.0_bienban_8.png)
+
+    Chọn đến minvoice plugin 2.0 kích đúp để gỡ bỏ
+
+    ![Hình 3](../../assets/images/invoice2/2.0_bienban_9.png)
+
+    Gỡ xong bấm vào đây để xem hướng dẫn cài lại plugin
+
+    🖱️ **Click vào đây để cài đặt:**
+    📄 [Hướng dẫn tải plugin](../huong-dan/plugin.md#attribute-lists){ data-preview }
+
+### **Bước 5 : Xem và in hoặc tải biên bản**
 
 ![Hình 4](../../assets/images/invoice2/2.0_bienban_4.png)
 
@@ -150,4 +180,4 @@ Bấm nút in ở trình duyệt hoặc bấm ctrl + P để in
 
 ![Hình 5](../../assets/images/invoice2/hotro.png)
 
-<div class="last-updated">Last updated on <strong>Jun 17, 2025</strong> by <strong>nhatth</strong></div>
+<div class="last-updated">Last updated on <strong>Jul 17, 2025</strong> by <strong>nhatth</strong></div>

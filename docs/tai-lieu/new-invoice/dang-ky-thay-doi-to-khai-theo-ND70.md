@@ -253,4 +253,4 @@ Sửa lại đúng email và SĐT để CQT gửi thông báo về
 
 ![Hình 12](../../assets/images/invoice2/2.0_new-hotro.png "Hãy bấm vào để xem rõ hơn")
 
-<div class="last-updated">Last updated on <strong>Jul 16, 2025</strong> by <strong>nhatth</strong></div>
+<div class="last-updated">Last updated on <strong>Jul 17, 2025</strong> by <strong>nhatth</strong></div>

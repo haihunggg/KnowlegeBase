@@ -38,7 +38,7 @@
     <span style="font-size: 18px; color:#1a237e; font-weight:bold;">⚠️ 2. Sai sót lớn – **Làm thay đổi nghĩa vụ thuế hoặc thông tin trọng yếu:**</span>
 
     ❌ **Sai mã số thuế người mua**
-    → Phải lập **hóa đơn điều chỉnh** hoặc **hóa đơn thay thế**, kèm **biên bản thỏa thuận giữa hai bên**.
+    → Phải lập **hóa đơn thay thế**, kèm **biên bản thỏa thuận giữa hai bên**.
 
     ❌ **Sai thuế suất, số tiền, tiền thuế, đơn giá, thành tiền**
     → Phải lập **hóa đơn điều chỉnh** hoặc **hóa đơn thay thế**, kèm **biên bản thỏa thuận**.
@@ -47,7 +47,9 @@
     → Phải lập **hóa đơn điều chỉnh** hoặc **hóa đơn thay thế**, kèm **biên bản thỏa thuận**.
 
     ❌ **Sai mã hàng hóa, mã vạch, thông tin kỹ thuật**
-    → Nếu **ảnh hưởng đến giá trị hóa đơn** thì phải lập **hóa đơn điều chỉnh** hoặc **hóa đơn thay thế**, kèm **biên bản thỏa thuận**.
+    → Phải lập **hóa đơn điều chỉnh** hoặc **hóa đơn thay thế**, kèm **biên bản thỏa thuận**.
+
+    - 📝 **Anh chị có thể làm thay thế theo hướng dẫn dưới nội dung này ⬇️**
 
     ---
 
@@ -175,4 +177,4 @@ Bấm nút in ở trình duyệt hoặc bấm ctrl + P để in
 
 ![Hình 5](../../assets/images/invoice2/hotro.png)
 
-<div class="last-updated">Last updated on <strong>Jun 17, 2025</strong> by <strong>nhatth</strong></div>
+<div class="last-updated">Last updated on <strong>Jul 17, 2025</strong> by <strong>nhatth</strong></div>
