@@ -83,26 +83,30 @@ Bạn chọn hóa đơn cần điều chỉnh >> Nghiệp vụ >> Lập hóa đ�
 
 ??? Abstract "Điều chỉnh khi sai tên công ty, địa chỉ người mua không bị sai phần tiền - Bấm vào đây để xem hướng dẫn"
 
+    ### Điều chỉnh khi sai tên công ty, địa chỉ người mua không bị sai phần tiền
+
     ![Hình 2](../../assets/images/invoice1/1.0_dieuChinh_10.png "Hãy bấm vào để xem rõ hơn")
 
-    ### Bước 1: Điền lại thông tin đúng ở phần thông tin khách hàng
+    Bước 1: Điền lại thông tin đúng ở phần thông tin khách hàng
 
-    ### Bước 2: Ở phần nội dung hàng hóa, tại mục tên hàng hóa sẽ điền nội dung cần điều chỉnh
+    Bước 2: Ở phần nội dung hàng hóa, tại mục tên hàng hóa sẽ điền nội dung cần điều chỉnh
 
     VD: Khi sai địa chỉ công ty
     Điều chỉnh địa chỉ của hóa đơn 118 ký hiệu 1C23TZV thành :"Số nhà 16, ngõ 269/1, đường Giáp Bát, Phường Giáp Bát, Quận Hoàng Mai, Thành phố Hà Nội, Việt Nam"
 
-    ### Bước 3: Vì không sai phần tiền nên phần số lượng, đơn giá, tiền thuế , thuế suất sẽ để trống hoặc bằng không
+    Bước 3: Vì không sai phần tiền nên phần số lượng, đơn giá, tiền thuế , thuế suất sẽ để trống hoặc bằng không
 
     Ở mục tính chất sẽ chọn tính chất là : Ghi chú/ diễn giải
 
 ??? Abstract "Điều chỉnh phần tên hàng hóa, đơn vị tính không ảnh hưởng đến phần tiền thanh toán - Bấm vào đây để xem hướng dẫn"
 
+    ### Điều chỉnh phần tên hàng hóa, đơn vị tính không ảnh hưởng đến phần tiền thanh toán
+
     ![Hình 3](../../assets/images/invoice1/1.0_dieuChinh_2.png "Hãy bấm vào để xem rõ hơn")
 
-    ### Bước 1: Điền lại thông tin đúng ở phần thông tin khách hàng
+    Bước 1: Điền lại thông tin đúng ở phần thông tin khách hàng
 
-    ### Bước 2: Ở phần nội dung hàng hóa, tại mục tên hàng hóa sẽ ghi lại tên hàng hóa đoặc đơn vị tính cho đúng
+    Bước 2: Ở phần nội dung hàng hóa, tại mục tên hàng hóa sẽ ghi lại tên hàng hóa đoặc đơn vị tính cho đúng
 
     VD: điều chỉnh tên hàng hóa
     Điều chỉnh tên hàng từ "mặt hàng A" sang "mặt hàng B"
@@ -111,17 +115,19 @@ Bạn chọn hóa đơn cần điều chỉnh >> Nghiệp vụ >> Lập hóa đ�
 
     Điều chỉnh đơn vị tính của mặt hàng A từ "Cái" sang "Chiếc"
 
-    ### Bước 3: Vì không sai phần tiền nên phần số lượng, đơn giá, tiền thuế , thuế suất sẽ để trống hoặc bằng không
+    Bước 3: Vì không sai phần tiền nên phần số lượng, đơn giá, tiền thuế , thuế suất sẽ để trống hoặc bằng không
 
     Ở mục tính chất sẽ chọn tính chất là : Ghi chú/ diễn giải
 
 ??? Abstract "Điều chỉnh giảm thuế suất - Bấm vào đây để xem hướng dẫn"
 
-    ### Bước 1: Điền lại thông tin đúng ở phần thông tin khách hàng
+    ### Điều chỉnh giảm thuế suất
+
+    Bước 1: Điền lại thông tin đúng ở phần thông tin khách hàng
 
     ![Hình 3](../../assets/images/invoice1/1.0_dieuChinh_3.png "Hãy bấm vào để xem rõ hơn")
 
-    ### Bước 2: Tại nội dung dòng 1, bạn sẽ viết giảm toàn bộ tiền (Nhập âm) toàn bộ dòng hàng hàng hóa bị sai sót
+    Bước 2: Tại nội dung dòng 1, bạn sẽ viết giảm toàn bộ tiền (Nhập âm) toàn bộ dòng hàng hàng hóa bị sai sót
 
     VD : Nếu mặt hàng A, số lượng 10, đơn giá 100.000 thuế suất 10%, bạn đang muốn điều chỉnh xuống thuế suất 8%
 
@@ -145,7 +151,9 @@ Bạn chọn hóa đơn cần điều chỉnh >> Nghiệp vụ >> Lập hóa đ�
 
 ??? Abstract "Điều chỉnh tăng thuế suất - Bấm vào đây để xem hướng dẫn"
 
-    ###Bước 1: Bạn chọn hóa đơn cần điều chỉnh >> Nghiệp vụ >> Lập hóa đơn điều chỉnh
+    ### Điều chỉnh tăng thuế suất
+
+    Bước 1: Bạn chọn hóa đơn cần điều chỉnh >> Nghiệp vụ >> Lập hóa đơn điều chỉnh
 
     ![Hình 1](../../assets/images/invoice1/1.0_dieuChinh_11.png "Hãy bấm vào để xem rõ hơn")
 
@@ -155,17 +163,19 @@ Bạn chọn hóa đơn cần điều chỉnh >> Nghiệp vụ >> Lập hóa đ�
 
     ![Hình 1](../../assets/images/invoice1/1.0_dieuChinh_13.png "Hãy bấm vào để xem rõ hơn")
 
-    ### Bước 2: Ghi âm hoàn toàn dòng sai thuế suất và ghi lại đúng dòng đó và chọn đúng thuế suất đúng
+    Bước 2: Ghi âm hoàn toàn dòng sai thuế suất và ghi lại đúng dòng đó và chọn đúng thuế suất đúng
 
     ![Hình 1](../../assets/images/invoice1/1.0_dieuChinh_14.png "Hãy bấm vào để xem rõ hơn")
 
 ??? Abstract "Điều chỉnh số lượng, đơn giá, thành tiền - Bấm vào đây để xem hướng dẫn"
 
-    ### Bước 1: Điền lại thông tin đúng ở phần thông tin khách hàng
+    ### Điều chỉnh số lượng, đơn giá, thành tiền
+
+    Bước 1: Điền lại thông tin đúng ở phần thông tin khách hàng
 
     ![Hình 3](../../assets/images/invoice1/1.0_dieuChinh_9.png "Hãy bấm vào để xem rõ hơn")
 
-    ### Bước 2: Điều chỉnh
+    Bước 2: Điều chỉnh
 
     VD : Trường hợp theo ảnh trên sẽ điều chỉnh số lượng của hóa đơn có ảnh hưởng đến thành tiền, điều chỉnh số lượng trừ đi 1
 

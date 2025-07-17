@@ -89,7 +89,9 @@
 
 ??? Abstract "Điều chỉnh giảm thuế suất - Bấm vào đây để xem hướng dẫn"
 
-    ### Bước 1: Chọn hóa đơn cần điều chỉnh --> Xử lý sai sót --> Điều chỉnh
+    ### Điều chỉnh giảm thuế suất
+
+    **Bước 1: Chọn hóa đơn cần điều chỉnh --> Xử lý sai sót --> Điều chỉnh**
 
     ![Hình 1](../../assets/images/invoice2/2.0_dieu-chinh-thue-suat_1.png "Hãy bấm vào để xem rõ hơn")
 
@@ -99,13 +101,15 @@
 
     ![Hình 1](../../assets/images/invoice2/2.0_dieu-chinh-thue-suat_4.png "Hãy bấm vào để xem rõ hơn")
 
-    ### Bước 2: Ghi âm hoàn toàn dòng sai thuế suất và ghi lại đúng dòng đó và chọn đúng thuế suất đúng
+    **Bước 2: Ghi âm hoàn toàn dòng sai thuế suất và ghi lại đúng dòng đó và chọn đúng thuế suất đúng**
 
     ![Hình 2](../../assets/images/invoice2/2.0_dieu-chinh-thue-suat_2.png "Hãy bấm vào để xem rõ hơn")
 
 ??? Abstract "Điều chỉnh tăng thuế suất - Bấm vào đây để xem hướng dẫn"
 
-    ### Bước 1: Chọn hóa đơn cần điều chỉnh --> Xử lý sai sót --> Điều chỉnh
+    ### Điều chỉnh tăng thuế suất
+
+    Bước 1: Chọn hóa đơn cần điều chỉnh --> Xử lý sai sót --> Điều chỉnh
 
     ![Hình 1](../../assets/images/invoice2/2.0_dieu-chinh-thue-suat_1.png "Hãy bấm vào để xem rõ hơn")
 
@@ -115,17 +119,19 @@
 
     ![Hình 1](../../assets/images/invoice2/2.0_dieu-chinh-thue-suat_4.png "Hãy bấm vào để xem rõ hơn")
 
-    ### Bước 2: Ghi âm hoàn toàn dòng sai thuế suất và ghi lại đúng dòng đó và chọn đúng thuế suất đúng
+    Bước 2: Ghi âm hoàn toàn dòng sai thuế suất và ghi lại đúng dòng đó và chọn đúng thuế suất đúng
 
     ![Hình 2](../../assets/images/invoice2/2.0_dieu-chinh-thue-suat_5.png "Hãy bấm vào để xem rõ hơn")
 
 ??? Abstract "Điều chỉnh sai tên hàng, đơn vị tính - Bấm vào đây để xem hướng dẫn"
 
-    ### Bước 1: Chọn hóa đơn cần điều chỉnh --> Xử lý sai sót --> Điều chỉnh
+    ### Điều chỉnh sai tên hàng, đơn vị tính
+
+    Bước 1: Chọn hóa đơn cần điều chỉnh --> Xử lý sai sót --> Điều chỉnh
 
     ![Hình 3](../../assets/images/invoice2/2.0_dieu-chinh-thue-suat_1.png "Hãy bấm vào để xem rõ hơn")
 
-    ### Bước 2: Điền nội dung phần tên hàng hóa bị sai và sửa lại tên đúng
+    Bước 2: Điền nội dung phần tên hàng hóa bị sai và sửa lại tên đúng
     Tên hàng : Điền nội dung phần tên hàng hóa bị sai và sửa lại tên đúng
 
     VD: Sai tên hàng hóa dịch vụ của "hàng hóa 1", tên hàng hóa đúng là "Tên hàng hóa 2"
@@ -136,11 +142,13 @@
 
 ??? Abstract "Điều chỉnh số lượng ảnh hưởng đến thành tiền - Bấm vào đây để xem hướng dẫn"
 
-    ### Bước 1: Chọn hóa đơn cần điều chỉnh --> Xử lý sai sót --> Điều chỉnh
+    ### Điều chỉnh số lượng ảnh hưởng đến thành tiền
+
+    Bước 1: Chọn hóa đơn cần điều chỉnh --> Xử lý sai sót --> Điều chỉnh
 
     ![Hình 3](../../assets/images/invoice2/2.0_dieu-chinh-thue-suat_1.png "Hãy bấm vào để xem rõ hơn")
 
-    ### Bước 2: Điều chỉnh số lượng
+    Bước 2: Điều chỉnh số lượng
 
     **Ví dụ như trường hợp sau giá trị ban đầu số lượng là 2 điều chỉnh xuống 1 -> có ảnh hưởng đến thành tiền**
 

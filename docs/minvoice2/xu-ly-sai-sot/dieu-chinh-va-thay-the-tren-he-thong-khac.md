@@ -72,7 +72,9 @@
 
 ## **Hướng dẫn điều chỉnh và thay thế hóa đơn có sai sót trên hệ thống khác**
 
-=== "Thay thế hoá đơn trên hệ thống khác"
+??? Abstract "Thay thế hoá đơn trên hệ thống khác - Bấm vào đây để xem hướng dẫn"
+
+    ### Thay thế hoá đơn trên hệ thống khác
 
     ???+ Warning "Lưu ý"
 
@@ -89,15 +91,15 @@
 
     **Hướng dẫn sử dụng bằng hình ảnh nếu Quý khách không xem được video**
 
-    ### Bước 1: Ở giao diện trang chủ chọn phần Xử lý sai sót --> Thay thế hóa đơn trên hệ thống khác
+    Bước 1: Ở giao diện trang chủ chọn phần Xử lý sai sót --> Thay thế hóa đơn trên hệ thống khác
 
     ![Hình 1](../../assets/images/invoice2/2.0_thay-the-khac_1.png)
 
-    ### Bước 2: Chọn lập hóa đơn thay thế, sau đó chọn phần ký hiệu mà bạn muốn hóa đơn thay thế nằm trong đó
+    Bước 2: Chọn lập hóa đơn thay thế, sau đó chọn phần ký hiệu mà bạn muốn hóa đơn thay thế nằm trong đó
 
     ![Hình 2](../../assets/images/invoice2/2.0_thay-the-khac_2.png)
 
-    ### Bước 3 : Lập hóa đơn thay thế
+    Bước 3 : Lập hóa đơn thay thế
 
     ![Hình 3](../../assets/images/invoice2/2.0_thay-the-khac_3.png)
 
@@ -119,9 +121,11 @@
 
     Ở mục chi tiết hóa đơn nhập lại nội dung hóa đơn cần thay thế
 
-    ### Bước 4 : Nhấn lưu và ký gửi hóa đơn, như thế là bạn đã hoàn thành việc thay thế hóa đơn trên hệ thống khác
+    Bước 4 : Nhấn lưu và ký gửi hóa đơn, như thế là bạn đã hoàn thành việc thay thế hóa đơn trên hệ thống khác
 
-=== "Điều chỉnh hoá đơn trên hệ thống khác"
+??? Abstract "Điều chỉnh hoá đơn trên hệ thống khác - Bấm vào đây để xem hướng dẫn"
+
+    ### Điều chỉnh hoá đơn trên hệ thống khác
 
     ???+ Warning "Lưu ý"
 
@@ -141,15 +145,15 @@
         Quý khách lên xem video hướng dẫn làm hoá đơn điều chỉnh nếu có sai sót liên quan đến số lượng, đơn giá và thành tiền
 
     **Hướng dẫn sử dụng bằng hình ảnh nếu Quý khách không xem được video**
-    ### Bước 1: Ở giao diện trang chủ chọn phần Xử lý sai sót --> Điều chỉnh hóa đơn trên hệ thống khác
+    Bước 1: Ở giao diện trang chủ chọn phần Xử lý sai sót --> Điều chỉnh hóa đơn trên hệ thống khác
 
     ![Hình 4](../../assets/images/invoice2/2.0_thay-the-khac_1.png)
 
-    ### Bước 2: Chọn lập hóa đơn điều chỉnh, sau đó chọn phần ký hiệu mà bạn muốn hóa đơn điều chỉnh nằm trong đó
+    Bước 2: Chọn lập hóa đơn điều chỉnh, sau đó chọn phần ký hiệu mà bạn muốn hóa đơn điều chỉnh nằm trong đó
 
     ![Hình 5](../../assets/images/invoice2/2.0_thay-the-khac_2.png)
 
-    ### Bước 3 : Lập hóa đơn điều chỉnh
+    Bước 3 : Lập hóa đơn điều chỉnh
 
     ![Hình 6](../../assets/images/invoice2/2.0_thay-the-khac_3.png)
 
@@ -171,18 +175,75 @@
 
     Ở mục chi tiết hóa đơn nhập nội dung hóa đơn cần điều chỉnh (hướng dẫn video ở trên)
 
-    ### Bước 4 : Nhấn lưu và ký gửi hóa đơn, như thế là bạn đã hoàn thành việc điều chỉnh hóa đơn trên hệ thống khác
+    Bước 4 : Nhấn lưu và ký gửi hóa đơn, như thế là bạn đã hoàn thành việc điều chỉnh hóa đơn trên hệ thống khác
 
-Sau khi điều chỉnh hay thay thế nội dung hóa đơn thành 1 hóa đơn đúng. Người sử dụng có thể Ký và gửi hóa đơn đã được lập điều chỉnh hay thay thế như một hóa đơn thông thường.
+## Hướng dẫn lập biên bản hoá đơn điều chỉnh / thay thế
 
-???+ Danger "Hướng dẫn lập biên bản"
+???+ Note "Căn cứ"
 
-    Theo Nghị định 70/2025/NĐ-CP, việc lập Biên bản điều chỉnh/thay thế hóa đơn là bắt buộc trong các trường hợp có sai sót.
+    Theo Nghị định 70/2025/NĐ-CP, việc lập Biên bản là bắt buộc trong các trường hợp làm nghiệp vụ điêu chỉnh/thay thế.
 
-    Sau khi điều chỉnh người dùng lập biên bản theo hướng dẫn sau
+    Người sử dụng có thể sử dụng thao tác này để lập biên bản khi làm nghiệp vụ thay thế hay điều chỉnh hóa đơn
 
-    🖱️ **Click vào đây để xem:**
-    📄 [Hướng dẫn lập biên bản hóa đơn](lap-bien-ban-hoa-don.md#attribute-lists){ data-preview }
+!!! warning "Lưu ý"
+
+    Chỉ lập được khi hóa đơn ở trạng thái thay thế hoặc điều chỉnh
+
+### **Bước 1: Truy cập mục xử lý sai sót**
+
+<span style="color:red;">Sau khi đã làm thay thế hoặc điều chỉnh</span>
+
+![Hình 0](../../assets/images/invoice2/2.0_bienban_0.png "Hãy bấm vào để xem rõ hơn")
+
+![Hình 1](../../assets/images/invoice2/2.0_bienban_1.png "Hãy bấm vào để xem rõ hơn")
+
+Chọn lập biên bản
+
+### **Bước 2: Kiểm tra thông tin người bán, người mua, điền lý do thay thế hoặc lý do điều chỉnh**
+
+![Hình 2](../../assets/images/invoice2/2.0_bienban_2.png "Hãy bấm vào để xem rõ hơn")
+
+### **Bước 3 : Lưu biên bản thay thế, điều chỉnh**
+
+![Hình 3](../../assets/images/invoice2/2.0_bienban_3.png "Hãy bấm vào để xem rõ hơn")
+
+### **Bước 4 : Ký biên bản**
+
+???+ Danger "Lưu ý"
+
+    Để ký được biên bản máy tính phải được cài đặt plugin ký số, nếu đã cài đặt thì bỏ qua bước này
+
+    🖱️ **Click vào đây để cài đặt:**
+    📄 [Hướng dẫn tải plugin](../huong-dan/plugin.md#attribute-lists){ data-preview }
+
+![Hình 3](../../assets/images/invoice2/2.0_bienban_6.png "Hãy bấm vào để xem rõ hơn")
+
+![Hình 3](../../assets/images/invoice2/2.0_bienban_7.png "Hãy bấm vào để xem rõ hơn")
+
+??? Bug "Trường hợp ký báo lỗi "mã lệnh không tồn tại" - Anh chị bấm vào đây để xem hướng dẫn"
+
+    <span style="color:red;">Anh chị vui lòng gỡ plugin ra cài lại để có thể ký được</span>
+
+    Bấm 'WINDOWS + R' gõ lệnh 'appwiz.cpl'
+
+    ![Hình 3](../../assets/images/invoice2/2.0_bienban_8.png "Hãy bấm vào để xem rõ hơn")
+
+    Chọn đến minvoice plugin 2.0 kích đúp để gỡ bỏ
+
+    ![Hình 3](../../assets/images/invoice2/2.0_bienban_9.png "Hãy bấm vào để xem rõ hơn")
+
+    Gỡ xong bấm vào đây để xem hướng dẫn cài lại plugin
+
+    🖱️ **Click vào đây để cài đặt:**
+    📄 [Hướng dẫn tải plugin](../huong-dan/plugin.md#attribute-lists){ data-preview }
+
+### **Bước 5 : Xem và in hoặc tải biên bản**
+
+![Hình 4](../../assets/images/invoice2/2.0_bienban_4.png "Hãy bấm vào để xem rõ hơn")
+
+![Hình 5](../../assets/images/invoice2/2.0_bienban_5.png "Hãy bấm vào để xem rõ hơn")
+
+Bấm nút in ở trình duyệt hoặc bấm ctrl + P để in
 
 ???+ info "Xin chân thành cảm ơn quý khách hàng đã tin dùng sản phẩm của M-Invoice"
 
