@@ -85,19 +85,19 @@
 
 ### **Bước 1: Chọn hóa đơn cần thay thế**
 
-![Hình 1](../../assets/images/invoice2/2.0_thay-the-hoa-don_1.png)
+![Hình 1](../../assets/images/invoice2/2.0_thay-the-hoa-don_1.png "Hãy bấm vào để xem rõ hơn")
 
 ### **Bước 2: Chọn phần Xử lý sai sót --> Thay thế**
 
-![Hình 2](../../assets/images/invoice2/2.0_thay-the-hoa-don_2.png)
+![Hình 2](../../assets/images/invoice2/2.0_thay-the-hoa-don_2.png "Hãy bấm vào để xem rõ hơn")
 
 ### **Bước 3 : Điền lại nội dung thông tin hóa đơn**
 
-![Hình 3](../../assets/images/invoice2/2.0_thay-the-hoa-don_3.png)
+![Hình 3](../../assets/images/invoice2/2.0_thay-the-hoa-don_3.png "Hãy bấm vào để xem rõ hơn")
 
 Bạn có thể chọn lại dòng hàng hoá cũ ở hoá đơn trước đó
 
-![Hình 4](../../assets/images/invoice2/2.0_thay-the-hoa-don_4.png)
+![Hình 4](../../assets/images/invoice2/2.0_thay-the-hoa-don_4.png "Hãy bấm vào để xem rõ hơn")
 
 ### **Bước 4 : Lưu nội dung hóa đơn và ký gửi**
 
@@ -119,19 +119,19 @@ Sau khi Thay thế nội dung hóa đơn thành 1 hóa đơn đúng. Người s�
 
 <span style="color:red;">Sau khi đã làm thay thế hoặc điều chỉnh</span>
 
-![Hình 0](../../assets/images/invoice2/2.0_bienban_0.png)
+![Hình 0](../../assets/images/invoice2/2.0_bienban_0.png "Hãy bấm vào để xem rõ hơn")
 
-![Hình 1](../../assets/images/invoice2/2.0_bienban_1.png)
+![Hình 1](../../assets/images/invoice2/2.0_bienban_1.png "Hãy bấm vào để xem rõ hơn")
 
 Chọn lập biên bản
 
 ### **Bước 2: Kiểm tra thông tin người bán, người mua, điền lý do thay thế hoặc lý do điều chỉnh**
 
-![Hình 2](../../assets/images/invoice2/2.0_bienban_2.png)
+![Hình 2](../../assets/images/invoice2/2.0_bienban_2.png "Hãy bấm vào để xem rõ hơn")
 
 ### **Bước 3 : Lưu biên bản thay thế, điều chỉnh**
 
-![Hình 3](../../assets/images/invoice2/2.0_bienban_3.png)
+![Hình 3](../../assets/images/invoice2/2.0_bienban_3.png "Hãy bấm vào để xem rõ hơn")
 
 ### **Bước 4 : Ký biên bản**
 
@@ -142,9 +142,9 @@ Chọn lập biên bản
     🖱️ **Click vào đây để cài đặt:**
     📄 [Hướng dẫn tải plugin](../huong-dan/plugin.md#attribute-lists){ data-preview }
 
-![Hình 3](../../assets/images/invoice2/2.0_bienban_6.png)
+![Hình 3](../../assets/images/invoice2/2.0_bienban_6.png "Hãy bấm vào để xem rõ hơn")
 
-![Hình 3](../../assets/images/invoice2/2.0_bienban_7.png)
+![Hình 3](../../assets/images/invoice2/2.0_bienban_7.png "Hãy bấm vào để xem rõ hơn")
 
 ??? Bug "Trường hợp ký báo lỗi "mã lệnh không tồn tại" - Anh chị bấm vào đây để xem hướng dẫn"
 
@@ -152,11 +152,11 @@ Chọn lập biên bản
 
     Bấm 'WINDOWS + R' gõ lệnh 'appwiz.cpl'
 
-    ![Hình 3](../../assets/images/invoice2/2.0_bienban_8.png)
+    ![Hình 3](../../assets/images/invoice2/2.0_bienban_8.png "Hãy bấm vào để xem rõ hơn")
 
     Chọn đến minvoice plugin 2.0 kích đúp để gỡ bỏ
 
-    ![Hình 3](../../assets/images/invoice2/2.0_bienban_9.png)
+    ![Hình 3](../../assets/images/invoice2/2.0_bienban_9.png "Hãy bấm vào để xem rõ hơn")
 
     Gỡ xong bấm vào đây để xem hướng dẫn cài lại plugin
 
@@ -165,9 +165,9 @@ Chọn lập biên bản
 
 ### **Bước 5 : Xem và in biên bản**
 
-![Hình 4](../../assets/images/invoice2/2.0_bienban_4.png)
+![Hình 4](../../assets/images/invoice2/2.0_bienban_4.png "Hãy bấm vào để xem rõ hơn")
 
-![Hình 5](../../assets/images/invoice2/2.0_bienban_5.png)
+![Hình 5](../../assets/images/invoice2/2.0_bienban_5.png "Hãy bấm vào để xem rõ hơn")
 
 Bấm nút in ở trình duyệt hoặc bấm ctrl + P để in
 
@@ -175,6 +175,6 @@ Bấm nút in ở trình duyệt hoặc bấm ctrl + P để in
 
     Có bất kỳ vướng mắc nào trong quá trình sử dụng hãy liên hệ với M-Invoice tại mục Hỗ trợ kỹ thuật góc phải bên dưới màn hình hoặc gọi tổng đài kỹ thuật của M-Invoice (1900.955.557 Nhánh 1)
 
-![Hình 5](../../assets/images/invoice2/hotro.png)
+![Hình 5](../../assets/images/invoice2/hotro.png "Hãy bấm vào để xem rõ hơn")
 
 <div class="last-updated">Last updated on <strong>Jul 17, 2025</strong> by <strong>nhatth</strong></div>
