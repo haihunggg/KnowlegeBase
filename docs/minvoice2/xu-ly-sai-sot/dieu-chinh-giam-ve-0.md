@@ -1,6 +1,69 @@
 # **Điều chỉnh hoá đơn về 0**
 
-Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm hóa đơn điện tử M-Invoice ở phiên bản 2.0 vô cùng mạch lạc và dễ hiểu.
+???+ Note "Ghi chú"
+
+    📘 **CĂN CỨ TẠI NGHỊ ĐỊNH 70/2025/NĐ-CP**, SỬA ĐỔI **NGHỊ ĐỊNH 123/2020/NĐ-CP**, QUY ĐỊNH VỀ VIỆC LẬP **HÓA ĐƠN, CHỨNG TỪ** NHƯ SAU:
+
+    ---
+
+    🧾 **Khi người bán phát hiện hóa đơn điện tử đã lập sai** *(bao gồm:)*
+
+    – Hóa đơn điện tử **đã được cấp mã của cơ quan thuế**;
+
+    – Hóa đơn điện tử **không có mã nhưng đã gửi dữ liệu đến cơ quan thuế**;
+
+    → Thì xử lý theo các trường hợp:
+
+    ---
+
+    <span style="font-size: 18px; color:#1a237e; font-weight:bold;">1. Sai sót nhỏ – **Không làm thay đổi nội dung nghĩa vụ thuế:**</span>
+
+    ✅ **Sai tên người mua**
+    → Không cần lập lại hóa đơn.
+    → Gửi **Mẫu 04/SS-HĐĐT** cho **Cơ quan thuế** và **thông báo cho bên mua**.
+
+    ✅ **Sai địa chỉ người mua**
+    → Không cần lập lại hóa đơn.
+    → Gửi **Mẫu 04/SS-HĐĐT** cho **Cơ quan thuế** và **thông báo cho bên mua**.
+
+    ✅ **Sai cả tên và địa chỉ nhưng đúng mã số thuế**
+    → Không cần lập lại hóa đơn.
+    → Gửi **Mẫu 04/SS-HĐĐT** cho **Cơ quan thuế** và **thông báo cho bên mua**.
+
+    🖱️ **Click vào đây để xem hướng dẫn lập thông báo 04/SS:**
+    📄 [Thông báo 04/SS](giai-trinh-mau04ss.md#attribute-lists){ data-preview }
+
+    ---
+
+    <span style="font-size: 18px; color:#1a237e; font-weight:bold;">⚠️ 2. Sai sót lớn – **Làm thay đổi nghĩa vụ thuế hoặc thông tin trọng yếu:**</span>
+
+    ❌ **Sai mã số thuế người mua**
+    → Phải lập **hóa đơn điều chỉnh** hoặc **hóa đơn thay thế**, kèm **biên bản thỏa thuận giữa hai bên**.
+
+    ❌ **Sai thuế suất, số tiền, tiền thuế, đơn giá, thành tiền**
+    → Phải lập **hóa đơn điều chỉnh** hoặc **hóa đơn thay thế**, kèm **biên bản thỏa thuận**.
+
+    ❌ **Sai mặt hàng, quy cách, số lượng, đơn vị tính**
+    → Phải lập **hóa đơn điều chỉnh** hoặc **hóa đơn thay thế**, kèm **biên bản thỏa thuận**.
+
+    ❌ **Sai mã hàng hóa, mã vạch, thông tin kỹ thuật**
+    → Nếu **ảnh hưởng đến giá trị hóa đơn** thì phải lập **hóa đơn điều chỉnh** hoặc **hóa đơn thay thế**, kèm **biên bản thỏa thuận**.
+
+    🖱️ **Click vào đây để xem hướng dẫn điều chỉnh:**
+    📄 [Điều chỉnh hóa đơn](dieu-chinh-hoa-don.md#attribute-lists){ data-preview }
+
+    🖱️ **Click vào đây để xem hướng dẫn thay thế:**
+    📄 [Thay thế hóa đơn](thay-the-hoa-don.md#attribute-lists){ data-preview }
+    ---
+
+    <span style="font-size: 18px; color:#1a237e; font-weight:bold;">🛑 **GHI NHỚ TỪ 01/06/2025**:</span>
+
+    🚫 **Bỏ nghiệp vụ "Hủy hóa đơn".**
+
+    📌 **Trường hợp hóa đơn đã phát hành nhưng giao dịch bị hủy bỏ, hay bị sai thông tin cần hủy bỏ để lập hóa đơn mới**
+
+    - 📝 **Anh chị làm điều chỉnh giảm về 0 (tương đương hủy) theo hướng dẫn dưới đây ⬇️**
+    ---
 
 ## **Hướng dẫn điều chỉnh hoá đơn về không giá trị**
 
@@ -14,8 +77,6 @@ Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm 
     4. Bên mua từ chối nhận hóa đơn
     5. Xuất hóa đơn nhiều lần cho cùng một giao dịch
     6. Đơn hàng bị trả lại toàn bộ
-
-???+ Warning "Lưu ý"
 
     Nếu đã lựa chọn nghiệp vụ điều chỉnh thì không được thay thế hoá đơn
 

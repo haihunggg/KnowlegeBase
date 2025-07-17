@@ -23,6 +23,10 @@
 
 ![Hình 1](../../assets/images/invoice2/2.0_new-diachi_2.png "Hãy bấm vào để xem rõ hơn")
 
+**Anh chị lưu chọn CQT quản lý của doanh nghiệp mình**
+
+![Hình 1](../../assets/images/invoice2/2.0_new-diachi_4.png "Hãy bấm vào để xem rõ hơn")
+
 ![Hình 1](../../assets/images/invoice2/2.0_new-diachi_3.png "Hãy bấm vào để xem rõ hơn")
 
 ???+ info "Xin chân thành cảm ơn quý khách hàng đã tin dùng sản phẩm của M-Invoice"

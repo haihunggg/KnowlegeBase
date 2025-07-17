@@ -101,6 +101,10 @@ Sửa lại đúng email và SĐT để CQT gửi thông báo về
 
 ![Hình 2](../../assets/images/invoice2/2.0_new-tokhai_4.png "Hãy bấm vào để xem rõ hơn")
 
+**Anh chị lưu chọn CQT quản lý của doanh nghiệp mình**
+
+![Hình 1](../../assets/images/invoice2/2.0_new-diachi_4.png "Hãy bấm vào để xem rõ hơn")
+
 ![Hình 2](../../assets/images/invoice2/2.0_new-tokhai_5.png "Hãy bấm vào để xem rõ hơn")
 
 **Sau khi đã thay đổi thông tin đúng thì Bấm lưu tờ khai**

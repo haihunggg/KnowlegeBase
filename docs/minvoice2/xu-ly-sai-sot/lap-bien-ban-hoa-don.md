@@ -1,12 +1,14 @@
 # **Hướng dẫn lập biên bản hoá đơn điều chỉnh thay thế**
 
-!!! Note "Ghi chú"
+???+ Note "Căn cứ"
+
+    Theo Nghị định 70/2025/NĐ-CP, việc lập Biên bản là bắt buộc trong các trường hợp làm nghiệp vụ điêu chỉnh/thay thế.
 
     Người sử dụng có thể sử dụng thao tác này để lập biên bản khi làm nghiệp vụ thay thế hay điều chỉnh hóa đơn
 
 !!! warning "Lưu ý"
 
-    Chỉ lập được khi ở trạng thái thay thế hoặc điều chỉnh
+    Chỉ lập được khi hóa đơn ở trạng thái thay thế hoặc điều chỉnh
 
 ### **Bước 1: Truy cập mục xử lý sai sót**
 

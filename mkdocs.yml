@@ -369,12 +369,12 @@ nav:
               - Tổng hợp các lỗi truyền nhận thông điệp CQT: minvoice2/cac-loi-thuong-gap/tong-hop-loi-truyen-nhan-thong-diep-cqt.md
           - "Nghiệp vụ hoá đơn điện tử - Xử lý sai sót":
               - Lập biên bản hóa đơn sai sót: minvoice2/xu-ly-sai-sot/lap-bien-ban-hoa-don.md
-              - minvoice2/xu-ly-sai-sot/thay-the-hoa-don.md
               - minvoice2/xu-ly-sai-sot/dieu-chinh-hoa-don.md
-              - Điều chỉnh hoá đơn về 0: minvoice2/xu-ly-sai-sot/dieu-chinh-giam-ve-0.md
+              - Điều chỉnh hoá đơn về 0 (Tương đương hủy hóa đơn): minvoice2/xu-ly-sai-sot/dieu-chinh-giam-ve-0.md
               #    - setup/huy-hoa-don-hang-loat.md
-              - minvoice2/xu-ly-sai-sot/giai-trinh-mau04ss.md
+              - minvoice2/xu-ly-sai-sot/thay-the-hoa-don.md
               - minvoice2/xu-ly-sai-sot/dieu-chinh-va-thay-the-tren-he-thong-khac.md
+              - minvoice2/xu-ly-sai-sot/giai-trinh-mau04ss.md
           - "Danh mục và báo cáo":
               - minvoice2/danh-muc-bao-cao/bao-cao-tong-hop.md
               - minvoice2/danh-muc-bao-cao/bao-cao-chi-tiet.md
@@ -386,9 +386,6 @@ nav:
               - minvoice2/xang-dau/huong-dan-xang-dau.md
               - minvoice2/xang-dau/ket-xuat-bao-cao-tru-bom.md
               - minvoice2/xang-dau/cap-nhat-giam-thue-gtgt-xang.md
-          - "New-invoice":
-              - minvoice2/new-invoice/dang-ky-thay-doi-to-khai-theo-ND70.md
-              - minvoice2/new-invoice/thay-doi-dia-chi-tren-hoa-don.md
   - Chứng từ TNCN:
       - "":
           - "Hướng dẫn sử dụng":
@@ -478,3 +475,6 @@ nav:
               - tai-lieu/tai-lieu-kinh-doanh.md
           - "Tài liệu kỹ thuật 🖥️":
               - ""
+          - "New-invoice":
+              - tai-lieu/new-invoice/dang-ky-thay-doi-to-khai-theo-ND70.md
+              - tai-lieu/new-invoice/thay-doi-dia-chi-tren-hoa-don.md

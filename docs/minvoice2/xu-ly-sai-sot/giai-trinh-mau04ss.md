@@ -1,26 +1,73 @@
-# **Thông báo 04/SS-HDDT sai sót theo NĐ70**
+# **Lập Thông báo xử lý sai sót (04/SS-HĐĐT)**
 
-<div style="font-size:14px; color:#1a1a1a; background-color:#f3faff; padding:12px; border-left:4px solid #007acc; border-radius:6px;">
-  <p><strong>📘 Căn cứ tại Khoản 13 Điều 1 Nghị định 70/2025/NĐ-CP</strong> sửa đổi Điều 19 Nghị định 123/2020/NĐ-CP, quy định về việc lập <strong>Mẫu 04/SS-HĐĐT</strong> như sau:</p>
+???+ Note "Ghi chú"
 
-  <p><strong>🧾 Khi người bán phát hiện hóa đơn điện tử đã lập sai</strong> (bao gồm:<br>
-  – Hóa đơn điện tử đã được cấp mã của cơ quan thuế;<br>
-  – Hóa đơn điện tử không có mã nhưng đã gửi dữ liệu đến cơ quan thuế), thì xử lý theo các trường hợp:</p>
+    📘 **CĂN CỨ TẠI NGHỊ ĐỊNH 70/2025/NĐ-CP**, SỬA ĐỔI **NGHỊ ĐỊNH 123/2020/NĐ-CP**, QUY ĐỊNH VỀ VIỆC LẬP **HÓA ĐƠN, CHỨNG TỪ** NHƯ SAU:
 
-  <p><strong>🔹 Trường hợp 1:</strong> Sai <u>tên</u>, <u>địa chỉ</u> người mua nhưng <strong>không sai mã số thuế</strong> và các nội dung khác không sai:<br>
-  → Người bán <strong>thông báo cho người mua</strong> về sai sót.<br>
-  → <strong>Không phải lập lại hóa đơn.</strong><br>
-  → Người bán thực hiện <strong>thông báo với cơ quan thuế</strong> theo <u>Mẫu số 04/SS-HĐĐT</u> theo hướng dẫn dưới đây.</p>
+    ---
 
-  <p><strong>🔹 Trường hợp 2:</strong> Sai các nội dung quan trọng như:<br>
-  – <strong>Mã số thuế</strong> của người mua;<br>
-  – <strong>Số tiền</strong> ghi trên hóa đơn;<br>
-  – <strong>Thuế suất</strong>, <strong>tiền thuế</strong>;<br>
-  – <strong>Hàng hóa</strong> ghi sai quy cách, chất lượng,...<br>
-  → Người bán được phép <strong>lựa chọn</strong> giữa 2 cách xử lý:<br>
-  ✅ <strong>Lập hóa đơn điều chỉnh</strong> hoặc<br>
-  ✅ <strong>Lập hóa đơn thay thế</strong> theo đúng quy định hiện hành.</p>
-</div>
+    🧾 **Khi người bán phát hiện hóa đơn điện tử đã lập sai** *(bao gồm:)*
+
+    – Hóa đơn điện tử **đã được cấp mã của cơ quan thuế**;
+
+    – Hóa đơn điện tử **không có mã nhưng đã gửi dữ liệu đến cơ quan thuế**;
+
+    → Thì xử lý theo các trường hợp:
+
+    ---
+
+    <span style="font-size: 18px; color:#1a237e; font-weight:bold;">1. Sai sót nhỏ – **Không làm thay đổi nội dung nghĩa vụ thuế:**</span>
+
+    ✅ **Sai tên người mua**
+    → Không cần lập lại hóa đơn.
+    → Gửi **Mẫu 04/SS-HĐĐT** cho **Cơ quan thuế** và **thông báo cho bên mua**.
+
+    ✅ **Sai địa chỉ người mua**
+    → Không cần lập lại hóa đơn.
+    → Gửi **Mẫu 04/SS-HĐĐT** cho **Cơ quan thuế** và **thông báo cho bên mua**.
+
+    ✅ **Sai cả tên và địa chỉ nhưng đúng mã số thuế**
+    → Không cần lập lại hóa đơn.
+    → Gửi **Mẫu 04/SS-HĐĐT** cho **Cơ quan thuế** và **thông báo cho bên mua**.\
+
+    - 📝 **Anh chị có thể làm thông báo 04/SS theo hướng dẫn dưới nội dung này ⬇️**
+
+    ---
+
+    <span style="font-size: 18px; color:#1a237e; font-weight:bold;">⚠️ 2. Sai sót lớn – **Làm thay đổi nghĩa vụ thuế hoặc thông tin trọng yếu:**</span>
+
+    ❌ **Sai mã số thuế người mua**
+    → Phải lập **hóa đơn điều chỉnh** hoặc **hóa đơn thay thế**, kèm **biên bản thỏa thuận giữa hai bên**.
+
+    ❌ **Sai thuế suất, số tiền, tiền thuế, đơn giá, thành tiền**
+    → Phải lập **hóa đơn điều chỉnh** hoặc **hóa đơn thay thế**, kèm **biên bản thỏa thuận**.
+
+    ❌ **Sai mặt hàng, quy cách, số lượng, đơn vị tính**
+    → Phải lập **hóa đơn điều chỉnh** hoặc **hóa đơn thay thế**, kèm **biên bản thỏa thuận**.
+
+    ❌ **Sai mã hàng hóa, mã vạch, thông tin kỹ thuật**
+    → Nếu **ảnh hưởng đến giá trị hóa đơn** thì phải lập **hóa đơn điều chỉnh** hoặc **hóa đơn thay thế**, kèm **biên bản thỏa thuận**.
+
+    🖱️ **Click vào đây để xem hướng dẫn điều chỉnh:**
+    📄 [Điều chỉnh hóa đơn](dieu-chinh-hoa-don.md#attribute-lists){ data-preview }
+
+    🖱️ **Click vào đây để xem hướng dẫn thay thế:**
+    📄 [Thay thế hóa đơn](thay-the-hoa-don.md#attribute-lists){ data-preview }
+
+    ---
+
+    <span style="font-size: 18px; color:#1a237e; font-weight:bold;">🛑 **GHI NHỚ TỪ 01/06/2025**:</span>
+
+    🚫 **Bỏ nghiệp vụ "Hủy hóa đơn".**
+
+    📌 **Trường hợp hóa đơn đã phát hành nhưng giao dịch bị hủy bỏ, hay bị sai thông tin cần hủy bỏ để lập hóa đơn mới**
+
+    - 📝 **Anh chị làm điều chỉnh giảm về 0 (tương đương hủy) theo hướng dẫn sau**
+
+    🖱️ **Click vào đây để xem hướng dẫn:**
+    📄 [Hướng dẫn điều chỉnh giảm về 0](dieu-chinh-giam-ve-0.md#attribute-lists){ data-preview }
+
+    ---
 
 ## **Hướng dẫn lập giải trình 04ss**
 

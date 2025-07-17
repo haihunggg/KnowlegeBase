@@ -1,20 +1,79 @@
 # **Thay thế hoá đơn**
 
-Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm hóa đơn điện tử M-Invoice ở phiên bản 2.0 vô cùng mạch lạc và dễ hiểu.
+???+ Note "Ghi chú"
+
+    📘 **CĂN CỨ TẠI NGHỊ ĐỊNH 70/2025/NĐ-CP**, SỬA ĐỔI **NGHỊ ĐỊNH 123/2020/NĐ-CP**, QUY ĐỊNH VỀ VIỆC LẬP **HÓA ĐƠN, CHỨNG TỪ** NHƯ SAU:
+
+    ---
+
+    🧾 **Khi người bán phát hiện hóa đơn điện tử đã lập sai** *(bao gồm:)*
+
+    – Hóa đơn điện tử **đã được cấp mã của cơ quan thuế**;
+
+    – Hóa đơn điện tử **không có mã nhưng đã gửi dữ liệu đến cơ quan thuế**;
+
+    → Thì xử lý theo các trường hợp:
+
+    ---
+
+    <span style="font-size: 18px; color:#1a237e; font-weight:bold;">1. Sai sót nhỏ – **Không làm thay đổi nội dung nghĩa vụ thuế:**</span>
+
+    ✅ **Sai tên người mua**
+    → Không cần lập lại hóa đơn.
+    → Gửi **Mẫu 04/SS-HĐĐT** cho **Cơ quan thuế** và **thông báo cho bên mua**.
+
+    ✅ **Sai địa chỉ người mua**
+    → Không cần lập lại hóa đơn.
+    → Gửi **Mẫu 04/SS-HĐĐT** cho **Cơ quan thuế** và **thông báo cho bên mua**.
+
+    ✅ **Sai cả tên và địa chỉ nhưng đúng mã số thuế**
+    → Không cần lập lại hóa đơn.
+    → Gửi **Mẫu 04/SS-HĐĐT** cho **Cơ quan thuế** và **thông báo cho bên mua**.
+
+    🖱️ **Click vào đây để xem hướng dẫn lập thông báo 04/SS:**
+    📄 [Thông báo 04/SS](giai-trinh-mau04ss.md#attribute-lists){ data-preview }
+
+    ---
+
+    <span style="font-size: 18px; color:#1a237e; font-weight:bold;">⚠️ 2. Sai sót lớn – **Làm thay đổi nghĩa vụ thuế hoặc thông tin trọng yếu:**</span>
+
+    ❌ **Sai mã số thuế người mua**
+    → Phải lập **hóa đơn điều chỉnh** hoặc **hóa đơn thay thế**, kèm **biên bản thỏa thuận giữa hai bên**.
+
+    ❌ **Sai thuế suất, số tiền, tiền thuế, đơn giá, thành tiền**
+    → Phải lập **hóa đơn điều chỉnh** hoặc **hóa đơn thay thế**, kèm **biên bản thỏa thuận**.
+
+    ❌ **Sai mặt hàng, quy cách, số lượng, đơn vị tính**
+    → Phải lập **hóa đơn điều chỉnh** hoặc **hóa đơn thay thế**, kèm **biên bản thỏa thuận**.
+
+    ❌ **Sai mã hàng hóa, mã vạch, thông tin kỹ thuật**
+    → Nếu **ảnh hưởng đến giá trị hóa đơn** thì phải lập **hóa đơn điều chỉnh** hoặc **hóa đơn thay thế**, kèm **biên bản thỏa thuận**.
+
+    ---
+
+    <span style="font-size: 18px; color:#1a237e; font-weight:bold;">🛑 **GHI NHỚ TỪ 01/06/2025**:</span>
+
+    🚫 **Bỏ nghiệp vụ "Hủy hóa đơn".**
+
+    📌 **Trường hợp hóa đơn đã phát hành nhưng giao dịch bị hủy bỏ, hay bị sai thông tin cần hủy bỏ để lập hóa đơn mới**
+
+    - 📝 **Anh chị làm điều chỉnh giảm về 0 (tương đương hủy) theo hướng dẫn sau**
+
+    🖱️ **Click vào đây để xem hướng dẫn:**
+    📄 [Hướng dẫn điều chỉnh giảm về 0](dieu-chinh-giam-ve-0.md#attribute-lists){ data-preview }
+
+    ---
 
 ## **Hướng dẫn thay thế hóa đơn có sai sót**
 
-???+ Note "Ghi chú"
+???+ Warning "Lưu ý"
 
-    Trong quá trình phát hành hóa đơn không tránh khỏi những sai sót. Sau đây, M-Invoice hướng dẫn NSD thực hiện xử lý hóa đơn đã lập có sai sót như sau:
     Thay thế hoá đơn (Áp dụng cho HĐ trong kỳ kê khai(chưa kê khai)) và chỉ được phép sử dụng nghiệp vụ thay thế hóa đơn với các điều kiện sau:
 
     1. Hóa đơn cần thay thế đã được gửi CQT thành công hoặc hóa đơn đã có mã CQT cấp
     2. Hóa đơn cần thay thế ở Trạng thái Gốc (Mới) hoặc Thay thế
 
-???+ Warning "Lưu ý"
-
-    Nếu đã lựa chọn nghiệp vụ thay thế thì không được điều chỉnh hóa đơn thay thế. Nghiệp vụ này không bắt buộc phải phải lập 04/SS
+    Nếu đã lựa chọn nghiệp vụ thay thế thì không được điều chỉnh hóa đơn thay thế. Từ NGHỊ ĐỊNH 70/2025/NĐ-CP nghiệp vụ này không phải lập kèm 04/SS
 
 **Thao tác cài đặt và thực hiện như sau**
 
@@ -44,7 +103,7 @@ Sau khi Thay thế nội dung hóa đơn thành 1 hóa đơn đúng. Người s�
 
 ## Hướng dẫn lập biên bản hoá đơn thay thế
 
-???+ Danger "Hướng dẫn lập biên bản"
+???+ Note "Căn cứ"
 
     Theo Nghị định 70/2025/NĐ-CP, việc lập Biên bản là bắt buộc trong các trường hợp làm nghiệp vụ điêu chỉnh/thay thế.
 
@@ -68,13 +127,41 @@ Chọn lập biên bản
 
 ![Hình 2](../../assets/images/invoice2/2.0_bienban_2.png)
 
-### **Bước 3 : Lưu hoặc ký biên bản thay thế, điều chỉnh**
+### **Bước 3 : Lưu biên bản thay thế, điều chỉnh**
 
 ![Hình 3](../../assets/images/invoice2/2.0_bienban_3.png)
 
-<span style="color:red;">Hiện tại chỉ ký được biên bản nếu cks là cks hsm</span>
+### **Bước 4 : Ký biên bản**
 
-### **Bước 4 : Xem và in biên bản**
+???+ Danger "Lưu ý"
+
+    Để ký được biên bản máy tính phải được cài đặt plugin ký số, nếu đã cài đặt thì bỏ qua bước này
+
+    🖱️ **Click vào đây để cài đặt:**
+    📄 [Hướng dẫn tải plugin](../huong-dan/plugin.md#attribute-lists){ data-preview }
+
+![Hình 3](../../assets/images/invoice2/2.0_bienban_6.png)
+
+![Hình 3](../../assets/images/invoice2/2.0_bienban_7.png)
+
+??? Bug "Trường hợp ký báo lỗi "mã lệnh không tồn tại" - Anh chị bấm vào đây để xem hướng dẫn"
+
+    <span style="color:red;">Anh chị vui lòng gỡ plugin ra cài lại để có thể ký được</span>
+
+    Bấm 'WINDOWS + R' gõ lệnh 'appwiz.cpl'
+
+    ![Hình 3](../../assets/images/invoice2/2.0_bienban_8.png)
+
+    Chọn đến minvoice plugin 2.0 kích đúp để gỡ bỏ
+
+    ![Hình 3](../../assets/images/invoice2/2.0_bienban_9.png)
+
+    Gỡ xong bấm vào đây để xem hướng dẫn cài lại plugin
+
+    🖱️ **Click vào đây để cài đặt:**
+    📄 [Hướng dẫn tải plugin](../huong-dan/plugin.md#attribute-lists){ data-preview }
+
+### **Bước 5 : Xem và in biên bản**
 
 ![Hình 4](../../assets/images/invoice2/2.0_bienban_4.png)
 
