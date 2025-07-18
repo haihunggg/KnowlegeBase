@@ -10,7 +10,7 @@
 
     ---
 
-    🔒 1. Không thể thực hiện nhiều thủ tục hành chính điện tử
+    **🔒 1. Không thể thực hiện nhiều thủ tục hành chính điện tử**
 
     Nhiều cổng dịch vụ công hiện nay (Bộ Công an, Thuế, BHXH, Hải quan...) yêu cầu đăng nhập bằng tài khoản định danh điện tử cấp độ tổ chức để thực hiện các thủ tục như:
 
@@ -24,7 +24,7 @@
 
     ---
 
-    🔐 2. Không ký số xác thực trên các nền tảng điện tử của Nhà nước
+    **🔐 2. Không ký số xác thực trên các nền tảng điện tử của Nhà nước**
 
     Tài khoản định danh điện tử là căn cứ xác thực chính danh số của tổ chức trong các giao dịch điện tử.
 
@@ -42,7 +42,7 @@
 
     ---
 
-    📉 3. Bị giới hạn tích hợp hệ thống và API với cơ quan nhà nước
+    **📉 3. Bị giới hạn tích hợp hệ thống và API với cơ quan nhà nước**
 
     Các phần mềm quản lý doanh nghiệp (ERP, kế toán, hóa đơn điện tử...) muốn tích hợp API với hệ thống cơ quan nhà nước đều cần xác thực bằng TĐĐT tổ chức.
 
@@ -53,7 +53,7 @@
 
     ---
 
-    📲 4. Không thể đăng ký các dịch vụ tài chính điện tử hiện đại
+    **📲 4. Không thể đăng ký các dịch vụ tài chính điện tử hiện đại**
 
     Nhiều ngân hàng, công ty tài chính, nền tảng fintech yêu cầu định danh số tổ chức để:
 
@@ -67,7 +67,7 @@
 
     ---
 
-    🏭 5. Nguy cơ chậm chuyển đổi số, bị tụt hậu
+    **🏭 5. Nguy cơ chậm chuyển đổi số, bị tụt hậu**
 
     Định danh điện tử là nền tảng của chuyển đổi số quốc gia.
 
@@ -84,7 +84,7 @@
 
     ---
 
-    ✅ Kiến nghị hành động
+    **✅ Kiến nghị hành động**
 
     ???+ Info "📌 Doanh nghiệp nên chủ động thực hiện ngay:"
 
