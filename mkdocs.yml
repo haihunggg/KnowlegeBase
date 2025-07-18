@@ -472,10 +472,10 @@ nav:
               - chu-ky-so/ky-dien-tu/huong-dan-ky-so-tren-file-pdf-foxit-reader.md
   - Tài liệu:
       - "":
+          - "Tài liệu kỹ thuật 🖥️":
+              - tai-lieu/huong-dan-dinh-danh-to-chuc.md
           - "Tài liệu kinh doanh 💼":
               - tai-lieu/tai-lieu-kinh-doanh.md
-          - "Tài liệu kỹ thuật 🖥️":
-              - ""
           - "New-invoice":
               - tai-lieu/new-invoice/dang-ky-thay-doi-to-khai-theo-ND70.md
               - tai-lieu/new-invoice/thay-doi-dia-chi-tren-hoa-don.md
