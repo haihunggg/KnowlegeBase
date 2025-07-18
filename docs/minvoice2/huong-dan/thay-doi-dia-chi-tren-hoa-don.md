@@ -19,7 +19,11 @@
 
 <iframe style="width: 43rem; height: 380px" src="https://www.youtube.com/embed/FCWj4XUDy9o?si=8LPIVoVPXWYO9lr2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-**Hướng dẫn sử dụng bằng hình ảnh nếu Quý khách không xem được video**
+#### Hướng dẫn bằng GIF nhanh
+
+![Gif 1](../../assets/images/invoice2/gif/thay-doi-dia-chi-1.gif "Hãy bấm vào để xem rõ hơn")
+
+#### Hướng dẫn bằng hình ảnh chi tiết
 
 ### **Bước 1: Truy cập hệ thống -> thông tin doanh nghiệp**
 
