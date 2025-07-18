@@ -41,10 +41,42 @@ Mã_số_thuế: là mã số thuế của công ty
 
 ![Hình 5](../../assets/images/invoice2/2.0_dang-nhap_5.png "Hãy bấm vào để xem rõ hơn")
 
+### **Bước 3: Sau khi đăng nhập xong kiểm tra các thông tin sau**
+
+#### **1. Thông tin doanh nghiệp**
+
+**Kiểm tra các thông tin của doanh nghiệp của mình xem đã đúng hay chưa**
+
+![Hình 5](../../assets/images/invoice2/2.0_dang-nhap_6.png "Hãy bấm vào để xem rõ hơn")
+
+#### **2. Kí hiệu + mẫu hóa đơn.**
+
+![Hình 5](../../assets/images/invoice2/2.0_dang-nhap_7.png "Hãy bấm vào để xem rõ hơn")
+
+![Hình 5](../../assets/images/invoice2/2.0_dang-nhap_8.png "Hãy bấm vào để xem rõ hơn")
+
+![Hình 5](../../assets/images/invoice2/2.0_dang-nhap_9.png "Hãy bấm vào để xem rõ hơn")
+
+**Bấm sửa để có thể sửa mẫu hóa đơn**
+
+![Hình 5](../../assets/images/invoice2/2.0_dang-nhap_10.png "Hãy bấm vào để xem rõ hơn")
+
+#### **3. Kiểm tra bản quyền**
+
+![Hình 5](../../assets/images/invoice2/2.0_dang-nhap_11.png "Hãy bấm vào để xem rõ hơn")
+
+**Kiểm tra số lượng đã dùng**
+
+![Hình 5](../../assets/images/invoice2/2.0_dang-nhap_12.png "Hãy bấm vào để xem rõ hơn")
+
+#### **3. Đổi mật khẩu (nếu cần)**
+
+![Hình 5](../../assets/images/invoice2/2.0_dang-nhap_13.png "Hãy bấm vào để xem rõ hơn")
+
 ???+ info "Xin chân thành cảm ơn quý khách hàng đã tin dùng sản phẩm của M-Invoice"
 
     Có bất kỳ vướng mắc nào trong quá trình sử dụng hãy liên hệ với M-Invoice tại mục Hỗ trợ kỹ thuật góc phải bên dưới màn hình hoặc gọi tổng đài kỹ thuật của M-Invoice (1900.955.557 Nhánh 1)
 
 ![Hình 8](../../assets/images/invoice2/hotro.png "Hãy bấm vào để xem rõ hơn")
 
-<div class="last-updated">Last updated on <strong>Jun 5, 2025</strong> by <strong>nhatth</strong></div>
+<div class="last-updated">Last updated on <strong>Jul 18, 2025</strong> by <strong>nhatth</strong></div>
