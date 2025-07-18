@@ -4,21 +4,21 @@ Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm 
 
 ### **Bước 1: Truy cập mẫu hóa đơn**
 
-![Hình 1](../../assets/images/invoice2/2.0_keo-bien-70_1.png)
+![Hình 1](../../assets/images/invoice2/2.0_keo-bien-70_1.png "Hãy bấm vào để xem rõ hơn")
 
 ### **Bước 2: Thêm mẫu**
 
 Bấm thêm và chọn mẫu mới
 
-![Hình 3](../../assets/images/invoice2/2.0_keo-bien-70_3.png)
+![Hình 3](../../assets/images/invoice2/2.0_keo-bien-70_3.png "Hãy bấm vào để xem rõ hơn")
 
-![Hình 4](../../assets/images/invoice2/2.0_keo-bien-70_4.png)
+![Hình 4](../../assets/images/invoice2/2.0_keo-bien-70_4.png "Hãy bấm vào để xem rõ hơn")
 
 ### **Bước 3: Thêm các trường mới**
 
-![Hình 4](../../assets/images/invoice2/2.0_keo-bien-70_5.png)
+![Hình 4](../../assets/images/invoice2/2.0_keo-bien-70_5.png "Hãy bấm vào để xem rõ hơn")
 
-![Hình 4](../../assets/images/invoice2/2.0_keo-bien-70_6.png)
+![Hình 4](../../assets/images/invoice2/2.0_keo-bien-70_6.png "Hãy bấm vào để xem rõ hơn")
 
 Anh chị bấm LƯU để lưu thông tin vừa chỉnh sửa
 
@@ -26,6 +26,6 @@ Anh chị bấm LƯU để lưu thông tin vừa chỉnh sửa
 
     Có bất kỳ vướng mắc nào trong quá trình sử dụng hãy liên hệ với M-Invoice tại mục Hỗ trợ kỹ thuật góc phải bên dưới màn hình hoặc gọi tổng đài kỹ thuật của M-Invoice (1900.955.557 Nhánh 1)
 
-![Hình 9](../../assets/images/invoice2/hotro.png)
+![Hình 9](../../assets/images/invoice2/hotro.png "Hãy bấm vào để xem rõ hơn")
 
 <div class="last-updated">Last updated on <strong>Jun 4, 2025</strong> by <strong>nhatth</strong></div>

@@ -212,23 +212,23 @@ Các bạn vào phần **Đăng ký phát hành >> Tờ khai đăng ký/thay đ�
 
 ### **2. Đăng nhập app etax mobile**
 
-![Hình 1](../../assets/images/invoice2/2.0_to-khai-nd70_10.png){: style="height:650px"}
+![Hình 1](../../assets/images/invoice2/2.0_to-khai-nd70_10.png "Hãy bấm vào để xem rõ hơn"){: style="height:650px"}
 
 ### **3. Chọn mục Hóa đơn điện tử.**
 
-![Hình 1](../../assets/images/invoice2/2.0_to-khai-nd70_11.png){: style="height:650px"}
+![Hình 1](../../assets/images/invoice2/2.0_to-khai-nd70_11.png "Hãy bấm vào để xem rõ hơn"){: style="height:650px"}
 
 ### **4. Nhấn vào mục Tờ khai chờ xác thực.**
 
-![Hình 1](../../assets/images/invoice2/2.0_to-khai-nd70_12.png){: style="height:650px"}
+![Hình 1](../../assets/images/invoice2/2.0_to-khai-nd70_12.png "Hãy bấm vào để xem rõ hơn"){: style="height:650px"}
 
 ### **5. Thực hiện xác thực.**
 
-![Hình 1](../../assets/images/invoice2/2.0_to-khai-nd70_13.png){: style="height:650px"}
+![Hình 1](../../assets/images/invoice2/2.0_to-khai-nd70_13.png "Hãy bấm vào để xem rõ hơn"){: style="height:650px"}
 
 **Sau khi thực hiện xong bước xác thực OTP, tức tờ khai đã được xử lý đến mục tích xanh sau đây trên quy trình tờ khai. Đơn vị chờ Cơ quan thuế phản hồi các thông điệp tiếp theo.**
 
-![Hình 1](../../assets/images/invoice2/2.0_to-khai-nd70_14.png){: style="width:780px"}
+![Hình 1](../../assets/images/invoice2/2.0_to-khai-nd70_14.png "Hãy bấm vào để xem rõ hơn"){: style="width:780px"}
 
 ### **6. Quay về phần mềm hóa đơn điện tử M-invoice để kiểm tra tờ khai tại cột Phản hồi CQT trên danh sách tờ khai.**
 

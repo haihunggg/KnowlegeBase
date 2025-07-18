@@ -12,11 +12,11 @@ Chức năng Sao chép giúp tạo nhanh 1 hóa đơn có nội dung tương t�
 
 ### **Bước 1: Chọn hóa đơn muốn dùng làm mẫu**
 
-![Hình 1](../../assets/images/invoice2/2.0_sao-chep-hoa-don_1.png)
+![Hình 1](../../assets/images/invoice2/2.0_sao-chep-hoa-don_1.png "Hãy bấm vào để xem rõ hơn")
 
 ### **Bước 2: Click button "Sao chép"**
 
-![Hình 2](../../assets/images/invoice2/2.0_sao-chep-hoa-don_2.png)
+![Hình 2](../../assets/images/invoice2/2.0_sao-chep-hoa-don_2.png "Hãy bấm vào để xem rõ hơn")
 
 ### **Bước 3: Kiểm tra và chỉnh sửa nội dung hóa đơn được tạo ra**
 
@@ -26,16 +26,16 @@ Chức năng Sao chép giúp tạo nhanh 1 hóa đơn có nội dung tương t�
 
     Do hóa đơn mới tạo ra vẫn đăn gở trạng thái là Sửa nên Quý khách hàng hoàn toàn có thể sửa lại nội dung cho phù hợp.
 
-![Hình 3](../../assets/images/invoice2/2.0_sao-chep-hoa-don_3.png)
+![Hình 3](../../assets/images/invoice2/2.0_sao-chep-hoa-don_3.png "Hãy bấm vào để xem rõ hơn")
 
 ### **Bước 4: Click "Lưu" để xác nhận lưu hóa đơn, "Đóng" để thoát trình tạo mới hóa đơn**
 
-![Hình 4](../../assets/images/invoice2/2.0_sao-chep-hoa-don_4.png)
+![Hình 4](../../assets/images/invoice2/2.0_sao-chep-hoa-don_4.png "Hãy bấm vào để xem rõ hơn")
 
 ???+ info "Xin chân thành cảm ơn quý khách hàng đã tin dùng sản phẩm của M-Invoice"
 
     Có bất kỳ vướng mắc nào trong quá trình sử dụng hãy liên hệ với M-Invoice tại mục Hỗ trợ kỹ thuật góc phải bên dưới màn hình hoặc gọi tổng đài kỹ thuật của M-Invoice (1900.955.557 Nhánh 1)
 
-![Hình 5](../../assets/images/invoice2/hotro.png)
+![Hình 5](../../assets/images/invoice2/hotro.png "Hãy bấm vào để xem rõ hơn")
 
 <div class="last-updated">Last updated on <strong>Jun 5, 2025</strong> by <strong>nhatth</strong></div>

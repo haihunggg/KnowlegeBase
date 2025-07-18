@@ -24,7 +24,7 @@
 
 Bộ trưởng Bộ Tài chính ban hành Thông tư 86/2024/TT-BTC ngày 23/12/2024 quy định về đăng ký thuế. Trong đó, điểm b khoản 1 và khoản 5 Điều 5 Thông tư 86/2024/TT-BTC quy định về **cấu trúc mã số thuế dành cho hộ gia đình, hộ kinh doanh, cá nhân** như sau:
 
-![Hình 1](../../assets/images/invoice2/2.0_chuyen-doi-cccd_1.png)
+![Hình 1](../../assets/images/invoice2/2.0_chuyen-doi-cccd_1.png "Hãy bấm vào để xem rõ hơn")
 
 Như vậy, theo quy định mới, từ ngày **01/07/2025**, tất cả **mã số thuế của hộ kinh doanh, cá nhân sẽ chuyển sang dùng số định danh cá nhân (CCCD)**.
 
@@ -42,11 +42,11 @@ Như vậy, theo quy định mới, từ ngày **01/07/2025**, tất cả **mã 
 
 ### **Bước 1: Truy cập hệ thống - thông tin doanh nghiệp trên phần mềm**
 
-![Hình 1](../../assets/images/invoice2/2.0_chuyen-doi-cccd_2.png)
+![Hình 1](../../assets/images/invoice2/2.0_chuyen-doi-cccd_2.png "Hãy bấm vào để xem rõ hơn")
 
 ### **Bước 2: Khai báo CCCD trong thông tin doanh nghiệp và tích vào sử dụng thay cho MST**
 
-![Hình 1](../../assets/images/invoice2/2.0_chuyen-doi-cccd_3.png)
+![Hình 1](../../assets/images/invoice2/2.0_chuyen-doi-cccd_3.png "Hãy bấm vào để xem rõ hơn")
 
 ???+ Danger "Lưu ý"
 
@@ -56,6 +56,6 @@ Như vậy, theo quy định mới, từ ngày **01/07/2025**, tất cả **mã 
 
     Có bất kỳ vướng mắc nào trong quá trình sử dụng hãy liên hệ với M-Invoice tại mục Hỗ trợ kỹ thuật góc phải bên dưới màn hình hoặc gọi tổng đài kỹ thuật của M-Invoice (1900.955.557 Nhánh 1)
 
-![Hình 5](../../assets/images/invoice2/hotro.png)
+![Hình 5](../../assets/images/invoice2/hotro.png "Hãy bấm vào để xem rõ hơn")
 
 <div class="last-updated">Last updated on <strong>July 9, 2025</strong> by <strong>nhatth</strong></div>

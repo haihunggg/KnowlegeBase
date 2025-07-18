@@ -10,15 +10,15 @@ Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm 
 
 ### **Bước 1: Ở màn hình trang chủ bạn truy cập vào phần Danh mục --> tiền tệ**
 
-![Hình 1](../../assets/images/invoice2/2.0_chinh-thap-phan_1.png)
+![Hình 1](../../assets/images/invoice2/2.0_chinh-thap-phan_1.png "Hãy bấm vào để xem rõ hơn")
 
 ### **Bước 2: Chọn vào loại tiền bạn muốn sửa và nhấn sửa**
 
-![Hình 2](../../assets/images/invoice2/2.0_chinh-thap-phan_2.png)
+![Hình 2](../../assets/images/invoice2/2.0_chinh-thap-phan_2.png "Hãy bấm vào để xem rõ hơn")
 
 ### **Bước 3: Sửa các phần số thập phân đằng sau dấu phẩy, bạn muốn để bao nhiêu số ở phần nào thì sửa lại phần đó**
 
-![Hình 3](../../assets/images/invoice2/2.0_chinh-thap-phan_3.png)
+![Hình 3](../../assets/images/invoice2/2.0_chinh-thap-phan_3.png "Hãy bấm vào để xem rõ hơn")
 
 Sau đó nhấn lưu -> load lại trang -> thử lại
 
@@ -26,6 +26,6 @@ Sau đó nhấn lưu -> load lại trang -> thử lại
 
     Có bất kỳ vướng mắc nào trong quá trình sử dụng hãy liên hệ với M-Invoice tại mục Hỗ trợ kỹ thuật góc phải bên dưới màn hình hoặc gọi tổng đài kỹ thuật của M-Invoice (1900.955.557 Nhánh 1)
 
-![Hình 5](../../assets/images/invoice2/hotro.png)
+![Hình 5](../../assets/images/invoice2/hotro.png "Hãy bấm vào để xem rõ hơn")
 
 <div class="last-updated">Last updated on <strong>Jun 5, 2025</strong> by <strong>nhatth</strong></div>

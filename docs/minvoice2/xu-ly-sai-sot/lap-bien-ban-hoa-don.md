@@ -10,6 +10,12 @@
 
     Chỉ lập được khi hóa đơn ở trạng thái thay thế hoặc điều chỉnh
 
+#### Hướng dẫn bằng GIF nhanh
+
+![Gif 1](../../assets/images/invoice2/gif/v2-bien-ban.gif "Hãy bấm vào để xem rõ hơn")
+
+#### Hướng dẫn bằng hình ảnh chi tiết
+
 ### **Bước 1: Truy cập mục xử lý sai sót**
 
 <span style="color:red;">Sau khi đã làm thay thế hoặc điều chỉnh</span>

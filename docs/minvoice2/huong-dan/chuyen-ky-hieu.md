@@ -12,15 +12,15 @@ Chức năng Sao chép giúp tạo nhanh 1 hóa đơn có nội dung tương t�
 
 ### **Bước 1: Chọn hóa đơn cần chuyển ký hiệu --> Chức năng**
 
-![Hình 1](../../assets/images/invoice2/2.0_chuyen-ky-hieu_1.png)
+![Hình 1](../../assets/images/invoice2/2.0_chuyen-ky-hieu_1.png "Hãy bấm vào để xem rõ hơn")
 
 ### **Bước 2: Ở mục Chức năng --> Chuyển ký hiệu**
 
-![Hình 2](../../assets/images/invoice2/2.0_chuyen-ky-hieu_2.png)
+![Hình 2](../../assets/images/invoice2/2.0_chuyen-ky-hieu_2.png "Hãy bấm vào để xem rõ hơn")
 
 ### **Bước 3: Chọn ký hiệu mà bạn muốn chuyển sang --> Cập nhật**
 
-![Hình 3](../../assets/images/invoice2/2.0_chuyen-ky-hieu_3.png)
+![Hình 3](../../assets/images/invoice2/2.0_chuyen-ky-hieu_3.png "Hãy bấm vào để xem rõ hơn")
 
 Như vậy là bạn đã hoàn thành việc chuyển hóa đơn từ ký hiệu này sang ký hiệu khác
 
@@ -28,6 +28,6 @@ Như vậy là bạn đã hoàn thành việc chuyển hóa đơn từ ký hiệ
 
     Có bất kỳ vướng mắc nào trong quá trình sử dụng hãy liên hệ với M-Invoice tại mục Hỗ trợ kỹ thuật góc phải bên dưới màn hình hoặc gọi tổng đài kỹ thuật của M-Invoice (1900.955.557 Nhánh 1)
 
-![Hình 4](../../assets/images/invoice2/hotro.png)
+![Hình 4](../../assets/images/invoice2/hotro.png "Hãy bấm vào để xem rõ hơn")
 
 <div class="last-updated">Last updated on <strong>Jun 5, 2025</strong> by <strong>nhatth</strong></div>

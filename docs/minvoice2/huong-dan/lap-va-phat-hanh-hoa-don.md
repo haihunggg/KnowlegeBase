@@ -20,27 +20,27 @@ Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm 
 
     Truy cập vào trang hóa đơn điện tử M-invoice chọn phần **Hoá đơn đầu ra**
 
-    ![Hình 1](../../assets/images/invoice2/2.0_lap-va-phat-hanh-hoa-don_1.png)
+    ![Hình 1](../../assets/images/invoice2/2.0_lap-va-phat-hanh-hoa-don_1.png "Hãy bấm vào để xem rõ hơn")
 
     Chọn ký hiệu hóa đơn quý khách đang muốn sử dụng
 
-    ![Hình 2](../../assets/images/invoice2/2.0_lap-va-phat-hanh-hoa-don_2.png)
+    ![Hình 2](../../assets/images/invoice2/2.0_lap-va-phat-hanh-hoa-don_2.png "Hãy bấm vào để xem rõ hơn")
 
-    ![Hình 3](../../assets/images/invoice2/2.0_lap-va-phat-hanh-hoa-don_3.png)
+    ![Hình 3](../../assets/images/invoice2/2.0_lap-va-phat-hanh-hoa-don_3.png "Hãy bấm vào để xem rõ hơn")
 
     ### Bước 2: Nhập chi tiết hoá đơn
 
     Ở trên giao diện **Hoá đơn đầu ra** chọn **Thêm (F4)**
 
-    ![Hình 4](../../assets/images/invoice2/2.0_lap-va-phat-hanh-hoa-don_4.png)
+    ![Hình 4](../../assets/images/invoice2/2.0_lap-va-phat-hanh-hoa-don_4.png "Hãy bấm vào để xem rõ hơn")
 
     Phần giao diện lập hóa đơn sẽ có giao diện như sau.
 
-    ![Hình 5](../../assets/images/invoice2/2.0_lap-va-phat-hanh-hoa-don_5.png)
+    ![Hình 5](../../assets/images/invoice2/2.0_lap-va-phat-hanh-hoa-don_5.png "Hãy bấm vào để xem rõ hơn")
 
     **Phần 1**: Phần đầu phiếu hóa đơn bao gồm các thông tin
 
-    ![Hình 6](../../assets/images/invoice2/2.0_lap-va-phat-hanh-hoa-don_6.png)
+    ![Hình 6](../../assets/images/invoice2/2.0_lap-va-phat-hanh-hoa-don_6.png "Hãy bấm vào để xem rõ hơn")
 
     ???+ note "Phần thông tin chung"
 
@@ -80,21 +80,21 @@ Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm 
         Sau đó nhấn **Lưu** để lưu thông tin hóa đơn vào
         Quý khách cũng có thể xem trước hóa đơn mình muốn lập bằng nút **Xem trước** trên phần mềm
 
-    ![Hình 7](../../assets/images/invoice2/2.0_lap-va-phat-hanh-hoa-don_7.png)
+    ![Hình 7](../../assets/images/invoice2/2.0_lap-va-phat-hanh-hoa-don_7.png "Hãy bấm vào để xem rõ hơn")
 
     ### Bước 3: KÝ GỬI CƠ QUAN THUẾ VÀ GỬI MAIL CHO KHÁCH HÀNG
 
     Quý khách chọn phần **Ký và gửi cơ quan thuế** để ký hóa đơn và gửi hóa đơn lên thuế để được cấp mã
 
-    ![Hình 8](../../assets/images/invoice2/2.0_lap-va-phat-hanh-hoa-don_8.png)
+    ![Hình 8](../../assets/images/invoice2/2.0_lap-va-phat-hanh-hoa-don_8.png "Hãy bấm vào để xem rõ hơn")
 
     Để gửi mail cho khách hàng quý khách chọn vào phần **Gửi mail hóa đơn**
 
-    ![Hình 9](../../assets/images/invoice2/2.0_lap-va-phat-hanh-hoa-don_9.png)
+    ![Hình 9](../../assets/images/invoice2/2.0_lap-va-phat-hanh-hoa-don_9.png "Hãy bấm vào để xem rõ hơn")
 
     Để sửa lại hóa đơn (Chỉ có thể sửa được hóa đơn chưa ký gửi) chọn và phần **Chỉnh sửa**, và để **xem in** lại quý khách chọn vào phần Xem in hóa đơn
 
-    ![Hình 10](../../assets/images/invoice2/2.0_lap-va-phat-hanh-hoa-don_10.png)
+    ![Hình 10](../../assets/images/invoice2/2.0_lap-va-phat-hanh-hoa-don_10.png "Hãy bấm vào để xem rõ hơn")
 
     Như vậy quý khách đã phát hành thành công hóa đơn
 
@@ -108,19 +108,19 @@ Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm 
 
     ### Bước 1: Tại màn hình danh sách hóa đơn, chọn hóa đơn chờ ký muốn sửa
 
-    ![Hình 1](../../assets/images/invoice2/2.0_sua-hoa-don_1.png)
+    ![Hình 1](../../assets/images/invoice2/2.0_sua-hoa-don_1.png "Hãy bấm vào để xem rõ hơn")
 
     ### Bước 2: Click button "Sửa"
 
-    ![Hình 2](../../assets/images/invoice2/2.0_sua-hoa-don_2.png)
+    ![Hình 2](../../assets/images/invoice2/2.0_sua-hoa-don_2.png "Hãy bấm vào để xem rõ hơn")
 
     ### Bước 3: Sửa nội dung hóa đơn và click "Lưu" để lưu lại thông tin
 
-    ![Hình 3](../../assets/images/invoice2/2.0_sua-hoa-don_3.png)
+    ![Hình 3](../../assets/images/invoice2/2.0_sua-hoa-don_3.png "Hãy bấm vào để xem rõ hơn")
 
     ### Bước 4: Chọn xem trước để xem in hóa đơn sau khi sửa
 
-    ![Hình 4](../../assets/images/invoice2/2.0_sua-hoa-don_4.png)
+    ![Hình 4](../../assets/images/invoice2/2.0_sua-hoa-don_4.png "Hãy bấm vào để xem rõ hơn")
 
 === "Xoá"
 
@@ -139,17 +139,17 @@ Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm 
 
     ### Bước 1: Tại màn hình danh sách hóa đơn, chọn hóa đơn Chờ ký muốn xóa
 
-    ![Hình 1](../../assets/images/invoice2/2.0_xoa-hoa-don_1.png)
+    ![Hình 1](../../assets/images/invoice2/2.0_xoa-hoa-don_1.png "Hãy bấm vào để xem rõ hơn")
 
     <p align = "center">Đối với hình thức Sinh số sau, NSD sẽ không xóa được các hóa đơn ở giữa như hình vẽ.</p>
 
-    ![Hình 2](../../assets/images/invoice2/2.0_xoa-hoa-don_2.png)
+    ![Hình 2](../../assets/images/invoice2/2.0_xoa-hoa-don_2.png "Hãy bấm vào để xem rõ hơn")
 
     <p align = "center">Thường hợp muốn xoá nhiều</p>
 
     ### Bước 2: Click button "Xóa (F8)" hoặc nhấn phím chức năng F8.
 
-    ![Hình 3](../../assets/images/invoice2/2.0_xoa-hoa-don_3.png)
+    ![Hình 3](../../assets/images/invoice2/2.0_xoa-hoa-don_3.png "Hãy bấm vào để xem rõ hơn")
 
     ### Bước 3: Click "Xóa" để xác nhận xóa hóa đơn.
 
@@ -159,6 +159,6 @@ Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm 
 
     Có bất kỳ vướng mắc nào trong quá trình sử dụng hãy liên hệ với M-Invoice tại mục Hỗ trợ kỹ thuật góc phải bên dưới màn hình hoặc gọi tổng đài kỹ thuật của M-Invoice (1900.955.557 Nhánh 1)
 
-![Hình 11](../../assets/images/invoice2/hotro.png)
+![Hình 11](../../assets/images/invoice2/hotro.png "Hãy bấm vào để xem rõ hơn")
 
 <div class="last-updated">Last updated on <strong>Mar 27, 2025</strong> by <strong>Trinh Hoai Nhat</strong></div>

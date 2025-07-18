@@ -18,16 +18,16 @@ Chức năng này sinh ra nhằm mục đích cung cấp cho khách hàng có nh
 
 ### **Bước 1: Chọn vào chức nằng ký hoá đơn hàng loạt**
 
-![Hình 1](../../assets/images/invoice2/2.0_ky-hang-loat_1.png)
+![Hình 1](../../assets/images/invoice2/2.0_ky-hang-loat_1.png "Hãy bấm vào để xem rõ hơn")
 
 ### **Bước 2: Chọn các hoá đơn cần ký**
 
-![Hình 2](../../assets/images/invoice2/2.0_ky-hang-loat_2.png)
+![Hình 2](../../assets/images/invoice2/2.0_ky-hang-loat_2.png "Hãy bấm vào để xem rõ hơn")
 
 ???+ info "Xin chân thành cảm ơn quý khách hàng đã tin dùng sản phẩm của M-Invoice"
 
     Có bất kỳ vướng mắc nào trong quá trình sử dụng hãy liên hệ với M-Invoice tại mục Hỗ trợ kỹ thuật góc phải bên dưới màn hình hoặc gọi tổng đài kỹ thuật của M-Invoice (1900.955.557 Nhánh 1)
 
-![Hình 3](../../assets/images/invoice2/hotro.png)
+![Hình 3](../../assets/images/invoice2/hotro.png "Hãy bấm vào để xem rõ hơn")
 
 <div class="last-updated">Last updated on <strong>Jun 5, 2025</strong> by <strong>nhatth</strong></div>

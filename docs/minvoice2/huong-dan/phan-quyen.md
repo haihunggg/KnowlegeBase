@@ -12,21 +12,21 @@ Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm 
 
 ### **Bước 1: Hệ thống --> Quản lý người dùng --> Người sử dụng**
 
-![Hình 1](../../assets/images/invoice2/2.0_them-nguoi-dung_1.png)
+![Hình 1](../../assets/images/invoice2/2.0_them-nguoi-dung_1.png "Hãy bấm vào để xem rõ hơn")
 
 ### **Bước 2: Chọn người dùng mà bạn muốn phần quyền chọn phân quyền**
 
-![Hình 2](../../assets/images/invoice2/2.0_phan-quyen_2.png)
+![Hình 2](../../assets/images/invoice2/2.0_phan-quyen_2.png "Hãy bấm vào để xem rõ hơn")
 
 ### **Bước 3: Chọn Cks và phần ký hiệu hóa đơn, bạn muốn tài khoản được sử dụng**
 
-![Hình 3](../../assets/images/invoice2/2.0_phan-quyen_3.png)
+![Hình 3](../../assets/images/invoice2/2.0_phan-quyen_3.png "Hãy bấm vào để xem rõ hơn")
 
 !!! Note ""
 
     Với chức năng phân quyền này bạn có thể phân quyền cho người sử dụng được các chữ ký số đăng ký với phân mềm (Liên quan trực tiếp đến việc ký gửi hóa đơn )
 
-![Hình 4](../../assets/images/invoice2/2.0_phan-quyen_4.png)
+![Hình 4](../../assets/images/invoice2/2.0_phan-quyen_4.png "Hãy bấm vào để xem rõ hơn")
 
 !!! Note ""
 
@@ -34,7 +34,7 @@ Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm 
 
 ### **Bước 4: Chọn quyền truy cập hóa đơn theo người sử dụng**
 
-![Hình 5](../../assets/images/invoice2/2.0_phan-quyen_5.png)
+![Hình 5](../../assets/images/invoice2/2.0_phan-quyen_5.png "Hãy bấm vào để xem rõ hơn")
 
 ???+ Note "Ví dụ"
 
@@ -48,6 +48,6 @@ Như vậy bạn đã hoàn thành việc phân quyền người sử dụng
 
     Có bất kỳ vướng mắc nào trong quá trình sử dụng hãy liên hệ với M-Invoice tại mục Hỗ trợ kỹ thuật góc phải bên dưới màn hình hoặc gọi tổng đài kỹ thuật của M-Invoice (1900.955.557 Nhánh 1)
 
-![Hình 6](../../assets/images/invoice2/hotro.png)
+![Hình 6](../../assets/images/invoice2/hotro.png "Hãy bấm vào để xem rõ hơn")
 
 <div class="last-updated">Last updated on <strong>Jun 5, 2025</strong> by <strong>nhatth</strong></div>

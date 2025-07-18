@@ -24,20 +24,20 @@ Chức năng Sao chép giúp tạo nhanh 1 hóa đơn có nội dung tương t�
 
 ### **Bước 2: Click button "Gửi email"**
 
-![Hình 2](../../assets/images/invoice2/2.0_gui-mail_2.png)
+![Hình 2](../../assets/images/invoice2/2.0_gui-mail_2.png "Hãy bấm vào để xem rõ hơn")
 
 ### **Bước 3: Nhập địa chỉ email cần gửi đến**
 
-![Hình 3](../../assets/images/invoice2/2.0_gui-mail_3.png)
+![Hình 3](../../assets/images/invoice2/2.0_gui-mail_3.png "Hãy bấm vào để xem rõ hơn")
 
 ### **Bước 4: Click "Gửi Email" để gửi email hóa đơn đi**
 
-![Hình 4](../../assets/images/invoice2/2.0_gui-mail_4.png)
+![Hình 4](../../assets/images/invoice2/2.0_gui-mail_4.png "Hãy bấm vào để xem rõ hơn")
 
 ???+ info "Xin chân thành cảm ơn quý khách hàng đã tin dùng sản phẩm của M-Invoice"
 
     Có bất kỳ vướng mắc nào trong quá trình sử dụng hãy liên hệ với M-Invoice tại mục Hỗ trợ kỹ thuật góc phải bên dưới màn hình hoặc gọi tổng đài kỹ thuật của M-Invoice (1900.955.557 Nhánh 1)
 
-![Hình 5](../../assets/images/invoice2/hotro.png)
+![Hình 5](../../assets/images/invoice2/hotro.png "Hãy bấm vào để xem rõ hơn")
 
 <div class="last-updated">Last updated on <strong>Jun 5, 2025</strong> by <strong>nhatth</strong></div>

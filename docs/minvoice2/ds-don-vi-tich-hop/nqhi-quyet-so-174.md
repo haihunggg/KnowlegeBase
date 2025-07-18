@@ -194,7 +194,7 @@ Công thức giảm thuế mẫu
     ```
     Kết quả mong muốn:
 
-    ![Hình 1](../../assets/images/tich-hop/nq174-1.png)
+    ![Hình 1](../../assets/images/tich-hop/nq174-1.png "Hãy bấm vào để xem rõ hơn")
 
 ??? Note "🔹 Trường hợp 2: Các thông tin trường cần thêm để giảm trên từng dòng hàng (dùng cho các trường hợp hóa đơn có cả hàng hóa giảm và không giảm)"
 
@@ -303,9 +303,6 @@ Công thức giảm thuế mẫu
     ```
     Kết quả mong muốn:
 
-    ![Hình 2](../../assets/images/tich-hop/nq174-2.png)
-
-
-
+    ![Hình 2](../../assets/images/tich-hop/nq174-2.png "Hãy bấm vào để xem rõ hơn")
 
 <div class="last-updated">Last updated on <strong>May 28, 2025</strong> by <strong>nhatth</strong></div>

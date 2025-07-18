@@ -24,15 +24,15 @@ Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm 
 
 ### **Bước 1: Ở giao diện lập hóa đơn chọn mục Chức năng >> Nhận excel**
 
-![Hình 1](../../assets/images/invoice2/2.0_nhap-excel-hang-loat_1.png)
+![Hình 1](../../assets/images/invoice2/2.0_nhap-excel-hang-loat_1.png "Hãy bấm vào để xem rõ hơn")
 
 ### **Bước 2: Sau đó tiến hành tải file mẫu excel về**
 
-![Hình 2](../../assets/images/invoice2/2.0_nhap-excel-hang-loat_2.png)
+![Hình 2](../../assets/images/invoice2/2.0_nhap-excel-hang-loat_2.png "Hãy bấm vào để xem rõ hơn")
 
 ### **Bước 3: Nhập thông tin khách hàng tại excel**
 
-![Hình 3](../../assets/images/invoice2/2.0_nhap-excel-hang-loat_3.png)
+![Hình 3](../../assets/images/invoice2/2.0_nhap-excel-hang-loat_3.png "Hãy bấm vào để xem rõ hơn")
 
 !!! warning "Lưu ý"
 
@@ -57,6 +57,6 @@ Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm 
 
     Có bất kỳ vướng mắc nào trong quá trình sử dụng hãy liên hệ với M-Invoice tại mục Hỗ trợ kỹ thuật góc phải bên dưới màn hình hoặc gọi tổng đài kỹ thuật của M-Invoice (1900.955.557 Nhánh 1)
 
-![Hình 5](../../assets/images/invoice2/hotro.png)
+![Hình 5](../../assets/images/invoice2/hotro.png "Hãy bấm vào để xem rõ hơn")
 
 <div class="last-updated">Last updated on <strong>Jun 5, 2025</strong> by <strong>nhatth</strong></div>
