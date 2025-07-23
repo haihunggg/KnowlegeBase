@@ -4,11 +4,11 @@
 
 ### **Bước 1: Truy cập vào phần Hóa đơn HĐ123 >> Báo cáo >> Bảng kê bán ra (Mẫu PL01-1)**
 
-![Hình 1](../../assets/images/invoice1/1.0_PL01_1.png)
+![Hình 1](../../assets/images/invoice1/1.0_PL01_1.png "Hãy bấm vào để xem rõ hơn")
 
 ### **Bước 2: Chọn các điều kiện để lọc báo cáo**
 
-![Hình 2](../../assets/images/invoice1/1.0_PL01_2.png)
+![Hình 2](../../assets/images/invoice1/1.0_PL01_2.png "Hãy bấm vào để xem rõ hơn")
 
 !!! warning "Lưu ý"
 
@@ -16,7 +16,7 @@
 
 ### **Bước 3 : Kết xuất báo cáo**
 
-![Hình 3](../../assets/images/invoice1/1.0_PL01_3.png)
+![Hình 3](../../assets/images/invoice1/1.0_PL01_3.png "Hãy bấm vào để xem rõ hơn")
 
 Anh chị có thể sử dụng các chức năng ở hình trên sau khi đã lọc dữ liệu tùy thuộc vào nhu cầu của mình.
 
@@ -24,9 +24,6 @@ Anh chị có thể sử dụng các chức năng ở hình trên sau khi đã l
 
     Có bất kỳ vướng mắc nào trong quá trình sử dụng hãy liên hệ với M-Invoice tại mục Hỗ trợ kỹ thuật góc phải bên dưới màn hình hoặc gọi tổng đài kỹ thuật của M-Invoice (1900.955.557 Nhánh 1)
 
-![Hình 4](../../assets/images/invoice1/1.0_suaTienBangTay_5.png)
-
-
-
+![Hình 4](../../assets/images/invoice1/1.0_suaTienBangTay_5.png "Hãy bấm vào để xem rõ hơn")
 
 <div class="last-updated">Last updated on <strong>Jun 5, 2025</strong> by <strong>nhatth</strong></div>

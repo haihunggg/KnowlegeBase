@@ -6,9 +6,9 @@ Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm 
 
 Bấm vào chữ `có lỗi` ở hóa đơn => <span style="color: red; font-size: 20px;font-style: italic;">M100 - Lỗi kết nối, không nhận được phản hồi của CQT</span>
 
-![Hình 2](../../assets/images/coloi/loi-truyen-nhan_2.png)
+![Hình 2](../../assets/images/coloi/loi-truyen-nhan_2.png "Hãy bấm vào để xem rõ hơn")
 
-![Hình 1](../../assets/images/coloi/loi-truyen-nhan_1.png)
+![Hình 1](../../assets/images/coloi/loi-truyen-nhan_1.png "Hãy bấm vào để xem rõ hơn")
 
 ???+ Danger "Mô tả lỗi"
 
@@ -21,11 +21,11 @@ Bấm vào chữ `có lỗi` ở hóa đơn => <span style="color: red; font-siz
 
 ### **Bước 1: Chọn hóa đơn có lỗi --> bấm vào chức năng sao chép hóa đơn để lập lại hóa đơn này**
 
-![Hình 3](../../assets/images/coloi/loi-truyen-nhan_3.png)
+![Hình 3](../../assets/images/coloi/loi-truyen-nhan_3.png "Hãy bấm vào để xem rõ hơn")
 
 ### **Bước 2 : Bấm lưu hoặc lưu và ký**
 
-![Hình 4](../../assets/images/coloi/loi-truyen-nhan_4.png)
+![Hình 4](../../assets/images/coloi/loi-truyen-nhan_4.png "Hãy bấm vào để xem rõ hơn")
 
 <span style="color: red; font-size: 20px;font-weight: bold;">Các hóa đơn có lỗi sẽ không tính doanh thu hay báo cáo nên không cần làm nghiệp vụ sai sót các hóa đơn này</span>
 
@@ -35,6 +35,6 @@ Như vậy bạn đã xử lý thành công hóa đơn bị lỗi kết nối
 
     Có bất kỳ vướng mắc nào trong quá trình sử dụng hãy liên hệ với M-Invoice tại mục Hỗ trợ kỹ thuật góc phải bên dưới màn hình hoặc gọi tổng đài kỹ thuật của M-Invoice (1900.955.557 Nhánh 1)
 
-![Hình 5](../../assets/images/invoice2/hotro.png)
+![Hình 5](../../assets/images/invoice2/hotro.png "Hãy bấm vào để xem rõ hơn")
 
 <div class="last-updated">Last updated on <strong>Jun 17, 2025</strong> by <strong>nhatth</strong></div>

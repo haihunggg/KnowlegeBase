@@ -12,15 +12,15 @@ Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm 
 
 ### **Bước 1: Đăng ký phát hành --> chứng từ**
 
-![Hình 1](../assets/images/chung-tu/ct_kyhieu_1.png)
+![Hình 1](../assets/images/chung-tu/ct_kyhieu_1.png "Hãy bấm vào để xem rõ hơn")
 
 <span style="color: red; font-size: 20px;font-weight: bold;">Trường hơp đã tạo sẵn như ảnh dưới đây anh chị không cần thao tác tạo nữa</span>
 
-![Hình 2](../assets/images/chung-tu/ct_kyhieu_2.png)
+![Hình 2](../assets/images/chung-tu/ct_kyhieu_2.png "Hãy bấm vào để xem rõ hơn")
 
 Bấm **thêm** để tạo ký hiệu chứng từ
 
-![Hình 2](../assets/images/chung-tu/ct_kyhieu_3.png)
+![Hình 2](../assets/images/chung-tu/ct_kyhieu_3.png "Hãy bấm vào để xem rõ hơn")
 
 **Ký hiệu chứng từ sẽ mặc định là CT/25E**
 
@@ -36,9 +36,9 @@ Bấm **thêm** để tạo ký hiệu chứng từ
 
 ### **Bước 2: Bấm lưu đê tạo chứng từ**
 
-![Hình 4](../assets/images/chung-tu/ct_kyhieu_4.png)
+![Hình 4](../assets/images/chung-tu/ct_kyhieu_4.png "Hãy bấm vào để xem rõ hơn")
 
-![Hình 5](../assets/images/chung-tu/ct_kyhieu_5.png)
+![Hình 5](../assets/images/chung-tu/ct_kyhieu_5.png "Hãy bấm vào để xem rõ hơn")
 
 Như vậy bạn đã hoàn thành việc tạo mới ký hiệu chứng từ
 
@@ -46,6 +46,6 @@ Như vậy bạn đã hoàn thành việc tạo mới ký hiệu chứng từ
 
     Có bất kỳ vướng mắc nào trong quá trình sử dụng hãy liên hệ với M-Invoice tại mục Hỗ trợ kỹ thuật góc phải bên dưới màn hình hoặc gọi tổng đài kỹ thuật của M-Invoice (1900.955.557 Nhánh 1)
 
-![Hình 6](../assets/images/invoice2/hotro.png)
+![Hình 6](../assets/images/invoice2/hotro.png "Hãy bấm vào để xem rõ hơn")
 
 <div class="last-updated">Last updated on <strong>Jun 5, 2025</strong> by <strong>nhatth</strong></div>

@@ -23,19 +23,19 @@ Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm 
 
     ### **Bước 1: Chọn chứng từ cần điều chỉnh --> Nghiệp vụ --> Điều chỉnh chứng từ**
 
-    ![Hình 1](../assets/images/chung-tu/ct_dieuchinh_1.png)
+    ![Hình 1](../assets/images/chung-tu/ct_dieuchinh_1.png "Hãy bấm vào để xem rõ hơn")
 
     ### **Bước 2: Ghi âm thu nhập chịu thuế cần giảm và giảm các thông tin bị giảm theo**
 
     **VD: Trước khi điều chỉnh**
 
-    ![Hình 1](../assets/images/chung-tu/ct_dieuchinh_2.png)
+    ![Hình 1](../assets/images/chung-tu/ct_dieuchinh_2.png "Hãy bấm vào để xem rõ hơn")
 
     **VD: Sau khi điều chỉnh**
 
     **Trường hơp trên khoản đóng bảo hiểm và khoản đóng từ thiện không giảm thì không điền**
 
-    ![Hình 1](../assets/images/chung-tu/ct_dieuchinh_3.png)
+    ![Hình 1](../assets/images/chung-tu/ct_dieuchinh_3.png "Hãy bấm vào để xem rõ hơn")
 
 Sau khi điều chỉnh nội dung chứng từ thành 1 chứng từ đúng. Người sử dụng có thể Ký và gửi chứng từ đã được lập điều chỉnh như một chứng từ thông thường.
 
@@ -43,6 +43,6 @@ Sau khi điều chỉnh nội dung chứng từ thành 1 chứng từ đúng. Ng
 
     Có bất kỳ vướng mắc nào trong quá trình sử dụng hãy liên hệ với M-Invoice tại mục Hỗ trợ kỹ thuật góc phải bên dưới màn hình hoặc gọi tổng đài kỹ thuật của M-Invoice (1900.955.557 Nhánh 1)
 
-![Hình 5](../assets/images/chung-tu/hotro.png)
+![Hình 5](../assets/images/chung-tu/hotro.png "Hãy bấm vào để xem rõ hơn")
 
 <div class="last-updated">Last updated on <strong>Jun 13, 2025</strong> by <strong>NHATTH</strong></div>

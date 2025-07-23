@@ -10,7 +10,7 @@ Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm 
 
 ??? Failure "Lỗi "Bạn đã huỷ bỏ thao tác ký""
 
-    ![Hình 1](../../assets/images/invoice2/2.0_CKS-huy-bo-thao-tac-ky_1.png)
+    ![Hình 1](../../assets/images/invoice2/2.0_CKS-huy-bo-thao-tac-ky_1.png "Hãy bấm vào để xem rõ hơn")
 
     ???+ Warning "Ghi chú"
 
@@ -18,13 +18,13 @@ Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm 
 
     ### Bước 1: Kiểm tra xem phần mềm cks đã cài đặt trên máy mình chưa bằng cách sau
 
-    ![Hình 2](../../assets/images/invoice2/2.0_CKS-huy-bo-thao-tac-ky_2.png)
+    ![Hình 2](../../assets/images/invoice2/2.0_CKS-huy-bo-thao-tac-ky_2.png "Hãy bấm vào để xem rõ hơn")
 
     **Nếu không thấy icon của cks hiện là chưa cài đặt**
 
     ### Bước 2: Cài đặt phần mềm cks
 
-    ![Hình 3](../../assets/images/invoice2/2.0_CKS-huy-bo-thao-tac-ky_3.png)
+    ![Hình 3](../../assets/images/invoice2/2.0_CKS-huy-bo-thao-tac-ky_3.png "Hãy bấm vào để xem rõ hơn")
 
     **Bấm windows + E để vào Explorer bấm vào biểu tượng phần mềm cks -> click Setup để cài đặt**
 
@@ -34,7 +34,7 @@ Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm 
 
 ??? Failure "Lỗi "Bạn chưa cài đặt công cụ plugin để ký hoá đơn""
 
-    ![Hình 1](../../assets/images/invoice2/2.0_CKS-cai-dat-plugin_1.png)
+    ![Hình 1](../../assets/images/invoice2/2.0_CKS-cai-dat-plugin_1.png "Hãy bấm vào để xem rõ hơn")
 
     ???+ Warning "Ghi chú"
 
@@ -42,11 +42,11 @@ Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm 
 
     ### Bước 1: Kiểm tra xem plugin ký số đã cài đặt trên máy mình chưa bằng cách sau
 
-    ![Hình 2](../../assets/images/invoice2/2.0_CKS-cai-dat-plugin_2.png)
+    ![Hình 2](../../assets/images/invoice2/2.0_CKS-cai-dat-plugin_2.png "Hãy bấm vào để xem rõ hơn")
 
     **hoặc bằng cách sau**
 
-    ![Hình 3](../../assets/images/invoice2/2.0_CKS-cai-dat-plugin_3.png)
+    ![Hình 3](../../assets/images/invoice2/2.0_CKS-cai-dat-plugin_3.png "Hãy bấm vào để xem rõ hơn")
 
     **Trường hợp nếu thấy chưa cài đặt thì có thể làm theo [Hướng dẫn cài đặt plugin](plugin.md#attribute-lists){ data-preview }**
 
@@ -54,6 +54,6 @@ Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm 
 
     Có bất kỳ vướng mắc nào trong quá trình sử dụng hãy liên hệ với M-Invoice tại mục Hỗ trợ kỹ thuật góc phải bên dưới màn hình hoặc gọi tổng đài kỹ thuật của M-Invoice (1900.955.557 Nhánh 1)
 
-![Hình 5](../../assets/images/invoice2/hotro.png)
+![Hình 5](../../assets/images/invoice2/hotro.png "Hãy bấm vào để xem rõ hơn")
 
 <div class="last-updated">Last updated on <strong>Mar 27, 2025</strong> by <strong>Trinh Hoai Nhat</strong></div>

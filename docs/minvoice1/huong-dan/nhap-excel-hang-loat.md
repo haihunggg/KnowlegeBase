@@ -13,15 +13,15 @@
 
 ### **Bước 1: NSD click vào chức năng chọn Tạo hóa đơn từ file excel**
 
-![Hình 1](../../assets/images/invoice1/1.0_excelHangLoat_1.png)
+![Hình 1](../../assets/images/invoice1/1.0_excelHangLoat_1.png "Hãy bấm vào để xem rõ hơn")
 
 ### **Bước 2: NSD Tải file mẫu excel để nhập thông tin**
 
-![Hình 2](../../assets/images/invoice1/1.0_excelHangLoat_2.png)
+![Hình 2](../../assets/images/invoice1/1.0_excelHangLoat_2.png "Hãy bấm vào để xem rõ hơn")
 
 ### **Bước 3 : NSD Điền đầy đủ thông tin khách hàng tại excel**
 
-![Hình 3](../../assets/images/invoice1/1.0_excelHangLoat_3.png)
+![Hình 3](../../assets/images/invoice1/1.0_excelHangLoat_3.png "Hãy bấm vào để xem rõ hơn")
 
 !!! warning "Lưu ý"
 
@@ -34,7 +34,7 @@
 
 ### **Bước 4: Điền đầy đủ thông tin tại chi tiết**
 
-![Hình 4](../../assets/images/invoice1/1.0_excelHangLoat_4.png)
+![Hình 4](../../assets/images/invoice1/1.0_excelHangLoat_4.png "Hãy bấm vào để xem rõ hơn")
 
 ???+ Warning "Lưu ý"
 
@@ -48,7 +48,7 @@
 
     + Phần trăm thuế: NSD nhập đúng phần trăm thuế là 5,10,7, -1 tương  với không chịu thuế và -2 tương ứng với không kê khai
 
-![Hình 5](../../assets/images/invoice1/1.0_excelHangLoat_5.png)
+![Hình 5](../../assets/images/invoice1/1.0_excelHangLoat_5.png "Hãy bấm vào để xem rõ hơn")
 
 ???+ Warning "NĐ70"
 
@@ -60,7 +60,7 @@
 
     Có bất kỳ vướng mắc nào trong quá trình sử dụng hãy liên hệ với M-Invoice tại mục Hỗ trợ kỹ thuật góc phải bên dưới màn hình hoặc gọi tổng đài kỹ thuật của M-Invoice (1900.955.557 Nhánh 1)
 
-![Hình 5](../../assets/images/invoice1/1.0_suaTienBangTay_5.png)
+![Hình 5](../../assets/images/invoice1/1.0_suaTienBangTay_5.png "Hãy bấm vào để xem rõ hơn")
 
 <!-- === "Latest"
 
@@ -213,8 +213,5 @@ pip install -e mkdocs-material
 ```
 
 [GitHub]: https://github.com/squidfunk/mkdocs-material -->
-
-
-
 
 <div class="last-updated">Last updated on <strong>Jun 5, 2025</strong> by <strong>nhatth</strong></div>

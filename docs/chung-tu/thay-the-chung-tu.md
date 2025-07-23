@@ -20,27 +20,27 @@ Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm 
 
 ### **Bước 1: Chọn chứng từ cần thay thế -> nghiệp vụ -> thay thế chứng từ**
 
-![Hình 1](../assets/images/chung-tu/ct_thaythe_1.png)
+![Hình 1](../assets/images/chung-tu/ct_thaythe_1.png "Hãy bấm vào để xem rõ hơn")
 
 ### **Bước 2: Điền lý do sai sót và điền lại thông tin chứng từ cần thay thế**
 
-![Hình 2](../assets/images/chung-tu/ct_thaythe_2.png)
+![Hình 2](../assets/images/chung-tu/ct_thaythe_2.png "Hãy bấm vào để xem rõ hơn")
 
 **Bấm lưu**
 
-![Hình 3](../assets/images/chung-tu/ct_thaythe_3.png)
+![Hình 3](../assets/images/chung-tu/ct_thaythe_3.png "Hãy bấm vào để xem rõ hơn")
 
 ### **Bước 3 : Kiểm tra thông tin -> ký gửi CQT**
 
-![Hình 4](../assets/images/chung-tu/ct_thaythe_4.png)
+![Hình 4](../assets/images/chung-tu/ct_thaythe_4.png "Hãy bấm vào để xem rõ hơn")
 
 Như vậy quý khách đã thay thế thành công chứng từ
 
 **Xem danh sách các chứng từ đã được lập**
 
-![Hình 5](../assets/images/chung-tu/ct_thaythe_5.png)
+![Hình 5](../assets/images/chung-tu/ct_thaythe_5.png "Hãy bấm vào để xem rõ hơn")
 
-![Hình 6](../assets/images/chung-tu/ct_thaythe_6.png)
+![Hình 6](../assets/images/chung-tu/ct_thaythe_6.png "Hãy bấm vào để xem rõ hơn")
 
 <span style="color: red; font-weight: bold;">Hiện tại thuế chưa có thông tin lập thay thế cần kèm biên bản -> trường hợp thuế có thông tin Minvoice sẽ cập nhật thông tin và hướng dẫn biên bản tại đây</span>
 
@@ -48,6 +48,6 @@ Như vậy quý khách đã thay thế thành công chứng từ
 
     Có bất kỳ vướng mắc nào trong quá trình sử dụng hãy liên hệ với M-Invoice tại mục Hỗ trợ kỹ thuật góc phải bên dưới màn hình hoặc gọi tổng đài kỹ thuật của M-Invoice (1900.955.557 Nhánh 1)
 
-![Hình 5](../assets/images/chung-tu/hotro.png)
+![Hình 5](../assets/images/chung-tu/hotro.png "Hãy bấm vào để xem rõ hơn")
 
 <div class="last-updated">Last updated on <strong>Jun 13, 2025</strong> by <strong>NHATTH</strong></div>

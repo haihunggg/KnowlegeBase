@@ -10,11 +10,11 @@ Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm 
 
 ### **Bước 1: Hệ thống --> Người sử dụng**
 
-![Hình 1](../assets/images/chung-tu/ct_nguoisudung_1.png)
+![Hình 1](../assets/images/chung-tu/ct_nguoisudung_1.png "Hãy bấm vào để xem rõ hơn")
 
 ### **Bước 2: Nhấm Thêm(F4) để bắt đầu thêm người dùng mới**
 
-![Hình 2](../assets/images/chung-tu/ct_nguoisudung_2.png)
+![Hình 2](../assets/images/chung-tu/ct_nguoisudung_2.png "Hãy bấm vào để xem rõ hơn")
 
 !!! Note ""
 
@@ -28,6 +28,6 @@ Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm 
 
     Có bất kỳ vướng mắc nào trong quá trình sử dụng hãy liên hệ với M-Invoice tại mục Hỗ trợ kỹ thuật góc phải bên dưới màn hình hoặc gọi tổng đài kỹ thuật của M-Invoice (1900.955.557 Nhánh 1)
 
-![Hình 3](../assets/images/chung-tu/hotro.png)
+![Hình 3](../assets/images/chung-tu/hotro.png "Hãy bấm vào để xem rõ hơn")
 
 <div class="last-updated">Last updated on <strong>Jun 5, 2025</strong> by <strong>nhatth</strong></div>

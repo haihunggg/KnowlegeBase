@@ -344,6 +344,7 @@ nav:
           - "Hướng dẫn sử dụng":
               - minvoice2/huong-dan/dang-nhap.md
               - minvoice2/huong-dan/dashboard.md
+              - minvoice2/huong-dan/chinh-sua-mau-hoa-don.md
               - minvoice2/huong-dan/lap-va-phat-hanh-hoa-don.md
               - minvoice2/huong-dan/sao-chep-hoa-don.md
               - minvoice2/huong-dan/plugin.md
@@ -402,7 +403,7 @@ nav:
               - chung-tu/tai-hang-loat.md
               - chung-tu/them-nguoi-dung.md
               - chung-tu/phan-quyen.md
-          - "Nghiệp vụ chứng từ điện tử":
+          - "Xử lý sai sót Chứng từ điện tử":
               - chung-tu/thay-the-chung-tu.md
               - chung-tu/dieu-chinh-chung-tu.md
               - chung-tu/giai-trinh-mau04ss.md

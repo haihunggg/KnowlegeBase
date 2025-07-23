@@ -20,23 +20,23 @@ Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm 
 
     <p align="center" style="font-weight: bold;">Anh chị có thể kiểm tra thông tin bản quyền và số lượng mua chứng từ theo ảnh sau</p>
 
-    ![Hình 1](../assets/images/chung-tu/ct_lapchungtu_0.png)
+    ![Hình 1](../assets/images/chung-tu/ct_lapchungtu_0.png "Hãy bấm vào để xem rõ hơn")
 
     ### **Bước 1: Truy cập vào phần lập chứng từ**
 
     Truy cập vào trang chứng từ điện tử M-invoice chọn phần **Chứng từ TNCN**
 
-    ![Hình 1](../assets/images/chung-tu/ct_lapchungtu_1.png)
+    ![Hình 1](../assets/images/chung-tu/ct_lapchungtu_1.png "Hãy bấm vào để xem rõ hơn")
 
     Bấm thêm để điền thông tin chứng từ
 
-    ![Hình 2](../assets/images/chung-tu/ct_lapchungtu_2.png)
+    ![Hình 2](../assets/images/chung-tu/ct_lapchungtu_2.png "Hãy bấm vào để xem rõ hơn")
 
-    ![Hình 3](../assets/images/chung-tu/ct_lapchungtu_3.png)
+    ![Hình 3](../assets/images/chung-tu/ct_lapchungtu_3.png "Hãy bấm vào để xem rõ hơn")
 
     ### **Bước 2: Nhập thông tin của chứng từ**
 
-    ![Hình 4](../assets/images/chung-tu/ct_lapchungtu_4.png)
+    ![Hình 4](../assets/images/chung-tu/ct_lapchungtu_4.png "Hãy bấm vào để xem rõ hơn")
 
     ???+ note "Nội dung trên chứng từ (Khoản 18, Điều 1, nghị định 70)"
 
@@ -106,23 +106,23 @@ Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm 
 
         - Điền các thông tin tính thuế,....
 
-    ![Hình 5](../assets/images/chung-tu/ct_lapchungtu_5.png)
+    ![Hình 5](../assets/images/chung-tu/ct_lapchungtu_5.png "Hãy bấm vào để xem rõ hơn")
 
     ### **Bước 3: Kiểm tra thông tin trước khi ký gửi thuế**
 
     **Chọn dòng cần xem in** ---> **XEM IN**
 
-    ![Hình 6](../assets/images/chung-tu/ct_lapchungtu_6.png)
+    ![Hình 6](../assets/images/chung-tu/ct_lapchungtu_6.png "Hãy bấm vào để xem rõ hơn")
 
-    ![Hình 7](../assets/images/chung-tu/ct_lapchungtu_7.png)
+    ![Hình 7](../assets/images/chung-tu/ct_lapchungtu_7.png "Hãy bấm vào để xem rõ hơn")
 
     ### **Bước 4: Ký gửi CQT**
 
     **Chọn dòng cần ký** ---> **Ký gửi CQT**
 
-    ![Hình 8](../assets/images/chung-tu/ct_lapchungtu_8.png)
+    ![Hình 8](../assets/images/chung-tu/ct_lapchungtu_8.png "Hãy bấm vào để xem rõ hơn")
 
-    ![Hình 9](../assets/images/chung-tu/ct_lapchungtu_9.png)
+    ![Hình 9](../assets/images/chung-tu/ct_lapchungtu_9.png "Hãy bấm vào để xem rõ hơn")
 
     <span style="color: red; font-weight: bold;">Chứng từ ngay sau khi ký sẽ tự động nhảy số chứng từ tiếp theo và ngày chứng từ sẽ ngày ký chứng từ</span>
 
@@ -134,7 +134,7 @@ Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm 
 
     ### **Bước 5: Tùy chọn mẫu chứng từ**
 
-    ![Hình 10](../assets/images/chung-tu/ct_lapchungtu_10.png)
+    ![Hình 10](../assets/images/chung-tu/ct_lapchungtu_10.png "Hãy bấm vào để xem rõ hơn")
 
     1. Trường hợp muốn chọn tiêu thức (từ NĐ70 sẽ có thêm tiêu thức 20, tiêu thức 20 là `Số thu nhập thực nhập`)
 
@@ -142,7 +142,7 @@ Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm 
 
     3. Thư xác nhận theo thu nhập
 
-    ![Hình 11](../assets/images/chung-tu/ct_lapchungtu_11.png)
+    ![Hình 11](../assets/images/chung-tu/ct_lapchungtu_11.png "Hãy bấm vào để xem rõ hơn")
 
     <span style="color: red; font-weight: bold;">Trường hợp Anh chị muốn in và tải PDF chứng từ thì có thể làm theo hướng dẫn trên</span>
 
@@ -156,13 +156,13 @@ Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm 
 
     ### **Bước 1: Tại màn hình danh sách chứng từ, chọn chứng từ chờ ký muốn sửa**
 
-    ![Hình 1](../assets/images/chung-tu/ct_suachungtu_1.png)
+    ![Hình 1](../assets/images/chung-tu/ct_suachungtu_1.png "Hãy bấm vào để xem rõ hơn")
 
     <span style="color: red; font-weight: bold;">Chỉ sửa được chứng từ khi ở trạng thái `Chờ ký`</span>
 
     ### **Bước 2: Sửa nội dung chứng từ và click "Lưu" để lưu lại thông tin**
 
-    ![Hình 2](../assets/images/chung-tu/ct_suachungtu_2.png)
+    ![Hình 2](../assets/images/chung-tu/ct_suachungtu_2.png "Hãy bấm vào để xem rõ hơn")
 
     Như vậy quý khách đã sửa thành công chứng từ
 
@@ -176,13 +176,13 @@ Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm 
 
     ### **Bước 1: Tại màn hình danh sách chứng từ, chọn chứng từ Chờ ký muốn xóa**
 
-    ![Hình 1](../assets/images/chung-tu/ct_xoachungtu_1.png)
+    ![Hình 1](../assets/images/chung-tu/ct_xoachungtu_1.png "Hãy bấm vào để xem rõ hơn")
 
     <span style="color: red; font-weight: bold;">Chỉ xóa được chứng từ khi ở trạng thái `Chờ ký`</span>
 
     <span style="color: red; font-weight: bold;">Trường hợp anh chị muốn xóa nhiều sẽ làm theo hướng dẫn sau đây</span>
 
-    ![Hình 2](../assets/images/chung-tu/ct_xoachungtu_2.png)
+    ![Hình 2](../assets/images/chung-tu/ct_xoachungtu_2.png "Hãy bấm vào để xem rõ hơn")
 
     Như vậy quý khách đã xóa thành công chứng từ
 
@@ -190,6 +190,6 @@ Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm 
 
     Có bất kỳ vướng mắc nào trong quá trình sử dụng hãy liên hệ với M-Invoice tại mục Hỗ trợ kỹ thuật góc phải bên dưới màn hình hoặc gọi tổng đài kỹ thuật của M-Invoice (1900.955.557 Nhánh 1)
 
-![Hình 11](../assets/images/chung-tu/hotro.png)
+![Hình 11](../assets/images/chung-tu/hotro.png "Hãy bấm vào để xem rõ hơn")
 
 <div class="last-updated">Last updated on <strong>Jun 13, 2025</strong> by <strong>NHATTH</strong></div>

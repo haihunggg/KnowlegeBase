@@ -25,22 +25,22 @@ Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm 
 Mã_số_thuế: là mã số thuế của công ty
 **VD: 0106026495.mtncn.minvoice.vn**
 
-![Hình 1](../assets/images/chung-tu/ct_dangnhap_1.png)
+![Hình 1](../assets/images/chung-tu/ct_dangnhap_1.png "Hãy bấm vào để xem rõ hơn")
 
 ### **Bước 2: Điền thông tin tài khoản để đăng nhập**
 
-![Hình 2](../assets/images/chung-tu/ct_dangnhap_2.png)
+![Hình 2](../assets/images/chung-tu/ct_dangnhap_2.png "Hãy bấm vào để xem rõ hơn")
 
 **Trường hợp quý khách quên mật khẩu thì có thể bấm vào QUÊN MẬT KHẨU để có thể lấy lại bằng email đã đăng ký khi đăng ký phần mềm**
 
-![Hình 3](../assets/images/chung-tu/ct_dangnhap_3.png)
+![Hình 3](../assets/images/chung-tu/ct_dangnhap_3.png "Hãy bấm vào để xem rõ hơn")
 
-![Hình 4](../assets/images/chung-tu/ct_dangnhap_4.png)
+![Hình 4](../assets/images/chung-tu/ct_dangnhap_4.png "Hãy bấm vào để xem rõ hơn")
 
 ???+ info "Xin chân thành cảm ơn quý khách hàng đã tin dùng sản phẩm của M-Invoice"
 
     Có bất kỳ vướng mắc nào trong quá trình sử dụng hãy liên hệ với M-Invoice tại mục Hỗ trợ kỹ thuật góc phải bên dưới màn hình hoặc gọi tổng đài kỹ thuật của M-Invoice (1900.955.557 Nhánh 1)
 
-![Hình 8](../assets/images/chung-tu/hotro.png)
+![Hình 8](../assets/images/chung-tu/hotro.png "Hãy bấm vào để xem rõ hơn")
 
 <div class="last-updated">Last updated on <strong>Jun 13, 2025</strong> by <strong>NHATTH</strong></div>

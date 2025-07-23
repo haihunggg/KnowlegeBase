@@ -16,19 +16,19 @@ Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm 
 
 ### **Bước 1: Chọn chứng từ cần gửi email -> chức năng -> gửi mail**
 
-![Hình 1](../assets/images/chung-tu/ct_guimail_1.png)
+![Hình 1](../assets/images/chung-tu/ct_guimail_1.png "Hãy bấm vào để xem rõ hơn")
 
 ### **Bước 2: Nhập địa chỉ email cần gửi đến**
 
 **Trường hợp chưa nhập mail ở trong thông tin người nộp thuế ở chứng từ thì quý khách cần điền mail của người nộp thuế**
 
-![Hình 2](../assets/images/chung-tu/ct_guimail_2.png)
+![Hình 2](../assets/images/chung-tu/ct_guimail_2.png "Hãy bấm vào để xem rõ hơn")
 
 **Kiểm tra xem được gửi thành công hay chưa**
 
-![Hình 3](../assets/images/chung-tu/ct_guimail_3.png)
+![Hình 3](../assets/images/chung-tu/ct_guimail_3.png "Hãy bấm vào để xem rõ hơn")
 
-![Hình 4](../assets/images/chung-tu/ct_guimail_4.png)
+![Hình 4](../assets/images/chung-tu/ct_guimail_4.png "Hãy bấm vào để xem rõ hơn")
 
 ### **Bước 3: Hướng dẫn gửi chứng từ hàng loạt**
 
@@ -36,7 +36,7 @@ Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm 
 
     Chức năng gửi hàng hoạt yêu cầu chứng từ đã được điền sẵn email của người nộp thuế.
 
-![Hình 5](../assets/images/chung-tu/ct_guimail_5.png)
+![Hình 5](../assets/images/chung-tu/ct_guimail_5.png "Hãy bấm vào để xem rõ hơn")
 
 Như vậy quý khách đã gửi thành công chứng từ cho người nộp thuế
 
@@ -44,6 +44,6 @@ Như vậy quý khách đã gửi thành công chứng từ cho người nộp t
 
     Có bất kỳ vướng mắc nào trong quá trình sử dụng hãy liên hệ với M-Invoice tại mục Hỗ trợ kỹ thuật góc phải bên dưới màn hình hoặc gọi tổng đài kỹ thuật của M-Invoice (1900.955.557 Nhánh 1)
 
-![Hình 5](../assets/images/chung-tu/hotro.png)
+![Hình 5](../assets/images/chung-tu/hotro.png "Hãy bấm vào để xem rõ hơn")
 
 <div class="last-updated">Last updated on <strong>Jun 13, 2025</strong> by <strong>NHATTH</strong></div>

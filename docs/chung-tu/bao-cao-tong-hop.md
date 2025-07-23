@@ -6,21 +6,21 @@ Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm 
 
 ### **Bước 1: Ở giao diện trang chủ chọn Báo cáo --> Báo cáo tổng hợp chứng từ**
 
-![Hình 1](../assets/images/chung-tu/ct_baocaotonghop_1.png)
+![Hình 1](../assets/images/chung-tu/ct_baocaotonghop_1.png "Hãy bấm vào để xem rõ hơn")
 
 ### **Bước 2: Bấm lọc dữ liệu --> chọn điều kiện lọc**
 
-![Hình 2](../assets/images/chung-tu/ct_baocaotonghop_2.png)
+![Hình 2](../assets/images/chung-tu/ct_baocaotonghop_2.png "Hãy bấm vào để xem rõ hơn")
 
-![Hình 3](../assets/images/chung-tu/ct_baocaotonghop_3.png)
+![Hình 3](../assets/images/chung-tu/ct_baocaotonghop_3.png "Hãy bấm vào để xem rõ hơn")
 
 **Nhấn nhận để hệ thống tải báo cáo theo điều kiện lọc**
 
 ### **Bước 3 : Chọn tải file Excel để kết xuất báo cáo về**
 
-![Hình 3](../assets/images/chung-tu/ct_baocaotonghop_4.png)
+![Hình 3](../assets/images/chung-tu/ct_baocaotonghop_4.png "Hãy bấm vào để xem rõ hơn")
 
-![Hình 3](../assets/images/chung-tu/ct_baocaotonghop_5.png)
+![Hình 3](../assets/images/chung-tu/ct_baocaotonghop_5.png "Hãy bấm vào để xem rõ hơn")
 
 Như vậy quý khách đã xuất báo cáo thành công chứng từ ra excel
 
@@ -28,6 +28,6 @@ Như vậy quý khách đã xuất báo cáo thành công chứng từ ra excel
 
     Có bất kỳ vướng mắc nào trong quá trình sử dụng hãy liên hệ với M-Invoice tại mục Hỗ trợ kỹ thuật góc phải bên dưới màn hình hoặc gọi tổng đài kỹ thuật của M-Invoice (1900.955.557 Nhánh 1)
 
-![Hình 4](../assets/images/chung-tu/hotro.png)
+![Hình 4](../assets/images/chung-tu/hotro.png "Hãy bấm vào để xem rõ hơn")
 
 <div class="last-updated">Last updated on <strong>Jun 13, 2025</strong> by <strong>NHATTH</strong></div>

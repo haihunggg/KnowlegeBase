@@ -21,21 +21,21 @@ Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm 
 
 ### **Bước 1: Quý khách truy cập vào phần danh mục --> Hàng hóa dịch vụ**
 
-![Hình 1](../../assets/images/invoice2/2.0_danh-muc-thay-doi-thue-suat_1.png)
+![Hình 1](../../assets/images/invoice2/2.0_danh-muc-thay-doi-thue-suat_1.png "Hãy bấm vào để xem rõ hơn")
 
 ### **Bước 2: Tích chọn vào những hàng hóa cần thay đổi (1), (2)**
 
-![Hình 2](../../assets/images/invoice2/2.0_danh-muc-thay-doi-thue-suat_2.png)
+![Hình 2](../../assets/images/invoice2/2.0_danh-muc-thay-doi-thue-suat_2.png "Hãy bấm vào để xem rõ hơn")
 
 Các bạn cũng có thể tích toàn bộ trên một trang bằng cách nhấn vào tích (3)
 
 ### **Bước 3: Nhấn vào phần thay đổi thuế suất**
 
-![Hình 3](../../assets/images/invoice2/2.0_danh-muc-thay-doi-thue-suat_3.png)
+![Hình 3](../../assets/images/invoice2/2.0_danh-muc-thay-doi-thue-suat_3.png "Hãy bấm vào để xem rõ hơn")
 
 ### **Bước 4: Chọn loại thuế suất áp dụng mới sau đó nhấn chuyển đổi**
 
-![Hình 4](../../assets/images/invoice2/2.0_danh-muc-thay-doi-thue-suat_4.png)
+![Hình 4](../../assets/images/invoice2/2.0_danh-muc-thay-doi-thue-suat_4.png "Hãy bấm vào để xem rõ hơn")
 
 Như vậy bạn đã cấp nhật hàng loạt thuế suất của danh mục hàng hóa mới
 
@@ -43,6 +43,6 @@ Như vậy bạn đã cấp nhật hàng loạt thuế suất của danh mục h
 
     Có bất kỳ vướng mắc nào trong quá trình sử dụng hãy liên hệ với M-Invoice tại mục Hỗ trợ kỹ thuật góc phải bên dưới màn hình hoặc gọi tổng đài kỹ thuật của M-Invoice (1900.955.557 Nhánh 1)
 
-![Hình 5](../../assets/images/invoice2/hotro.png)
+![Hình 5](../../assets/images/invoice2/hotro.png "Hãy bấm vào để xem rõ hơn")
 
 <div class="last-updated">Last updated on <strong>Jun 5, 2025</strong> by <strong>nhatth</strong></div>
