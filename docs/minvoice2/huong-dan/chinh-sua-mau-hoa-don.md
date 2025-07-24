@@ -101,10 +101,36 @@
 
     ![Gif 1](../../assets/images/invoice2/gif/chinh-sua-mau-3.gif "Hãy bấm vào để xem rõ hơn")
 
+??? Abstract "Bật tắt chế độ song ngữ - Bấm vào đây để xem hướng dẫn"
+
+    #### Bật tắt chế độ song ngữ
+
+    ![Hình 1](../../assets/images/invoice2/chinh-mau-hoa-don/chinh-mau-1.png "Hãy bấm vào để xem rõ hơn")
+
+    ![Hình 1](../../assets/images/invoice2/chinh-mau-hoa-don/chinh-mau-2.png "Hãy bấm vào để xem rõ hơn")
+
+    ![Hình 1](../../assets/images/invoice2/chinh-mau-hoa-don/song-ngu-1.png "Hãy bấm vào để xem rõ hơn")
+
+??? Abstract "Chỉnh font chữ, kích thước chữ - Căn lề: trái / phải / giữa - Kiểu chữ: đậm, nghiêng, gạch chân - 📐 Điều chỉnh độ rộng cột & căn lề ô - Bấm vào đây để xem hướng dẫn"
+
+    #### Chỉnh font chữ, kích thước chữ - Căn lề: trái / phải / giữa - Kiểu chữ: đậm, nghiêng, gạch chân - 📐 Điều chỉnh độ rộng cột & căn lề ô
+
+    **Hướng dẫn bằng GIF trường hợp chỉnh font chữ và màu chữ**
+
+    ![Gif 1](../../assets/images/invoice2/gif/chinh-sua-mau-4.gif "Hãy bấm vào để xem rõ hơn")
+
+    **Hướng dẫn bằng hình ảnh chi tiết**
+
+    ![Hình 1](../../assets/images/invoice2/chinh-mau-hoa-don/chinh-mau-1.png "Hãy bấm vào để xem rõ hơn")
+
+    ![Hình 1](../../assets/images/invoice2/chinh-mau-hoa-don/chinh-mau-2.png "Hãy bấm vào để xem rõ hơn")
+
+    ![Hình 1](../../assets/images/invoice2/chinh-mau-hoa-don/mau-chu-1.png "Hãy bấm vào để xem rõ hơn")
+
 ???+ info "Xin chân thành cảm ơn quý khách hàng đã tin dùng sản phẩm của M-Invoice"
 
     Có bất kỳ vướng mắc nào trong quá trình sử dụng hãy liên hệ với M-Invoice tại mục Hỗ trợ kỹ thuật góc phải bên dưới màn hình hoặc gọi tổng đài kỹ thuật của M-Invoice (1900.955.557 Nhánh 1)
 
 ![Hình 4](../../assets/images/invoice2/hotro.png "Hãy bấm vào để xem rõ hơn")
 
-<div class="last-updated">Last updated on <strong>Jul 18, 2025</strong> by <strong>nhatth</strong></div>
+<div class="last-updated">Last updated on <strong>Jul 24, 2025</strong> by <strong>nhatth</strong></div>
