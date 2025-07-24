@@ -113,7 +113,7 @@
 
 ??? Abstract "Chỉnh font chữ, kích thước chữ - Căn lề: trái / phải / giữa - Kiểu chữ: đậm, nghiêng, gạch chân - 📐 Điều chỉnh độ rộng cột & căn lề ô - Bấm vào đây để xem hướng dẫn"
 
-    #### Chỉnh font chữ, kích thước chữ - Căn lề: trái / phải / giữa - Kiểu chữ: đậm, nghiêng, gạch chân - 📐 Điều chỉnh độ rộng cột & căn lề ô
+    #### 🎨 Tùy chỉnh chữ và màu sắc
 
     **Hướng dẫn bằng GIF trường hợp chỉnh font chữ và màu chữ**
 
