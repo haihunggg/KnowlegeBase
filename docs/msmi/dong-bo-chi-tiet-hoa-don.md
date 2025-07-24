@@ -68,9 +68,11 @@
 
 ![Hình 1](../assets/images/mSMI/dong-bo-chi-tiet_3.png "Hãy bấm vào để xem rõ hơn")
 
+![Hình 1](../assets/images/mSMI/dong-bo-chi-tiet_4.png "Hãy bấm vào để xem rõ hơn")
+
 **Chờ quá trình được đồng bộ**
 
-![Hình 1](../assets/images/mSMI/dong-bo-chi-tiet_4.png "Hãy bấm vào để xem rõ hơn")
+![Hình 1](../assets/images/mSMI/dong-bo-chi-tiet_5.png "Hãy bấm vào để xem rõ hơn")
 
 !!! info "Xin chân thành cảm ơn Quý khách hàng đã tin dùng sản phẩm của M-Invoice"
 
