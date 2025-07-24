@@ -95,7 +95,7 @@
 
 ??? Abstract "Sử dụng khung viền mẫu hóa đơn - Bấm vào đây để xem hướng dẫn"
 
-    #### Tải hình nền lên mẫu
+    #### Sử dụng khung viền mẫu hóa đơn
 
     **Hướng dẫn bằng GIF nhanh**
 
