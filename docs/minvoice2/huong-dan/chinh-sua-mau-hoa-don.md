@@ -1,6 +1,6 @@
-# **Hướng dẫn chỉnh mẫu hóa đơn**
+# **Hướng dẫn chỉnh sửa mẫu hóa đơn**
 
-## **Hướng dẫn chỉnh mẫu hóa đơn**
+## **Hướng dẫn chỉnh sửa mẫu hóa đơn**
 
 ???+ Note "🧩 Chức năng chỉnh mẫu hóa đơn"
 
@@ -29,7 +29,7 @@
     🛠️ **Tùy chỉnh chi tiết nội dung hóa đơn**
 
     - ➕ **Thêm trường thông tin tùy chọn**
-    Cho phép bổ sung các trường như: **ghi chú, số hợp đồng, tên nhân viên**, v.v.
+    Cho phép bổ sung các trường như: **Thêm số tài khoản thứ 2**, v.v. (đây là trường hợp gắn thẳng trên mẫu) --> trường hợp muốn nhập từ phần mềm để hiện lên mẫu thì cần liên hệ kỹ thuật để xử lý (ví dụ thêm tên nhân viên tạo hóa đơn, hay ghi chú hóa đơn đó)
 
     - 🎨 **Tùy chỉnh chữ và màu sắc**
     - Chỉnh **màu chữ**
@@ -92,6 +92,14 @@
     ![Hình 1](../../assets/images/invoice2/chinh-mau-hoa-don/chinh-mau-4.png "Hãy bấm vào để xem rõ hơn")
 
     ![Hình 1](../../assets/images/invoice2/chinh-mau-hoa-don/chinh-mau-7.png "Hãy bấm vào để xem rõ hơn")
+
+??? Abstract "Sử dụng khung viền mẫu hóa đơn - Bấm vào đây để xem hướng dẫn"
+
+    #### Tải hình nền lên mẫu
+
+    **Hướng dẫn bằng GIF nhanh**
+
+    ![Gif 1](../../assets/images/invoice2/gif/chinh-sua-mau-3.gif "Hãy bấm vào để xem rõ hơn")
 
 ???+ info "Xin chân thành cảm ơn quý khách hàng đã tin dùng sản phẩm của M-Invoice"
 
