@@ -35,10 +35,12 @@ Khách hàng điền đầy đủ thông tin người đại diện pháp luật
 Thông tin này phục vụ để **sinh trắc học với CQT thông qua ứng dụng eTaxMobile của Cục thuế**.
 
 o **Ngày sinh người đại diện pháp luật** có định dạng `DD/MM/YYYY` (VD: `01/11/1970`)
+
 o **Giới tính người đại diện pháp luật:** Nam / Nữ
+
 o **Điền SĐT người đại diện pháp luật:** Là số điện thoại di động đăng nhập VNeID của người đại diện
-o **Điền căn cước công dân:** là chuỗi ký tự số gồm 12 chữ số (VD: `001078010101`)  
- hoặc **hộ chiếu người đại diện pháp luật** gồm 8 ký tự, số đầu tiên là **chữ cái viết hoa** và 7 ký tự số (VD: `A1234567`)
+
+o **Điền căn cước công dân:** là chuỗi ký tự số gồm 12 chữ số (VD: `001078010101`) hoặc **hộ chiếu người đại diện pháp luật** gồm 8 ký tự, số đầu tiên là **chữ cái viết hoa** và 7 ký tự số (VD: `A1234567`)
 
 🏪 Trường hợp là Hộ kinh doanh
 
@@ -61,6 +63,7 @@ Cần khai báo **không trùng lặp** với Ký hiệu đã sử dụng.
 Chương trình sẽ mặc định Ký hiệu cuối cùng là **YY**. VD khai báo như sau:
 
 o `1C25T` + 2 ký tự cuối bất kỳ với hóa đơn **GTGT**
+
 o `2C25T` + 2 ký tự cuối bất kỳ với hóa đơn **bán hàng**
 
 \_(ví dụ: `1C25TNH` hoặc `2C25THL` — <span style="color:red;"><strong>**Lưu ý:** 2 ký tự cuối không được trùng với ký hiệu hóa đơn ở phần mềm cũ)</strong></span>
