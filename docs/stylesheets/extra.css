@@ -235,3 +235,39 @@ body[data-md-color-scheme="slate"] .md-nav__link--active {
 .tabbed-labels--linked label a:hover::after {
   opacity: 1;
 }
+
+/* Chế độ tối (slate) */
+body[data-md-color-scheme="slate"] {
+  .card {
+    border: 1px solid rgba(255, 255, 255, 0.05);
+  }
+  .card-desc {
+    color: #e0f2fe;
+  }
+  .card-title {
+    color: #e0f2fe;
+  }
+
+  h1 {
+    font-size: 24px !important; /* nhỏ hơn bình thường (thường là 32px trở lên) */
+    font-weight: bold !important; /* đảm bảo bôi đậm */
+    color: #e0f2fe !important;
+  }
+}
+
+body[data-md-color-scheme="default"] {
+  .card {
+    border: 1px solid rgba(0, 0, 0, 0.1); /* xám nhạt */
+  }
+  .card-desc {
+    color: #111827;
+  }
+  .card-title {
+    color: #111827;
+  }
+  h1 {
+    font-size: 24px !important; /* nhỏ hơn bình thường (thường là 32px trở lên) */
+    font-weight: bold !important; /* đảm bảo bôi đậm */
+    color: #111827 !important;
+  }
+}
