@@ -226,7 +226,6 @@ nav:
               - Báo cáo bảng kê bán ra PL01: minvoice1/danh-muc-bao-cao/bao-cao-pl01.md
   - M-invoice 2.0:
       - "":
-          - "☰  Tổng quan": minvoice2/tong-quan.md
           - "Hướng dẫn sử dụng":
               - minvoice2/huong-dan/dang-nhap.md
               - minvoice2/huong-dan/dashboard.md
