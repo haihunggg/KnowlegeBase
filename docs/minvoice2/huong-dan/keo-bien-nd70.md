@@ -1,4 +1,4 @@
-# **Hướng dẫn thêm các trường mới theo NĐ70 ở trên mẫu hóa đơn**
+# **Thêm các trường mới theo NĐ70 ở trên mẫu hóa đơn**
 
 Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm hóa đơn điện tử M-Invoice ở phiên bản 2.0 vô cùng mạch lạc và dễ hiểu.
 

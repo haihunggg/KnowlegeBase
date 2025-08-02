@@ -101,9 +101,23 @@
 
     ![Hình 1](../../assets/images/invoice2/2.0_dieu-chinh-thue-suat_4.png "Hãy bấm vào để xem rõ hơn")
 
-    **Bước 2: Ghi âm hoàn toàn dòng sai thuế suất và ghi lại đúng dòng đó và chọn đúng thuế suất đúng**
+    **Bước 2: Ghi âm hoàn toàn dòng sai thuế suất**
 
     ![Hình 2](../../assets/images/invoice2/2.0_dieu-chinh-thue-suat_2.png "Hãy bấm vào để xem rõ hơn")
+
+    **Anh chị bấm lưu hóa đơn và ký hóa đơn này**
+
+    ![Hình 2](../../assets/images/invoice2/2.0_dieu-chinh-thue-suat_8.png "Hãy bấm vào để xem rõ hơn")
+
+    **Bước 3: Làm 1 hóa đơn điều chỉnh tiếp và điền đúng giá trị và thuế suất đúng**
+
+    ![Hình 2](../../assets/images/invoice2/2.0_dieu-chinh-thue-suat_9.png "Hãy bấm vào để xem rõ hơn")
+
+    ![Hình 2](../../assets/images/invoice2/2.0_dieu-chinh-thue-suat_10.png "Hãy bấm vào để xem rõ hơn")
+
+    **Anh chị bấm lưu hóa đơn và ký hóa đơn này và gửi cho khách hàng**
+
+    ==> <strong style="color: red;">Như vậy để giảm thuế suất thì cần làm 2 lần, 1 lần đầu tiền để âm giá trị về 0, lần 2 điền lại gái trị và thuế suất đúng (như 1 hóa đơn mới)</strong>
 
 ??? Abstract "Điều chỉnh tăng thuế suất - Bấm vào đây để xem hướng dẫn"
 

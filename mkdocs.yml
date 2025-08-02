@@ -226,12 +226,12 @@ nav:
               - Báo cáo bảng kê bán ra PL01: minvoice1/danh-muc-bao-cao/bao-cao-pl01.md
   - M-invoice 2.0:
       - "":
+          - "☰  Tổng quan": minvoice2/tong-quan.md
           - "Hướng dẫn sử dụng":
               - minvoice2/huong-dan/dang-nhap.md
               - minvoice2/huong-dan/dashboard.md
               - minvoice2/huong-dan/chinh-sua-mau-hoa-don.md
               - minvoice2/huong-dan/lap-va-phat-hanh-hoa-don.md
-              - minvoice2/huong-dan/sao-chep-hoa-don.md
               - minvoice2/huong-dan/plugin.md
               - minvoice2/huong-dan/dang-ky-thay-doi-to-khai-theo-ND70.md
               - minvoice2/huong-dan/them-cks-moi.md
@@ -367,3 +367,4 @@ nav:
           - "New-invoice":
               - tai-lieu/new-invoice/dang-ky-thay-doi-to-khai-theo-ND70.md
               - tai-lieu/new-invoice/thay-doi-dia-chi-tren-hoa-don.md
+              - tai-lieu/new-invoice/chuyen-doi-minvoice.md
