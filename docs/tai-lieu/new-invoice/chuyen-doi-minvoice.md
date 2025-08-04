@@ -2,7 +2,9 @@
 
 ???+ note "Mục đích"
 
-    Chức năng này dành cho Khách hàng chủ động chuyển đổi qua Hệ thống hóa đơn điện tử M-invoice.
+    **Chức năng này dành cho Khách hàng chủ động chuyển đổi qua Hệ thống hóa đơn điện tử M-invoice.**
+
+    <span style="color:red;"><strong>MIỄN PHÍ</strong></span>
 
 ---
 
