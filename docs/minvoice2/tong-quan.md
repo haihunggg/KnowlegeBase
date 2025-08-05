@@ -24,7 +24,7 @@
   <div class="card-icon" style="mask-image: url('/assets/icons/nghiep-vu-sai-sot.svg');"></div>
   <div>
     <h2 class="card-title">Nghiệp vụ hóa đơn điện tử - xử lý sai sót</h2>
-    <p class="card-desc">Hướng dẫn xử lý các tình huống khi sai sót khi xuất hóa đơn.</p>
+    <p class="card-desc">Hướng dẫn xử lý các tình huống sai sót khi xuất hóa đơn.</p>
   </div>
 </a>
 
