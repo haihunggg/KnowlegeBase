@@ -174,3 +174,142 @@ body[data-md-color-scheme="slate"] .md-nav__link--active {
   margin-top: 2em;
   font-style: italic;
 }
+/* Vùng chứa tất cả tab */
+.tabbed-labels--linked {
+  background-color: #e0f2fe; /* xanh lam nhạt – hiện đại */
+  border-radius: 6px;
+  padding: 12px 16px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin-bottom: 1.5rem;
+}
+
+/* Label bao ngoài mỗi tab */
+.tabbed-labels--linked label {
+  font-weight: 500;
+  position: relative; /* để chứa tooltip */
+}
+
+/* Style chung cho tab */
+.tabbed-labels--linked label a {
+  display: inline-block;
+  padding: 10px 16px;
+  font-size: 15px;
+  background-color: #ffffff;
+  border: 1px solid #d1d5db;
+  border-radius: 6px;
+  text-decoration: none;
+  transition: all 0.2s ease;
+  cursor: pointer;
+  color: #374151;
+}
+
+/* Hover: thay đổi màu sắc tab */
+.tabbed-labels--linked label a:hover {
+  background-color: #f3f4f6;
+  border-color: #3b82f6;
+  color: #1d4ed8;
+}
+
+/* Tooltip hiện khi hover */
+.tabbed-labels--linked label a::after {
+  content: "Bấm vào đây để xem";
+  position: absolute;
+  bottom: 120%;
+  left: 50%;
+  transform: translateX(-50%);
+  background-color: #111827;
+  color: #ffffff;
+  padding: 4px 8px;
+  border-radius: 4px;
+  font-size: 12px;
+  white-space: nowrap;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.3s ease;
+  z-index: 20;
+}
+
+/* Hiện tooltip khi hover */
+.tabbed-labels--linked label a:hover::after {
+  opacity: 1;
+}
+
+/* Nội dung tổng quan */
+.card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(210px, 1fr)); /* nhỏ hơn */
+  gap: 1rem; /* giảm khoảng cách */
+  margin-top: 1rem;
+}
+
+.card {
+  display: flex;
+  flex-direction: column; /* 👈 xếp icon + text theo chiều dọc */
+  align-items: flex-start; /* 👈 căn trái toàn bộ */
+  gap: 0rem;
+  padding: 0.85rem 1rem;
+  border-radius: 0.75rem;
+  background-color: var(--md-default-bg-color);
+  border: 1px solid rgba(255, 255, 255, 0.05);
+  transition: border-color 0.3s ease;
+  text-decoration: none;
+  color: inherit;
+}
+
+.card:hover {
+  border-color: #2d6df6 !important;
+}
+
+.card-icon {
+  width: 1.25rem;
+  height: 1.25rem;
+  background-color: #2d6df6;
+  mask-repeat: no-repeat;
+  mask-position: center;
+  mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  -webkit-mask-position: center;
+  -webkit-mask-size: contain;
+  flex-shrink: 0;
+}
+
+.card-title {
+  margin: 0.4em 0 0.4em !important;
+  font-weight: 700 !important;
+  font-size: 0.9rem !important; /* nhỏ hơn trước */
+  color: #e0f2fe;
+}
+
+.card-desc {
+  margin: 0.4em 0 0.4em !important;
+  font-size: 0.7rem; /* nhỏ hơn trước */
+  line-height: 1rem;
+  color: #e0f2fe;
+}
+
+/* Chế độ tối (slate) */
+body[data-md-color-scheme="slate"] {
+  .card {
+    border: 1px solid rgba(255, 255, 255, 0.05);
+  }
+  .card-desc {
+    color: #e0f2fe;
+  }
+  .card-title {
+    color: #e0f2fe;
+  }
+}
+
+body[data-md-color-scheme="default"] {
+  .card {
+    border: 1px solid rgba(0, 0, 0, 0.1); /* xám nhạt */
+  }
+  .card-desc {
+    color: #111827;
+  }
+  .card-title {
+    color: #111827;
+  }
+}

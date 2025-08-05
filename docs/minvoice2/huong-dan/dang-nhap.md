@@ -69,9 +69,53 @@ Mã_số_thuế: là mã số thuế của công ty
 
 ![Hình 5](../../assets/images/invoice2/2.0_dang-nhap_12.png "Hãy bấm vào để xem rõ hơn")
 
-#### **3. Đổi mật khẩu (nếu cần)**
+#### **4. Đổi mật khẩu (nếu cần)**
 
 ![Hình 5](../../assets/images/invoice2/2.0_dang-nhap_13.png "Hãy bấm vào để xem rõ hơn")
+
+#### **5. Cài đặt công cụ ký hóa đơn**
+
+???+ Note "Ghi chú"
+
+    Quý khách cần cài đặt công cụ cho các trường hợp sau đây
+
+    - Lần đầu tiền sử dụng hóa đơn điện tử
+
+    - Thực hiện ký hóa đơn bằng USB trên các thiêt bị khác
+
+    - Sau khi cài đặt lại windows máy tính
+
+**Bước 1: Nhấn vào biểu tượng cài đặt trên trang chủ giao diện**
+
+![Hình 1](../../assets/images/invoice2/2.0_plugin_1.png "Hãy bấm vào để xem rõ hơn")
+
+**Bước 2: Nhấn Save để tải bộ cài về**
+
+![Hình 2](../../assets/images/invoice2/2.0_plugin_2.png "Hãy bấm vào để xem rõ hơn")
+
+**Bước 3 : Mở bộ cài và cài đặt**
+
+![Hình 3](../../assets/images/invoice2/2.0_plugin_3.png "Hãy bấm vào để xem rõ hơn")
+
+Chọn vào biểu tượng Plugin bên góc trái màn hình chọn **Show in folder**
+
+![Hình 4](../../assets/images/invoice2/2.0_plugin_4.png "Hãy bấm vào để xem rõ hơn")
+
+Để khi cài đặt Plugin luôn khởi động khi bật máy bạn chọn **Run as adminstrator**
+
+![Hình 5](../../assets/images/invoice2/2.0_plugin_5.png "Hãy bấm vào để xem rõ hơn")
+
+Bạn chon **Install** để bắt đầu cài đặt
+
+![Hình 6](../../assets/images/invoice2/2.0_plugin_6.png "Hãy bấm vào để xem rõ hơn")
+
+Bạn chờ cho bộ cài Dowload và tự động cài đặt là hoàn thành
+
+**Bước 4 : Kiểm tra bộ cài đã được cài đặt thành công hay chưa**
+
+![Hình 7](../../assets/images/invoice2/2.0_plugin_7.png "Hãy bấm vào để xem rõ hơn")
+
+Kích chuột trái vào mũi tên góc phải màn hình, nếu có biểu tượng **M-invoice Plugin Version 2.0** như thế là công cụ ký plugin đã cài đặt thành công
 
 ???+ info "Xin chân thành cảm ơn quý khách hàng đã tin dùng sản phẩm của M-Invoice"
 
@@ -79,4 +123,4 @@ Mã_số_thuế: là mã số thuế của công ty
 
 ![Hình 8](../../assets/images/invoice2/hotro.png "Hãy bấm vào để xem rõ hơn")
 
-<div class="last-updated">Last updated on <strong>Jul 18, 2025</strong> by <strong>nhatth</strong></div>
+<div class="last-updated">Last updated on <strong>Aug 05, 2025</strong> by <strong>nhatth</strong></div>

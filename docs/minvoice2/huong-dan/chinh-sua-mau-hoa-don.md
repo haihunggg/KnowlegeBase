@@ -1,4 +1,4 @@
-# **Hướng dẫn chỉnh sửa mẫu hóa đơn**
+# **Chỉnh sửa mẫu hóa đơn**
 
 ## **Hướng dẫn chỉnh sửa mẫu hóa đơn**
 
