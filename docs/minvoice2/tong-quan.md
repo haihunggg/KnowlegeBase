@@ -4,8 +4,8 @@
 
 <div class="card-grid">
 
-<a class="card" href="./minvoice2/huong-dan/dang-nhap">
-  <div class="card-icon" style="mask-image: url('./assets/icons/huong-dan-su-dung.svg');"></div>
+<a class="card" href="../../minvoice2/huong-dan/dang-nhap">
+  <div class="card-icon" style="mask-image: url('{{ base_url }}/assets/icons/huong-dan-su-dung.svg');"></div>
   <div>
     <h2 class="card-title">Hướng dẫn sử dụng</h2>
     <p class="card-desc">Hướng dẫn thao tác các chức năng chính của hóa đơn điện tử.</p>
