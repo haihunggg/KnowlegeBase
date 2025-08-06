@@ -8,7 +8,7 @@
   <div class="card-icon" style="mask-image: url('/assets/icons/huong-dan-su-dung.svg');"></div>
   <div>
     <h2 class="card-title">Hướng dẫn sử dụng</h2>
-    <p class="card-desc">Hướng dẫn thao tác các chức năng chính của hóa đơn điện tử</p>
+    <p class="card-desc">Hướng dẫn thao tác các chức năng chính của hóa đơn điện tử.</p>
   </div>
 </a>
 
