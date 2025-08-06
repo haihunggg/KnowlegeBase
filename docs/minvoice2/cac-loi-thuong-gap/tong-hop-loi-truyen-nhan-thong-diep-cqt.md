@@ -3,6 +3,40 @@ hide:
   - toc
 ---
 
+**Chi tiết các bước hướng dẫn khắc phục các lỗi truyền nhận từ CQT**
+
+??? info "Cách để xem mã lỗi và mô tả lỗi ở phiên bản 1.0 - Bấm vào đấy để xem"
+
+    **Bước 1: Bấm vào chữ đã gửi màu đỏ ở hóa đơn để kiểm tra**
+
+    ![Hình 1](../../assets/images/invoice2/cac-loi-thuong-gap/loi-truyen-nhan-cqt-v1-1.png "Hãy bấm vào để xem rõ hơn")
+
+    **Bước 2: Đọc mô tả lỗi, mã lỗi**
+
+    ![Hình 1](../../assets/images/invoice2/cac-loi-thuong-gap/loi-truyen-nhan-cqt-v1-2.png "Hãy bấm vào để xem rõ hơn")
+
+    <span style="color:red;"><strong>1: Mã lỗi</strong></span>
+
+    <span style="color:red;"><strong>2: Mô tả lỗi</strong></span>
+
+    **Bước 3: Tra cứu lỗi + hướng xử lý ở dưới đây**
+
+???+ info "Cách để xem mã lỗi và mô tả lỗi ở phiên bản 2.0"
+
+    **Bước 1: Bấm vào chữ có lỗi màu đỏ ở hóa đơn bị lỗi**
+
+    ![Hình 1](../../assets/images/invoice2/cac-loi-thuong-gap/loi-truyen-nhan-cqt-1.png "Hãy bấm vào để xem rõ hơn")
+
+    **Bước 2: Đọc mô tả lỗi, mã lỗi**
+
+    ![Hình 1](../../assets/images/invoice2/cac-loi-thuong-gap/loi-truyen-nhan-cqt-2.png "Hãy bấm vào để xem rõ hơn")
+
+    <span style="color:red;"><strong>1: Mã lỗi</strong></span>
+
+    <span style="color:red;"><strong>2: Mô tả lỗi</strong></span>
+
+**Bước 3: Tra cứu lỗi + hướng xử lý ở dưới đây**
+
 <!-- Style -->
 <style>
   :root {
@@ -130,6 +164,77 @@ hide:
     max-width: 400px;
     margin-right: 10px;
   }
+  th:nth-child(1),
+  td:nth-child(1),
+    th:nth-child(3),
+  td:nth-child(3),
+      th:nth-child(5),
+  td:nth-child(5),
+  th:nth-child(6),
+  td:nth-child(6) {
+    display: none;
+  }
+
+.custom-tooltip-trigger {
+  position: relative;
+  color: red;
+  text-decoration: underline;
+  cursor: pointer;
+  display: inline-block;
+  max-width: 100%;
+}
+
+.custom-tooltip-text {
+  visibility: hidden;
+  opacity: 0;
+  position: absolute;
+  top: 50%;
+  right: 100%; /* 👈 đưa tooltip sang trái hoàn toàn */
+  transform: translateY(-50%); /* 👈 căn giữa theo chiều dọc */
+  margin-right: 12px; /* 👈 khoảng cách giữa tooltip và chữ “Lưu ý” */
+  min-width: 250px;
+  max-width: 400px;
+  background-color: #333;
+  color: #fff;
+  text-align: left;
+  border-radius: 6px;
+  padding: 8px 12px;
+  font-size: 14px;
+  line-height: 1.4;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.3);
+  transition: opacity 0.3s ease;
+  word-break: break-word;
+  white-space: normal;
+  overflow-wrap: break-word;
+  box-sizing: border-box;
+  z-index: 999;
+}
+
+.custom-tooltip-trigger:hover .custom-tooltip-text {
+  visibility: visible;
+  opacity: 1;
+}
+
+
+.toggle-button {
+    background: none;
+    border: none;
+    color: #007bff;
+    cursor: pointer;
+    padding: 0;
+    margin-left: 5px;
+    font-size: 0.85em;
+  }
+
+  .toggle-button:hover {
+    text-decoration: underline;
+  }
+
+  .truncated-text, .full-text {
+  
+  }
+
+
 </style>
 
 <!-- Spinner -->
@@ -153,9 +258,9 @@ hide:
 
   function getColumnWidth(index) {
     const widths = {
-      0: '60px', 1: '150px', 2: '200px', 3: '250px',
-      4: '300px', 5: '350px', 6: '180px', 7: '150px',
-      8: '200px', 9: '150px'
+      0: '60px', 1: '150px', 2: '200px', 3: '210px',
+      4: '300px', 5: '350px', 6: '210px', 7: '250px',
+      8: '200px', 9: '25px'
     };
     return widths[index] || '120px';
   }
@@ -246,43 +351,167 @@ hide:
     return text.replace(pattern, `<span class="highlight">$1</span>`);
   }
 
-  function applyFilter() {
-    const table = document.querySelector('#sheet-table-container table');
-    if (!table) return;
+ function applyFilter() {
+  const table = document.querySelector('#sheet-table-container table');
+  if (!table) return;
 
-    const filters = Array.from(table.querySelectorAll('.filter-row td')).map(td => {
-      const input = td.querySelector('input, select');
-      return input ? input.value.trim().toLowerCase() : '';
+  const styledColumns = [0, 1, 2, 3, 4, 5]; // Áp dụng định dạng đặc biệt cho các cột này
+
+  const filters = Array.from(table.querySelectorAll('.filter-row td')).map(td => {
+    const input = td.querySelector('input, select');
+    return input ? input.value.trim().toLowerCase() : '';
+  });
+
+  const globalSearchValue = document.getElementById('globalSearch')?.value?.toLowerCase() ?? '';
+
+  const tbody = table.querySelector('tbody');
+  tbody.innerHTML = '';
+
+  rawRows.slice(1).forEach(row => {
+    const matchColumnFilters = row.every((cell, idx) => {
+      const filterVal = filters[idx];
+      if (!filterVal) return true;
+      return cell.toLowerCase().includes(filterVal);
     });
 
-    const globalSearchValue = document.getElementById('globalSearch')?.value?.toLowerCase() ?? '';
+    const matchGlobal = globalSearchValue
+      ? row.some(cell => cell.toLowerCase().includes(globalSearchValue))
+      : true;
 
-    const tbody = table.querySelector('tbody');
-    tbody.innerHTML = '';
+    if (matchColumnFilters && matchGlobal) {
+      const tr = document.createElement('tr');
 
-    rawRows.slice(1).forEach(row => {
-      const matchColumnFilters = row.every((cell, idx) => {
-        const filterVal = filters[idx];
-        if (!filterVal) return true;
-        return cell.toLowerCase().includes(filterVal);
+      row.forEach((cell, idx) => {
+        const td = document.createElement('td');
+
+        if (headers[idx].toLowerCase().includes("lưu ý")) {
+          if (cell.trim() !== "") {
+            const safeText = cell
+              .replace(/&/g, "&amp;")
+              .replace(/</g, "&lt;")
+              .replace(/>/g, "&gt;")
+              .replace(/"/g, "&quot;")
+              .replace(/'/g, "&#39;");
+            td.innerHTML = `
+              <span class="custom-tooltip-trigger">Lưu ý
+                <span class="custom-tooltip-text">${safeText}</span>
+              </span>
+            `;
+          } else {
+            td.innerHTML = "";
+          }
+        } else {
+          // Xử lý định dạng các cột được chọn
+          let formatted = cell;
+
+          if (styledColumns.includes(idx)) {
+            let parts = cell.split(' - ');
+            if (parts.length >= 2 && !isNaN(parts[0].trim())) {
+              const numberPart = `<span style="color:red">${parts[0].trim()}</span>`;
+              const textPart = `<strong>${parts.slice(1).join(' - ').trim()}</strong>`;
+              formatted = `${numberPart} - ${textPart}`;
+            } else {
+              formatted = `<strong>${cell}</strong>`;
+            }
+          }
+
+// Nếu là cột "Cách kiểm tra phát hiện lỗi" thì tự động xuống dòng theo số
+if (headers[idx].toLowerCase().includes("cách kiểm tra") && cell.trim() !== "") {
+  formatted = cell.replace(/(\d+)\./g, '<br>$1.').trim();
+  // Xoá <br> đầu nếu có
+  formatted = formatted.replace(/^<br>/, '');
+}
+
+      const plainText = cell.trim();
+
+if (plainText.length > 109) {
+  let shortPart = plainText.slice(0, 109);
+  let fullPart = plainText;
+
+  // Nếu là cột "cách kiểm tra", thêm <br> xuống dòng
+  const isCheckColumn = headers[idx].toLowerCase().includes("cách kiểm tra");
+  if (isCheckColumn) {
+    shortPart = shortPart.replace(/(\d+)\./g, '<br>$1.').replace(/^<br>/, '');
+    fullPart = fullPart.replace(/(\d+)\./g, '<br>$1.').replace(/^<br>/, '');
+  }
+
+  // Highlight
+  const highlightedShort = highlightMatch(shortPart, filters[idx] || globalSearchValue);
+  const highlightedFull = highlightMatch(fullPart, filters[idx] || globalSearchValue);
+
+  let formattedShort = highlightedShort;
+  let formattedFull = highlightedFull;
+
+  // Áp dụng định dạng đặc biệt nếu là cột cần thiết
+  if (styledColumns.includes(idx)) {
+    let partsShort = shortPart.replace(/<br>/g, '').split(' - ');
+    let partsFull = fullPart.replace(/<br>/g, '').split(' - ');
+
+    if (partsShort.length >= 2 && !isNaN(partsShort[0].trim())) {
+      formattedShort = `<span style="color:red">${partsShort[0].trim()}</span> - <strong>${partsShort.slice(1).join(' - ').trim()}</strong>`;
+    }
+
+    if (partsFull.length >= 2 && !isNaN(partsFull[0].trim())) {
+      formattedFull = `<span style="color:red">${partsFull[0].trim()}</span> - <strong>${partsFull.slice(1).join(' - ').trim()}</strong>`;
+    }
+  }
+
+  td.innerHTML = `
+    <span class="truncated-text">${formattedShort}...</span>
+    <span class="full-text" style="display:none;">${formattedFull}</span>
+    <button class="toggle-button" onclick="toggleText(this)">Xem thêm</button>
+  `;
+} else {
+  let finalFormatted = cell;
+
+  if (styledColumns.includes(idx)) {
+    let parts = cell.split(' - ');
+    if (parts.length >= 2 && !isNaN(parts[0].trim())) {
+      finalFormatted = `<span style="color:red">${parts[0].trim()}</span> - <strong>${parts.slice(1).join(' - ').trim()}</strong>`;
+    } else {
+      finalFormatted = `<strong>${cell}</strong>`;
+    }
+  }
+
+  // Nếu là cột cách kiểm tra, xử lý xuống dòng
+  if (headers[idx].toLowerCase().includes("cách kiểm tra") && cell.trim() !== "") {
+    finalFormatted = cell.replace(/(\d+)\./g, '<br>$1.').replace(/^<br>/, '');
+  }
+
+  td.innerHTML = highlightMatch(finalFormatted, filters[idx] || globalSearchValue);
+}
+
+
+        }
+
+        td.style.width = getColumnWidth(idx);
+        tr.appendChild(td);
       });
 
-      const matchGlobal = globalSearchValue
-        ? row.some(cell => cell.toLowerCase().includes(globalSearchValue))
-        : true;
+      tbody.appendChild(tr);
+    }
+  });
+}
 
-      if (matchColumnFilters && matchGlobal) {
-        const tr = document.createElement('tr');
-        row.forEach((cell, idx) => {
-          const td = document.createElement('td');
-          td.innerHTML = highlightMatch(cell, filters[idx] || globalSearchValue);
-          td.style.width = getColumnWidth(idx);
-          tr.appendChild(td);
-        });
-        tbody.appendChild(tr);
-      }
-    });
+function toggleText(button) {
+  const td = button.parentElement;
+  const truncated = td.querySelector('.truncated-text');
+  const full = td.querySelector('.full-text');
+
+  const isExpanded = full.style.display === 'inline';
+
+  if (isExpanded) {
+    full.style.display = 'none';
+    truncated.style.display = 'inline';
+    button.textContent = 'Xem thêm';
+  } else {
+    full.style.display = 'inline';
+    truncated.style.display = 'none';
+    button.textContent = 'Thu gọn';
   }
+}
+
+
 
   function runWhenPageReady() {
     const container = document.getElementById('sheet-table-container');
@@ -299,4 +528,4 @@ hide:
   }
 </script>
 
-<div class="last-updated">Last updated on <strong>July 8, 2025</strong> by <strong>nhatth</strong></div>
+<div class="last-updated">Last updated on <strong>Aug 6, 2025</strong> by <strong>NHATTH</strong></div>

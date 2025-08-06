@@ -2,7 +2,7 @@
 
 ???+ Note "Nội dung"
 
-    #### **Giải thích về chức năng Thêm – Sửa – Xóa – Sao chép hóa đơn
+    #### Giải thích về chức năng Thêm – Sửa – Xóa – Sao chép hóa đơn
 
     Trong quá trình sử dụng **phần mềm hóa đơn điện tử**, người dùng thường xuyên phải thao tác với các hóa đơn để phục vụ hoạt động kinh doanh và quản trị. Các chức năng như **Thêm**, **Sửa**, **Xóa**, và **Sao chép hóa đơn** là những nghiệp vụ cơ bản nhưng rất quan trọng, hỗ trợ người dùng xử lý linh hoạt và chính xác dữ liệu hóa đơn.
 

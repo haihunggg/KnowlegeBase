@@ -15,8 +15,8 @@
 <a class="card" href="/minvoice2/cac-loi-thuong-gap/cac-loi-ky-hoa-don/">
   <div class="card-icon" style="mask-image: url('/assets/icons/cac-loi-thuong-gap.svg');"></div>
   <div>
-    <h2 class="card-title">Các lỗi thường gặp</h2>
-    <p class="card-desc">Tổng hợp các lỗi phổ biến khi sử dụng hóa đơn điện tử và cách khắc phục nhanh.</p>
+    <h2 class="card-title">Các câu hỏi và lỗi thường gặp khi sử dụng phần mềm</h2>
+    <p class="card-desc">Tổng hợp các câu hỏi thường gặp và lỗi phổ biến khi sử dụng hóa đơn điện tử và cách khắc phục nhanh.</p>
   </div>
 </a>
 

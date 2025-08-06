@@ -249,10 +249,15 @@ nav:
               - minvoice2/huong-dan/keo-bien-nd70.md
               - minvoice2/huong-dan/lay-macqt.md
               - minvoice2/huong-dan/chuyen-doi-so-dinh-danh-ca-nhan-thay-the-ma-so-thue.md
-          - "Các lỗi thường gặp khi sử dụng phần mềm":
-              - minvoice2/cac-loi-thuong-gap/cac-loi-ky-hoa-don.md
-              - minvoice2/cac-loi-thuong-gap/loi-ket-noi-khong-nhan-duoc-phan-hoi-tu-cqt.md
-              - Tổng hợp các lỗi truyền nhận thông điệp CQT: minvoice2/cac-loi-thuong-gap/tong-hop-loi-truyen-nhan-thong-diep-cqt.md
+          - "Các câu hỏi và lỗi thường gặp khi sử dụng phần mềm":
+              - "Các câu hỏi thường gặp":
+                  - minvoice2/cac-cau-hoi-thuong-gap/toi-muon-su-dung-loai-hinh-doanh-nghiep-la-dich-vu-van-chuyen.md
+              - "Các lỗi thường gặp":
+                  - "Các lỗi ký hoá đơn thường gặp":
+                      - minvoice2/cac-loi-thuong-gap/cac-loi-ky-hoa-don-thuong-gap/ban-chua-cai-dat-cong-cu-plugin-de-ky-hoa-don.md
+                      - minvoice2/cac-loi-thuong-gap/cac-loi-ky-hoa-don-thuong-gap/ban-da-huy-bo-thao-tac-ky.md
+                  - minvoice2/cac-loi-thuong-gap/loi-ket-noi-khong-nhan-duoc-phan-hoi-tu-cqt.md
+                  - Hướng dẫn khắc phục các lỗi truyền nhận từ CQT: minvoice2/cac-loi-thuong-gap/tong-hop-loi-truyen-nhan-thong-diep-cqt.md
           - "Nghiệp vụ hoá đơn điện tử - Xử lý sai sót":
               - Lập biên bản hóa đơn sai sót: minvoice2/xu-ly-sai-sot/lap-bien-ban-hoa-don.md
               - minvoice2/xu-ly-sai-sot/dieu-chinh-hoa-don.md

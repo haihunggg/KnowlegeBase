@@ -313,3 +313,9 @@ body[data-md-color-scheme="default"] {
     color: #111827;
   }
 }
+
+#__nav_4_1_3_1_label,
+#__nav_4_1_3_2_label,
+#__nav_4_1_3_2_1_label {
+  font-weight: bold;
+}

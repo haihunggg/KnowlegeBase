@@ -1,12 +1,37 @@
-# **Đăng nhập M-invoice 2.0**
+# **Đăng nhập lần đầu**
 
-Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm hóa đơn điện tử M-Invoice ở phiên bản 2.0 vô cùng mạch lạc và dễ hiểu.
+???+ Note "Nội dung"
 
-## **Hướng dẫn đăng nhập M-invoice 2.0**
+    🎯 **Mục đích**
 
-**Thao tác cài đặt và thực hiện như sau**
+    Chức năng **Đăng nhập** giúp người dùng xác thực danh tính để truy cập vào hệ thống phần mềm. Việc đăng nhập đảm bảo:
 
-### **Bước 1: Truy cập trình duyệt**
+    - 🔐 **Bảo mật dữ liệu** và thông tin người dùng.
+
+    - 👥 **Phân quyền truy cập** phù hợp theo từng vai trò (Admin, Nhân viên, Khách...).
+
+    - 🕵️‍♂️ **Theo dõi lịch sử thao tác**, lập hóa đơn của từng người dùng.
+
+### **Bước 1: Đăng ký sử dụng hóa đơn điện tử**
+
+📝 **Chuẩn bị:**
+
+- **Giấy phép đăng ký kinh doanh**
+- **Chữ ký số**
+- **Thông tin người đại diện pháp luật**
+
+---
+
+🤝 **Ký hợp đồng hoặc Thỏa thuận sử dụng dịch vụ với M-Invoice.**
+
+---
+
+🔑 **Được cấp tài khoản, tên miền:**  
+Ví dụ: `[masothue].minvoice.net`
+
+### **Bước 2: Thiết lập ban đầu trên phần mềm để xuất được hóa chính xác nhất**
+
+#### <span style="color: #d9534f; font-weight: bold;">1. Truy cập trình duyệt</span>
 
 Quý khách truy cập vào trình duyệt đang dùng:
 
@@ -31,7 +56,7 @@ Mã_số_thuế: là mã số thuế của công ty
 
 ![Hình 2](../../assets/images/invoice2/2.0_dang-nhap_2.png "Hãy bấm vào để xem rõ hơn")
 
-### **Bước 2: Điền thông tin tài khoản để đăng nhập**
+**1.1 Điền thông tin tài khoản để đăng nhập**
 
 ![Hình 3](../../assets/images/invoice2/2.0_dang-nhap_3.png "Hãy bấm vào để xem rõ hơn")
 
@@ -41,15 +66,13 @@ Mã_số_thuế: là mã số thuế của công ty
 
 ![Hình 5](../../assets/images/invoice2/2.0_dang-nhap_5.png "Hãy bấm vào để xem rõ hơn")
 
-### **Bước 3: Sau khi đăng nhập xong kiểm tra các thông tin sau**
-
-#### **1. Thông tin doanh nghiệp**
+#### <span style="color: #d9534f; font-weight: bold;">2. Thông tin doanh nghiệp</span>
 
 **Kiểm tra các thông tin của doanh nghiệp của mình xem đã đúng hay chưa**
 
 ![Hình 5](../../assets/images/invoice2/2.0_dang-nhap_6.png "Hãy bấm vào để xem rõ hơn")
 
-#### **2. Kí hiệu + mẫu hóa đơn.**
+#### <span style="color: #d9534f; font-weight: bold;">3. Kí hiệu + mẫu hóa đơn.</span>
 
 ![Hình 5](../../assets/images/invoice2/2.0_dang-nhap_7.png "Hãy bấm vào để xem rõ hơn")
 
@@ -61,7 +84,13 @@ Mã_số_thuế: là mã số thuế của công ty
 
 ![Hình 5](../../assets/images/invoice2/2.0_dang-nhap_10.png "Hãy bấm vào để xem rõ hơn")
 
-#### **3. Kiểm tra bản quyền**
+???+ Danger "Lưu ý"
+
+    🖱️ **Click vào đây để xem hướng dẫn chỉnh sửa mẫu hóa đơn cho DN chi tiết:**
+
+    📄 [Chỉnh sửa mẫu hóa đơn](../huong-dan/chinh-sua-mau-hoa-don.md#attribute-lists){ data-preview }
+
+#### <span style="color: #d9534f; font-weight: bold;">4. Kiểm tra bản quyền</span>
 
 ![Hình 5](../../assets/images/invoice2/2.0_dang-nhap_11.png "Hãy bấm vào để xem rõ hơn")
 
@@ -69,11 +98,11 @@ Mã_số_thuế: là mã số thuế của công ty
 
 ![Hình 5](../../assets/images/invoice2/2.0_dang-nhap_12.png "Hãy bấm vào để xem rõ hơn")
 
-#### **4. Đổi mật khẩu (nếu cần)**
+#### <span style="color: #d9534f; font-weight: bold;">5. Đổi mật khẩu (nếu cần)</span>
 
 ![Hình 5](../../assets/images/invoice2/2.0_dang-nhap_13.png "Hãy bấm vào để xem rõ hơn")
 
-#### **5. Cài đặt công cụ ký hóa đơn**
+#### <span style="color: #d9534f; font-weight: bold;">6. Cài đặt công cụ ký hóa đơn</span>
 
 ???+ Note "Ghi chú"
 
@@ -116,6 +145,22 @@ Bạn chờ cho bộ cài Dowload và tự động cài đặt là hoàn thành
 ![Hình 7](../../assets/images/invoice2/2.0_plugin_7.png "Hãy bấm vào để xem rõ hơn")
 
 Kích chuột trái vào mũi tên góc phải màn hình, nếu có biểu tượng **M-invoice Plugin Version 2.0** như thế là công cụ ký plugin đã cài đặt thành công
+
+#### <span style="color: #d9534f; font-weight: bold;">7. Thêm cks và đăng ký/ thay đối tờ khai với CQT (bắt buộc để có thể xuất được hóa đơn)</span>
+
+???+ Danger "Lưu ý"
+
+    🖱️ **Click vào đây để xem hướng dẫn thêm cks và đăng ký/ thay đối tờ khai với CQT**
+
+    📄 [Thêm cks và nộp tờ khai](../huong-dan/dang-ky-thay-doi-to-khai-theo-ND70.md#attribute-lists){ data-preview }
+
+#### <span style="color: #d9534f; font-weight: bold;">8. Hướng dẫn lập hóa đơn và ký gửi (sửa, xóa, sao chép hóa đơn)</span>
+
+???+ Danger "Lưu ý"
+
+    🖱️ **Click vào đây để xem hướng dẫn lập hóa đơn và ký gửi**
+
+    📄 [Hướng dẫn lập hóa đơn](../huong-dan/lap-va-phat-hanh-hoa-don.md#attribute-lists){ data-preview }
 
 ???+ info "Xin chân thành cảm ơn quý khách hàng đã tin dùng sản phẩm của M-Invoice"
 
