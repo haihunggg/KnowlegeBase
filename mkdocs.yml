@@ -145,7 +145,7 @@ markdown_extensions:
   - pymdownx.tabbed:
       alternate_style: true
   - toc:
-      permalink: true
+      permalink: false
   - pymdownx.arithmatex:
       generic: true
   - pymdownx.betterem:
@@ -231,27 +231,27 @@ nav:
               - minvoice2/huong-dan/dang-nhap.md
               - minvoice2/huong-dan/dashboard.md
               - minvoice2/huong-dan/chinh-sua-mau-hoa-don.md
-              - minvoice2/huong-dan/lap-va-phat-hanh-hoa-don.md
+              - Hướng dẫn lập và phát hành hóa đơn (Thêm, sửa, xoá ,sao chép): minvoice2/huong-dan/lap-va-phat-hanh-hoa-don.md
               - minvoice2/huong-dan/plugin.md
               - minvoice2/huong-dan/dang-ky-thay-doi-to-khai-theo-ND70.md
               - minvoice2/huong-dan/them-cks-moi.md
-              - minvoice2/huong-dan/cap-nhat-ky-hieu.md
               - minvoice2/huong-dan/thay-doi-dia-chi-tren-hoa-don.md
+              - minvoice2/huong-dan/chuyen-doi-so-dinh-danh-ca-nhan-thay-the-ma-so-thue.md
+              - minvoice2/huong-dan/them-nguoi-dung.md
+              - minvoice2/huong-dan/phan-quyen.md
+          - "Các chứng năng hay sử dụng":
               - minvoice2/huong-dan/in-hang-loat.md
+              - minvoice2/huong-dan/cap-nhat-ky-hieu.md
               - minvoice2/huong-dan/chinh-thap-phan.md
               - minvoice2/huong-dan/gui-mail.md
               - minvoice2/huong-dan/ky-hang-loat.md
               - minvoice2/huong-dan/nhap-excel-hang-loat.md
               - minvoice2/huong-dan/nhap-excel-chi-tiet.md
               - minvoice2/huong-dan/chuyen-ky-hieu.md
-              - minvoice2/huong-dan/them-nguoi-dung.md
-              - minvoice2/huong-dan/phan-quyen.md
               - minvoice2/huong-dan/keo-bien-nd70.md
               - minvoice2/huong-dan/lay-macqt.md
-              - minvoice2/huong-dan/chuyen-doi-so-dinh-danh-ca-nhan-thay-the-ma-so-thue.md
           - "Các câu hỏi và lỗi thường gặp khi sử dụng phần mềm":
-              - "Các câu hỏi thường gặp":
-                  - minvoice2/cac-cau-hoi-thuong-gap/toi-muon-su-dung-loai-hinh-doanh-nghiep-la-dich-vu-van-chuyen.md
+              - Các câu hỏi thường gặp: minvoice2/cac-cau-hoi-thuong-gap/cau-hoi-thuong-gap-ve-hoa-don-dien-tu.md
               - "Các lỗi thường gặp":
                   - "Các lỗi ký hoá đơn thường gặp":
                       - minvoice2/cac-loi-thuong-gap/cac-loi-ky-hoa-don-thuong-gap/ban-chua-cai-dat-cong-cu-plugin-de-ky-hoa-don.md

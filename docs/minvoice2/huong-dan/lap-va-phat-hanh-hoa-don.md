@@ -41,7 +41,7 @@
 
     ---
 
-=== "Thêm"
+=== "Thêm hóa đơn"
 
     ## **Hướng dẫn lập và phát hành hóa đơn**
 
@@ -137,7 +137,7 @@
 
     Như vậy quý khách đã phát hành thành công hóa đơn
 
-=== "Sửa"
+=== "Sửa hóa đơn"
 
     ## **Hướng dẫn sửa hóa đơn Chờ ký**
 
@@ -161,7 +161,7 @@
 
     ![Hình 4](../../assets/images/invoice2/2.0_sua-hoa-don_4.png "Hãy bấm vào để xem rõ hơn")
 
-=== "Xoá"
+=== "Xoá hóa đơn"
 
     ## **Hướng dẫn xóa hóa đơn chờ ký**
 
@@ -194,7 +194,7 @@
 
     Trên đây là hướng dẫn để Người sử dụng có thể xóa hóa đơn đã tạo ra có trạng thái **Chờ Ký**.
 
-=== "Sao chép"
+=== "Sao chép hóa đơn"
 
     ## **Hướng dẫn sao chép hóa đơn**
 

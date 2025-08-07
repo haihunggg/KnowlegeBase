@@ -1,6 +1,6 @@
-# M-invoice 2.0
+# Sections
 
-## Sections
+#### Sections
 
 <div class="card-grid">
 
@@ -8,8 +8,19 @@
   <div class="card-icon" style="mask-image: url('../../assets/icons/huong-dan-su-dung.svg');"></div>
   <div>
     <h2 class="card-title">Hướng dẫn sử dụng</h2>
-    <p class="card-desc">Hướng dẫn thao tác các chức năng chính của hóa đơn điện tử.</p>
+    <p class="card-desc">Hướng dẫn thao tác lần đầu các chức năng chính của hóa đơn điện tử.</p>
   </div>
+  <div class="card-overlay"><button><i class="fa fa-eye"></i> Xem chi tiết</button></div>
+</a>
+
+<a class="card" href="../../minvoice2/huong-dan/in-hang-loat">
+  <div class="card-icon" style="mask-image: url('../../assets/icons/chung-nang-hay-su-dung.svg');"></div>
+  <div>
+    <h2 class="card-title">Các chứng năng hay sử dụng</h2>
+    <p class="card-desc">Hướng dẫn chi tiết các chức năng như (Tải PDF XML hàng loạt, nhập excel, chỉnh số thập phân, ...)</p>
+  </div>
+   <div class="card-overlay"><button><i class="fa fa-eye"></i> Xem chi tiết</button></div>
+
 </a>
 
 <a class="card" href="../../minvoice2/cac-loi-thuong-gap/cac-loi-ky-hoa-don/">
@@ -18,6 +29,8 @@
     <h2 class="card-title">Các câu hỏi và lỗi thường gặp khi sử dụng phần mềm</h2>
     <p class="card-desc">Tổng hợp các câu hỏi thường gặp và lỗi phổ biến khi sử dụng hóa đơn điện tử và cách khắc phục nhanh.</p>
   </div>
+  <div class="card-overlay"><button><i class="fa fa-eye"></i> Xem chi tiết</button></div>
+
 </a>
 
 <a class="card" href="../../minvoice2/xu-ly-sai-sot/thay-the-hoa-don/">
@@ -26,6 +39,8 @@
     <h2 class="card-title">Nghiệp vụ hóa đơn điện tử - xử lý sai sót</h2>
     <p class="card-desc">Hướng dẫn xử lý các tình huống sai sót khi xuất hóa đơn.</p>
   </div>
+   <div class="card-overlay"><button><i class="fa fa-eye"></i> Xem chi tiết</button></div>
+
 </a>
 
 <a class="card" href="../../minvoice2/danh-muc-bao-cao/bao-cao-tong-hop/">
@@ -34,6 +49,8 @@
     <h2 class="card-title">Danh mục báo cáo</h2>
     <p class="card-desc">Giới thiệu các loại báo cáo liên quan đến hóa đơn, tra cứu, và quản lý dữ liệu.</p>
   </div>
+  <div class="card-overlay"><button><i class="fa fa-eye"></i> Xem chi tiết</button></div>
+
 </a>
 
 <a class="card" href="../../minvoice2/xang-dau/huong-dan-xang-dau/">
@@ -42,6 +59,8 @@
     <h2 class="card-title">Xăng dầu</h2>
     <p class="card-desc">Hướng dẫn lập hóa đơn điện tử trong lĩnh vực kinh doanh xăng dầu theo đúng quy định.</p>
   </div>
+  <div class="card-overlay"><button><i class="fa fa-eye"></i> Xem chi tiết</button></div>
+
 </a>
 
 </div>
