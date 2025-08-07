@@ -1,0 +1,189 @@
+/* Nội dung tổng quan */
+.card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(210px, 1fr)); /* nhỏ hơn */
+  gap: 1rem; /* giảm khoảng cách */
+  margin-top: 1rem;
+}
+
+.card {
+  display: flex;
+  flex-direction: column; /* 👈 xếp icon + text theo chiều dọc */
+  align-items: flex-start; /* 👈 căn trái toàn bộ */
+  gap: 0rem;
+  padding: 0.85rem 1rem;
+  border-radius: 0.75rem;
+  background-color: var(--md-default-bg-color);
+  border: 1px solid rgba(255, 255, 255, 0.05);
+  transition: border-color 0.3s ease;
+  text-decoration: none;
+  color: inherit;
+}
+
+.card:hover {
+  border-color: #2d6df6 !important;
+}
+
+.card-icon {
+  width: 1.25rem;
+  height: 1.25rem;
+  background-color: #2d6df6;
+  mask-repeat: no-repeat;
+  mask-position: center;
+  mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  -webkit-mask-position: center;
+  -webkit-mask-size: contain;
+  flex-shrink: 0;
+}
+
+.card-title {
+  margin: 0.4em 0 0.4em !important;
+  font-weight: 700 !important;
+  font-size: 0.8rem !important; /* nhỏ hơn trước */
+  color: #e0f2fe;
+}
+
+.card-desc {
+  margin: 0.4em 0 0.4em !important;
+  font-size: 0.7rem; /* nhỏ hơn trước */
+  line-height: 1rem;
+  color: #e0f2fe;
+}
+
+/* Chế độ tối (slate) */
+body[data-md-color-scheme="slate"] {
+  .card {
+    border: 1px solid rgba(255, 255, 255, 0.05);
+  }
+  .card-desc {
+    color: #e0f2fe;
+  }
+  .card-title {
+    color: #e0f2fe;
+  }
+  .card {
+    background-color: var(--md-default-bg-color);
+  }
+}
+
+body[data-md-color-scheme="default"] {
+  .card {
+    border: 1px solid rgba(0, 0, 0, 0.1); /* xám nhạt */
+  }
+  .card-desc {
+    color: #111827;
+  }
+  .card-title {
+    color: #111827;
+  }
+}
+
+.card {
+  position: relative;
+  overflow: hidden;
+  border-radius: 16px;
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.08);
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+  background: #fff;
+}
+
+.card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 12px 28px rgba(0, 0, 0, 0.15);
+}
+
+.card-overlay {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  padding: 1.5rem;
+  background: linear-gradient(to top, rgba(0, 0, 0, 0.6), transparent 60%);
+  opacity: 0;
+  transform: translateY(10%);
+  transition: opacity 0.3s ease, transform 0.3s ease;
+}
+
+.card:hover .card-overlay {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.card-overlay button {
+  background-color: #ffffffcc;
+  color: #111;
+  border: none;
+  padding: 10px 20px;
+  font-size: 0.95rem;
+  font-weight: 600;
+  border-radius: 10px;
+  backdrop-filter: blur(6px);
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+}
+
+.card-overlay button:hover {
+  background-color: #fff;
+}
+
+.card-overlay button {
+  background-color: #ffffffcc;
+  color: #111;
+  border: none;
+  padding: 10px 20px;
+  font-size: 0.65rem;
+  font-weight: 600;
+  border-radius: 10px;
+  backdrop-filter: blur(6px);
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+  display: flex;
+  align-items: center;
+  gap: 8px; /* khoảng cách giữa icon và text */
+}
+
+.card-overlay button:hover {
+  background-color: #fff;
+}
+
+/* 👁️ Thu nhỏ icon */
+.card-overlay button i {
+  font-size: 0.55rem;
+  color: #333;
+  line-height: 1;
+}
+
+.icon-button {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-size: 14px;
+  padding: 4px 8px;
+  transition: background 0.2s;
+}
+
+.icon-button .button-label {
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 0.2s ease, visibility 0.2s ease;
+  white-space: nowrap;
+}
+
+.icon-button:hover .button-label {
+  opacity: 1;
+  visibility: visible;
+}
+.icon-link {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+}

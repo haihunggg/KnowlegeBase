@@ -6,7 +6,7 @@ document$.subscribe(() => {
 
 document.addEventListener("DOMContentLoaded", () => {
   const headings = document.querySelectorAll(
-    ".md-typeset h2[id], .md-typeset h3[id], .md-typeset h4[id]"
+    ".md-typeset h2[id], .md-typeset h4[id]"
   );
 
   headings.forEach((heading) => {

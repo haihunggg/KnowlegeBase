@@ -1,0 +1,77 @@
+#__nav_2_1_1_label,
+#__nav_2_1_3_label,
+#__nav_2_1_4_label,
+#__nav_2_1_2_label {
+  font-weight: bold;
+}
+
+#__nav_3_1_1_label,
+#__nav_3_1_4_label,
+#__nav_3_1_3_label,
+#__nav_3_1_2_label {
+  font-weight: bold;
+}
+
+#__nav_4_1_1_label,
+#__nav_4_1_2_label,
+#__nav_4_1_3_label,
+#__nav_4_1_4_label,
+#__nav_4_1_5_label,
+#__nav_4_1_6_label,
+#__nav_4_1_7_label {
+  font-weight: bold;
+}
+
+#__nav_5_1_1_label,
+#__nav_5_1_2_label,
+#__nav_5_1_3_label,
+#__nav_5_1_4_label {
+  font-weight: bold;
+}
+
+#__nav_6_1_1_label,
+#__nav_6_1_2_label,
+#__nav_6_1_3_label,
+#__nav_6_1_4_label {
+  font-weight: bold;
+}
+
+#__nav_7_1_1_label,
+#__nav_7_1_2_label,
+#__nav_7_1_3_label,
+#__nav_7_1_4_label {
+  font-weight: bold;
+}
+
+#__nav_8_1_1_label,
+#__nav_8_1_2_label {
+  font-weight: bold;
+}
+
+#__nav_9_1_1_label,
+#__nav_9_1_2_label,
+#__nav_9_1_3_label {
+  font-weight: bold;
+}
+
+#__nav_10_1_1_label,
+#__nav_10_1_2_label,
+#__nav_10_1_3_label {
+  font-weight: bold;
+}
+
+#__nav_5_1 {
+  font-weight: bold;
+}
+/*chỉnh màu ở thanh nav*/
+/* Áp dụng chung */
+.md-nav__link {
+  border-radius: 8px;
+  transition: background 0.2s, border 0.2s;
+  padding: 0.2em 0.5em;
+}
+#__nav_4_1_3_1_label,
+#__nav_4_1_3_2_label,
+#__nav_4_1_3_2_1_label {
+  font-weight: bold;
+}

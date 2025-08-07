@@ -92,6 +92,8 @@ theme:
 # CSS
 extra_css:
   - stylesheets/extra.css
+  - stylesheets/card.css
+  - stylesheets/nav.css
 
 # JS
 extra_javascript:
