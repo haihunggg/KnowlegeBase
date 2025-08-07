@@ -47,7 +47,7 @@
 
 </a>
 
-<a class="card" href="../../minvoice2/cac-loi-thuong-gap/cac-loi-ky-hoa-don/">
+<a class="card" href="../../minvoice2/cac-cau-hoi-thuong-gap/cau-hoi-thuong-gap-ve-hoa-don-dien-tu/">
   <div class="card-icon" style="mask-image: url('../../assets/icons/cac-loi-thuong-gap.svg');"></div>
   <div>
     <h2 class="card-title">Câu hỏi & lỗi thường gặp khi dùng phần mềm</h2>

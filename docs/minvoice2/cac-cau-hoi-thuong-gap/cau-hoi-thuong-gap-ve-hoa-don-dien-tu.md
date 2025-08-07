@@ -10,6 +10,8 @@ hide:
     Câu hỏi thường gặp cung cấp danh sách các thắc mắc phổ biến khi sử dụng phần mềm hóa đơn điện tử, nhằm hỗ trợ người dùng nhanh chóng hiểu và xử lý các
     tình huống thực tế trong quá trình sử dụng hệ thống.
 
+---
+
 ??? Question "Làm thế nào để gia hạn chữ ký số hoặc thêm chữ số mới vào phần mềm và gửi CQT? --> Bấm vào để xem"
 
     #### **Làm thế nào để gia hạn chữ ký số hoặc thêm chữ số mới vào phần mềm và gửi CQT**
@@ -84,6 +86,20 @@ hide:
 
     <iframe style="width: 50rem; height: 580px" src="https://www.youtube.com/embed/jNbuMUzLZ2k?si=loQGt3-zotanHOdF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+??? Question "Tôi có hóa đơn đã thực hiện Hủy trên phần mềm trước 01/06/2025 nhưng chưa gửi Thông báo sai sót (TBSS) cho CQT thì xử lý thế nào? --> Bấm vào để xem"
+
+    #### **Khôi phục trạng thái**
+
+    ???+ note "Trả lời"
+
+        **Từ ngày `1/6/2025`, CQT sẽ không tiếp nhận Thông báo sai sót chứa hóa đơn trạng thái Hủy. Nên Anh/Chị có thể xử lý 1 trong 2 cách:**
+
+        –  Xuất hóa đơn điều chỉnh cho Hóa đơn bị hủy (giảm toàn bộ số tiền) [hướng dẫn](../xu-ly-sai-sot/dieu-chinh-giam-ve-0.md#attribute-lists){ data-preview } . Trước khi xuất Hóa đơn điều chỉnh cần thực hiện Khôi phục trạng thái hóa đơn theo hướng dẫn [Tại đây](../huong-dan/khoi-phuc-trang-thai-hoa-don.md#attribute-lists){ data-preview }
+
+        – Xuất hóa đơn thay thế cho hóa đơn hủy (giá trị hóa đơn bằng 0đ).
+
+        Lưu ý: theo Nghị định 70/2025/NĐ-CP sẽ không cần gửi Thông báo 04ss đến CQT với 2 hình thức xử lý này.
+
 >
 
 ---
@@ -94,4 +110,4 @@ hide:
 
 ![Hình 5](../../assets/images/invoice2/hotro.png "Hãy bấm vào để xem rõ hơn")
 
-<div class="last-updated">Last updated on <strong>Aug 6, 2025</strong> by <strong>NHATTH</strong></div>
+<div class="last-updated">Last updated on <strong>Aug 7, 2025</strong> by <strong>NHATTH</strong></div>
