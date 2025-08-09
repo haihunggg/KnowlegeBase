@@ -3,6 +3,37 @@ hide:
   - toc
 ---
 
+<!--
+<div style="text-align: center;">
+<!-- Logo nền
+<img src="../../../assets/icons/hinh_nen.png"
+     alt="Logo mờ"
+     style="
+       position: fixed;
+       top: 50%;
+       left: 50%;
+       transform: translate(-50%, -50%);
+       width: 500px;
+       opacity: 0.07;
+       z-index: -1;
+       pointer-events: none;">
+</div>
+-->
+
+<div style="position: relative;">
+  <img src="../../../assets/icons/hinh_nen.png"
+       alt="Logo mờ"
+       style="
+         position: absolute;
+         top: calc(50% + 13rem);
+         left: 50%;
+         transform: translate(-50%, -30%);
+         width: 500px;
+         opacity: 0.07;
+         pointer-events: none;
+         z-index: 0;">
+</div>
+
 # **Câu hỏi thường gặp về Hóa đơn điện tử theo Nghị định 70/2025/NĐ-CP**
 
 ???+ note "Nội dung"
@@ -26,6 +57,18 @@ hide:
 
         🖱️ **Click vào đây để xem:**
         📄 [Xác thực sinh trắc học trên eTax Mobile](https://youtu.be/JZ8b6bfL0aM?si=Dr6Rrhc7yF5qjsWf){ target=_blank }
+
+??? Question "Tôi gặp lỗi khi thực hiện nộp tờ khai thay đổi chữ ký số --> Bấm vào để xem"
+
+    #### **HƯỚNG DẪN XỬ LÝ MỘT SỐ LỖI THƯỜNG GẶP KHI THỰC HIỆN NỘP TỜ KHAI THAY ĐỔI CHỮ KÝ SỐ**
+
+    **Trường hợp 1: Máy tính LAPTOP, PC chưa nhận chữ ký số**
+
+    **Trường hợp 2: Plugin chưa được bật** `1:49` trong video
+
+    **Trường hợp 3: Lỗi không hiển thị chữ ký số mặc dù đã thêm chữ ký số lên phần mềm. (Số serialNumber chứng thư số đã tồn tại trên phần mềm)** `2:32` trong video
+
+    <iframe style="width: 50rem; height: 580px" src="https://www.youtube.com/embed/hLoBmZ3_EOs?si=Wm401Ibp2RWLLxqZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ??? Question "Làm thế nào để sử dụng loại hình doanh nghiệp là dịch vụ vận chuyển (có biển số xe) theo NĐ70/2025/NĐ-CP ? --> Bấm vào để xem"
 

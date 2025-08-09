@@ -51,8 +51,8 @@ hide:
     --spinner-color: #4b52c1;
   }
 
-  html[data-theme='dark'] {
-    --bg-table: #1e1e1e;
+  body[data-md-color-scheme="slate"] {
+    --bg-table: #1f2127;
     --text-color: #f0f0f0;
     --bg-header: #4b52c1;
     --bg-row-alt: #2a2a2a;
@@ -61,7 +61,7 @@ hide:
     --highlight-color: #ffd700;
     --filter-bg: #2a2a2a;
     --spinner-color: #c2c6ff;
-  }
+}
 
   #sheet-table-container {
     width: 100%;

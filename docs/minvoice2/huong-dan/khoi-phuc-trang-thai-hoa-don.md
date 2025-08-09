@@ -4,7 +4,7 @@
 
     **Chương trình cho phép khôi phục hóa đơn trong trường hợp:**
 
-    1. Hóa đơn đã hủy nhưng chưa gửi TBSS đến CQT hoặc đã gửi TBSS đến CQT nhưng CQT phản hồi không hợp lệ.
+    1. Hóa đơn đã hủy trước `01/06/2025`  nhưng chưa gửi TBSS đến CQT hoặc đã gửi TBSS đến CQT nhưng CQT phản hồi không hợp lệ.
 
     2. Hóa đơn làm thay thế, nhưng hóa đơn thay thế bị lỗi hoặc không hợp lệ
 
@@ -12,7 +12,7 @@
 
 ---
 
-**Ví dụ TH sau, hoá đơn số 75 thay thế cho hóa đơn 74 nhưng bị sai MST**
+**Ví dụ TH sau, hoá đơn số 75 thay thế cho hóa đơn 74 nhưng bị sai định dạng MST đến CQT trả lỗi**
 
 ![Hình 1](../../assets/images/invoice2/khoi-phuc-trang-thai-1.png "Hãy bấm vào để xem rõ hơn")
 

@@ -205,3 +205,29 @@ body[data-md-color-scheme="slate"] .md-nav__link--active {
   visibility: visible;
   opacity: 1;
 }
+
+.question {
+  position: relative;
+  cursor: pointer;
+}
+
+.question::after {
+  content: "Bấm vào để xem";
+  position: absolute;
+  bottom: 100%; /* hiển thị phía trên */
+  left: 50%;
+  transform: translateX(-50%);
+  background: rgba(0, 0, 0, 0.8);
+  color: #fff;
+  padding: 5px 8px;
+  font-size: 12px;
+  white-space: nowrap;
+  border-radius: 4px;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.2s;
+}
+
+.question:hover::after {
+  opacity: 1;
+}
