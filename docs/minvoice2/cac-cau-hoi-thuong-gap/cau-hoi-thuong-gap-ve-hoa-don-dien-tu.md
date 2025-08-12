@@ -62,11 +62,11 @@ hide:
 
     #### **HƯỚNG DẪN XỬ LÝ MỘT SỐ LỖI THƯỜNG GẶP KHI THỰC HIỆN NỘP TỜ KHAI THAY ĐỔI CHỮ KÝ SỐ**
 
-    **Trường hợp 1: Máy tính LAPTOP, PC chưa nhận chữ ký số**
+    **<strong style="color: red;">Trường hợp 1:</strong> Máy tính LAPTOP, PC chưa nhận chữ ký số**
 
-    **Trường hợp 2: Plugin chưa được bật** `1:49` trong video
+    **<strong style="color: red;">Trường hợp 2:</strong> Plugin chưa được bật** phút `1:49` trong video
 
-    **Trường hợp 3: Lỗi không hiển thị chữ ký số mặc dù đã thêm chữ ký số lên phần mềm. (Số serialNumber chứng thư số đã tồn tại trên phần mềm)** `2:32` trong video
+    **<strong style="color: red;">Trường hợp 3:</strong> Lỗi không hiển thị chữ ký số mặc dù đã thêm chữ ký số lên phần mềm. <strong style="color: red;">(Số serialNumber chứng thư số đã tồn tại trên phần mềm)</strong>** phút `2:32` trong video
 
     <iframe style="width: 50rem; height: 580px" src="https://www.youtube.com/embed/hLoBmZ3_EOs?si=Wm401Ibp2RWLLxqZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -109,17 +109,29 @@ hide:
 
     Quý anh chị chọn vào phân hệ **“Đăng ký phát hành”** -> Chọn **“Mẫu hóa đơn”** -> Chọn **“Thêm”** để tiến hành chọn mẫu hóa đơn cho loại hình phù hợp
 
+    ![Hình 1](../../assets/images/invoice2/cac-cau-hoi-thuong-gap/dich-vu-van-chuyen-1.png "Hãy bấm vào để xem rõ hơn")
+
     **Bước 2: Chọn loại hóa đơn doanh nghiệp được phép sử dụng**
 
     Quý anh chị chọn đúng loại hóa đơn của doanh nghiệp đang được cqt cho phép sử dụng. Ví dụ doanh nghiệp thuộc loại hóa đơn giá trị gia tăng máy tính tiền thì
 
     Quý anh chị chọn Hóa đơn giá trị gia tăng - Máy tính tiền.
 
+    ![Hình 1](../../assets/images/invoice2/cac-cau-hoi-thuong-gap/dich-vu-van-chuyen-2.png "Hãy bấm vào để xem rõ hơn")
+
     **Bước 3: Chọn loại hình doanh nghiệp**
 
     **Đối với doanh nghiệp thuộc loại hình vận chuyển thì quý anh chị thực hiện chọn dịch vụ vận chuyển**
 
+    ![Hình 1](../../assets/images/invoice2/cac-cau-hoi-thuong-gap/dich-vu-van-chuyen-3.png "Hãy bấm vào để xem rõ hơn")
+
     **Bước 4: Sau khi chọn xong loại hình quý anh chị thực hiện ấn vào nút tìm kiểm góc phải màn hình rồi kích chọn mẫu hóa đơn trên màn hình**
+
+    ![Hình 1](../../assets/images/invoice2/cac-cau-hoi-thuong-gap/dich-vu-van-chuyen-4.png "Hãy bấm vào để xem rõ hơn")
+
+    **Bước 5: Chọn loại doanh nghiệp là "Hóa đơn dịch vụ vận chuyển" -> Bấm Lưu**
+
+    ![Hình 1](../../assets/images/invoice2/cac-cau-hoi-thuong-gap/dich-vu-van-chuyen-5.png "Hãy bấm vào để xem rõ hơn")
 
 ??? Question "Làm thế nào để sử dụng hóa đơn bán xe ô tô, mô tô (số khung, số máy) theo NĐ70/2025/NĐ-CP ? - Bấm vào để xem"
 
@@ -128,6 +140,61 @@ hide:
     **Hướng dẫn video**
 
     <iframe style="width: 50rem; height: 580px" src="https://www.youtube.com/embed/jNbuMUzLZ2k?si=loQGt3-zotanHOdF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+    ???+ Note "Nội dung"
+
+        >📄 **Quy định về chuẩn XML truyền nhận hóa đơn điện tử với Cơ quan Thuế**
+
+        Để đáp ứng yêu cầu kê khai và truyền nhận dữ liệu hóa đơn điện tử, **nội dung hóa đơn cần bổ sung thông tin về *Loại hàng hóa đặc trưng***, nhằm xác định các **vật tư, hàng hóa thuộc nhóm đặc thù** cần quản lý riêng. Cụ thể:
+
+        ---
+
+        🚗 **Đối với hàng hóa là Xe ô tô, xe mô tô**
+        - Cần **theo dõi mã quy cách**.
+        - **Tên các mã quy cách** phải được đặt là:
+        - `Số khung`
+        - `Số máy`
+
+        ---
+
+        🚚 **Đối với dịch vụ vận chuyển**
+        - Cần theo dõi:
+        - `Biển kiểm soát phương tiện vận chuyển`
+        - **Thông tin này phải được khai báo trên hóa đơn**.
+
+        ---
+
+        🔍 Việc bổ sung thông tin đặc trưng giúp đảm bảo **tính chính xác và đầy đủ** khi truyền nhận dữ liệu với **Cơ quan Thuế**.
+
+    **Hướng dẫn cách tạo ký hiệu và mẫu hóa đơn khi muốn sử dụng loại hình doanh nghiệp thuộc hàng hóa đặc trưng**
+
+    **Bước 1: Chọn Mẫu hóa đơn**
+
+    Quý anh chị chọn vào phân hệ **“Đăng ký phát hành”** -> Chọn **“Mẫu hóa đơn”** -> Chọn **“Thêm”** để tiến hành chọn mẫu hóa đơn cho loại hình phù hợp
+
+    ![Hình 1](../../assets/images/invoice2/cac-cau-hoi-thuong-gap/dich-vu-van-chuyen-1.png "Hãy bấm vào để xem rõ hơn")
+
+    **Bước 2: Chọn loại hóa đơn doanh nghiệp được phép sử dụng**
+
+    Quý anh chị chọn đúng loại hóa đơn của doanh nghiệp đang được cqt cho phép sử dụng. Ví dụ doanh nghiệp thuộc loại hóa đơn giá trị gia tăng máy tính tiền thì
+
+    Quý anh chị chọn Hóa đơn giá trị gia tăng - Máy tính tiền.
+
+    ![Hình 1](../../assets/images/invoice2/cac-cau-hoi-thuong-gap/dich-vu-van-chuyen-2.png "Hãy bấm vào để xem rõ hơn")
+
+    **Bước 3: Chọn loại hình doanh nghiệp**
+
+    **Đối với doanh nghiệp thuộc loại hình mua bán xe thì quý anh chị thực hiện chọn mua bán xe**
+
+    ![Hình 1](../../assets/images/invoice2/cac-cau-hoi-thuong-gap/mua-ban-xe-1.png "Hãy bấm vào để xem rõ hơn")
+
+    **Bước 4: Sau khi chọn xong loại hình quý anh chị thực hiện ấn vào nút tìm kiểm góc phải màn hình rồi kích chọn mẫu hóa đơn trên màn hình**
+
+    ![Hình 1](../../assets/images/invoice2/cac-cau-hoi-thuong-gap/mua-ban-xe-2.png "Hãy bấm vào để xem rõ hơn")
+
+    **Bước 5: Chọn loại doanh nghiệp là "Hóa đơn mua bán xe" -> Bấm Lưu**
+
+    ![Hình 1](../../assets/images/invoice2/cac-cau-hoi-thuong-gap/mua-ban-xe-3.png "Hãy bấm vào để xem rõ hơn")
 
 ??? Question "Tôi có hóa đơn đã thực hiện Hủy trên phần mềm trước 01/06/2025 nhưng chưa gửi Thông báo sai sót (TBSS) cho CQT thì xử lý thế nào? --> Bấm vào để xem"
 

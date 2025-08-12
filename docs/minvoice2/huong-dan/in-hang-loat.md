@@ -12,6 +12,11 @@ Trong quá trình phát hành hóa đơn người dùng sẽ có nhu cầu in ho
 
     ???+ Note "Ghi chú"
         In bằng cách này sẽ tách file PDF và sẽ lâu hơn cách 2
+
+        **Cách này bạn cần phải cài plugin thì mới tải được** [Hướng dẫn cài đặt plugin](plugin.md#attribute-lists){ data-preview }
+
+        Trường hợp không in được load lâu, quý khách hàng cần cập nhật lên plugin mới nhất (Chuột phải vào biểu tượng plugin ở ảnh trên bấn cập nhật phần mềm)
+
     **Bước 1: Lọc những hoá đơn muốn tải (theo quý hoặc tháng)**
 
     ![Hình 1](../../assets/images/invoice2/2.0_in-hang-loat_1.png "Hãy bấm vào để xem rõ hơn")
@@ -27,14 +32,6 @@ Trong quá trình phát hành hóa đơn người dùng sẽ có nhu cầu in ho
     ![Hình 3](../../assets/images/invoice2/2.0_in-hang-loat_3.png "Hãy bấm vào để xem rõ hơn")
 
     ![Hình 4](../../assets/images/invoice2/2.0_in-hang-loat_7.png "Hãy bấm vào để xem rõ hơn")
-
-    Kiểm tra xem đã bật plugin hay chưa
-
-    ???+ Warning "Lưu ý"
-
-        Cách này bạn cần phải cài plugin thì mới tải được [Hướng dẫn cài đặt plugin](plugin.md#attribute-lists){ data-preview }
-
-        Trường hợp không in được load lâu, quý khách hàng cần cập nhật lên plugin mới nhất (Chuột phải vào biểu tượng plugin ở ảnh trên bấn cập nhật phần mềm)
 
 === "Cách 2: In nhiều hoá đơn PDF"
 
@@ -65,6 +62,12 @@ Trong quá trình phát hành hóa đơn người dùng sẽ có nhu cầu in ho
 
     #### In nhiều XML
 
+    ???+ Note "Ghi chú"
+
+        **Cách này bạn cần phải cài plugin thì mới tải được** [Hướng dẫn cài đặt plugin](plugin.md#attribute-lists){ data-preview }
+
+        Trường hợp không in được load lâu, quý khách hàng cần cập nhật lên plugin mới nhất (Chuột phải vào biểu tượng plugin ở ảnh trên bấn cập nhật phần mềm)
+
     **Bước 1: Lọc những hoá đơn muốn tải (theo quý hoặc tháng)**
 
     ![Hình 10](../../assets/images/invoice2/2.0_in-hang-loat_1.png "Hãy bấm vào để xem rõ hơn")
@@ -82,11 +85,7 @@ Trong quá trình phát hành hóa đơn người dùng sẽ có nhu cầu in ho
     **Anh chị vui lòng chờ để quá trình tải về được hoàn tất**
 
     ![Hình 13](../../assets/images/invoice2/2.0_plugin_7.png "Hãy bấm vào để xem rõ hơn")
-    Kiểm tra xem đã bật plugin hay chưa
-    ???+ Warning "Lưu ý"
-        Cách này bạn cần phải cài plugin thì mới tải được [Hướng dẫn cài đặt plugin](plugin.md#attribute-lists){ data-preview }
 
-        Trường hợp không in được load lâu, quý khách hàng cần cập nhật lên plugin mới nhất (Chuột phải vào biểu tượng plugin ở ảnh trên bấn cập nhật phần mềm)
 
 ???+ info "Xin chân thành cảm ơn quý khách hàng đã tin dùng sản phẩm của M-Invoice"
 
@@ -94,4 +93,4 @@ Trong quá trình phát hành hóa đơn người dùng sẽ có nhu cầu in ho
 
 ![Hình 14](../../assets/images/invoice2/hotro.png "Hãy bấm vào để xem rõ hơn")
 
-<div class="last-updated">Last updated on <strong>Jun 5, 2025</strong> by <strong>nhatth</strong></div>
+<div class="last-updated">Last updated on <strong>Aug 9, 2025</strong> by <strong>nhatth</strong></div>
