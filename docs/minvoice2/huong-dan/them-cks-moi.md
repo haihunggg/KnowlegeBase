@@ -20,7 +20,14 @@
 
 ## **Hướng dẫn Thay đổi CKS hoặc thêm CKS mới vào phần mềm và nộp tờ khai theo NĐ70 đáp ứng xác thực sinh trắc học của Cục Thuế**
 
-<iframe style="width: 43rem; height: 480px" src="https://www.youtube.com/embed/JZ8b6bfL0aM?si=ZFdY86boSQE4UjMt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe style="width: 50rem; height: 580px" src="https://www.youtube.com/embed/10tfqMP7Zec?si=rL1BMWD5zb82nF6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+???+ warning "Lưu ý: cần phải làm xác thực sinh trắc học sau khi nộp tờ khai thay đổi với CQT"
+
+    **Từ Nghị định 70/2025/NĐ-CP phải xác thực sinh trắc học khi đăng ký/thay đổi thông tin sử dụng hóa đơn điện tử** (trường hợp CQT duyệt trạng thái `Chấp nhận` luôn thì bỏ quả bước này)
+
+    🖱️ **Click vào đây để xem:**
+    📄 [Xác thực sinh trắc học trên eTax Mobile](https://youtu.be/JZ8b6bfL0aM?si=Dr6Rrhc7yF5qjsWf){ target=_blank }
 
 **Hướng dẫn sử dụng bằng hình ảnh nếu Quý khách không xem được video**
 
@@ -200,23 +207,23 @@ Các bạn vào phần **Đăng ký phát hành >> Tờ khai đăng ký/thay đ�
 
 **Hướng dẫn thực hiện**
 
-### **1. Cơ quan thuế gửi email thông báo việc tờ khai đăng ký/thay đổi thông tin sử dụng hóa đơn điện tử cần xác thực OTP trong vòng 01 ngày làm việc.**
+#### **1. Cơ quan thuế gửi email thông báo việc tờ khai đăng ký/thay đổi thông tin sử dụng hóa đơn điện tử cần xác thực OTP trong vòng 01 ngày làm việc.**
 
 ![Hình 6](../../assets/images/invoice2/2.0_to-khai-nd70_9.png "Hãy bấm vào để xem rõ hơn")
 
-### **2. Đăng nhập app etax mobile**
+#### **2. Đăng nhập app etax mobile**
 
 ![Hình 1](../../assets/images/invoice2/2.0_to-khai-nd70_10.png){: style="height:650px"}
 
-### **3. Chọn mục Hóa đơn điện tử.**
+#### **3. Chọn mục Hóa đơn điện tử.**
 
 ![Hình 1](../../assets/images/invoice2/2.0_to-khai-nd70_11.png){: style="height:650px"}
 
-### **4. Nhấn vào mục Tờ khai chờ xác thực.**
+#### **4. Nhấn vào mục Tờ khai chờ xác thực.**
 
 ![Hình 1](../../assets/images/invoice2/2.0_to-khai-nd70_12.png){: style="height:650px"}
 
-### **5. Thực hiện xác thực.**
+#### **5. Thực hiện xác thực.**
 
 ![Hình 1](../../assets/images/invoice2/2.0_to-khai-nd70_13.png){: style="height:650px"}
 
@@ -224,13 +231,23 @@ Các bạn vào phần **Đăng ký phát hành >> Tờ khai đăng ký/thay đ�
 
 ![Hình 1](../../assets/images/invoice2/2.0_to-khai-nd70_14.png){: style="width:780px"}
 
-### **6. Quay về phần mềm hóa đơn điện tử M-invoice để kiểm tra tờ khai tại cột Phản hồi CQT trên danh sách tờ khai.**
+#### **6. Quay về phần mềm hóa đơn điện tử M-invoice để kiểm tra tờ khai tại cột Phản hồi CQT trên danh sách tờ khai.**
 
 ![Hình 6](../../assets/images/invoice2/2.0_to-khai-nd70_15.png "Hãy bấm vào để xem rõ hơn")
 
 ???+ Danger "Chú ý"
 
     <span style="color: red; font-size: 20px">**Các bạn vui lòng chờ đến khi CQT chấp nhận tờ khai thì mới có thể lập được hóa đơn**</span>
+
+### Các lỗi thường gặp khi thực hiện nộp thay đổi tờ khai thay đổi chữ ký số
+
+**<strong style="color: red;">Trường hợp 1:</strong> Máy tính LAPTOP, PC chưa nhận chữ ký số**
+
+**<strong style="color: red;">Trường hợp 2:</strong> Plugin chưa được bật** phút `1:49` trong video
+
+**<strong style="color: red;">Trường hợp 3:</strong> Lỗi không hiển thị chữ ký số mặc dù đã thêm chữ ký số lên phần mềm. <strong style="color: red;">(Số serialNumber chứng thư số đã tồn tại trên phần mềm)</strong>** phút `2:32` trong video
+
+<iframe style="width: 50rem; height: 580px" src="https://www.youtube.com/embed/hLoBmZ3_EOs?si=Wm401Ibp2RWLLxqZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ???+ info "Xin chân thành cảm ơn quý khách hàng đã tin dùng sản phẩm của M-Invoice"
 

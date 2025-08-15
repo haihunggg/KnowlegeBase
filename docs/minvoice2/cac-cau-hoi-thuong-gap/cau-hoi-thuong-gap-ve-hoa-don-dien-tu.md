@@ -45,156 +45,71 @@ hide:
 
 ??? Question "Làm thế nào để gia hạn chữ ký số hoặc thêm chữ số mới vào phần mềm và gửi CQT? --> Bấm vào để xem"
 
-    #### **Làm thế nào để gia hạn chữ ký số hoặc thêm chữ số mới vào phần mềm và gửi CQT**
+    ???+ note "Trả lời"
 
-    **Hướng dẫn video**
+        Theo quy định về chuẩn xml truyền nhận hóa đơn điện tử với Cơ quan Thuế: Nội dung hóa đơn **bổ sung thêm thông tin Loại hàng hóa đặc trưng** dùng để xác định vật tư hàng hóa thuộc nhóm đặc thù cần quản lý riêng một số thông tin đặc trưng như **Xe ô tô, xe mô tô hoặc Dịch vụ vận chuyển nhằm đáp ứng yêu cầu kê khai, truyền nhận dữ liệu hóa đơn điện tử:
 
-    <iframe style="width: 50rem; height: 580px" src="https://www.youtube.com/embed/10tfqMP7Zec?si=rL1BMWD5zb82nF6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        Với loại xe ô tô, xe mô tô: Cần theo dõi mã quy cách và đặt tên các mã quy cách là Số khung, số máy.
+        Với loại dịch vụ vận chuyển: Cần theo dõi Biển kiểm soát phương tiện vận chuyển (khai báo trên Hóa đơn).
 
-    ???+ warning "Lưu ý: cần phải làm xác thực sinh trắc học sau khi nộp tờ khai thay đổi với CQT"
+        #### **Để thay đổi chữ ký số và đăng ký tờ khai với CQT anh chị hãy xem hướng dẫn chi tiết [tại đây](../huong-dan/them-cks-moi.md#attribute-lists){ data-preview }**
 
-        **Từ Nghị định 70/2025/NĐ-CP phải xác thực sinh trắc học khi đăng ký/thay đổi thông tin sử dụng hóa đơn điện tử** (trường hợp CQT duyệt trạng thái `Chấp nhận` luôn thì bỏ quả bước này)
+    ??? Note "Hoặc bấm vào đây để xem video hướng dẫn nhanh"
 
-        🖱️ **Click vào đây để xem:**
-        📄 [Xác thực sinh trắc học trên eTax Mobile](https://youtu.be/JZ8b6bfL0aM?si=Dr6Rrhc7yF5qjsWf){ target=_blank }
+        <iframe style="width: 50rem; height: 580px" src="https://www.youtube.com/embed/10tfqMP7Zec?si=rL1BMWD5zb82nF6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+        ???+ warning "Lưu ý: cần phải làm xác thực sinh trắc học sau khi nộp tờ khai thay đổi với CQT"
+
+            **Từ Nghị định 70/2025/NĐ-CP phải xác thực sinh trắc học khi đăng ký/thay đổi thông tin sử dụng hóa đơn điện tử** (trường hợp CQT duyệt trạng thái `Chấp nhận` luôn thì bỏ quả bước này)
+
+            🖱️ **Click vào đây để xem:**
+            📄 [Xác thực sinh trắc học trên eTax Mobile](https://youtu.be/JZ8b6bfL0aM?si=Dr6Rrhc7yF5qjsWf){ target=_blank }
+
+??? Question "Làm thế nào để hiển thị thông tin CCCD, Mã đơn vị có quan hệ với ngân sách, Số hộ chiếu trên hóa đơn? --> Bấm vào để xem"
+
+    #### **Làm thế nào để hiển thị thông tin CCCD, Mã đơn vị có quan hệ với ngân sách, Số hộ chiếu trên hóa đơn**
+
+    ???+ note "Trả lời"
+
+        M-invoice xin gửi tới quý anh chị "HƯỚNG DẪN TẠO MỚI MÃU KÝ HIỆU HÓA ĐƠN VÀ CÁCH BỔ SUNG THÔNG TIN MỚI THEO NGHỊ ĐỊNH 70/2025 TRÊN MẪU HÓA ĐƠN"
+
+        **Link hướng dẫn chi tiết [tại đây](../huong-dan/keo-bien-nd70.md#attribute-lists){ data-preview }**
+
+        **Video hướng dẫn [tại đây](https://www.youtube.com/watch?v=H7u3UsnUneY){:target="_blank"}**
 
 ??? Question "Tôi gặp lỗi khi thực hiện nộp tờ khai thay đổi chữ ký số --> Bấm vào để xem"
 
     #### **HƯỚNG DẪN XỬ LÝ MỘT SỐ LỖI THƯỜNG GẶP KHI THỰC HIỆN NỘP TỜ KHAI THAY ĐỔI CHỮ KÝ SỐ**
 
-    **<strong style="color: red;">Trường hợp 1:</strong> Máy tính LAPTOP, PC chưa nhận chữ ký số**
+    ???+ note "Trả lời"
 
-    **<strong style="color: red;">Trường hợp 2:</strong> Plugin chưa được bật** phút `1:49` trong video
+        **<strong style="color: red;">Trường hợp 1:</strong> Máy tính LAPTOP, PC chưa nhận chữ ký số**
 
-    **<strong style="color: red;">Trường hợp 3:</strong> Lỗi không hiển thị chữ ký số mặc dù đã thêm chữ ký số lên phần mềm. <strong style="color: red;">(Số serialNumber chứng thư số đã tồn tại trên phần mềm)</strong>** phút `2:32` trong video
+        **<strong style="color: red;">Trường hợp 2:</strong> Plugin chưa được bật** phút `1:49` trong video
 
-    <iframe style="width: 50rem; height: 580px" src="https://www.youtube.com/embed/hLoBmZ3_EOs?si=Wm401Ibp2RWLLxqZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        **<strong style="color: red;">Trường hợp 3:</strong> Lỗi không hiển thị chữ ký số mặc dù đã thêm chữ ký số lên phần mềm. <strong style="color: red;">(Số serialNumber chứng thư số đã tồn tại trên phần mềm)</strong>** phút `2:32` trong video
+
+        <iframe style="width: 50rem; height: 580px" src="https://www.youtube.com/embed/hLoBmZ3_EOs?si=Wm401Ibp2RWLLxqZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ??? Question "Làm thế nào để sử dụng loại hình doanh nghiệp là dịch vụ vận chuyển (có biển số xe) theo NĐ70/2025/NĐ-CP ? --> Bấm vào để xem"
 
-    #### **Làm thế nào để sử dụng loại hình doanh nghiệp là dịch vụ vận chuyển (biển số xe)**
+    ???+ note "Trả lời"
 
-    **Hướng dẫn video**
+        #### **Để sử dụng loại hình doanh nghiệp là dịch vụ vận chuyển (biển số xe) anh chị hãy xem hướng dẫn chi tiết [tại đây](../huong-dan/huong-dan-su-dung-loai-hinh-doanh-nghiep-dich-vu-van-chuyen-bien-so-xe.md#attribute-lists){ data-preview }**
 
-    <iframe style="width: 50rem; height: 580px" src="https://www.youtube.com/embed/113AXeAEquY?si=G28GQWL_bHkR7Bub" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        ??? Note "Hoặc bấm vào đây để xem video hướng dẫn nhanh"
 
-    ???+ Note "Nội dung"
-
-        >📄 **Quy định về chuẩn XML truyền nhận hóa đơn điện tử với Cơ quan Thuế**
-
-        Để đáp ứng yêu cầu kê khai và truyền nhận dữ liệu hóa đơn điện tử, **nội dung hóa đơn cần bổ sung thông tin về *Loại hàng hóa đặc trưng***, nhằm xác định các **vật tư, hàng hóa thuộc nhóm đặc thù** cần quản lý riêng. Cụ thể:
-
-        ---
-
-        🚗 **Đối với hàng hóa là Xe ô tô, xe mô tô**
-        - Cần **theo dõi mã quy cách**.
-        - **Tên các mã quy cách** phải được đặt là:
-        - `Số khung`
-        - `Số máy`
-
-        ---
-
-        🚚 **Đối với dịch vụ vận chuyển**
-        - Cần theo dõi:
-        - `Biển kiểm soát phương tiện vận chuyển`
-        - **Thông tin này phải được khai báo trên hóa đơn**.
-
-        ---
-
-        🔍 Việc bổ sung thông tin đặc trưng giúp đảm bảo **tính chính xác và đầy đủ** khi truyền nhận dữ liệu với **Cơ quan Thuế**.
-
-    **Hướng dẫn cách tạo ký hiệu và mẫu hóa đơn khi muốn sử dụng loại hình doanh nghiệp thuộc hàng hóa đặc trưng**
-
-    **Bước 1: Chọn Mẫu hóa đơn**
-
-    Quý anh chị chọn vào phân hệ **“Đăng ký phát hành”** -> Chọn **“Mẫu hóa đơn”** -> Chọn **“Thêm”** để tiến hành chọn mẫu hóa đơn cho loại hình phù hợp
-
-    ![Hình 1](../../assets/images/invoice2/cac-cau-hoi-thuong-gap/dich-vu-van-chuyen-1.png "Hãy bấm vào để xem rõ hơn")
-
-    **Bước 2: Chọn loại hóa đơn doanh nghiệp được phép sử dụng**
-
-    Quý anh chị chọn đúng loại hóa đơn của doanh nghiệp đang được cqt cho phép sử dụng. Ví dụ doanh nghiệp thuộc loại hóa đơn giá trị gia tăng máy tính tiền thì
-
-    Quý anh chị chọn Hóa đơn giá trị gia tăng - Máy tính tiền.
-
-    ![Hình 1](../../assets/images/invoice2/cac-cau-hoi-thuong-gap/dich-vu-van-chuyen-2.png "Hãy bấm vào để xem rõ hơn")
-
-    **Bước 3: Chọn loại hình doanh nghiệp**
-
-    **Đối với doanh nghiệp thuộc loại hình vận chuyển thì quý anh chị thực hiện chọn dịch vụ vận chuyển**
-
-    ![Hình 1](../../assets/images/invoice2/cac-cau-hoi-thuong-gap/dich-vu-van-chuyen-3.png "Hãy bấm vào để xem rõ hơn")
-
-    **Bước 4: Sau khi chọn xong loại hình quý anh chị thực hiện ấn vào nút tìm kiểm góc phải màn hình rồi kích chọn mẫu hóa đơn trên màn hình**
-
-    ![Hình 1](../../assets/images/invoice2/cac-cau-hoi-thuong-gap/dich-vu-van-chuyen-4.png "Hãy bấm vào để xem rõ hơn")
-
-    **Bước 5: Chọn loại doanh nghiệp là "Hóa đơn dịch vụ vận chuyển" -> Bấm Lưu**
-
-    ![Hình 1](../../assets/images/invoice2/cac-cau-hoi-thuong-gap/dich-vu-van-chuyen-5.png "Hãy bấm vào để xem rõ hơn")
+            <iframe style="width: 50rem; height: 580px" src="https://www.youtube.com/embed/113AXeAEquY?si=G28GQWL_bHkR7Bub" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ??? Question "Làm thế nào để sử dụng hóa đơn bán xe ô tô, mô tô (số khung, số máy) theo NĐ70/2025/NĐ-CP ? - Bấm vào để xem"
 
-    #### **Làm thế nào để sử dụng hóa đơn bán xe ô tô, mô tô (số khung, số máy)**
+    ???+ note "Trả lời"
 
-    **Hướng dẫn video**
+        #### **Để sử dụng hóa đơn bán xe ô tô, mô tô (số khung, số máy) anh chị hãy xem hướng dẫn chi tiết [tại đây](../huong-dan/huong-dan-su-dung-hoa-don-mua-ban-xe-so-khung-so-may.md#attribute-lists){ data-preview }**
 
-    <iframe style="width: 50rem; height: 580px" src="https://www.youtube.com/embed/jNbuMUzLZ2k?si=loQGt3-zotanHOdF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        ??? Note "Hoặc bấm vào đây để xem video hướng dẫn nhanh"
 
-    ???+ Note "Nội dung"
-
-        >📄 **Quy định về chuẩn XML truyền nhận hóa đơn điện tử với Cơ quan Thuế**
-
-        Để đáp ứng yêu cầu kê khai và truyền nhận dữ liệu hóa đơn điện tử, **nội dung hóa đơn cần bổ sung thông tin về *Loại hàng hóa đặc trưng***, nhằm xác định các **vật tư, hàng hóa thuộc nhóm đặc thù** cần quản lý riêng. Cụ thể:
-
-        ---
-
-        🚗 **Đối với hàng hóa là Xe ô tô, xe mô tô**
-        - Cần **theo dõi mã quy cách**.
-        - **Tên các mã quy cách** phải được đặt là:
-        - `Số khung`
-        - `Số máy`
-
-        ---
-
-        🚚 **Đối với dịch vụ vận chuyển**
-        - Cần theo dõi:
-        - `Biển kiểm soát phương tiện vận chuyển`
-        - **Thông tin này phải được khai báo trên hóa đơn**.
-
-        ---
-
-        🔍 Việc bổ sung thông tin đặc trưng giúp đảm bảo **tính chính xác và đầy đủ** khi truyền nhận dữ liệu với **Cơ quan Thuế**.
-
-    **Hướng dẫn cách tạo ký hiệu và mẫu hóa đơn khi muốn sử dụng loại hình doanh nghiệp thuộc hàng hóa đặc trưng**
-
-    **Bước 1: Chọn Mẫu hóa đơn**
-
-    Quý anh chị chọn vào phân hệ **“Đăng ký phát hành”** -> Chọn **“Mẫu hóa đơn”** -> Chọn **“Thêm”** để tiến hành chọn mẫu hóa đơn cho loại hình phù hợp
-
-    ![Hình 1](../../assets/images/invoice2/cac-cau-hoi-thuong-gap/dich-vu-van-chuyen-1.png "Hãy bấm vào để xem rõ hơn")
-
-    **Bước 2: Chọn loại hóa đơn doanh nghiệp được phép sử dụng**
-
-    Quý anh chị chọn đúng loại hóa đơn của doanh nghiệp đang được cqt cho phép sử dụng. Ví dụ doanh nghiệp thuộc loại hóa đơn giá trị gia tăng máy tính tiền thì
-
-    Quý anh chị chọn Hóa đơn giá trị gia tăng - Máy tính tiền.
-
-    ![Hình 1](../../assets/images/invoice2/cac-cau-hoi-thuong-gap/dich-vu-van-chuyen-2.png "Hãy bấm vào để xem rõ hơn")
-
-    **Bước 3: Chọn loại hình doanh nghiệp**
-
-    **Đối với doanh nghiệp thuộc loại hình mua bán xe thì quý anh chị thực hiện chọn mua bán xe**
-
-    ![Hình 1](../../assets/images/invoice2/cac-cau-hoi-thuong-gap/mua-ban-xe-1.png "Hãy bấm vào để xem rõ hơn")
-
-    **Bước 4: Sau khi chọn xong loại hình quý anh chị thực hiện ấn vào nút tìm kiểm góc phải màn hình rồi kích chọn mẫu hóa đơn trên màn hình**
-
-    ![Hình 1](../../assets/images/invoice2/cac-cau-hoi-thuong-gap/mua-ban-xe-2.png "Hãy bấm vào để xem rõ hơn")
-
-    **Bước 5: Chọn loại doanh nghiệp là "Hóa đơn mua bán xe" -> Bấm Lưu**
-
-    ![Hình 1](../../assets/images/invoice2/cac-cau-hoi-thuong-gap/mua-ban-xe-3.png "Hãy bấm vào để xem rõ hơn")
+            <iframe style="width: 50rem; height: 580px" src="https://www.youtube.com/embed/jNbuMUzLZ2k?si=loQGt3-zotanHOdF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ??? Question "Tôi có hóa đơn đã thực hiện Hủy trên phần mềm trước 01/06/2025 nhưng chưa gửi Thông báo sai sót (TBSS) cho CQT thì xử lý thế nào? --> Bấm vào để xem"
 

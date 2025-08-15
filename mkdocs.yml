@@ -239,8 +239,8 @@ nav:
               - minvoice2/huong-dan/them-cks-moi.md
               - minvoice2/huong-dan/thay-doi-dia-chi-tren-hoa-don.md
               - minvoice2/huong-dan/chuyen-doi-so-dinh-danh-ca-nhan-thay-the-ma-so-thue.md
-              - minvoice2/huong-dan/them-nguoi-dung.md
-              - minvoice2/huong-dan/phan-quyen.md
+              - minvoice2/huong-dan/huong-dan-su-dung-loai-hinh-doanh-nghiep-dich-vu-van-chuyen-bien-so-xe.md
+              - minvoice2/huong-dan/huong-dan-su-dung-hoa-don-mua-ban-xe-so-khung-so-may.md
           - "Các chứng năng hay sử dụng":
               - minvoice2/huong-dan/in-hang-loat.md
               - minvoice2/huong-dan/cap-nhat-ky-hieu.md
@@ -253,13 +253,14 @@ nav:
               - minvoice2/huong-dan/keo-bien-nd70.md
               - minvoice2/huong-dan/lay-macqt.md
               - minvoice2/huong-dan/khoi-phuc-trang-thai-hoa-don.md
+              - minvoice2/huong-dan/them-nguoi-dung.md
+              - minvoice2/huong-dan/phan-quyen.md
           - "Các câu hỏi và lỗi thường gặp khi sử dụng phần mềm":
               - Các câu hỏi thường gặp: minvoice2/cac-cau-hoi-thuong-gap/cau-hoi-thuong-gap-ve-hoa-don-dien-tu.md
               - "Các lỗi thường gặp":
                   - "Các lỗi ký hoá đơn thường gặp":
                       - minvoice2/cac-loi-thuong-gap/cac-loi-ky-hoa-don-thuong-gap/ban-chua-cai-dat-cong-cu-plugin-de-ky-hoa-don.md
                       - minvoice2/cac-loi-thuong-gap/cac-loi-ky-hoa-don-thuong-gap/ban-da-huy-bo-thao-tac-ky.md
-                  - minvoice2/cac-loi-thuong-gap/loi-ket-noi-khong-nhan-duoc-phan-hoi-tu-cqt.md
                   - Hướng dẫn khắc phục các lỗi truyền nhận từ CQT: minvoice2/cac-loi-thuong-gap/tong-hop-loi-truyen-nhan-thong-diep-cqt.md
           - "Nghiệp vụ hoá đơn điện tử - Xử lý sai sót":
               - Lập biên bản hóa đơn sai sót: minvoice2/xu-ly-sai-sot/lap-bien-ban-hoa-don.md
