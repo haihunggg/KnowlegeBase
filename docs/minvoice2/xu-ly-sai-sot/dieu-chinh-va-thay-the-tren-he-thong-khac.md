@@ -72,7 +72,7 @@
 
 ## **Hướng dẫn điều chỉnh và thay thế hóa đơn có sai sót trên hệ thống khác**
 
-??? Abstract "Thay thế hoá đơn trên hệ thống khác - Bấm vào đây để xem hướng dẫn"
+=== "Thay thế hoá đơn trên hệ thống khác"
 
     ### Thay thế hoá đơn trên hệ thống khác
 
@@ -123,7 +123,7 @@
 
     Bước 4 : Nhấn lưu và ký gửi hóa đơn, như thế là bạn đã hoàn thành việc thay thế hóa đơn trên hệ thống khác
 
-??? Abstract "Điều chỉnh hoá đơn trên hệ thống khác - Bấm vào đây để xem hướng dẫn"
+=== "Điều chỉnh hoá đơn trên hệ thống khác"
 
     ### Điều chỉnh hoá đơn trên hệ thống khác
 
