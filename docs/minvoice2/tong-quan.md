@@ -4,7 +4,7 @@
 
 <div class="card-grid">
 
-<a class="card" href="../../minvoice2/huong-dan/plugin/" download>
+<a class="card" href="../../minvoice2/huong-dan/plugin/">
   <div class="card-icon" style="
   width: 58px;
   height: 58px;
