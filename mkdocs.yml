@@ -262,6 +262,7 @@ nav:
                       - minvoice2/cac-loi-thuong-gap/cac-loi-ky-hoa-don-thuong-gap/ban-chua-cai-dat-cong-cu-plugin-de-ky-hoa-don.md
                       - minvoice2/cac-loi-thuong-gap/cac-loi-ky-hoa-don-thuong-gap/ban-da-huy-bo-thao-tac-ky.md
                   - Hướng dẫn khắc phục các lỗi truyền nhận từ CQT: minvoice2/cac-loi-thuong-gap/tong-hop-loi-truyen-nhan-thong-diep-cqt.md
+                  - minvoice2/cac-loi-thuong-gap/sua-loi-so-dong-bi-sang-trang-khi-chua-het-trang.md
           - "Nghiệp vụ hoá đơn điện tử - Xử lý sai sót":
               - Lập biên bản hóa đơn sai sót: minvoice2/xu-ly-sai-sot/lap-bien-ban-hoa-don.md
               - minvoice2/xu-ly-sai-sot/dieu-chinh-hoa-don.md

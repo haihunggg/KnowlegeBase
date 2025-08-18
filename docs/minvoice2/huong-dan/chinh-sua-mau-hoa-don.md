@@ -75,15 +75,17 @@
 
 ??? Abstract "Cách để chỉnh sửa số dòng trên hóa đơn - Bấm vào đây để xem hướng dẫn"
 
+    #### Cách để chỉnh sửa số dòng trên hóa đơn
+
     ???+ note "Mục đích"
 
         Chức năng chỉnh sửa số dòng trên hóa đơn cho phép người dùng tăng hoặc giảm số lượng dòng hiển thị cho hàng hóa, dịch vụ trên một tờ hóa đơn điện tử. Điều này giúp đảm bảo nội dung được trình bày gọn gàng, đầy đủ thông tin mà không bị tràn trang hoặc gây khó đọc.
 
-    ### **Bước 1:  Truy cập vào mẫu cần chỉnh Quản lý phát hành --> Mẫu hóa đơn --> Chọn mẫu cần sửa**
+    **Bước 1:  Truy cập vào mẫu cần chỉnh Quản lý phát hành --> Mẫu hóa đơn --> Chọn mẫu cần sửa**
 
     ![Hình 1](../../assets/images/invoice2/chinh-mau-hoa-don/so-dong-1.png "Hãy bấm vào để xem rõ hơn")
 
-    ### **Bước 2:  Điều chỉnh số dòng cho phù hợp**
+    **Bước 2:  Điều chỉnh số dòng cho phù hợp**
 
     **Anh/chị muốn ít trang thì để số dòng trắng 8 -> 10, hóa đơn nhiều trang 15 or 16** (áp dụng cho mẫu 1 loại thuế suất)
 
@@ -91,7 +93,7 @@
 
     ![Hình 1](../../assets/images/invoice2/chinh-mau-hoa-don/so-dong-2.png "Hãy bấm vào để xem rõ hơn")
 
-    ### **Bước 3: Trường hợp chỉnh theo 2 bước trên vẫn không được hãy làm theo hướng dẫn sau**
+    **Bước 3: Trường hợp chỉnh theo 2 bước trên vẫn không được hãy làm theo hướng dẫn sau**
 
     ???+ note "Tại sao không áp dụng được cách trên"
 

@@ -47,11 +47,6 @@ hide:
 
     ???+ note "Trả lời"
 
-        Theo quy định về chuẩn xml truyền nhận hóa đơn điện tử với Cơ quan Thuế: Nội dung hóa đơn **bổ sung thêm thông tin Loại hàng hóa đặc trưng** dùng để xác định vật tư hàng hóa thuộc nhóm đặc thù cần quản lý riêng một số thông tin đặc trưng như **Xe ô tô, xe mô tô hoặc Dịch vụ vận chuyển nhằm đáp ứng yêu cầu kê khai, truyền nhận dữ liệu hóa đơn điện tử:
-
-        Với loại xe ô tô, xe mô tô: Cần theo dõi mã quy cách và đặt tên các mã quy cách là Số khung, số máy.
-        Với loại dịch vụ vận chuyển: Cần theo dõi Biển kiểm soát phương tiện vận chuyển (khai báo trên Hóa đơn).
-
         #### **Để thay đổi chữ ký số và đăng ký tờ khai với CQT anh chị hãy xem hướng dẫn chi tiết [tại đây](../huong-dan/them-cks-moi.md#attribute-lists){ data-preview }**
 
     ??? Note "Hoặc bấm vào đây để xem video hướng dẫn nhanh"
@@ -94,6 +89,10 @@ hide:
 ??? Question "Làm thế nào để sử dụng loại hình doanh nghiệp là dịch vụ vận chuyển (có biển số xe) theo NĐ70/2025/NĐ-CP ? --> Bấm vào để xem"
 
     ???+ note "Trả lời"
+        Theo quy định về chuẩn xml truyền nhận hóa đơn điện tử với Cơ quan Thuế: Nội dung hóa đơn **bổ sung thêm thông tin Loại hàng hóa đặc trưng** dùng để xác định vật tư hàng hóa thuộc nhóm đặc thù cần quản lý riêng một số thông tin đặc trưng như **Xe ô tô, xe mô tô** hoặc **Dịch vụ vận chuyển** nhằm đáp ứng yêu cầu kê khai, truyền nhận dữ liệu hóa đơn điện tử:
+
+        Với loại xe ô tô, xe mô tô: Cần theo dõi mã quy cách và đặt tên các mã quy cách là Số khung, số máy.
+        Với loại dịch vụ vận chuyển: Cần theo dõi Biển kiểm soát phương tiện vận chuyển (khai báo trên Hóa đơn).
 
         #### **Để sử dụng loại hình doanh nghiệp là dịch vụ vận chuyển (biển số xe) anh chị hãy xem hướng dẫn chi tiết [tại đây](../huong-dan/huong-dan-su-dung-loai-hinh-doanh-nghiep-dich-vu-van-chuyen-bien-so-xe.md#attribute-lists){ data-preview }**
 
@@ -104,6 +103,11 @@ hide:
 ??? Question "Làm thế nào để sử dụng hóa đơn bán xe ô tô, mô tô (số khung, số máy) theo NĐ70/2025/NĐ-CP ? - Bấm vào để xem"
 
     ???+ note "Trả lời"
+
+        Theo quy định về chuẩn xml truyền nhận hóa đơn điện tử với Cơ quan Thuế: Nội dung hóa đơn **bổ sung thêm thông tin Loại hàng hóa đặc trưng** dùng để xác định vật tư hàng hóa thuộc nhóm đặc thù cần quản lý riêng một số thông tin đặc trưng như **Xe ô tô, xe mô tô** hoặc **Dịch vụ vận chuyển** nhằm đáp ứng yêu cầu kê khai, truyền nhận dữ liệu hóa đơn điện tử:
+
+        Với loại xe ô tô, xe mô tô: Cần theo dõi mã quy cách và đặt tên các mã quy cách là Số khung, số máy.
+        Với loại dịch vụ vận chuyển: Cần theo dõi Biển kiểm soát phương tiện vận chuyển (khai báo trên Hóa đơn).
 
         #### **Để sử dụng hóa đơn bán xe ô tô, mô tô (số khung, số máy) anh chị hãy xem hướng dẫn chi tiết [tại đây](../huong-dan/huong-dan-su-dung-hoa-don-mua-ban-xe-so-khung-so-may.md#attribute-lists){ data-preview }**
 
