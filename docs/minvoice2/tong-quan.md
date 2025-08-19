@@ -14,7 +14,7 @@
   background-position: center;
   border-radius: 8px;"></div>
   <div>
-    <h2 class="card-title">Plugin ký hoá đơn</h2>
+    <h2 class="card-title">Plugin ký</h2>
     <p class="card-desc">Tải xuống công cụ hỗ trợ ký số USB và in hóa đơn hàng loạt từ M-Invoice.</p>
   </div>
   <div class="card-overlay">
