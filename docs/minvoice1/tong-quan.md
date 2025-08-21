@@ -36,7 +36,7 @@
   <div class="card-icon" style="mask-image: url('../../assets/icons/huong-dan-su-dung.svg');"></div>
   <div>
     <h2 class="card-title">Hướng dẫn sử dụng</h2>
-    <p class="card-desc">Hướng dẫn thao tác lần đầu các chức năng chính của hóa đơn điện tử. Hướng dẫn sử dụng phiếu đề nghị thu tiền</p>
+    <p class="card-desc">Hướng dẫn thao tác lần đầu các chức năng chính của hóa đơn điện tử. <br> Hướng dẫn sử dụng phiếu đề nghị thu tiền</p>
   </div>
   <div class="card-overlay"><button><i class="fa fa-eye"></i> Xem chi tiết</button></div>
 </a>
