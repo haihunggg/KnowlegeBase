@@ -200,6 +200,7 @@ nav:
       - Hướng dẫn tích hợp hóa đơn bán hàng theo Nghị quyết số 174/2024/QH15: minvoice2/ds-don-vi-tich-hop/nqhi-quyet-so-174.md
   - M-invoice 1.0:
       - "":
+          - "☰  Tổng quan": minvoice1/tong-quan.md
           - "Hướng dẫn sử dụng":
               - Đăng nhập: minvoice1/huong-dan/dang-nhap.md
               - Dashboard 1.0: minvoice1/huong-dan/dashboard.md
@@ -207,17 +208,18 @@ nav:
               - Đăng ký / thay đổi tờ khai theo NĐ70: minvoice1/huong-dan/dang-ky-thay-doi-to-khai-theo-ND70.md
               - Thay đổi CKS hoặc thêm CKS mới vào phần mềm theo NĐ70: minvoice1/huong-dan/them-CKS.md
               - Thay đổi địa chỉ doanh nghiệp trên hóa đơn: minvoice1/huong-dan/thay-doi-dia-chi-tren-hoa-don.md
+              - minvoice1/huong-dan/huong-dan-su-dung-phieu-de-nghi-thu-tien.md
+          - "Các chứng năng hay sử dụng":
+              - Tải hàng loạt hoá đơn PDF và XML: minvoice1/huong-dan/in-hang-loat.md
               - Sửa tiền bằng tay: minvoice1/huong-dan/sua-tien-bang-tay.md
               - Tạo hóa đơn bằng file excel: minvoice1/huong-dan/nhap-excel-hang-loat.md
               - Nhập file excel chi tiết: minvoice1/huong-dan/nhap-excel-chi-tiet.md
-              - Tải hàng loạt hoá đơn PDF và XML: minvoice1/huong-dan/in-hang-loat.md
               - Thêm mới tài khoản: minvoice1/huong-dan/them-user.md
               - Lấy lại mật khẩu: minvoice1/huong-dan/lay-mat-khau.md
           - "Các lỗi thường gặp khi sử dụng phần mềm":
               - Gửi mail báo "Xác thực không hợp lệ": minvoice1/loi-thuong-gap/gui-mail-loi.md
               - Tổng hợp các lỗi truyền nhận thông điệp CQT: minvoice1/loi-thuong-gap/tong-hop-loi-truyen-nhan-thong-diep-cqt.md
           - "Nghiệp vụ hoá đơn điện tử - Xử lý sai sót":
-              #- Hủy hóa đơn: tutorials/nghiep-vu/huy.md
               - Lập biên bản hóa đơn sai sót: minvoice1/xu-ly-sai-sot/lap-bien-ban-hoa-don.md
               - Thay thế hóa đơn: minvoice1/xu-ly-sai-sot/thay-the.md
               - Điều chỉnh hóa đơn: minvoice1/xu-ly-sai-sot/dieu-chinh.md

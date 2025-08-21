@@ -19,9 +19,9 @@ hide:
 
     <span style="color:red;"><strong>2: Mô tả lỗi</strong></span>
 
-    **Bước 3: Tra cứu lỗi + hướng xử lý ở dưới đây**
+    **Bước 3: Tra cứu lỗi + hướng xử lý theo bảng tra cứu ở dưới đây**
 
-???+ info "Cách để xem mã lỗi và mô tả lỗi ở phiên bản 2.0"
+??? info "Cách để xem mã lỗi và mô tả lỗi ở phiên bản 2.0 - Bấm vào đây để xem"
 
     **Bước 1: Bấm vào chữ có lỗi màu đỏ ở hóa đơn bị lỗi**
 
@@ -35,7 +35,9 @@ hide:
 
     <span style="color:red;"><strong>2: Mô tả lỗi</strong></span>
 
-**Bước 3: Tra cứu lỗi + hướng xử lý ở dưới đây**
+    **Bước 3: Tra cứu lỗi + hướng xử lý theo bảng tra cứu ở dưới đây**
+
+**Bảng tra cứu thông điệp lỗi**
 
 <!-- Style -->
 <style>
