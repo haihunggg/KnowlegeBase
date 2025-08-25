@@ -65,6 +65,10 @@
 #__nav_5_1 {
   font-weight: bold;
 }
+
+#__toc {
+  font-weight: bold;
+}
 /*chỉnh màu ở thanh nav*/
 /* Áp dụng chung */
 .md-nav__link {
