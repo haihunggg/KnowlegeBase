@@ -101,6 +101,37 @@ hide:
   let rawRows = [];
   let headers = [];
 
+async function getCsvUrlFromConfig() {
+  const configCsvUrl = "https://docs.google.com/spreadsheets/d/1_WP9zofpMODLm1jvA2MLOi9m1Y5Vs-2JC_PEBXnCazQ/export?format=csv&gid=0";
+  const response = await fetch(configCsvUrl);
+  const text = await response.text();
+  const results = Papa.parse(text, { header: true, skipEmptyLines: true });
+  // Giả sử Key là 'csv_url'
+  const csvRow = results.data.find(r => r.Key === "csv_url_tichhop");
+  return csvRow ? csvRow.Value : null;
+}
+
+async function loadSheetData() {
+  const url = await getCsvUrlFromConfig();
+  if (!url) {
+    document.getElementById('sheet-table-container').innerHTML = `<p style="color:red;">Không tìm thấy CSV URL trong config.</p>`;
+    return;
+  }
+
+  try {
+    const response = await fetch(url);
+    const text = await response.text();
+    const results = Papa.parse(text, { header: false, skipEmptyLines: true });
+    rawRows = results.data;
+    headers = rawRows[0].filter((_, idx) => !hiddenCols.includes(idx));
+    renderTable(rawRows);
+  } catch (err) {
+    document.getElementById('sheet-table-container').innerHTML = `<p style="color:red;">Không thể tải dữ liệu.</p>`;
+  }
+}
+
+
+/**
   async function loadSheetData() {
     const url = 'https://docs.google.com/spreadsheets/d/1gU5I_M2ZPrymHa8IisdXhMGiGTXr_YoyKk8Y3ewi6To/export?format=csv&gid=0';
 
@@ -115,7 +146,7 @@ hide:
       document.getElementById('sheet-table-container').innerHTML = `<p style="color:red;">Không thể tải dữ liệu.</p>`;
     }
   }
-
+**/
   function renderTable(data) {
     const table = document.createElement('table');
     const thead = document.createElement('thead');
