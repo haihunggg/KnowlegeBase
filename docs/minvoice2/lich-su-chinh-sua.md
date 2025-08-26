@@ -182,7 +182,7 @@ a.guide-link:hover {
   let headers = [];
 
   async function loadSheetData() {
-    const url = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vRjMvoSAQLikz_4tViMhzRIIBghKZCN1I2blvEz7tJKSDl8QidD0oLMt72F-zcxOiflUeam0mUwKa2P/pub?gid=1426965705&single=true&output=csv';
+const url = "https://script.google.com/macros/s/AKfycbxSE-C-fcy66BwR6AEm3hsjJO70h9zAraVk_SRPHv9aKnpWfrwvs-DzUbb-FYT-ffeXKQ/exec?ts=" + Date.now();
 
     try {
       const response = await fetch(url);
@@ -327,6 +327,7 @@ a.guide-link:hover {
   }
 
   loadSheetData();
+
 </script>
 
 <div class="last-updated">📅 Last updated on <strong>Aug 21, 2025</strong> — 👤 <strong>NHATTH</strong></div>
