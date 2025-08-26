@@ -102,7 +102,7 @@ hide:
   let headers = [];
 
   async function loadSheetData() {
-    const url = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vQmQYH5j8ruAENtaIj8LXF_2wlYDnznZhRi0urxGWo8HBqRK4huxRICTQRl54e_wdKuGV-KfTE1-IQY/pub?output=csv';
+    const url = 'https://docs.google.com/spreadsheets/d/1gU5I_M2ZPrymHa8IisdXhMGiGTXr_YoyKk8Y3ewi6To/export?format=csv&gid=0';
 
     try {
       const response = await fetch(url);

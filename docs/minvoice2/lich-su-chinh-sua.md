@@ -182,7 +182,7 @@ a.guide-link:hover {
   let headers = [];
 
   async function loadSheetData() {
-const url = "https://script.google.com/macros/s/AKfycbw027ACzHsBSjAfdub5qAKLN5MEDhYm8fsnxgIAk-zpcRHPhiw-hZKPMPDL5vhxWtfSog/exec?ts=" + Date.now();
+const url = 'https://docs.google.com/spreadsheets/d/1lTWhKXWIRVktxKpMh_UqJqdS93OXJrqeTLif6LVWnPw/export?format=csv&gid=1426965705'
 
     try {
       const response = await fetch(url);
