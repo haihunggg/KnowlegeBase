@@ -89,7 +89,7 @@
 
 ??? Abstract "Điều chỉnh giảm thuế suất - Bấm vào đây để xem hướng dẫn"
 
-    ### Điều chỉnh giảm thuế suất
+    #### **Điều chỉnh giảm thuế suất**
 
     **Bước 1: Chọn hóa đơn cần điều chỉnh --> Xử lý sai sót --> Điều chỉnh**
 
@@ -121,7 +121,7 @@
 
 ??? Abstract "Điều chỉnh tăng thuế suất - Bấm vào đây để xem hướng dẫn"
 
-    ### Điều chỉnh tăng thuế suất
+    #### **Điều chỉnh tăng thuế suất**
 
     Bước 1: Chọn hóa đơn cần điều chỉnh --> Xử lý sai sót --> Điều chỉnh
 
@@ -139,7 +139,7 @@
 
 ??? Abstract "Điều chỉnh sai tên hàng, đơn vị tính - Bấm vào đây để xem hướng dẫn"
 
-    ### Điều chỉnh sai tên hàng, đơn vị tính
+    #### **Điều chỉnh sai tên hàng, đơn vị tính**
 
     Bước 1: Chọn hóa đơn cần điều chỉnh --> Xử lý sai sót --> Điều chỉnh
 
@@ -156,7 +156,7 @@
 
 ??? Abstract "Điều chỉnh số lượng ảnh hưởng đến thành tiền - Bấm vào đây để xem hướng dẫn"
 
-    ### Điều chỉnh số lượng ảnh hưởng đến thành tiền
+    #### **Điều chỉnh số lượng ảnh hưởng đến thành tiền**
 
     Bước 1: Chọn hóa đơn cần điều chỉnh --> Xử lý sai sót --> Điều chỉnh
 

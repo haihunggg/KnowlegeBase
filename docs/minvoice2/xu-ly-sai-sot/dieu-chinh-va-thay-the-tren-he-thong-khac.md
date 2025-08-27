@@ -74,7 +74,7 @@
 
 === "Thay thế hoá đơn trên hệ thống khác"
 
-    ### Thay thế hoá đơn trên hệ thống khác
+    #### **Thay thế hoá đơn trên hệ thống khác**
 
     ???+ Warning "Lưu ý"
 
@@ -125,7 +125,7 @@
 
 === "Điều chỉnh hoá đơn trên hệ thống khác"
 
-    ### Điều chỉnh hoá đơn trên hệ thống khác
+    #### **Điều chỉnh hoá đơn trên hệ thống khác**
 
     ???+ Warning "Lưu ý"
 

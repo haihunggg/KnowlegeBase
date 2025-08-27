@@ -268,7 +268,7 @@ hide:
   }
 
   async function loadSheetData() {
-    const url = 'https://docs.google.com/spreadsheets/d/1_K-6-pA5RuqOvTc4vR6LnAPMlaZxh3BXwHmM_NtGlls/export?format=csv&gid=0';
+    const url = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vTbKF-N9-xBzwenpr5H5ZkwASlMbnhXhvsbmyugWwt7t-W9JJogi4wOP3ArE5xL_mr7reem2ZN_inU4/pub?gid=0&single=true&output=csv';
 
     document.getElementById('loading-spinner').style.display = 'block';
     document.getElementById('loading-text').style.display = 'block';
