@@ -6,10 +6,6 @@
 
     nhanh chóng, minh bạch và tiết kiệm thời gian.
 
-!!! warning "Lưu ý"
-
-    Người bán cần phải lập biên bản trước xem chi tiết [tại đây](../xu-ly-sai-sot/lap-bien-ban-hoa-don.md#attribute-lists){ data-preview }
-
 ### **Bước 1: Lập và ký biên bản**
 
 Xem chi tiết [tại đây](../xu-ly-sai-sot/lap-bien-ban-hoa-don.md#attribute-lists){ data-preview }
