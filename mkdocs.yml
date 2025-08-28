@@ -222,6 +222,7 @@ nav:
               - Tổng hợp các lỗi truyền nhận thông điệp CQT: minvoice1/loi-thuong-gap/tong-hop-loi-truyen-nhan-thong-diep-cqt.md
           - "Nghiệp vụ hoá đơn điện tử - Xử lý sai sót":
               - Lập biên bản hóa đơn sai sót: minvoice1/xu-ly-sai-sot/lap-bien-ban-hoa-don.md
+              - Hướng dẫn thao tác ký biên bản người mua: minvoice1/xu-ly-sai-sot/huong-dan-ky-bien-ban-nguoi-mua.md
               - Thay thế hóa đơn: minvoice1/xu-ly-sai-sot/thay-the.md
               - Điều chỉnh hóa đơn: minvoice1/xu-ly-sai-sot/dieu-chinh.md
               - Điều chỉnh hoá đơn về 0 (Tương đương huỷ hoá đơn): minvoice1/xu-ly-sai-sot/dieu-chinh-giam-ve-0.md
@@ -289,6 +290,7 @@ nav:
           - "Lịch sử chỉnh sửa 🕑": minvoice2/lich-su-chinh-sua.md
   - Chứng từ TNCN:
       - "":
+          - "☰  Tổng quan": chung-tu/tong-quan.md
           - "Hướng dẫn sử dụng":
               - Các điểm mới về chứng từ khấu trừ thuế TNCN theo Nghị định 70/2025/NĐ-CP: chung-tu/diem-moi.md
               - Việc cần làm để chuyển đổi đáp ứng Nghị định 70/2025/NĐ-CP: chung-tu/viec-can-lam.md
@@ -297,11 +299,12 @@ nav:
               - chung-tu/them-cks-moi.md
               - chung-tu/tao-ky-hieu.md
               - chung-tu/lap-va-phat-hanh-chung-tu.md
-              - chung-tu/gui-mail.md
-              - chung-tu/nhap-excel-hang-loat.md
-              - chung-tu/tai-hang-loat.md
               - chung-tu/them-nguoi-dung.md
               - chung-tu/phan-quyen.md
+          - "Các chức năng hay sử dụng":
+              - chung-tu/tai-hang-loat.md
+              - chung-tu/nhap-excel-hang-loat.md
+              - chung-tu/gui-mail.md
           - "Xử lý sai sót Chứng từ điện tử":
               - chung-tu/thay-the-chung-tu.md
               - chung-tu/dieu-chinh-chung-tu.md

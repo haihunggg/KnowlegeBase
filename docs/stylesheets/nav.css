@@ -27,7 +27,8 @@
 #__nav_5_1_1_label,
 #__nav_5_1_2_label,
 #__nav_5_1_3_label,
-#__nav_5_1_4_label {
+#__nav_5_1_4_label,
+#__nav_5_1_5_label {
   font-weight: bold;
 }
 
@@ -96,6 +97,11 @@ li.md-nav__item a[href*="/minvoice2/tong-quan/"] {
 }
 
 li.md-nav__item a[href*="/minvoice1/tong-quan/"] {
+  font-weight: bold !important;
+  color: #1a73e8; /* tuỳ chọn màu */
+}
+
+li.md-nav__item a[href*="/chung-tu/tong-quan/"] {
   font-weight: bold !important;
   color: #1a73e8; /* tuỳ chọn màu */
 }

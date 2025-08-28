@@ -87,19 +87,11 @@
 
     **Thao tác cài đặt và thực hiện như sau**
 
-    <iframe style="width: 43rem; height: 380px" src="https://www.youtube.com/embed/2yVVe_lBgW0?si=gJyIo4SUDCbSe9Sn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-    **Hướng dẫn sử dụng bằng hình ảnh nếu Quý khách không xem được video**
-
-    Bước 1: Ở giao diện trang chủ chọn phần Xử lý sai sót --> Thay thế hóa đơn trên hệ thống khác
+    Bước 1: Ở giao diện **"Hóa đơn đầu ra"** chọn phần **"Xử lý sai sót"** --> **Thay thế hóa đơn trên hệ thống khác**
 
     ![Hình 1](../../assets/images/invoice2/2.0_thay-the-khac_1.png)
 
-    Bước 2: Chọn lập hóa đơn thay thế, sau đó chọn phần ký hiệu mà bạn muốn hóa đơn thay thế nằm trong đó
-
-    ![Hình 2](../../assets/images/invoice2/2.0_thay-the-khac_2.png)
-
-    Bước 3 : Lập hóa đơn thay thế
+    Bước 2 : Lập hóa đơn thay thế
 
     ![Hình 3](../../assets/images/invoice2/2.0_thay-the-khac_3.png)
 
@@ -107,19 +99,19 @@
 
     + **Tính chất hóa đơn liên quan** : Thay thế hoặc điều chỉnh
 
-    + **Loại hóa đơn liên quan** : Hóa đơn điện tử NĐ123 hoặc hóa đơn NĐ 51 tùy từng trường hợp
+    + **Loại hóa đơn liên quan** : Chọn hóa đơn điện tử NĐ123 (Chọn NĐ51 nếu hóa đơn ở thông tư cũ)
 
     + **Ngày lập hóa đơn liên quan** : Ngày của hóa đơn cần thay thế
 
-    + **Mẫu số hóa đơn liên quan**
+    + **Mẫu số hóa đơn liên quan**: Mẫu số tương ứng với loại hóa đơn (Ví dụ: hóa đơn GTGT là `1`, hóa đơn bán hàng là `2`)
 
-    + **Ký hiệu hóa đơn liên quan** :  Nhập đúng ký hiệu của hóa đơn cần thay thế
+    + **Ký hiệu hóa đơn liên quan** :  Nhập đúng ký hiệu của hóa đơn cần thay thế (ví dụ: C25TYY)
 
     + **Số hóa đơn liên quan** : Số hóa đơn cần thay thế
 
     + **Lý do sai sót** : Nhập lý do sai sót
 
-    Ở mục chi tiết hóa đơn nhập lại nội dung hóa đơn cần thay thế
+    <span style = "color: red">Ở mục chi tiết hóa đơn nhập lại nội dung hóa đơn cần thay thế</span>
 
     Bước 4 : Nhấn lưu và ký gửi hóa đơn, như thế là bạn đã hoàn thành việc thay thế hóa đơn trên hệ thống khác
 
@@ -136,22 +128,13 @@
 
         Nếu đã lựa chọn nghiệp vụ điều chỉnh thì không được thay thế hóa đơn điều chỉnh. Từ NGHỊ ĐỊNH 70/2025/NĐ-CP nghiệp vụ này không phải lập kèm 04/SS
 
-    **Thao tác cài đặt và thực hiện như sau**
-
-    <iframe style="width: 43rem; height: 380px" src="https://www.youtube.com/embed/cUYWKk58Xik?si=CPT8rmPb8QMycFoT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
     ???+ Tip
 
-        Quý khách lên xem video hướng dẫn làm hoá đơn điều chỉnh nếu có sai sót liên quan đến số lượng, đơn giá và thành tiền
+        Quý anh chị có thể xem chi tiết các trường hợp điều chỉnh hóa đơn qua đây 📄 [Các trường hợp điều chỉnh hóa đơn](../xu-ly-sai-sot/dieu-chinh-hoa-don.md#attribute-lists){ data-preview }
 
-    **Hướng dẫn sử dụng bằng hình ảnh nếu Quý khách không xem được video**
-    Bước 1: Ở giao diện trang chủ chọn phần Xử lý sai sót --> Điều chỉnh hóa đơn trên hệ thống khác
+    Bước 1: Ở giao diện **"Hóa đơn đầu ra"** chọn phần **"Xử lý sai sót"** --> **Điều chỉnh hóa đơn trên hệ thống khác**
 
-    ![Hình 4](../../assets/images/invoice2/2.0_thay-the-khac_1.png)
-
-    Bước 2: Chọn lập hóa đơn điều chỉnh, sau đó chọn phần ký hiệu mà bạn muốn hóa đơn điều chỉnh nằm trong đó
-
-    ![Hình 5](../../assets/images/invoice2/2.0_thay-the-khac_2.png)
+    ![Hình 4](../../assets/images/invoice2/2.0_dieu-chinh-khac_1.png)
 
     Bước 3 : Lập hóa đơn điều chỉnh
 
@@ -159,21 +142,21 @@
 
     Ở mục hóa đơn liên quan
 
-    + **Tính chất hóa đơn liên quan** : điều chỉnh
+    + **Tính chất hóa đơn liên quan** : Thay thế hoặc điều chỉnh
 
-    + **Loại hóa đơn liên quan** : Hóa đơn điện tử NĐ123 hoặc hóa đơn NĐ 51 tùy từng trường hợp
+    + **Loại hóa đơn liên quan** : Chọn hóa đơn điện tử NĐ123 (Chọn NĐ51 nếu hóa đơn ở thông tư cũ)
 
     + **Ngày lập hóa đơn liên quan** : Ngày của hóa đơn cần điều chỉnh
 
-    + **Mẫu số hóa đơn liên quan**
+    + **Mẫu số hóa đơn liên quan**: Mẫu số tương ứng với loại hóa đơn (Ví dụ: hóa đơn GTGT là `1`, hóa đơn bán hàng là `2`)
 
-    + **Ký hiệu hóa đơn liên quan** :  Nhập đúng ký hiệu của hóa đơn cần điều chỉnh
+    + **Ký hiệu hóa đơn liên quan** :  Nhập đúng ký hiệu của hóa đơn cần điều chỉnh (ví dụ: C25TYY)
 
     + **Số hóa đơn liên quan** : Số hóa đơn cần điều chỉnh
 
     + **Lý do sai sót** : Nhập lý do sai sót
 
-    Ở mục chi tiết hóa đơn nhập nội dung hóa đơn cần điều chỉnh (hướng dẫn video ở trên)
+    Ở mục chi tiết hóa đơn nhập nội dung hóa đơn cần điều chỉnh 📄 [hướng dẫn chi tiết các trường hợp điều chỉnh](../xu-ly-sai-sot/dieu-chinh-hoa-don.md#attribute-lists){ data-preview }
 
     Bước 4 : Nhấn lưu và ký gửi hóa đơn, như thế là bạn đã hoàn thành việc điều chỉnh hóa đơn trên hệ thống khác
 
@@ -257,4 +240,4 @@ Bấm nút in ở trình duyệt hoặc bấm ctrl + P để in
 
 ![Hình 7](../../assets/images/invoice2/hotro.png)
 
-<div class="last-updated">Last updated on <strong>Jul 17, 2025</strong> by <strong>nhatth</strong></div>
+<div class="last-updated">Last updated on <strong>Aug 28, 2025</strong> by <strong>NHATTH</strong></div>

@@ -4,7 +4,7 @@ Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm 
 
 === "Thêm chứng từ"
 
-    ## **Hướng dẫn lập và phát hành chứng từ**
+    #### **Hướng dẫn lập và phát hành chứng từ**
 
     ???+ Note "Ghi chú"
 
@@ -148,7 +148,7 @@ Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm 
 
 === "Sửa chứng từ"
 
-    ## **Hướng dẫn sửa chứng từ Chờ ký**
+    #### **Hướng dẫn sửa chứng từ Chờ ký**
 
     ???+ Note "Ghi chú"
 
@@ -168,7 +168,7 @@ Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm 
 
 === "Xoá chứng từ"
 
-    ## **Hướng dẫn xóa chứng từ chờ ký**
+    #### **Hướng dẫn xóa chứng từ chờ ký**
 
     ???+ Note "Ghi chú"
 
