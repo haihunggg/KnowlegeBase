@@ -230,6 +230,7 @@ nav:
           - "Danh mục và báo cáo":
               - Báo cáo chi tiết: minvoice1/danh-muc-bao-cao/bao-cao-chi-tiet.md
               - Báo cáo bảng kê bán ra PL01: minvoice1/danh-muc-bao-cao/bao-cao-pl01.md
+          - "Lịch sử chỉnh sửa 🕑": minvoice1/lich-su-chinh-sua.md
   - M-invoice 2.0:
       - "":
           - "☰  Tổng quan": minvoice2/tong-quan.md
