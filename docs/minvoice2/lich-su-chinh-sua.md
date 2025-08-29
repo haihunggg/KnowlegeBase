@@ -27,7 +27,6 @@ hide:
 }
 
   #sheet-table-container {
-    width: 100%;
     overflow-x: auto;
     padding: 16px;
     box-sizing: border-box;
@@ -35,7 +34,8 @@ hide:
   }
 
   #sheet-table-container table {
-    width: 100%;
+     min-width: 1000px; /* đảm bảo rộng hơn màn hình */
+  width: max-content; 
     border-collapse: separate;
     border-spacing: 0;
     font-size: 0.8em;
@@ -203,7 +203,7 @@ const url = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vRjMvoSAQLikz_4tViM
   function renderTable(data) {
     const table = document.createElement('table');
     const caption = document.createElement('caption');
-    caption.textContent = "Danh sách các chỉnh sửa & cập nhật phần mềm (Release Notes Effective August 1, 2025)";
+    caption.textContent = "Danh sách các chỉnh sửa & cập nhật phần mềm M-invoice 2.0 (Release Notes Effective August 1, 2025)";
     table.appendChild(caption);
 
     const thead = document.createElement('thead');

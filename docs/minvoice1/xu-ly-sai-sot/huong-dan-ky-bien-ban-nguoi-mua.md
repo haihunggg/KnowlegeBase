@@ -2,11 +2,11 @@
 
 ???+ Note "Mục đích"
 
-    Chức năng hỗ trợ gửi biên bản điện tử tới người mua qua email và cho phép người mua ký xác nhận trực tuyến, giúp quá trình xác nhận chứng từ diễn ra
-
-    nhanh chóng, minh bạch và tiết kiệm thời gian.
+    Chức năng hỗ trợ gửi biên bản điện tử tới người mua qua email và cho phép người mua ký xác nhận trực tuyến, giúp quá trình xác nhận chứng từ diễn ra nhanh chóng, minh bạch và tiết kiệm thời gian.
 
 ### **Bước 1: Lập và ký biên bản**
+
+<span style="font-size: 13px; font-style: italic; color: red;">Thao tác của người bán</span>
 
 Xem chi tiết [tại đây](../xu-ly-sai-sot/lap-bien-ban-hoa-don.md#attribute-lists){ data-preview }
 
@@ -14,11 +14,15 @@ Xem chi tiết [tại đây](../xu-ly-sai-sot/lap-bien-ban-hoa-don.md#attribute-
 
 ### **Bước 2: Gửi email cho Người mua**
 
+<span style="font-size: 13px; font-style: italic; color: red;">Thao tác của người bán</span>
+
 **Sau khi ký bên bán, phần mềm hiển thị nút Gửi email**
 
 ![Hình 2](../../assets/images/invoice1/1.0_ky-bien-ban-nguoi-mua_2.png "Hãy bấm vào để xem rõ hơn")
 
-### **Bước 3 : Người mua ký**
+### **Bước 3 : Người mua ký** >
+
+<span style="font-size: 13px; font-style: italic; color: red;">Thao tác của người mua</span>
 
 **Người mua truy cập email vào click vào đường link ký biên bản**
 
@@ -31,6 +35,8 @@ Xem chi tiết [tại đây](../xu-ly-sai-sot/lap-bien-ban-hoa-don.md#attribute-
 ![Hình 3](../../assets/images/invoice1/1.0_ky-bien-ban-nguoi-mua_4.png "Hãy bấm vào để xem rõ hơn")
 
 ### **Bước 4 : Tải biên bản sau khi ký về máy**
+
+<span style="font-size: 13px; font-style: italic; color: red;">Thao tác của người mua</span>
 
 **Click Tải xuống và lưu file PDF trả về**
 

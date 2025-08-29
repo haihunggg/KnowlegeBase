@@ -27,7 +27,6 @@ hide:
 }
 
   #sheet-table-container {
-    width: 100%;
     overflow-x: auto;
     padding: 16px;
     box-sizing: border-box;
@@ -35,7 +34,8 @@ hide:
   }
 
   #sheet-table-container table {
-    width: 100%;
+     min-width: 1000px; /* đảm bảo rộng hơn màn hình */
+  width: max-content; 
     border-collapse: separate;
     border-spacing: 0;
     font-size: 0.8em;
@@ -182,7 +182,7 @@ a.guide-link:hover {
   let headers = [];
 
   async function loadSheetData() {
-const url = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vRjMvoSAQLikz_4tViMhzRIIBghKZCN1I2blvEz7tJKSDl8QidD0oLMt72F-zcxOiflUeam0mUwKa2P/pub?gid=1426965705&single=true&output=csv'
+const url = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vRjMvoSAQLikz_4tViMhzRIIBghKZCN1I2blvEz7tJKSDl8QidD0oLMt72F-zcxOiflUeam0mUwKa2P/pub?gid=1122442186&single=true&output=csv'
 
     try {
       const response = await fetch(url);
@@ -203,7 +203,7 @@ const url = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vRjMvoSAQLikz_4tViM
   function renderTable(data) {
     const table = document.createElement('table');
     const caption = document.createElement('caption');
-    caption.textContent = "Danh sách các chỉnh sửa & cập nhật phần mềm (Release Notes Effective August 1, 2025)";
+    caption.textContent = "Danh sách các chỉnh sửa & cập nhật phần mềm M-invoice 1.0 (Release Notes Effective August 1, 2025)";
     table.appendChild(caption);
 
     const thead = document.createElement('thead');

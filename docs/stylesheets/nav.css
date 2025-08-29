@@ -86,16 +86,13 @@
   font-weight: bold;
 }
 
-li.md-nav__item a[href*="/minvoice2/lich-su-chinh-sua/"] {
+li.md-nav__item a[href*="/minvoice2/lich-su-chinh-sua/"],
+li.md-nav__item a[href*="/minvoice1/lich-su-chinh-sua/"] {
   font-weight: bold !important;
   /*color: #1a73e8; /* tuỳ chọn màu */
 }
 
-li.md-nav__item a[href*="/minvoice2/tong-quan/"] {
-  font-weight: bold !important;
-  color: #1a73e8; /* tuỳ chọn màu */
-}
-
+li.md-nav__item a[href*="/minvoice2/tong-quan/"],
 li.md-nav__item a[href*="/minvoice1/tong-quan/"] {
   font-weight: bold !important;
   color: #1a73e8; /* tuỳ chọn màu */
