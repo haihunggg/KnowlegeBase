@@ -1,5 +1,3 @@
-/* Ẩn nút chat Subiz */
-#subiz_button_container,
-#subiz_widget {
+div[sbz-plugin-type="chatbox"] {
   display: none !important;
 }

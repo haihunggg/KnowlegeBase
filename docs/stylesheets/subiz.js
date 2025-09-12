@@ -34,14 +34,14 @@
     })(0));
 })(window, document, "script", "subiz", "acryguzgwxmamhzmqlyx");
 
-// Chờ Subiz load xong rồi ẩn form chat
 (function hideSubiz() {
-  var chatContainer = document.getElementById("subiz_button_container");
-  var chatWidget = document.getElementById("subiz_widget");
+  // Lấy tất cả các widget chat của Subiz
+  var widgets = document.querySelectorAll('div[sbz-plugin-type="chatbox"]');
 
-  if (chatContainer || chatWidget) {
-    if (chatContainer) chatContainer.style.display = "none";
-    if (chatWidget) chatWidget.style.display = "none";
+  if (widgets.length > 0) {
+    widgets.forEach(function (w) {
+      w.style.display = "none";
+    });
   } else {
     // Nếu chưa load xong, thử lại sau 500ms
     setTimeout(hideSubiz, 500);
