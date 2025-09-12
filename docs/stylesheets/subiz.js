@@ -33,17 +33,3 @@
           setTimeout(y, 2e3, k + 1)));
     })(0));
 })(window, document, "script", "subiz", "acryguzgwxmamhzmqlyx");
-
-(function hideSubiz() {
-  // Lấy tất cả các widget chat của Subiz
-  var widgets = document.querySelectorAll('div[sbz-plugin-type="chatbox"]');
-
-  if (widgets.length > 0) {
-    widgets.forEach(function (w) {
-      w.style.display = "none";
-    });
-  } else {
-    // Nếu chưa load xong, thử lại sau 500ms
-    setTimeout(hideSubiz, 500);
-  }
-})();
