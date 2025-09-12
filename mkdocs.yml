@@ -94,13 +94,11 @@ extra_css:
   - stylesheets/extra.css
   - stylesheets/card.css
   - stylesheets/nav.css
-  - stylesheets/subiz.css
 
 # JS
 extra_javascript:
   - stylesheets/extra.js
   - stylesheets/nav.js
-  - stylesheets/subiz.js
 
 # Plugins
 plugins:
