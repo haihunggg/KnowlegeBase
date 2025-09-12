@@ -33,3 +33,17 @@
           setTimeout(y, 2e3, k + 1)));
     })(0));
 })(window, document, "script", "subiz", "acryguzgwxmamhzmqlyx");
+
+// Chờ Subiz load xong rồi ẩn form chat
+(function hideSubiz() {
+  var chatContainer = document.getElementById("subiz_button_container");
+  var chatWidget = document.getElementById("subiz_widget");
+
+  if (chatContainer || chatWidget) {
+    if (chatContainer) chatContainer.style.display = "none";
+    if (chatWidget) chatWidget.style.display = "none";
+  } else {
+    // Nếu chưa load xong, thử lại sau 500ms
+    setTimeout(hideSubiz, 500);
+  }
+})();

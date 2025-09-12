@@ -1,0 +1,5 @@
+/* Ẩn nút chat Subiz */
+#subiz_button_container,
+#subiz_widget {
+  display: none !important;
+}
