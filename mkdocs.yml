@@ -271,7 +271,20 @@ nav:
                   - minvoice2/cac-loi-thuong-gap/sua-loi-so-dong-bi-sang-trang-khi-chua-het-trang.md
           - "Nghiệp vụ hoá đơn điện tử - Xử lý sai sót":
               - Lập biên bản hóa đơn sai sót: minvoice2/xu-ly-sai-sot/lap-bien-ban-hoa-don.md
+              - Hướng dẫn thao tác ký biên bản người mua: minvoice2/xu-ly-sai-sot/huong-dan-ky-bien-ban-nguoi-mua.md
               - minvoice2/xu-ly-sai-sot/dieu-chinh-hoa-don.md
+              - "Các trường hợp điều chỉnh hoá đơn":
+                  - "Điều chỉnh tăng đơn giá hàng hóa": minvoice2/xu-ly-sai-sot/cach-viet-thong-tin-tren-hoa-don-dieu-chinh-tang-don-gia-hang-hoa.md
+                  - "Điều chỉnh tăng số lượng hàng hóa": minvoice2/xu-ly-sai-sot/cach-viet-thong-tin-tren-hoa-don-dieu-chinh-tang-so-luong-hang-hoa.md
+                  - "Điều chỉnh tăng thuế suất": minvoice2/xu-ly-sai-sot/cach-viet-thong-tin-tren-hoa-don-dieu-chinh-tang-thue-suat.md
+                  - "Điều chỉnh tăng thành tiền": minvoice2/xu-ly-sai-sot/cach-viet-thong-tin-tren-hoa-don-dieu-chinh-tang-thanh-tien-khong-dieu-chinh-so-luong-don-gia.md
+                  - "Điều chỉnh giảm đơn giá hàng hóa": minvoice2/xu-ly-sai-sot/cach-viet-thong-tin-tren-hoa-don-dieu-chinh-giam-don-gia-hang-hoa.md
+                  - "Điều chỉnh giảm số lượng hàng hóa": minvoice2/xu-ly-sai-sot/cach-viet-thong-tin-tren-hoa-don-dieu-chinh-giam-so-luong-hang-hoa.md
+                  - "Điều chỉnh giảm thuế suất": minvoice2/xu-ly-sai-sot/cach-viet-thong-tin-tren-hoa-don-dieu-chinh-giam-thue-suat.md
+                  - "Điều chỉnh giảm thành tiền": minvoice2/xu-ly-sai-sot/cach-viet-thong-tin-tren-hoa-don-dieu-chinh-giam-thanh-tien-khong-dieu-chinh-so-luong-don-gia.md
+                  - "Điều chỉnh tên hàng hóa": minvoice2/xu-ly-sai-sot/cach-viet-thong-tin-tren-hoa-don-dieu-chinh-ten-hang-hoa.md
+                  - "Điều chỉnh mã số thuế người mua hàng": minvoice2/xu-ly-sai-sot/cach-viet-thong-tin-tren-hoa-don-dieu-chinh-ma-so-thue-nguoi-mua-hang.md
+                  - "Điều chỉnh đơn vị tính của hàng hóa": minvoice2/xu-ly-sai-sot/cach-viet-thong-tin-tren-hoa-don-dieu-chinh-don-vi-tinh-cua-hang-hoa.md
               - Điều chỉnh hoá đơn về 0 (Tương đương hủy hóa đơn): minvoice2/xu-ly-sai-sot/dieu-chinh-giam-ve-0.md
               #    - setup/huy-hoa-don-hang-loat.md
               - minvoice2/xu-ly-sai-sot/thay-the-hoa-don.md

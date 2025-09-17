@@ -70,6 +70,12 @@
 
 ???+ Warning "Lưu ý"
 
+    <span style="color: red; font-weight: 600;">
+    Tài liệu hướng dẫn mang tính chất tham khảo, đơn vị cân nhắc và tham khảo ý kiến Cơ quan thuế (nếu cần) trước khi áp dụng để phù hợp với phát sinh sai sót thực tế.
+
+    Hiện tại M-invoice đang hướng dẫn điều chỉnh hóa đơn theo hướng sai thông tin nào thì điều chỉnh thông tin đó căn cứ vào quy định tại điểm e, khoản 7, thông tư 78. Riêng đối với nội dung về giá trị trên hóa đơn có sai sót thì: điều chỉnh tăng (ghi dấu dương), điều chỉnh giảm (ghi dấu âm) đúng với thực tế điều chỉnh. Ngoài ra, đơn vị còn có thể tham khảo hướng dẫn theo công văn số 1647/TCT-CS
+    </span>
+
     Điều chỉnh hoá đơn(Áp dụng HĐ trong kỳ (nhưng đã kê khai)hoặc qua kỳ kê khai) và chỉ được phép sử dụng nghiệp vụ điều chỉnh hóa đơn với các điều kiện sau:
 
     1. Hóa đơn cần điều chỉnh đã được gửi CQT thành công hoặc hóa đơn đã có mã CQT cấp
@@ -77,104 +83,35 @@
 
     Nếu đã lựa chọn nghiệp vụ điều chỉnh thì không được thay thế hóa đơn điều chỉnh. Từ NGHỊ ĐỊNH 70/2025/NĐ-CP nghiệp vụ này không phải lập kèm 04/SS
 
-**Thao tác cài đặt và thực hiện như sau**
+## **1. Điều chỉnh tăng giá trị**
 
-<iframe style="width: 43rem; height: 380px" src="https://www.youtube.com/embed/cUYWKk58Xik?si=CPT8rmPb8QMycFoT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[1.1. Điều chỉnh tăng đơn giá hàng hóa](../cach-viet-thong-tin-tren-hoa-don-dieu-chinh-tang-don-gia-hang-hoa#attribute-lists){ data-preview }
 
-???+ Tip
+[1.2. Điều chỉnh tăng số lượng hàng hóa](../cach-viet-thong-tin-tren-hoa-don-dieu-chinh-tang-so-luong-hang-hoa#attribute-lists){ data-preview }
 
-    Quý khách lên xem video hướng dẫn làm hoá đơn điều chỉnh nếu có sai sót liên quan đến số lượng, đơn giá và thành tiền
+[1.3. Điều chỉnh tăng thuế suất](../cach-viet-thong-tin-tren-hoa-don-dieu-chinh-tang-thue-suat#attribute-lists){ data-preview }
 
-**Hướng dẫn sử dụng bằng hình ảnh nếu Quý khách không xem được video**
+[1.4. Điều chỉnh tăng thành tiền](../cach-viet-thong-tin-tren-hoa-don-dieu-chinh-tang-thanh-tien-khong-dieu-chinh-so-luong-don-gia#attribute-lists){ data-preview }
 
-??? Abstract "Điều chỉnh giảm thuế suất - Bấm vào đây để xem hướng dẫn"
+## **2. Điều chỉnh giảm giá trị**
 
-    #### **Điều chỉnh giảm thuế suất**
+[2.1. Điều chỉnh giảm đơn giá hàng hóa](../cach-viet-thong-tin-tren-hoa-don-dieu-chinh-giam-don-gia-hang-hoa#attribute-lists){ data-preview }
 
-    **Bước 1: Chọn hóa đơn cần điều chỉnh --> Xử lý sai sót --> Điều chỉnh**
+[2.2. Điều chỉnh giảm số lượng hàng hóa](../cach-viet-thong-tin-tren-hoa-don-dieu-chinh-giam-so-luong-hang-hoa#attribute-lists){ data-preview }
 
-    ![Hình 1](../../assets/images/invoice2/2.0_dieu-chinh-thue-suat_1.png "Hãy bấm vào để xem rõ hơn")
+[2.3. Điều chỉnh giảm thuế suất](../cach-viet-thong-tin-tren-hoa-don-dieu-chinh-giam-thue-suat#attribute-lists){ data-preview }
 
-    **Anh chị có thể chọn lại hàng hóa cũ đỡ mất công nhập lại**
+[2.4. Điều chỉnh giảm thành tiền](../cach-viet-thong-tin-tren-hoa-don-dieu-chinh-giam-thanh-tien-khong-dieu-chinh-so-luong-don-gia#attribute-lists){ data-preview }
 
-    ![Hình 1](../../assets/images/invoice2/2.0_dieu-chinh-thue-suat_3.png "Hãy bấm vào để xem rõ hơn")
+## **3. Điều chỉnh thông tin không liên quan đến tiền**
 
-    ![Hình 1](../../assets/images/invoice2/2.0_dieu-chinh-thue-suat_4.png "Hãy bấm vào để xem rõ hơn")
+[3.1. Điều chỉnh tên hàng hóa](../cach-viet-thong-tin-tren-hoa-don-dieu-chinh-ten-hang-hoa#attribute-lists){ data-preview }
 
-    **Bước 2: Ghi âm hoàn toàn dòng sai thuế suất**
+[3.2. Điều chỉnh mã số thuế người mua hàng](../cach-viet-thong-tin-tren-hoa-don-dieu-chinh-ma-so-thue-nguoi-mua-hang#attribute-lists){ data-preview }
 
-    ![Hình 2](../../assets/images/invoice2/2.0_dieu-chinh-thue-suat_2.png "Hãy bấm vào để xem rõ hơn")
+[3.3. Điều chỉnh đơn vị tính của hàng hóa](../cach-viet-thong-tin-tren-hoa-don-dieu-chinh-don-vi-tinh-cua-hang-hoa#attribute-lists){ data-preview }
 
-    **Anh chị bấm lưu hóa đơn và ký hóa đơn này**
-
-    ![Hình 2](../../assets/images/invoice2/2.0_dieu-chinh-thue-suat_8.png "Hãy bấm vào để xem rõ hơn")
-
-    **Bước 3: Làm 1 hóa đơn điều chỉnh tiếp và điền đúng giá trị và thuế suất đúng**
-
-    ![Hình 2](../../assets/images/invoice2/2.0_dieu-chinh-thue-suat_9.png "Hãy bấm vào để xem rõ hơn")
-
-    ![Hình 2](../../assets/images/invoice2/2.0_dieu-chinh-thue-suat_10.png "Hãy bấm vào để xem rõ hơn")
-
-    **Anh chị bấm lưu hóa đơn và ký hóa đơn này và gửi cho khách hàng**
-
-    ==> <strong style="color: red;">Như vậy để giảm thuế suất thì cần làm 2 lần, 1 lần đầu tiền để âm giá trị về 0, lần 2 điền lại gái trị và thuế suất đúng (như 1 hóa đơn mới)</strong>
-
-??? Abstract "Điều chỉnh tăng thuế suất - Bấm vào đây để xem hướng dẫn"
-
-    #### **Điều chỉnh tăng thuế suất**
-
-    Bước 1: Chọn hóa đơn cần điều chỉnh --> Xử lý sai sót --> Điều chỉnh
-
-    ![Hình 1](../../assets/images/invoice2/2.0_dieu-chinh-thue-suat_1.png "Hãy bấm vào để xem rõ hơn")
-
-    **Anh chị có thể chọn lại hàng hóa cũ đỡ mất công nhập lại**
-
-    ![Hình 1](../../assets/images/invoice2/2.0_dieu-chinh-thue-suat_3.png "Hãy bấm vào để xem rõ hơn")
-
-    ![Hình 1](../../assets/images/invoice2/2.0_dieu-chinh-thue-suat_4.png "Hãy bấm vào để xem rõ hơn")
-
-    Bước 2: Ghi âm hoàn toàn dòng sai thuế suất và ghi lại đúng dòng đó và chọn đúng thuế suất đúng
-
-    ![Hình 2](../../assets/images/invoice2/2.0_dieu-chinh-thue-suat_5.png "Hãy bấm vào để xem rõ hơn")
-
-??? Abstract "Điều chỉnh sai tên hàng, đơn vị tính - Bấm vào đây để xem hướng dẫn"
-
-    #### **Điều chỉnh sai tên hàng, đơn vị tính**
-
-    Bước 1: Chọn hóa đơn cần điều chỉnh --> Xử lý sai sót --> Điều chỉnh
-
-    ![Hình 3](../../assets/images/invoice2/2.0_dieu-chinh-thue-suat_1.png "Hãy bấm vào để xem rõ hơn")
-
-    Bước 2: Điền nội dung phần tên hàng hóa bị sai và sửa lại tên đúng
-    Tên hàng : Điền nội dung phần tên hàng hóa bị sai và sửa lại tên đúng
-
-    VD: Sai tên hàng hóa dịch vụ của "hàng hóa 1", tên hàng hóa đúng là "Tên hàng hóa 2"
-    Tính chất : Ghi chú diễn giải
-    VD : Điều chỉnh tên hàng hóa dịch vụ
-
-    ![Hình 4](../../assets/images/invoice2/2.0_dieu-chinh-hang-hoa_2.png "Hãy bấm vào để xem rõ hơn")
-
-??? Abstract "Điều chỉnh số lượng ảnh hưởng đến thành tiền - Bấm vào đây để xem hướng dẫn"
-
-    #### **Điều chỉnh số lượng ảnh hưởng đến thành tiền**
-
-    Bước 1: Chọn hóa đơn cần điều chỉnh --> Xử lý sai sót --> Điều chỉnh
-
-    ![Hình 3](../../assets/images/invoice2/2.0_dieu-chinh-thue-suat_1.png "Hãy bấm vào để xem rõ hơn")
-
-    Bước 2: Điều chỉnh số lượng
-
-    **Ví dụ như trường hợp sau giá trị ban đầu số lượng là 2 điều chỉnh xuống 1 -> có ảnh hưởng đến thành tiền**
-
-    ![Hình 3](../../assets/images/invoice2/2.0_dieu-chinh-thue-suat_6.png "Hãy bấm vào để xem rõ hơn")
-
-    **Sau khi điều chỉnh**
-
-    ![Hình 3](../../assets/images/invoice2/2.0_dieu-chinh-thue-suat_7.png "Hãy bấm vào để xem rõ hơn")
-
-Sau khi điều chỉnh nội dung hóa đơn thành 1 hóa đơn đúng. Người sử dụng có thể Ký và gửi hóa đơn đã được lập điều chỉnh như một hóa đơn thông thường.
-
-## Hướng dẫn lập biên bản hoá đơn điều chỉnh
+## **Hướng dẫn lập biên bản hoá đơn điều chỉnh**
 
 ???+ Note "Căn cứ"
 

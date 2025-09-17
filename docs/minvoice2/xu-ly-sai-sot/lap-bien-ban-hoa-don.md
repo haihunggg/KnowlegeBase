@@ -10,67 +10,119 @@
 
     Chỉ lập được khi hóa đơn ở trạng thái thay thế hoặc điều chỉnh
 
-#### Hướng dẫn bằng GIF nhanh
+=== "Cách 1- Lập biên bản tại Danh sách hóa đơn đầu ra"
 
-![Gif 1](../../assets/images/invoice2/gif/v2-bien-ban.gif "Hãy bấm vào để xem rõ hơn")
+     ### **Bước 1: Ở mục Hóa đơn đầu ra**
 
-#### Hướng dẫn bằng hình ảnh chi tiết
+    <span style="color:red;">Sau khi đã làm thay thế hoặc điều chỉnh</span>
 
-### **Bước 1: Truy cập mục xử lý sai sót**
+    ![Hình 0](../../assets/images/invoice2/2.0_bienban_11.png "Hãy bấm vào để xem rõ hơn")
 
-<span style="color:red;">Sau khi đã làm thay thế hoặc điều chỉnh</span>
+    **Chọn biên bản liên quan**
 
-![Hình 0](../../assets/images/invoice2/2.0_bienban_0.png "Hãy bấm vào để xem rõ hơn")
+    ### **Bước 2: Kiểm tra thông tin người bán, người mua, điền lý do thay thế hoặc lý do điều chỉnh**
 
-![Hình 1](../../assets/images/invoice2/2.0_bienban_1.png "Hãy bấm vào để xem rõ hơn")
+    ![Hình 2](../../assets/images/invoice2/2.0_bienban_2.png "Hãy bấm vào để xem rõ hơn")
 
-Chọn lập biên bản
+    ### **Bước 3 : Lưu biên bản thay thế, điều chỉnh hoặc lưu và ký**
 
-### **Bước 2: Kiểm tra thông tin người bán, người mua, điền lý do thay thế hoặc lý do điều chỉnh**
+    ![Hình 3](../../assets/images/invoice2/2.0_bienban.12.png "Hãy bấm vào để xem rõ hơn")
 
-![Hình 2](../../assets/images/invoice2/2.0_bienban_2.png "Hãy bấm vào để xem rõ hơn")
+    ### **Bước 4 : Ký biên bản**
 
-### **Bước 3 : Lưu biên bản thay thế, điều chỉnh**
+    ???+ Danger "Lưu ý"
 
-![Hình 3](../../assets/images/invoice2/2.0_bienban_3.png "Hãy bấm vào để xem rõ hơn")
+        Để ký được biên bản bằng cks usb máy tính phải được cài đặt plugin ký số, nếu đã cài đặt thì bỏ qua bước này
 
-### **Bước 4 : Ký biên bản**
+        🖱️ **Click vào đây để cài đặt:**
+        📄 [Hướng dẫn tải plugin](../huong-dan/plugin.md#attribute-lists){ data-preview }
 
-???+ Danger "Lưu ý"
+    ![Hình 3](../../assets/images/invoice2/2.0_bienban_6.png "Hãy bấm vào để xem rõ hơn")
 
-    Để ký được biên bản máy tính phải được cài đặt plugin ký số, nếu đã cài đặt thì bỏ qua bước này
+    ![Hình 3](../../assets/images/invoice2/2.0_bienban_7.png "Hãy bấm vào để xem rõ hơn")
 
-    🖱️ **Click vào đây để cài đặt:**
-    📄 [Hướng dẫn tải plugin](../huong-dan/plugin.md#attribute-lists){ data-preview }
+    ??? Bug "Trường hợp ký báo lỗi "mã lệnh không tồn tại" - Anh chị bấm vào đây để xem hướng dẫn"
 
-![Hình 3](../../assets/images/invoice2/2.0_bienban_6.png "Hãy bấm vào để xem rõ hơn")
+        <span style="color:red;">Anh chị vui lòng gỡ plugin ra cài lại để có thể ký được</span>
 
-![Hình 3](../../assets/images/invoice2/2.0_bienban_7.png "Hãy bấm vào để xem rõ hơn")
+        Bấm 'WINDOWS + R' gõ lệnh 'appwiz.cpl'
 
-??? Bug "Trường hợp ký báo lỗi "mã lệnh không tồn tại" - Anh chị bấm vào đây để xem hướng dẫn"
+        ![Hình 3](../../assets/images/invoice2/2.0_bienban_8.png "Hãy bấm vào để xem rõ hơn")
 
-    <span style="color:red;">Anh chị vui lòng gỡ plugin ra cài lại để có thể ký được</span>
+        Chọn đến minvoice plugin 2.0 kích đúp để gỡ bỏ
 
-    Bấm 'WINDOWS + R' gõ lệnh 'appwiz.cpl'
+        ![Hình 3](../../assets/images/invoice2/2.0_bienban_9.png "Hãy bấm vào để xem rõ hơn")
 
-    ![Hình 3](../../assets/images/invoice2/2.0_bienban_8.png "Hãy bấm vào để xem rõ hơn")
+        Gỡ xong bấm vào đây để xem hướng dẫn cài lại plugin
 
-    Chọn đến minvoice plugin 2.0 kích đúp để gỡ bỏ
+        🖱️ **Click vào đây để cài đặt:**
+        📄 [Hướng dẫn tải plugin](../huong-dan/plugin.md#attribute-lists){ data-preview }
 
-    ![Hình 3](../../assets/images/invoice2/2.0_bienban_9.png "Hãy bấm vào để xem rõ hơn")
+    ### **Bước 5 : Xem và in hoặc tải biên bản**
 
-    Gỡ xong bấm vào đây để xem hướng dẫn cài lại plugin
+    ![Hình 4](../../assets/images/invoice2/2.0_bienban_4.png "Hãy bấm vào để xem rõ hơn")
 
-    🖱️ **Click vào đây để cài đặt:**
-    📄 [Hướng dẫn tải plugin](../huong-dan/plugin.md#attribute-lists){ data-preview }
+    ![Hình 5](../../assets/images/invoice2/2.0_bienban_5.png "Hãy bấm vào để xem rõ hơn")
 
-### **Bước 5 : Xem và in hoặc tải biên bản**
+    Bấm nút in ở trình duyệt hoặc bấm ctrl + P để in
 
-![Hình 4](../../assets/images/invoice2/2.0_bienban_4.png "Hãy bấm vào để xem rõ hơn")
+=== "Cách 2"
 
-![Hình 5](../../assets/images/invoice2/2.0_bienban_5.png "Hãy bấm vào để xem rõ hơn")
+    ### **Bước 1: Truy cập mục xử lý sai sót**
 
-Bấm nút in ở trình duyệt hoặc bấm ctrl + P để in
+    <span style="color:red;">Sau khi đã làm thay thế hoặc điều chỉnh</span>
+
+    ![Hình 0](../../assets/images/invoice2/2.0_bienban_0.png "Hãy bấm vào để xem rõ hơn")
+
+    ![Hình 1](../../assets/images/invoice2/2.0_bienban_1.png "Hãy bấm vào để xem rõ hơn")
+
+    Chọn lập biên bản
+
+    ### **Bước 2: Kiểm tra thông tin người bán, người mua, điền lý do thay thế hoặc lý do điều chỉnh**
+
+    ![Hình 2](../../assets/images/invoice2/2.0_bienban_2.png "Hãy bấm vào để xem rõ hơn")
+
+    ### **Bước 3 : Lưu biên bản thay thế, điều chỉnh**
+
+    ![Hình 3](../../assets/images/invoice2/2.0_bienban_3.png "Hãy bấm vào để xem rõ hơn")
+
+    ### **Bước 4 : Ký biên bản**
+
+    ???+ Danger "Lưu ý"
+
+        Để ký được biên bản máy tính phải được cài đặt plugin ký số, nếu đã cài đặt thì bỏ qua bước này
+
+        🖱️ **Click vào đây để cài đặt:**
+        📄 [Hướng dẫn tải plugin](../huong-dan/plugin.md#attribute-lists){ data-preview }
+
+    ![Hình 3](../../assets/images/invoice2/2.0_bienban_6.png "Hãy bấm vào để xem rõ hơn")
+
+    ![Hình 3](../../assets/images/invoice2/2.0_bienban_7.png "Hãy bấm vào để xem rõ hơn")
+
+    ??? Bug "Trường hợp ký báo lỗi "mã lệnh không tồn tại" - Anh chị bấm vào đây để xem hướng dẫn"
+
+        <span style="color:red;">Anh chị vui lòng gỡ plugin ra cài lại để có thể ký được</span>
+
+        Bấm 'WINDOWS + R' gõ lệnh 'appwiz.cpl'
+
+        ![Hình 3](../../assets/images/invoice2/2.0_bienban_8.png "Hãy bấm vào để xem rõ hơn")
+
+        Chọn đến minvoice plugin 2.0 kích đúp để gỡ bỏ
+
+        ![Hình 3](../../assets/images/invoice2/2.0_bienban_9.png "Hãy bấm vào để xem rõ hơn")
+
+        Gỡ xong bấm vào đây để xem hướng dẫn cài lại plugin
+
+        🖱️ **Click vào đây để cài đặt:**
+        📄 [Hướng dẫn tải plugin](../huong-dan/plugin.md#attribute-lists){ data-preview }
+
+    ### **Bước 5 : Xem và in hoặc tải biên bản**
+
+    ![Hình 4](../../assets/images/invoice2/2.0_bienban_4.png "Hãy bấm vào để xem rõ hơn")
+
+    ![Hình 5](../../assets/images/invoice2/2.0_bienban_5.png "Hãy bấm vào để xem rõ hơn")
+
+    Bấm nút in ở trình duyệt hoặc bấm ctrl + P để in
 
 !!! info "Xin chân thành cảm ơn Quý khách hàng đã tin dùng sản phẩm của M-Invoice"
 
