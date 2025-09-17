@@ -73,7 +73,7 @@
     <span style="color: red; font-weight: 600;">
     Tài liệu hướng dẫn mang tính chất tham khảo, đơn vị cân nhắc và tham khảo ý kiến Cơ quan thuế (nếu cần) trước khi áp dụng để phù hợp với phát sinh sai sót thực tế.
 
-    Hiện tại M-invoice đang hướng dẫn điều chỉnh hóa đơn theo hướng sai thông tin nào thì điều chỉnh thông tin đó căn cứ vào quy định tại điểm e, khoản 7, thông tư 78. Riêng đối với nội dung về giá trị trên hóa đơn có sai sót thì: điều chỉnh tăng (ghi dấu dương), điều chỉnh giảm (ghi dấu âm) đúng với thực tế điều chỉnh. Ngoài ra, đơn vị còn có thể tham khảo hướng dẫn theo công văn số 1647/TCT-CS
+    Hiện tại M-invoice đang hướng dẫn điều chỉnh hóa đơn theo hướng sai thông tin nào thì điều chỉnh thông tin đó căn cứ vào quy định tại điểm e, khoản 7, thông tư 78. Riêng đối với nội dung về giá trị trên hóa đơn có sai sót thì: điều chỉnh tăng (ghi dấu dương), điều chỉnh giảm (ghi dấu âm) đúng với thực tế điều chỉnh. Ngoài ra, đơn vị còn có thể tham khảo hướng dẫn theo công văn số 1647/TCT-CS.
     </span>
 
     Điều chỉnh hoá đơn(Áp dụng HĐ trong kỳ (nhưng đã kê khai)hoặc qua kỳ kê khai) và chỉ được phép sử dụng nghiệp vụ điều chỉnh hóa đơn với các điều kiện sau:
