@@ -9,7 +9,9 @@ hide:
 
     Cách ghi thông tin dưới đây không có trong quy định của CQT, đơn vị tham khảo ý kiến CQT trước khi thực hiện.
 
-Xem video hướng dẫn (đang cập nhật):
+**Xem video hướng dẫn:**
+
+<iframe style="width: 43rem; height: 500px" src="https://www.youtube.com/embed/iPApvVbDs3k?si=LvTmwCnlWBIy37zQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 **- Hóa đơn gốc ghi sai thông tin đơn giá hàng hóa: Đơn giá ghi trên hóa đơn 250.000 VNĐ, đơn giá đúng là 320.000 VNĐ.**
 
@@ -18,6 +20,8 @@ Xem video hướng dẫn (đang cập nhật):
 ==> Lập hóa đơn điều chỉnh tăng đơn giá bán hàng hóa lên 70.000 VNĐ. Đơn giá tăng dẫn đến thành tiền theo đơn giá tăng, tiền thuế tăng, tổng tiền thanh toán tăng, kế toán lập hóa đơn điều chỉnh khai báo nội dung như sau:
 
 - Khai báo đơn giá tăng và các giá trị liên quan thay đổi khi đơn giá tăng gồm: **Thành tiền, Tổng tiền hàng, Tiền thuế GTGT, Tổng tiền thanh toán.**
+
+- Bấm thêm dòng chọn **Tính chất** là **Ghi chú, diễn giải** điền nội dung điều chỉnh vào **Tên hàng hóa**
 
 **Hóa đơn điều chỉnh tăng đơn giá bán hàng hóa hiển thị các thông tin điều chỉnh tương ứng.**
 

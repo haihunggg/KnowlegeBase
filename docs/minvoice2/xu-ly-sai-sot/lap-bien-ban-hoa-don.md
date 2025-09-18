@@ -10,9 +10,9 @@
 
     Chỉ lập được khi hóa đơn ở trạng thái thay thế hoặc điều chỉnh
 
-=== "Cách 1- Lập biên bản tại Danh sách hóa đơn đầu ra"
+=== "Cách 1. Lập biên bản tại Danh sách hóa đơn đầu ra"
 
-     ### **Bước 1: Ở mục Hóa đơn đầu ra**
+    **Bước 1: Ở mục Hóa đơn đầu ra**
 
     <span style="color:red;">Sau khi đã làm thay thế hoặc điều chỉnh</span>
 
@@ -20,15 +20,13 @@
 
     **Chọn biên bản liên quan**
 
-    ### **Bước 2: Kiểm tra thông tin người bán, người mua, điền lý do thay thế hoặc lý do điều chỉnh**
+    **Bước 2: Kiểm tra thông tin người bán, người mua, điền lý do thay thế hoặc lý do điều chỉnh**
 
     ![Hình 2](../../assets/images/invoice2/2.0_bienban_2.png "Hãy bấm vào để xem rõ hơn")
 
-    ### **Bước 3 : Lưu biên bản thay thế, điều chỉnh hoặc lưu và ký**
+    **Bước 3 : Lưu biên bản thay thế, điều chỉnh hoặc lưu và ký**
 
-    ![Hình 3](../../assets/images/invoice2/2.0_bienban.12.png "Hãy bấm vào để xem rõ hơn")
-
-    ### **Bước 4 : Ký biên bản**
+    ![Hình 3](../../assets/images/invoice2/2.0_bienban_12.png "Hãy bấm vào để xem rõ hơn")
 
     ???+ Danger "Lưu ý"
 
@@ -37,10 +35,6 @@
         🖱️ **Click vào đây để cài đặt:**
         📄 [Hướng dẫn tải plugin](../huong-dan/plugin.md#attribute-lists){ data-preview }
 
-    ![Hình 3](../../assets/images/invoice2/2.0_bienban_6.png "Hãy bấm vào để xem rõ hơn")
-
-    ![Hình 3](../../assets/images/invoice2/2.0_bienban_7.png "Hãy bấm vào để xem rõ hơn")
-
     ??? Bug "Trường hợp ký báo lỗi "mã lệnh không tồn tại" - Anh chị bấm vào đây để xem hướng dẫn"
 
         <span style="color:red;">Anh chị vui lòng gỡ plugin ra cài lại để có thể ký được</span>
@@ -58,15 +52,19 @@
         🖱️ **Click vào đây để cài đặt:**
         📄 [Hướng dẫn tải plugin](../huong-dan/plugin.md#attribute-lists){ data-preview }
 
-    ### **Bước 5 : Xem và in hoặc tải biên bản**
+    ### **Bước 4 : Xem in PDF và gửi mail cho người mua để ký biên bản**
 
-    ![Hình 4](../../assets/images/invoice2/2.0_bienban_4.png "Hãy bấm vào để xem rõ hơn")
+    ![Hình 4](../../assets/images/invoice2/2.0_bienban_13.png "Hãy bấm vào để xem rõ hơn")
 
-    ![Hình 5](../../assets/images/invoice2/2.0_bienban_5.png "Hãy bấm vào để xem rõ hơn")
+    ![Hình 5](../../assets/images/invoice2/2.0_bienban_14.png "Hãy bấm vào để xem rõ hơn")
 
     Bấm nút in ở trình duyệt hoặc bấm ctrl + P để in
 
-=== "Cách 2"
+    **Gửi mail cho người mua để người mua ký biên bản**
+
+    ![Hình 5](../../assets/images/invoice2/2.0_bienban_15.png "Hãy bấm vào để xem rõ hơn")
+
+=== "Cách 2 Lập biên bản tại mục Xử lý sai sót"
 
     ### **Bước 1: Truy cập mục xử lý sai sót**
 
@@ -74,19 +72,17 @@
 
     ![Hình 0](../../assets/images/invoice2/2.0_bienban_0.png "Hãy bấm vào để xem rõ hơn")
 
-    ![Hình 1](../../assets/images/invoice2/2.0_bienban_1.png "Hãy bấm vào để xem rõ hơn")
+    ![Hình 1](../../assets/images/invoice2/2.0_bienban_16.png "Hãy bấm vào để xem rõ hơn")
 
     Chọn lập biên bản
 
     ### **Bước 2: Kiểm tra thông tin người bán, người mua, điền lý do thay thế hoặc lý do điều chỉnh**
 
-    ![Hình 2](../../assets/images/invoice2/2.0_bienban_2.png "Hãy bấm vào để xem rõ hơn")
+    ![Hình 2](../../assets/images/invoice2/2.0_bienban_17.png "Hãy bấm vào để xem rõ hơn")
 
-    ### **Bước 3 : Lưu biên bản thay thế, điều chỉnh**
+    ### **Bước 3 : Lưu và ký biên bản thay thế, điều chỉnh**
 
-    ![Hình 3](../../assets/images/invoice2/2.0_bienban_3.png "Hãy bấm vào để xem rõ hơn")
-
-    ### **Bước 4 : Ký biên bản**
+    ![Hình 3](../../assets/images/invoice2/2.0_bienban_18.png "Hãy bấm vào để xem rõ hơn")
 
     ???+ Danger "Lưu ý"
 
@@ -95,10 +91,6 @@
         🖱️ **Click vào đây để cài đặt:**
         📄 [Hướng dẫn tải plugin](../huong-dan/plugin.md#attribute-lists){ data-preview }
 
-    ![Hình 3](../../assets/images/invoice2/2.0_bienban_6.png "Hãy bấm vào để xem rõ hơn")
-
-    ![Hình 3](../../assets/images/invoice2/2.0_bienban_7.png "Hãy bấm vào để xem rõ hơn")
-
     ??? Bug "Trường hợp ký báo lỗi "mã lệnh không tồn tại" - Anh chị bấm vào đây để xem hướng dẫn"
 
         <span style="color:red;">Anh chị vui lòng gỡ plugin ra cài lại để có thể ký được</span>
@@ -116,13 +108,17 @@
         🖱️ **Click vào đây để cài đặt:**
         📄 [Hướng dẫn tải plugin](../huong-dan/plugin.md#attribute-lists){ data-preview }
 
-    ### **Bước 5 : Xem và in hoặc tải biên bản**
+    ### **Bước 4 : Xem in và gửi mail biên bản cho người mua ký**
 
-    ![Hình 4](../../assets/images/invoice2/2.0_bienban_4.png "Hãy bấm vào để xem rõ hơn")
-
-    ![Hình 5](../../assets/images/invoice2/2.0_bienban_5.png "Hãy bấm vào để xem rõ hơn")
+    ![Hình 4](../../assets/images/invoice2/2.0_bienban_20.png "Hãy bấm vào để xem rõ hơn")
 
     Bấm nút in ở trình duyệt hoặc bấm ctrl + P để in
+
+    ![Hình 4](../../assets/images/invoice2/2.0_bienban_22.png "Hãy bấm vào để xem rõ hơn")
+
+    ![Hình 4](../../assets/images/invoice2/2.0_bienban_19.png "Hãy bấm vào để xem rõ hơn")
+
+Xem hướng dẫn ký biên bản người mua chi tiết [tại đây](../huong-dan-ky-bien-ban-nguoi-mua#attribute-lists){ data-preview }
 
 !!! info "Xin chân thành cảm ơn Quý khách hàng đã tin dùng sản phẩm của M-Invoice"
 
@@ -130,4 +126,4 @@
 
 ![Hình 7](../../assets/images/invoice2/hotro.png "Hãy bấm vào để xem rõ hơn")
 
-<div class="last-updated">Last updated on <strong>Jul 17, 2025</strong> by <strong>nhatth</strong></div>
+<div class="last-updated">Last updated on <strong>Sep 18, 2025</strong> by <strong>nhatth</strong></div>

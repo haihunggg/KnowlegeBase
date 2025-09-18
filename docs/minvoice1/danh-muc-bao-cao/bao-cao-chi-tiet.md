@@ -1,12 +1,12 @@
-# **Báo cáo chi tiết hoá đơn theo NĐ123**
+# **Báo cáo chi tiết hoá đơn theo HĐ70**
 
-## **Hướng dẫn xem và tải báo cáo chi tiết hóa đơn NĐ123**
+## **Hướng dẫn xem và tải báo cáo chi tiết hóa đơn HĐ70**
 
 ???+ Warning "Lưu ý"
 
     Để tải được excel báo cáo chi tiết hoá đơn, các bạn phải cài đặt plugin ký số Minvoice
 
-### **Bước 1: Truy cập vào phần Hóa đơn HĐ123 >> Báo cáo >> Báo cáo chi tiết hóa đơn**
+### **Bước 1: Truy cập vào phần Hóa đơn HĐ70 >> Báo cáo >> Báo cáo chi tiết hóa đơn**
 
 ![Hình 1](../../assets/images/invoice1/1.0_baoCaoChiTiet_1.png "Hãy bấm vào để xem rõ hơn")
 

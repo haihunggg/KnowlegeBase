@@ -9,7 +9,9 @@ hide:
 
     Cách ghi thông tin dưới đây không có trong quy định của CQT, đơn vị tham khảo ý kiến CQT trước khi thực hiện.
 
-Xem video hướng dẫn (đang cập nhật):
+**Xem video hướng dẫn:**
+
+<iframe style="width: 43rem; height: 500px" src="https://www.youtube.com/embed/iB3LzoRHo2s?si=Mb1M3STDQYhN320I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 **Bước 1: Chọn hóa đơn cần điều chỉnh --> Xử lý sai sót --> Điều chỉnh**
 

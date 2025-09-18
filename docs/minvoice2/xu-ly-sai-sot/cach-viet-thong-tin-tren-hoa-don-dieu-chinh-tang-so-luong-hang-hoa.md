@@ -19,6 +19,8 @@ Xem video hướng dẫn (đang cập nhật):
 
 - Khai báo số lượng hàng hóa tăng và các giá trị liên quan thay đổi khi số lượng tăng gồm: **Thành tiền, Tổng tiền hàng, Tiền thuế GTGT, Tổng tiền thanh toán.**
 
+- Bấm thêm dòng chọn **Tính chất** là **Ghi chú, diễn giải** điền nội dung điều chỉnh vào **Tên hàng hóa**
+
 ![Hình 1](../../assets/images/xu-ly-sai-sot/v2-dieu-chinh-so-luong-2.png "Hãy bấm vào để xem rõ hơn")
 
 **Hóa đơn điều chỉnh tăng số lượng hàng hóa hiển thị các thông tin điều chỉnh tương ứng.**

@@ -129,6 +129,14 @@ hide:
 
         Lưu ý: theo Nghị định 70/2025/NĐ-CP sẽ không cần gửi Thông báo 04ss đến CQT với 2 hình thức xử lý này.
 
+??? Question "Các trường hợp lập thay thế, điều chỉnh hóa đơn điện tử theo nghị định 70/2025 --> Bấm vào để xem"
+
+    #### **Các trường hợp lập thay thế, điều chỉnh hóa đơn điện tử theo nghị định 70/2025**
+
+    ???+ note "Trả lời"
+
+        <iframe style="width: 50rem; height: 580px" src="https://www.youtube.com/embed/pVe-VYQZuYY?si=SA51plbQRQnHisHv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 >
 
 ---

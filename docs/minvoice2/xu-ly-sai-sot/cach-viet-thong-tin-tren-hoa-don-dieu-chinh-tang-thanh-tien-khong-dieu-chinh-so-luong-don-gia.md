@@ -25,6 +25,7 @@ Hướng dẫn cách ghi thông tin trên hóa đơn điều chỉnh tăng thàn
     - Khai báo tên hàng hóa, dịch vụ cần điều chỉnh tăng thành tiền.
     - Khai báo thành tiền chênh lệch.
     - Thành tiền tăng=> tiền thuế GTGT tăng=> Tổng tiền thanh toán của hàng hóa tăng. Khai báo tiền thuế suất thuế GTGT, tổng tiền thanh toán.
+    - Bấm thêm dòng chọn **Tính chất** là **Ghi chú, diễn giải** điền nội dung điều chỉnh vào **Tên hàng hóa**
 
     ![Hình 1](../../assets/images/xu-ly-sai-sot/v2-dieu-chinh-tang-thanh-tien-1.png "Hãy bấm vào để xem rõ hơn")
 
@@ -40,7 +41,7 @@ Hướng dẫn cách ghi thông tin trên hóa đơn điều chỉnh tăng thàn
     - Tại cột Tên hàng hóa dịch vụ: Ghi điều chỉnh thành tiền cho hóa đơn…
     - Khai báo thành tiền chênh lệch.
     - Thành tiền tăng=> tiền thuế GTGT tăng=> Tổng tiền thanh toán tăng. Khai báo tiền thuế suất thuế GTGT, tổng tiền thanh toán.
-
+    - Bấm thêm dòng chọn **Tính chất** là **Ghi chú, diễn giải** điền nội dung điều chỉnh vào **Tên hàng hóa**
     ![Hình 1](../../assets/images/xu-ly-sai-sot/v2-dieu-chinh-tang-thanh-tien-3.png "Hãy bấm vào để xem rõ hơn")
 
     Hóa đơn điều chỉnh hiển thị thông tin tương ứng.
