@@ -33,4 +33,4 @@ Xem thêm các trường hợp khác [tại đây.](../dieu-chinh-hoa-don#attrib
 
 ![Hình 5](../../assets/images/invoice2/hotro.png "Hãy bấm vào để xem rõ hơn")
 
-<div class="last-updated">Last updated on <strong>Sep 17, 2025</strong> by <strong>nhatth</strong></div>
+<div class="last-updated">Last updated on <strong>Sep 18, 2025</strong> by <strong>nhatth</strong></div>
