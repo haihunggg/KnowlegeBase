@@ -25,6 +25,8 @@ Lập hóa đơn điều chỉnh mã số thuế người mua hàng:
 
 Hóa đơn điều chỉnh mã số thuế người mua hiển thị thông tin điều chỉnh tương ứng.
 
+![Hình 1](../../assets/images/xu-ly-sai-sot/v2-dieu-chinh-ma-so-thue-2.png "Hãy bấm vào để xem rõ hơn")
+
 Xem thêm các trường hợp khác [tại đây.](../dieu-chinh-hoa-don#attribute-lists){ data-preview }
 
 ???+ info "Xin chân thành cảm ơn quý khách hàng đã tin dùng sản phẩm của M-Invoice"
