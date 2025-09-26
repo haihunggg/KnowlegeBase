@@ -44,7 +44,17 @@ Click vào loại **CKS** phù hợp nhất với mình
 
 Ở thanh Taskbar sẽ hiển thị lên biểu tượng của công cụ **Plugin Minvoice** các bạn chọn vào đó để thêm **CKS** mới của mình
 
-### **Bước 3 : Làm tờ khai 01**
+### **Bước 3 : Phân quyền chữ ký số**
+
+![Hình 1](../../assets/images/invoice1/1.0_dang-ky-nd70_12.png "Hãy bấm vào để xem rõ hơn")
+
+**Chỗ này chọn đúng user mà Anh/Chị đang đăng nhập để phân quyền, hoặc phân quyền hết các user hiện có nếu muốn user nó ký được hóa đơn**
+
+![Hình 1](../../assets/images/invoice1/1.0_dang-ky-nd70_13.png "Hãy bấm vào để xem rõ hơn")
+
+![Hình 1](../../assets/images/invoice1/1.0_dang-ky-nd70_14.png "Hãy bấm vào để xem rõ hơn")
+
+### **Bước 4 : Làm tờ khai 01**
 
 ![Hình 1](../../assets/images/invoice1/1.0_dang-ky-nd70_4.png "Hãy bấm vào để xem rõ hơn")
 
@@ -104,11 +114,11 @@ Các bạn vào phần **Đăng ký phát hành >> Tờ khai đăng ký/thay đ�
 
 7, Sau khi add xong CKS, quý khách nhấn Lưu để **lưu** lại dữ liệu tờ khai 01 này
 
-### **Bước 4 : Sau khi hoàn thành, các bạn chọn tờ khai mình vừa lập chọn Ký và gửi CQT**
+### **Bước 5 : Sau khi hoàn thành, các bạn chọn tờ khai mình vừa lập chọn Ký và gửi CQT**
 
 ![Hình 1](../../assets/images/invoice1/1.0_dang-ky-nd70_10.png "Hãy bấm vào để xem rõ hơn")
 
-### **Bước 5 : Xác thực OTP tờ khai đăng ký/thay đổi thông tin sử dụng hóa đơn điện tử theo yêu cầu của Cơ quan thuế**
+### **Bước 6 : Xác thực OTP tờ khai đăng ký/thay đổi thông tin sử dụng hóa đơn điện tử theo yêu cầu của Cơ quan thuế**
 
 **QUY TRÌNH XỬ LÝ TỜ KHAI ĐĂNG KÝ THEO NĐ70**
 

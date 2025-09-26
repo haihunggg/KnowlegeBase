@@ -91,7 +91,7 @@
         🖱️ **Click vào đây để cài đặt:**
         📄 [Hướng dẫn tải plugin](../huong-dan/plugin.md#attribute-lists){ data-preview }
 
-    ??? Bug "Trường hợp ký báo lỗi "mã lệnh không tồn tại" - Anh chị bấm vào đây để xem hướng dẫn"
+    ??? Bug "Trường hợp ký báo lỗi "Vui lòng nâng cấp phiên bản Plugin ký" - Anh chị bấm vào đây để xem hướng dẫn"
 
         <span style="color:red;">Anh chị vui lòng gỡ plugin ra cài lại để có thể ký được</span>
 

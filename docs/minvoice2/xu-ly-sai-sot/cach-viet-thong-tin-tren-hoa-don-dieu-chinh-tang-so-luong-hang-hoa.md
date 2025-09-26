@@ -9,7 +9,9 @@ hide:
 
     Cách ghi thông tin dưới đây không có trong quy định của CQT, đơn vị tham khảo ý kiến CQT trước khi thực hiện.
 
-Xem video hướng dẫn (đang cập nhật):
+**Xem video hướng dẫn:**
+
+<iframe style="width: 48rem; height: 550px" src="https://www.youtube.com/embed/bmXX1FA45BM?si=TcbvmXl1cHzHuq__" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 **- Hóa đơn gốc ghi sai thông tin số lượng hàng hóa: Số lượng ghi trên hóa đơn 50, số lượng đúng là 75.**
 

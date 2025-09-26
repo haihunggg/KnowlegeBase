@@ -57,6 +57,16 @@ Click vào loại **CKS** phù hợp nhất với mình
 
 Ở thanh Taskbar sẽ hiển thị lên biểu tượng của công cụ **Plugin Minvoice** các bạn chọn vào đó để thêm **CKS** mới của mình
 
+**Các lỗi thường gặp khi thực hiện nộp thay đổi tờ khai thay đổi chữ ký số**
+
+**<strong style="color: red;">Trường hợp 1:</strong> Máy tính LAPTOP, PC chưa nhận chữ ký số**
+
+**<strong style="color: red;">Trường hợp 2:</strong> Plugin chưa được bật** phút `1:49` trong video
+
+**<strong style="color: red;">Trường hợp 3:</strong> Lỗi không hiển thị chữ ký số mặc dù đã thêm chữ ký số lên phần mềm. <strong style="color: red;">(Số serialNumber chứng thư số đã tồn tại trên phần mềm)</strong>** phút `2:32` trong video
+
+<iframe style="width: 50rem; height: 580px" src="https://www.youtube.com/embed/hLoBmZ3_EOs?si=Wm401Ibp2RWLLxqZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ### **Bước 3 : Làm tờ khai 01**
 
 ![Hình 6](../../assets/images/invoice2/2.0_to-khai-nd70_1.png "Hãy bấm vào để xem rõ hơn")

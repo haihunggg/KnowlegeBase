@@ -91,7 +91,7 @@ Anh/Chị vào phần **Đăng ký phát hành >> Tờ khai đăng ký/thay đ�
 
 7, Sau khi add xong CKS, quý khách nhấn Lưu để **lưu** lại dữ liệu tờ khai 01 này
 
-### **Bước 4 : Sau khi hoàn thành, các bạn chọn tờ khai mình vừa lập chọn Ký và gửi CQT**
+### **Bước 4 : Sau khi hoàn thành, anh chị chọn tờ khai mình vừa lập chọn Ký và gửi CQT**
 
 ![Hình 6](../../assets/images/invoice2/2.0_to-khai-nd70_7.png "Hãy bấm vào để xem rõ hơn")
 

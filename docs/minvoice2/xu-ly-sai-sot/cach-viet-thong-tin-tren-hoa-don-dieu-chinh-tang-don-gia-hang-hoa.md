@@ -11,7 +11,7 @@ hide:
 
 **Xem video hướng dẫn:**
 
-<iframe style="width: 43rem; height: 500px" src="https://www.youtube.com/embed/iPApvVbDs3k?si=LvTmwCnlWBIy37zQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe style="width: 48rem; height: 550px" src="https://www.youtube.com/embed/iPApvVbDs3k?si=LvTmwCnlWBIy37zQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 **- Hóa đơn gốc ghi sai thông tin đơn giá hàng hóa: Đơn giá ghi trên hóa đơn 250.000 VNĐ, đơn giá đúng là 320.000 VNĐ.**
 
