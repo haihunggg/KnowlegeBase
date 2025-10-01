@@ -341,6 +341,7 @@ nav:
               - Đồng bộ hóa đơn mua vào bán ra: msmi/dong-bo-hoa-don.md
               - msmi/dong-bo-chi-tiet-hoa-don.md
               - Đồng bộ thông báo sai sót 04/SS: msmi/dong-bo-04ss.md
+              - Đồng bộ hoá đơn qua email: msmi/huong-dan-dong-bo-hoa-don-qua-email.md
           - "Các lỗi thường gặp khi sử dụng phần mềm":
               - Tài khoản HDDT mất kết nối: msmi/dang-nhap-lai.md
               - Lấy lại mật khẩu trang Hoadondientu: msmi/lay-mat-khau-hddt.md
