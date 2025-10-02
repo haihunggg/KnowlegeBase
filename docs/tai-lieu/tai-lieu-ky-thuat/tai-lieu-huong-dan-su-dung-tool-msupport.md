@@ -41,6 +41,143 @@ hide:
 
     MỌI THAO TÁC ĐỀU LƯU LOG !
 
+### **Mẫu hóa đơn**
+
+???+ note "Mục đích"
+
+    - Áp dụng cho các trường hợp mẫu hóa đơn bị mất, cần up lại lên phần mềm
+
+    - Dowload file về để chỉnh sửa mẫu cho các trường hợp không thể chỉnh sửa trực tiếp trên phần mềm
+
+#### **1. Dowload mẫu**
+
+Nhập key mẫu cần tải vào ô nhập và bấm Dowload
+
+- Key được định dạng như sau: [ký hiệu hóa đơn]\_[mã số thuế].html
+
+- VD: 1C25TTT_0106026495-999.html
+
+![Hình 3](../../assets/images/tool/tool-download-1.png "Hãy bấm vào để xem rõ hơn")
+
+#### **2. Upload mẫu**
+
+Chuẩn bị file cần up lên tên file phải là .html và định dạng theo cấu trúc sau:
+
+- Tên file: [ký hiệu hóa đơn]\_[mã số thuế].html
+
+- VD: 1C25TTT_0106026495-999.html
+
+![Hình 3](../../assets/images/tool/tool-upload-1.png "Hãy bấm vào để xem rõ hơn")
+
+![Hình 3](../../assets/images/tool/tool-upload-2.png "Hãy bấm vào để xem rõ hơn")
+
+### **File Setting**
+
+???+ note "Mục đích"
+
+    **Áp dụng cho các trường hợp cần chỉnh sửa các file liên quan đến cấu hình của 1 mã số thuế, ví dụ như:**
+
+    + Chỉnh sửa file mapping (liên quan đến các trường thông tin tích hợp để có thể đẩy từ tích hợp sang)
+
+    + Chỉnh sửa thể hiện các trường đặc thù lên báo cáo tổng hợp hoặc báo cáo chi tiết
+
+    + Chỉnh sửa file cấu hình giao diện hóa đơn
+
+**Tên file mapping:**
+
+- Hóa đơn giá trị gia tăng: 32_1_MappingAccounting.json
+
+- Hóa đơn bán hàng: 32_2_MappingAccounting.json
+
+- Phiếu xuất kho nội bộ: 32_6_MappingAccounting.json
+
+**Tên file báo cáo tổng hợp:** bao-cao-top-hop-hoa-don.json:
+
+**Tên file báo cáo chi tiết:** bao-cao-chi-tiet-hoa-don.json:
+
+**Tên file cấu hình giao diện hóa đơn đầu ra::**
+
+- Hóa đơn giá trị gia tăng: INVOICE_1CT.json
+
+- Hóa đơn giá trị gia tăng máy tính tiền: INVOICE_1CM.json
+
+#### **Các bước thực hiện để dowload và up file cấu hình 1 mã số thuế**
+
+Truy cập tab **FileSetting** -> Nhập **mã số thuế** muốn chỉnh sửa -> Bấm **xem file**
+
+![Hình 3](../../assets/images/tool/tool-fileSetting-1.png "Hãy bấm vào để xem rõ hơn")
+
+**Dowload và upload file**
+
+![Hình 3](../../assets/images/tool/tool-fileSetting-2.png "Hãy bấm vào để xem rõ hơn")
+
+### **Xóa Cache**
+
+???+ note "Mục đích"
+
+    **Áp dụng cho các trường hợp ký hóa đơn lỗi F5 hay đẩy hóa đơn trùng keyapi và 1 số case cần xóa cache**
+
+#### **1. Xóa key cố định**
+
+**Sign Cache**
+
+- Cache ký của hóa đơn -> áp dụng cho các trường hợp ký lỗi do lưu cache (Vd: HÓA ĐƠN KỸ LỖI VUI LÒNG F5 TẢI LẠI TRANG, ...)
+
+**Các bước để lấy và xóa được cache ký:**
+
+1. Điền thông tin mã số thuế, ký hiệu hóa đơn và số hóa đơn
+
+2. Bấm **lấy cache key** -> có thông báo thành công -> ra 3 thông tin TenantID(ID của MST), InvoiceID(ID hóa đơn), Cache key -> **Thành công**
+
+3. Bấm xóa cache cố định
+
+![Hình 3](../../assets/images/tool/tool-cache-1.png "Hãy bấm vào để xem rõ hơn")
+
+**Key api Cache**
+
+- Cache của key_api -> áp dụng cho các trường hợp đẩy hóa đơn từ bên tích hợp mà xảy ra lỗi trùng key nhưng hóa đơn chưa có trên phần mềm hóa đơn
+
+**Các bước để lấy và xóa được cache keyapi:**
+
+1. Điền thông tin mã số thuế, ký hiệu hóa đơn và **keyapi**(được cung cấp từ đối tác tích hợp)
+
+2. Bấm **lấy KeyApiCache** -> có thông báo thành công -> ra 3 thông tin TenantID(ID của MST), RegisterInvoiceId(Id của ký hiệu), Cache KeyApi -> **Thành công**
+
+3. Bấm xóa cache cố định
+
+![Hình 3](../../assets/images/tool/tool-cache-2.png "Hãy bấm vào để xem rõ hơn")
+
+#### **2. Xóa key bất kỳ**
+
+???+ note "Mục đích"
+
+    **Áp dụng cho các trường hợp cần xóa những cache ít gặp như mapping (32_1_MappingAccounting.json) hay file giao diện (INVOICE_1CT.json)**
+
+**Cấu trúc các key cache:**
+
+- Mapping: 32_1_MappingAccounting.json --> Cấu trúc key:
+
+  [Taxcode]: Mã số thuế.
+
+```text title="Cấu trúc key mapping"
+c:System.String,k:filemapping_32_1_mappingaccounting.json_[Taxcode]
+```
+
+- File cấu hình giao diện: INVOICE_1CT.json --> Cấu trúc key:
+
+[tenantID]: ID của Mã số thuế.
+
+```text title="Cấu trúc file giao diện"
+t:[tenantID],c:System.Collections.Generic.List`1[[MInvoice.Formulas.ConfigDetailDto, MInvoice.Application.Contracts, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]],k:[tenantID]_INVOICE_1CM.json
+```
+
+??? Question "Cách để lấy tenantID"
+
+    Chuột phải và mở inspect trên trình duyệt hoặc bấm  phím tắt F12:
+    ![Hình 3](../../assets/images/tool/tool-tenantid-1.png "Hãy bấm vào để xem rõ hơn")
+
+---> Và một số cache khác, ... **[đang cập nhật]**
+
 ### **Update 2.0**
 
 #### **UD01. Update thành công với hóa đơn thường**
@@ -224,142 +361,5 @@ hide:
         Chuột phải và mở inspect trên trình duyệt hoặc bấm  phím tắt F12:
         ![Hình 3](../../assets/images/tool/tool-xang-dau-1.png "Hãy bấm vào để xem rõ hơn")
         Truy cập danh mục -> danh sách giao dịch xăng dầu -> kìm kiếm log theo keyapi tích hợp theo ảnh trên.
-
-### **Mẫu hóa đơn**
-
-???+ note "Mục đích"
-
-    - Áp dụng cho các trường hợp mẫu hóa đơn bị mất, cần up lại lên phần mềm
-
-    - Dowload file về để chỉnh sửa mẫu cho các trường hợp không thể chỉnh sửa trực tiếp trên phần mềm
-
-#### **1. Dowload mẫu**
-
-Nhập key mẫu cần tải vào ô nhập và bấm Dowload
-
-- Key được định dạng như sau: [ký hiệu hóa đơn]\_[mã số thuế].html
-
-- VD: 1C25TTT_0106026495-999.html
-
-![Hình 3](../../assets/images/tool/tool-download-1.png "Hãy bấm vào để xem rõ hơn")
-
-#### **2. Upload mẫu**
-
-Chuẩn bị file cần up lên tên file phải là .html và định dạng theo cấu trúc sau:
-
-- Tên file: [ký hiệu hóa đơn]\_[mã số thuế].html
-
-- VD: 1C25TTT_0106026495-999.html
-
-![Hình 3](../../assets/images/tool/tool-upload-1.png "Hãy bấm vào để xem rõ hơn")
-
-![Hình 3](../../assets/images/tool/tool-upload-2.png "Hãy bấm vào để xem rõ hơn")
-
-### **File Setting**
-
-???+ note "Mục đích"
-
-    **Áp dụng cho các trường hợp cần chỉnh sửa các file liên quan đến cấu hình của 1 mã số thuế, ví dụ như:**
-
-    + Chỉnh sửa file mapping (liên quan đến các trường thông tin tích hợp để có thể đẩy từ tích hợp sang)
-
-    + Chỉnh sửa thể hiện các trường đặc thù lên báo cáo tổng hợp hoặc báo cáo chi tiết
-
-    + Chỉnh sửa file cấu hình giao diện hóa đơn
-
-**Tên file mapping:**
-
-- Hóa đơn giá trị gia tăng: 32_1_MappingAccounting.json
-
-- Hóa đơn bán hàng: 32_2_MappingAccounting.json
-
-- Phiếu xuất kho nội bộ: 32_6_MappingAccounting.json
-
-**Tên file báo cáo tổng hợp:** bao-cao-top-hop-hoa-don.json:
-
-**Tên file báo cáo chi tiết:** bao-cao-chi-tiet-hoa-don.json:
-
-**Tên file cấu hình giao diện hóa đơn đầu ra::**
-
-- Hóa đơn giá trị gia tăng: INVOICE_1CT.json
-
-- Hóa đơn giá trị gia tăng máy tính tiền: INVOICE_1CM.json
-
-#### **Các bước thực hiện để dowload và up file cấu hình 1 mã số thuế**
-
-Truy cập tab **FileSetting** -> Nhập **mã số thuế** muốn chỉnh sửa -> Bấm **xem file**
-
-![Hình 3](../../assets/images/tool/tool-fileSetting-1.png "Hãy bấm vào để xem rõ hơn")
-
-**Dowload và upload file**
-
-![Hình 3](../../assets/images/tool/tool-fileSetting-2.png "Hãy bấm vào để xem rõ hơn")
-
-### **Xóa Cache**
-
-???+ note "Mục đích"
-
-    **Áp dụng cho các trường hợp ký hóa đơn lỗi F5 hay đẩy hóa đơn trùng keyapi và 1 số case cần xóa cache**
-
-#### **1. Xóa key cố định**
-
-**Sign Cache**
-
-- Cache ký của hóa đơn -> áp dụng cho các trường hợp ký lỗi do lưu cache (Vd: HÓA ĐƠN KỸ LỖI VUI LÒNG F5 TẢI LẠI TRANG, ...)
-
-**Các bước để lấy và xóa được cache ký:**
-
-1. Điền thông tin mã số thuế, ký hiệu hóa đơn và số hóa đơn
-
-2. Bấm **lấy cache key** -> có thông báo thành công -> ra 3 thông tin TenantID(ID của MST), InvoiceID(ID hóa đơn), Cache key -> **Thành công**
-
-3. Bấm xóa cache cố định
-
-![Hình 3](../../assets/images/tool/tool-cache-1.png "Hãy bấm vào để xem rõ hơn")
-
-**Key api Cache**
-
-- Cache của key_api -> áp dụng cho các trường hợp đẩy hóa đơn từ bên tích hợp mà xảy ra lỗi trùng key nhưng hóa đơn chưa có trên phần mềm hóa đơn
-
-**Các bước để lấy và xóa được cache keyapi:**
-
-1. Điền thông tin mã số thuế, ký hiệu hóa đơn và **keyapi**(được cung cấp từ đối tác tích hợp)
-
-2. Bấm **lấy KeyApiCache** -> có thông báo thành công -> ra 3 thông tin TenantID(ID của MST), RegisterInvoiceId(Id của ký hiệu), Cache KeyApi -> **Thành công**
-
-3. Bấm xóa cache cố định
-
-![Hình 3](../../assets/images/tool/tool-cache-2.png "Hãy bấm vào để xem rõ hơn")
-
-#### **2. Xóa key bất kỳ**
-
-???+ note "Mục đích"
-
-    **Áp dụng cho các trường hợp cần xóa những cache ít gặp như mapping (32_1_MappingAccounting.json) hay file giao diện (INVOICE_1CT.json)**
-
-**Cấu trúc các key cache:**
-
-- Mapping: 32_1_MappingAccounting.json --> Cấu trúc key:
-
-  [Taxcode]: Mã số thuế.
-
-```text title="Cấu trúc key mapping"
-c:System.String,k:filemapping_32_1_mappingaccounting.json_[Taxcode]
-```
-
-- File cấu hình giao diện: INVOICE_1CT.json --> Cấu trúc key:
-
-[tenantID]: ID của Mã số thuế.
-
-```text title="Cấu trúc file giao diện"
-t:[tenantID],c:System.Collections.Generic.List`1[[MInvoice.Formulas.ConfigDetailDto, MInvoice.Application.Contracts, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]],k:[tenantID]_INVOICE_1CM.json
-```
-
-??? Question "Cách để lấy tenantID"
-
-    Chuột phải và mở inspect trên trình duyệt hoặc bấm  phím tắt F12:
-    ![Hình 3](../../assets/images/tool/tool-tenantid-1.png "Hãy bấm vào để xem rõ hơn")
-
----> Và một số cache khác, ... **[đang cập nhật]**
 
 <div class="last-updated">Last updated on <strong>Oct 1 , 2025</strong> by <strong>NHATTH</strong></div>
