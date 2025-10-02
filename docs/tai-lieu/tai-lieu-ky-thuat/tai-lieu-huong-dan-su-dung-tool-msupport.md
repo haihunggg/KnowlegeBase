@@ -37,7 +37,7 @@ hide:
 
 !!! warning "Lưu ý"
 
-    Mọi tác tác trên tool này đều ảnh hưởng trực tiếp đến dữ liệu khách hàng lên phải cẩn trọng trong mọi thao tác
+    Mọi tác tác trên tool này đều **ảnh hưởng trực tiếp** đến dữ liệu **khách hàng** lên phải cẩn trọng trong mọi thao tác
 
     MỌI THAO TÁC ĐỀU LƯU LOG !
 
@@ -45,15 +45,15 @@ hide:
 
 ???+ note "Mục đích"
 
-    - Áp dụng cho các trường hợp mẫu hóa đơn bị mất, cần up lại lên phần mềm
+    - Áp dụng cho các trường hợp mẫu hóa đơn bị mất, cần **upload** lại lên phần mềm
 
-    - Dowload file về để chỉnh sửa mẫu cho các trường hợp không thể chỉnh sửa trực tiếp trên phần mềm
+    - **Dowload file** về để chỉnh sửa mẫu cho các trường hợp không thể chỉnh sửa trực tiếp trên phần mềm
 
 #### **1. Dowload mẫu**
 
-Nhập key mẫu cần tải vào ô nhập và bấm Dowload
+Nhập key mẫu cần tải vào ô nhập và bấm **Dowload**
 
-- Key được định dạng như sau: [ký hiệu hóa đơn]\_[mã số thuế].html
+- **Key** được định dạng như sau: [ký hiệu hóa đơn]\_[mã số thuế].html
 
 - VD: 1C25TTT_0106026495-999.html
 
@@ -61,11 +61,11 @@ Nhập key mẫu cần tải vào ô nhập và bấm Dowload
 
 #### **2. Upload mẫu**
 
-Chuẩn bị file cần up lên tên file phải là .html và định dạng theo cấu trúc sau:
+Chuẩn bị file cần **upload** lên tên file phải là `.html` và định dạng theo cấu trúc sau:
 
-- Tên file: [ký hiệu hóa đơn]\_[mã số thuế].html
+- Tên file: `[ký hiệu hóa đơn]\_[mã số thuế].html`
 
-- VD: 1C25TTT_0106026495-999.html
+- VD: `1C25TTT_0106026495-999.html`
 
 ![Hình 3](../../assets/images/tool/tool-upload-1.png "Hãy bấm vào để xem rõ hơn")
 
@@ -77,33 +77,33 @@ Chuẩn bị file cần up lên tên file phải là .html và định dạng th
 
     **Áp dụng cho các trường hợp cần chỉnh sửa các file liên quan đến cấu hình của 1 mã số thuế, ví dụ như:**
 
-    + Chỉnh sửa file mapping (liên quan đến các trường thông tin tích hợp để có thể đẩy từ tích hợp sang)
+    + Chỉnh sửa **file mapping** (liên quan đến các trường thông tin tích hợp để có thể đẩy từ tích hợp sang)
 
-    + Chỉnh sửa thể hiện các trường đặc thù lên báo cáo tổng hợp hoặc báo cáo chi tiết
+    + Chỉnh sửa thể hiện các trường đặc thù lên **báo cáo tổng hợp** hoặc **báo cáo chi tiết**
 
-    + Chỉnh sửa file cấu hình giao diện hóa đơn
+    + Chỉnh sửa file **cấu hình giao diện** hóa đơn
 
 **Tên file mapping:**
 
-- Hóa đơn giá trị gia tăng: 32_1_MappingAccounting.json
+- Hóa đơn giá trị gia tăng: `32_1_MappingAccounting.json`
 
-- Hóa đơn bán hàng: 32_2_MappingAccounting.json
+- Hóa đơn bán hàng: `32_2_MappingAccounting.json`
 
-- Phiếu xuất kho nội bộ: 32_6_MappingAccounting.json
+- Phiếu xuất kho nội bộ: `32_6_MappingAccounting.json`
 
-**Tên file báo cáo tổng hợp:** bao-cao-top-hop-hoa-don.json:
+**Tên file báo cáo tổng hợp:** `bao-cao-top-hop-hoa-don.json`
 
-**Tên file báo cáo chi tiết:** bao-cao-chi-tiet-hoa-don.json:
+**Tên file báo cáo chi tiết:** `bao-cao-chi-tiet-hoa-don.json`
 
 **Tên file cấu hình giao diện hóa đơn đầu ra::**
 
-- Hóa đơn giá trị gia tăng: INVOICE_1CT.json
+- Hóa đơn giá trị gia tăng: `INVOICE_1CT.json`
 
-- Hóa đơn giá trị gia tăng máy tính tiền: INVOICE_1CM.json
+- Hóa đơn giá trị gia tăng máy tính tiền: `INVOICE_1CM.json`
 
-- Hóa đơn giá trị gia tăng máy tính tiền xăng dầu: INVOICE_PETRO_1CM.json
+- Hóa đơn giá trị gia tăng máy tính tiền xăng dầu: `INVOICE_PETRO_1CM.json`
 
-#### **Các bước thực hiện để dowload và up file cấu hình 1 mã số thuế**
+#### **Các bước thực hiện để dowload và upload file cấu hình 1 mã số thuế**
 
 Truy cập tab **FileSetting** -> Nhập **mã số thuế** muốn chỉnh sửa -> Bấm **xem file**
 
@@ -123,11 +123,11 @@ Truy cập tab **FileSetting** -> Nhập **mã số thuế** muốn chỉnh sử
 
 **Sign Cache**
 
-- Cache ký của hóa đơn -> áp dụng cho các trường hợp ký lỗi do lưu cache (Vd: HÓA ĐƠN KỸ LỖI VUI LÒNG F5 TẢI LẠI TRANG, ...)
+- Cache ký của hóa đơn -> áp dụng cho các trường hợp **ký lỗi** do lưu cache (Vd: HÓA ĐƠN KỸ LỖI VUI LÒNG F5 TẢI LẠI TRANG, ...)
 
 **Các bước để lấy và xóa được cache ký:**
 
-1. Điền thông tin mã số thuế, ký hiệu hóa đơn và số hóa đơn
+1. Điền thông tin **mã số thuế**, **ký hiệu** hóa đơn và **số hóa đơn**
 
 2. Bấm **lấy cache key** -> có thông báo thành công -> ra 3 thông tin **TenantID(ID của MST), InvoiceID(ID hóa đơn), Cache key** -> **Thành công**
 
@@ -137,7 +137,7 @@ Truy cập tab **FileSetting** -> Nhập **mã số thuế** muốn chỉnh sử
 
 **Key_api Cache**
 
-- Cache của key_api -> áp dụng cho các trường hợp đẩy hóa đơn từ bên tích hợp mà xảy ra lỗi trùng key nhưng hóa đơn chưa có trên phần mềm hóa đơn
+- Cache của key_api -> áp dụng cho các trường hợp đẩy hóa đơn từ bên tích hợp mà xảy ra lỗi **trùng key tích hợp** nhưng hóa đơn chưa có trên phần mềm hóa đơn
 
 **Các bước để lấy và xóa được cache key_api:**
 
@@ -159,7 +159,7 @@ Truy cập tab **FileSetting** -> Nhập **mã số thuế** muốn chỉnh sử
 
 - Mapping: **32_1_MappingAccounting.json** --> Cấu trúc key:
 
-  [Taxcode]: Mã số thuế.
+  [Taxcode]: Mã số thuế
 
 ```text title="Cấu trúc key mapping"
 c:System.String,k:filemapping_32_1_mappingaccounting.json_[Taxcode]
@@ -170,8 +170,12 @@ c:System.String,k:filemapping_32_1_mappingaccounting.json_[Taxcode]
 [tenantID]: ID của Mã số thuế.
 
 ```text title="Cấu trúc file giao diện"
-t:[tenantID],c:System.Collections.Generic.List`1[[MInvoice.Formulas.ConfigDetailDto, MInvoice.Application.Contracts, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]],k:[tenantID]_INVOICE_1CM.json
+t:[tenantID],c:System.Collections.Generic.List`1[[MInvoice.Formulas.ConfigDetailDto, MInvoice.Application.Contracts, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]],k:[tenantID]_INVOICE_1CT.json
 ```
+
+VD: t:3a0d9f98-58d6-1846-925d-4975252e09d1,c:System.Collections.Generic.List`1[[MInvoice.Formulas.ConfigDetailDto, MInvoice.Application.Contracts, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]],k:3a0d9f98-58d6-1846-925d-4975252e09d1_INVOICE_1CT.json
+
+--> Chỗ **INVOICE_1CT.json** đổi sang **INVOICE_1CM.json** nếu là hóa đơn máy tính tiền.
 
 ??? Question "Cách để lấy tenantID"
 
@@ -186,15 +190,15 @@ t:[tenantID],c:System.Collections.Generic.List`1[[MInvoice.Formulas.ConfigDetail
 
 ???+ note "Mục đích của UD01"
 
-    Sử dụng cho loại hóa đơn có mã đã có trạng thái thành công trên CQT nhưng trên phần mềm hiện thị trạng thái "Có lỗi". Chức năng này sẽ cập nhật mã CQT của hóa đơn ấy vào và đồng thời chuyển trạng thái của hóa đơn về "Thành công"
+    Sử dụng cho loại hóa đơn có mã đã có trạng thái thành công trên CQT nhưng trên phần mềm hiện thị trạng thái **"Có lỗi"**. Chức năng này sẽ cập nhật mã CQT của hóa đơn ấy vào và đồng thời chuyển trạng thái của hóa đơn về **"Thành công"**
 
 ![Hình 3](../../assets/images/tool/tool-update-1.png "Hãy bấm vào để xem rõ hơn")
 
 ???+ info "Các trường liên quan"
 
-    1. Taxcode: Mã số thuế người bán
-    2. Mã CQT: Mã cơ quan thuế cấp (được lấy từ thông điệp thành công trên TVAN)
-    3. ID: ID của hóa đơn
+    1. `Taxcode`: Mã số thuế người bán
+    2. `Mã CQT`: Mã cơ quan thuế cấp (được lấy từ thông điệp thành công trên TVAN)
+    3. `ID`: ID của hóa đơn
 
     ??? Question "Cách để lấy ID hóa đơn"
 
@@ -205,14 +209,14 @@ t:[tenantID],c:System.Collections.Generic.List`1[[MInvoice.Formulas.ConfigDetail
 
 ???+ note "Mục đích của UD02"
 
-    Sử dụng cho loại hóa đơn có mã khởi tạo từ MTT đã có trạng thái thành công trên CQT nhưng trên phần mềm hiện thị trạng thái "Có lỗi". Chức năng này sẽ cập nhật trạng thái của hóa đơn ấy về "Thành công".
+    Sử dụng cho loại hóa đơn có mã khởi tạo từ MTT đã có trạng thái thành công trên CQT nhưng trên phần mềm hiện thị trạng thái **"Có lỗi"**. Chức năng này sẽ cập nhật trạng thái của hóa đơn ấy về **"Thành công"**.
 
 ![Hình 3](../../assets/images/tool/tool-update-3.png "Hãy bấm vào để xem rõ hơn")
 
 ???+ info "Các trường liên quan"
 
-    1. Taxcode: Mã số thuế người bán
-    2. ID: ID của hóa đơn
+    1. `Taxcode`: Mã số thuế người bán
+    2. `ID`: ID của hóa đơn
 
     ??? Question "Cách để lấy ID hóa đơn"
 
@@ -223,7 +227,7 @@ t:[tenantID],c:System.Collections.Generic.List`1[[MInvoice.Formulas.ConfigDetail
 
 ???+ note "Mục đích của UD03"
 
-    Sử dụng cho các hóa đơn ở trạng thái "Chờ ký" đã quá thời gian ký hợp lệ, khách hàng muốn sau khi ký thì chuyển về trạng thái "Có lỗi".
+    Sử dụng cho các hóa đơn ở trạng thái **"Chờ ký"** đã quá thời gian ký hợp lệ, khách hàng muốn sau khi ký thì chuyển về trạng thái **"Có lỗi"**.
 
     - Luồng update: chèn 1 ký tự đặc biệt vào mã số thuế người mua và người bán ký CQT sẽ trả về trạng thái **có lỗi**
 
@@ -231,8 +235,8 @@ t:[tenantID],c:System.Collections.Generic.List`1[[MInvoice.Formulas.ConfigDetail
 
 ???+ info "Các trường liên quan"
 
-    1. Taxcode: Mã số thuế người bán
-    2. ID: ID của hóa đơn
+    1. `Taxcode`: Mã số thuế người bán
+    2. `ID`: ID của hóa đơn
 
     ??? Question "Cách để lấy ID hóa đơn"
 
@@ -251,8 +255,8 @@ t:[tenantID],c:System.Collections.Generic.List`1[[MInvoice.Formulas.ConfigDetail
 
 ???+ info "Các trường liên quan"
 
-    1. Taxcode: Mã số thuế người bán
-    2. ID: ID của hóa đơn
+    1. `Taxcode`: Mã số thuế người bán
+    2. `ID`: ID của hóa đơn
 
     ??? Question "Cách để lấy ID hóa đơn"
 
@@ -271,12 +275,12 @@ t:[tenantID],c:System.Collections.Generic.List`1[[MInvoice.Formulas.ConfigDetail
 
 ???+ info "Các trường liên quan"
 
-    1. Taxcode: Mã số thuế người bán
-    2. ID: ID của hóa đơn mới tạo ở ký hiệu mới để lấp vào số bị lủng
-    3. RegisterInvoiceId: id ký hiệu của ký hiệu cần lấp vào
-    4. InvoiceSerial: ký hiệu cần lấp vào
-    5. InvoiceNumber: số hóa đơn cần lấp vào
-    6. InvoiceDate: ngày lập hóa đơn cần lấp vào
+    1. `Taxcode`: Mã số thuế người bán
+    2. `ID`: ID của hóa đơn mới tạo ở ký hiệu mới để lấp vào số bị lủng
+    3. `RegisterInvoiceId`: id ký hiệu của ký hiệu cần lấp vào
+    4. `InvoiceSerial`: ký hiệu cần lấp vào
+    5. `InvoiceNumber`: số hóa đơn cần lấp vào
+    6. `InvoiceDate`: ngày lập hóa đơn cần lấp vào
 
     ??? Question "Cách để lấy ID hóa đơn"
 
@@ -292,14 +296,14 @@ t:[tenantID],c:System.Collections.Generic.List`1[[MInvoice.Formulas.ConfigDetail
 
 ???+ note "Mục đích của UD06"
 
-    Sử dụng cho các hóa đơn ở trạng thái "Thành công" nhưng ngày giờ ký hóa đơn lại bị trống.
+    Sử dụng cho các hóa đơn ở trạng thái **"Thành công"** nhưng ngày giờ ký hóa đơn lại bị trống.
 
 ![Hình 3](../../assets/images/tool/tool-update-7.png "Hãy bấm vào để xem rõ hơn")
 
 ???+ info "Các trường liên quan"
 
-    1. Taxcode: Mã số thuế người bán
-    2. ID: ID của hóa đơn
+    1. `Taxcode`: Mã số thuế người bán
+    2. `ID`: ID của hóa đơn
 
     ??? Question "Cách để lấy ID hóa đơn"
 
@@ -316,9 +320,9 @@ t:[tenantID],c:System.Collections.Generic.List`1[[MInvoice.Formulas.ConfigDetail
 
 ???+ info "Các trường liên quan"
 
-    1. Taxcode: Mã số thuế người bán
-    2. ID: ID của hóa đơn
-    3. Mã mới: Mã cơ quan thuế mà người dùng cấn cập nhật
+    1. `Taxcode`: Mã số thuế người bán
+    2. `ID`: ID của hóa đơn
+    3. `Mã mới`: Mã cơ quan thuế mà người dùng cấn cập nhật
 
     ??? Question "Cách để lấy ID hóa đơn"
 
@@ -329,15 +333,15 @@ t:[tenantID],c:System.Collections.Generic.List`1[[MInvoice.Formulas.ConfigDetail
 
 ???+ note "Mục đích của UD08"
 
-    Chức năng này cho phép người dùng cập nhật lại trạng thái CQT của tờ khai nghị định 70. Dùng trong các trường hợp như CQT đã trả "Không chấp nhận" hoặc "Không tiếp nhận" nhưng phần mềm vẫn hiển thị "Tiếp nhận".
+    Chức năng này cho phép người dùng cập nhật lại trạng thái CQT của tờ khai nghị định 70. Dùng trong các trường hợp như CQT đã trả **"Không chấp nhận"** hoặc **"Không tiếp nhận"** nhưng phần mềm vẫn hiển thị **"Tiếp nhận"**.
 
 ![Hình 3](../../assets/images/tool/tool-update-9.png "Hãy bấm vào để xem rõ hơn")
 
 ???+ info "Các trường liên quan"
 
-    1. Taxcode: Mã số thuế người bán
-    2. ID: ID của tờ khai
-    3. Chọn trạng thái: trạng thái của tờ khai
+    1. `Taxcode`: Mã số thuế người bán
+    2. `ID`: ID của tờ khai
+    3. `Chọn trạng thái`: trạng thái của tờ khai
 
     ??? Question "Cách để lấy ID tờ khai"
 
@@ -349,14 +353,14 @@ t:[tenantID],c:System.Collections.Generic.List`1[[MInvoice.Formulas.ConfigDetail
 
 ???+ note "Mục đích của UD09"
 
-    Chức năng này cho phép người dùng cập nhật lại 1 giao dịch xăng dầu về trạng thái ban đầu để có thể tạo lại được thành hóa đơn. Dùng cho các trường hợp khi tạo hóa đơn từ giao dịch ấy gặp vấn đề và cột "Trạng thái tạo HĐ" có giá trị là "2" kèm nội dung lỗi tại cột "Tên lỗi".
+    Chức năng này cho phép người dùng cập nhật lại 1 giao dịch xăng dầu về trạng thái ban đầu để có thể tạo lại được thành hóa đơn. Dùng cho các trường hợp khi tạo hóa đơn từ giao dịch ấy gặp vấn đề và cột **"Trạng thái tạo HĐ"** có giá trị là **"2"** kèm nội dung lỗi tại cột **"Tên lỗi"**.
 
 ![Hình 3](../../assets/images/tool/tool-update-10.png "Hãy bấm vào để xem rõ hơn")
 
 ???+ info "Các trường liên quan"
 
-    1. Taxcode: Mã số thuế người bán
-    2. ID: ID của Log xăng dầu
+    1. `Taxcode`: Mã số thuế người bán
+    2. `ID`: ID của Log xăng dầu
 
     ??? Question "Cách để lấy ID log xăng dầu"
 
