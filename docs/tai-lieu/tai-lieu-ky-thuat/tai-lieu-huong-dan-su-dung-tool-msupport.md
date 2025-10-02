@@ -101,6 +101,8 @@ Chuẩn bị file cần up lên tên file phải là .html và định dạng th
 
 - Hóa đơn giá trị gia tăng máy tính tiền: INVOICE_1CM.json
 
+- Hóa đơn giá trị gia tăng máy tính tiền xăng dầu: INVOICE_PETRO_1CM.json
+
 #### **Các bước thực hiện để dowload và up file cấu hình 1 mã số thuế**
 
 Truy cập tab **FileSetting** -> Nhập **mã số thuế** muốn chỉnh sửa -> Bấm **xem file**
@@ -115,7 +117,7 @@ Truy cập tab **FileSetting** -> Nhập **mã số thuế** muốn chỉnh sử
 
 ???+ note "Mục đích"
 
-    **Áp dụng cho các trường hợp ký hóa đơn lỗi F5 hay đẩy hóa đơn trùng keyapi và 1 số case cần xóa cache**
+    **Áp dụng cho các trường hợp ký hóa đơn lỗi F5 hay đẩy hóa đơn trùng key_api và 1 số case cần xóa cache**
 
 #### **1. Xóa key cố định**
 
@@ -127,21 +129,21 @@ Truy cập tab **FileSetting** -> Nhập **mã số thuế** muốn chỉnh sử
 
 1. Điền thông tin mã số thuế, ký hiệu hóa đơn và số hóa đơn
 
-2. Bấm **lấy cache key** -> có thông báo thành công -> ra 3 thông tin TenantID(ID của MST), InvoiceID(ID hóa đơn), Cache key -> **Thành công**
+2. Bấm **lấy cache key** -> có thông báo thành công -> ra 3 thông tin **TenantID(ID của MST), InvoiceID(ID hóa đơn), Cache key** -> **Thành công**
 
 3. Bấm xóa cache cố định
 
 ![Hình 3](../../assets/images/tool/tool-cache-1.png "Hãy bấm vào để xem rõ hơn")
 
-**Key api Cache**
+**Key_api Cache**
 
 - Cache của key_api -> áp dụng cho các trường hợp đẩy hóa đơn từ bên tích hợp mà xảy ra lỗi trùng key nhưng hóa đơn chưa có trên phần mềm hóa đơn
 
-**Các bước để lấy và xóa được cache keyapi:**
+**Các bước để lấy và xóa được cache key_api:**
 
-1. Điền thông tin mã số thuế, ký hiệu hóa đơn và **keyapi**(được cung cấp từ đối tác tích hợp)
+1. Điền thông tin mã số thuế, ký hiệu hóa đơn và **key_api**(được cung cấp từ đối tác tích hợp)
 
-2. Bấm **lấy KeyApiCache** -> có thông báo thành công -> ra 3 thông tin TenantID(ID của MST), RegisterInvoiceId(Id của ký hiệu), Cache KeyApi -> **Thành công**
+2. Bấm **lấy KeyApiCache** -> có thông báo thành công -> ra 3 thông tin **TenantID(ID của MST), RegisterInvoiceId(Id của ký hiệu), Cache Key_Api** -> **Thành công**
 
 3. Bấm xóa cache cố định
 
@@ -155,7 +157,7 @@ Truy cập tab **FileSetting** -> Nhập **mã số thuế** muốn chỉnh sử
 
 **Cấu trúc các key cache:**
 
-- Mapping: 32_1_MappingAccounting.json --> Cấu trúc key:
+- Mapping: **32_1_MappingAccounting.json** --> Cấu trúc key:
 
   [Taxcode]: Mã số thuế.
 
@@ -163,7 +165,7 @@ Truy cập tab **FileSetting** -> Nhập **mã số thuế** muốn chỉnh sử
 c:System.String,k:filemapping_32_1_mappingaccounting.json_[Taxcode]
 ```
 
-- File cấu hình giao diện: INVOICE_1CT.json --> Cấu trúc key:
+- File cấu hình giao diện: **INVOICE_1CT.json** --> Cấu trúc key:
 
 [tenantID]: ID của Mã số thuế.
 
@@ -360,6 +362,6 @@ t:[tenantID],c:System.Collections.Generic.List`1[[MInvoice.Formulas.ConfigDetail
 
         Chuột phải và mở inspect trên trình duyệt hoặc bấm  phím tắt F12:
         ![Hình 3](../../assets/images/tool/tool-xang-dau-1.png "Hãy bấm vào để xem rõ hơn")
-        Truy cập danh mục -> danh sách giao dịch xăng dầu -> kìm kiếm log theo keyapi tích hợp theo ảnh trên.
+        Truy cập danh mục -> danh sách giao dịch xăng dầu -> kìm kiếm log theo key_api tích hợp theo ảnh trên.
 
 <div class="last-updated">Last updated on <strong>Oct 1 , 2025</strong> by <strong>NHATTH</strong></div>
