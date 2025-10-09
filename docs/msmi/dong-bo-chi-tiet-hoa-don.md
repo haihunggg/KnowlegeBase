@@ -1,36 +1,12 @@
-# **Đồng bộ chi tiết hóa đơn và xml hóa đơn**
+# **Chức năng Đồng bộ ngay mSMI**
 
-## **Hướng dẫn Đồng bộ chi tiết hóa đơn và xml hóa đơn**
+## **Hướng dẫn sử dụng chức năng Đồng bộ ngay mSMI**
 
-???+ Note "Nội dung"
+???+ Note "Mục đích"
 
-    **📝 Lưu ý quan trọng trước khi thực hiện đồng bộ chi tiết hóa đơn**
+    - Giúp khách hàng chủ động lấy Danh sách hóa đơn trong 1 khoảng thời gian,
 
-    > **⚠️ Lưu ý:**
-    > Hệ thống hiện đang hỗ trợ **tự động đồng bộ dữ liệu hóa đơn** từ trang Thuế.
-    > Tuy nhiên, do một số **hạn chế trong quá trình tích hợp và truyền tải dữ liệu**, đôi khi phần **chi tiết hóa đơn** *(gồm các dòng hàng hóa, dịch vụ)* có thể **bị thiếu hoặc không đầy đủ**.
-
-    ---
-
-    **🎯 Ảnh hưởng khi thiếu chi tiết hóa đơn:**
-
-    - Gây **sai lệch dữ liệu** khi đối soát với chứng từ gốc.
-
-    - Ảnh hưởng đến việc **in hóa đơn đầy đủ thông tin**.
-
-    - Dẫn đến **báo cáo không chính xác** nếu dữ liệu thiếu sót.
-
-    ---
-
-    **✅ Giải pháp đề xuất:**
-
-    Chúng tôi đã cung cấp tính năng **đồng bộ chi tiết hóa đơn thủ công**, giúp người dùng:
-
-    - Chủ động kiểm tra và cập nhật lại **thông tin chi tiết** của từng hóa đơn.
-
-    - Đảm bảo tính **chính xác và đầy đủ** cho toàn bộ dữ liệu hóa đơn trong hệ thống.
-
-    ---
+    - Giúp lấy Đầu phiếu, Chi tiết hóa đơn bị thiếu mà chạy tự động chưa lấy về được
 
     📘 **Vui lòng xem hướng dẫn chi tiết bên dưới** để thực hiện đúng quy trình đồng bộ.
 
@@ -54,23 +30,29 @@
 
     ![Hình 1](../assets/images/mSMI/plugin_4.png "Hãy bấm vào để xem rõ hơn")
 
-#### Bước 1: Truy cập phần HOÁ ĐƠN ĐẦU VÀO hoặc HÓA ĐƠN BÁN RA theo yêu cầu của DN
+## **Button Chức năng**
 
 ![Hình 1](../assets/images/mSMI/dong-bo-chi-tiet_1.png "Hãy bấm vào để xem rõ hơn")
 
-#### Bước 2: Kéo sang phải kiểm tra các cột Đồng bộ XML và Đồng bộ chi tiết để kiểm tra trạng thái đã đồng bộ hay chưa
+#### Bước 1: Giao diện chức năng Đồng bộ ngay
 
 ![Hình 1](../assets/images/mSMI/dong-bo-chi-tiet_2.png "Hãy bấm vào để xem rõ hơn")
 
-<p>Nếu là <span style="color: red;"><strong>Chưa đồng bộ</strong></span> – Anh/chị vui lòng thực hiện các bước sau đây để đồng bộ chi tiết.</p>
+- Đồng bộ danh sách hóa đơn: Bao gồm đầu phiếu và chi tiết
 
-#### Bước 3: Bấm in nhiều chọn các hóa đơn chưa đồng bộ -> rồi bấm in nhiều
+- Đồng bộ chi tiết hóa đơn bị thiếu
+
+- Đồng bộ XML hóa đơn bị thiếu
+
+#### Bước 2: Màn hình danh sách hóa đơn lấy được
 
 ![Hình 1](../assets/images/mSMI/dong-bo-chi-tiet_3.png "Hãy bấm vào để xem rõ hơn")
 
+#### Bước 3: Màn hình chi tiết hóa đơn lấy được
+
 ![Hình 1](../assets/images/mSMI/dong-bo-chi-tiet_4.png "Hãy bấm vào để xem rõ hơn")
 
-**Chờ quá trình được đồng bộ**
+#### Bước 4: Màn hình danh sách XML lấy được
 
 ![Hình 1](../assets/images/mSMI/dong-bo-chi-tiet_5.png "Hãy bấm vào để xem rõ hơn")
 
@@ -80,4 +62,4 @@
 
 ![Hình 5](../../assets/images/mSMI/msmi_footer.png "Hãy bấm vào để xem rõ hơn")
 
-<div class="last-updated">Last updated on <strong>Jun 27, 2025</strong> by <strong>NHATTH</strong></div>
+<div class="last-updated">Last updated on <strong>Oct 09, 2025</strong> by <strong>NHATTH</strong></div>

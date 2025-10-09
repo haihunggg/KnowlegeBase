@@ -1,8 +1,8 @@
-# **Báo cáo bảng kê bán ra PL01 hóa đơn NĐ123**
+# **Báo cáo bảng kê bán ra PL01 hóa đơn NĐ70**
 
-## **Hướng dẫn xem và tải bảng kê bán ra PL01 hóa đơn NĐ123**
+## **Hướng dẫn xem và tải bảng kê bán ra PL01 hóa đơn NĐ70**
 
-### **Bước 1: Truy cập vào phần Hóa đơn HĐ123 >> Báo cáo >> Bảng kê bán ra (Mẫu PL01-1)**
+### **Bước 1: Truy cập vào phần Hóa đơn HĐ70 >> Báo cáo >> Bảng kê bán ra (Mẫu PL01-1)**
 
 ![Hình 1](../../assets/images/invoice1/1.0_PL01_1.png "Hãy bấm vào để xem rõ hơn")
 
@@ -26,4 +26,4 @@ Anh chị có thể sử dụng các chức năng ở hình trên sau khi đã l
 
 ![Hình 4](../../assets/images/invoice1/1.0_suaTienBangTay_5.png "Hãy bấm vào để xem rõ hơn")
 
-<div class="last-updated">Last updated on <strong>Jun 5, 2025</strong> by <strong>nhatth</strong></div>
+<div class="last-updated">Last updated on <strong>Oct 09, 2025</strong> by <strong>nhatth</strong></div>

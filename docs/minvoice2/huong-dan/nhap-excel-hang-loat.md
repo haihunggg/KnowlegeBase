@@ -1,16 +1,27 @@
+---
+title: Nhập excel hàng loạt
+description: Chức năng nhập Excel hàng loạt hóa đơn giúp tải lên nhiều hóa đơn cùng lúc, Nhập khẩu excel hàng loạt
+---
+
 # **Nhập excel hàng loạt**
 
-Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm hóa đơn điện tử M-Invoice ở phiên bản 2.0 vô cùng mạch lạc và dễ hiểu.
+## **Hướng dẫn nhập excel hàng loạt hoá đơn**
 
-## **Hướng dẫn nhập excel hoá đơn**
+???+ Note "Mục đích"
 
-???+ Note "Ghi chú"
+    - Thay vì nhập từng hóa đơn thủ công, người dùng có thể chuẩn bị dữ liệu sẵn trong file Excel và nhập tất cả cùng lúc.
 
-    Trong quá trình sử dụng, bạn muốn tải một loạt hóa đơn lên phần mềm mà không biết làm cách nào, sau đây M-invoice sẽ hướng dẫn quy trình để nhận nhiều hóa đơn một lúc bằng file excel
+    - Đặc biệt hữu ích với các doanh nghiệp có khối lượng hóa đơn lớn.
+
+    - Khi dữ liệu được chuẩn bị và kiểm tra trong Excel trước, việc nhập vào phần mềm sẽ chính xác hơn so với nhập tay.
+
+    - Người dùng có thể sử dụng các công cụ kiểm tra trong Excel (ví dụ: công thức, điều kiện định dạng) để đảm bảo dữ liệu hợp lệ trước khi upload.
 
 ???+ Warning "Lưu ý"
 
     Số hóa đơn nhận vào từ file excel sẽ là số hóa đơn kế tiếp trên ký hiệu mà quý khách đã chọn trên phần mềm hóa đơn
+
+    Trong mẫu excel được tải về tên sheet để nguyên không được thay đổi
 
 **Thao tác cài đặt và thực hiện như sau**
 

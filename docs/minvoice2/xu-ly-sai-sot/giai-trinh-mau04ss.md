@@ -1,3 +1,8 @@
+---
+title: Lập Thông báo xử lý sai sót (04/SS-HĐĐT)
+description: "Sai địa chỉ người mua, sai tên người mua, lập giải trình với CQT, lập thông báo 04ss, lập 04ss"
+---
+
 # **Lập Thông báo xử lý sai sót (04/SS-HĐĐT)**
 
 ???+ Note "Ghi chú"

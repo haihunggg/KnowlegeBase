@@ -1,6 +1,21 @@
 # **Báo cáo chi tiết hóa đơn**
 
-Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm hóa đơn điện tử M-Invoice ở phiên bản 2.0 vô cùng mạch lạc và dễ hiểu.
+???+ note "Mục đích"
+
+    Báo cáo chi tiết được lập nhằm cung cấp thông tin cụ thể và đầy đủ nhất về hóa đơn, thay vì chỉ đưa ra số liệu tổng hợp.
+    Đặc điểm chính là báo cáo sẽ hiển thị rõ danh sách từng mặt hàng, kèm theo các thông tin quan trọng như:
+
+    - Tên hàng hóa/dịch vụ
+
+    - Số lượng
+
+    - Đơn giá
+
+    - Thành tiền
+
+    - Thuế suất, thuế GTGT
+
+    Giúp người dùng dễ dàng theo dõi, đối chiếu, kiểm tra sai sót, phục vụ cho việc quản lý chi tiết theo từng hóa đơn
 
 ## **Hướng dẫn xem báo cáo chi tiết hóa đơn**
 

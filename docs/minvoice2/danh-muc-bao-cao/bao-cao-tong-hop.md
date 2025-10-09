@@ -1,6 +1,22 @@
 # **Báo cáo tổng hợp hóa đơn**
 
-Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm hóa đơn điện tử M-Invoice ở phiên bản 2.0 vô cùng mạch lạc và dễ hiểu.
+???+ note "Mục đích"
+
+    Báo cáo tổng hợp được lập nhằm tổng hợp toàn bộ dữ liệu từ nhiều hàng hóa ở 1 hóa đơn thành các con số tổng quan, giúp người dùng nhanh chóng nắm được tình hình chung mà không cần xem từng dòng chi tiết hàng hóa.
+
+    Cụ thể:
+
+    **Hiển thị các số liệu cộng gộp quan trọng như:**
+
+    - Tổng tiền hàng
+
+    - Tổng tiền chiết khấu (CK)
+
+    - Tổng tiền trước thuế
+
+    - Tổng tiền thuế
+
+    - Tổng tiền thanh toán
 
 ## **Hướng dẫn xem báo cáo tổng hợp hóa đơn**
 

@@ -30,6 +30,8 @@
 
     Đăng ký mới cho các doanh nghiệp mới sử dụng hóa đơn
 
+    Đăng ký mẫu 01
+
 ### **Bước 1: Cắm CKS vào máy tính, kiểm tra xem plugin đã được bật chưa**
 
 ![Hình 1](../../assets/images/invoice2/2.0_them-cks-moi_1.png "Hãy bấm vào để xem rõ hơn")

@@ -53,121 +53,25 @@
 
     Những mẫu đặc thù yêu cầu cấu hình và vẽ mẫu theo yêu cầu hay liên hệ kỹ thuật để được xử lý
 
-??? Abstract "Tải logo lên mẫu - Bấm vào đây để xem hướng dẫn"
+## **1. Thêm sửa logo lên mẫu hóa đơn**
 
-    #### Tải logo lên mẫu
+[Thêm sửa logo lên mẫu hóa đơn](../chinh-sua-mau-hoa-don/huong-dan-them-logo-len-mau-hoa-don#attribute-lists){ data-preview }
 
-    **Hướng dẫn bằng GIF nhanh**
+## **2. Thêm sửa khung viền mẫu hóa đơn**
 
-    ![Gif 1](../../assets/images/invoice2/gif/chinh-sua-mau-1.gif "Hãy bấm vào để xem rõ hơn")
+[Thêm sửa khung viền mẫu hóa đơn](../chinh-sua-mau-hoa-don/cach-viet-thong-tin-tren-hoa-don-dieu-chinh-tang-so-luong-hang-hoa#attribute-lists){ data-preview }
 
-    **Hướng dẫn bằng hình ảnh chi tiết**
+## **3. Thêm sửa hình nền lên mẫu hóa đơn**
 
-    ![Hình 1](../../assets/images/invoice2/chinh-mau-hoa-don/chinh-mau-1.png "Hãy bấm vào để xem rõ hơn")
+[Thêm sửa hình nền lên mẫu hóa đơn](../chinh-sua-mau-hoa-don/cach-viet-thong-tin-tren-hoa-don-dieu-chinh-tang-thue-suat#attribute-lists){ data-preview }
 
-    ![Hình 1](../../assets/images/invoice2/chinh-mau-hoa-don/chinh-mau-2.png "Hãy bấm vào để xem rõ hơn")
+## **4. Bật tắt chế độ song ngữ**
 
-    ![Hình 1](../../assets/images/invoice2/chinh-mau-hoa-don/chinh-mau-3.png "Hãy bấm vào để xem rõ hơn")
+[Bật tắt chế độ song ngữ](../chinh-sua-mau-hoa-don/cach-viet-thong-tin-tren-hoa-don-dieu-chinh-tang-thue-suat#attribute-lists){ data-preview }
 
-    ![Hình 1](../../assets/images/invoice2/chinh-mau-hoa-don/chinh-mau-4.png "Hãy bấm vào để xem rõ hơn")
+## **5. Chỉnh sửa font chữ, cỡ chữ và căn lề các thông tin trên mẫu hóa đơn**
 
-    ![Hình 1](../../assets/images/invoice2/chinh-mau-hoa-don/chinh-mau-5.png "Hãy bấm vào để xem rõ hơn")
-
-??? Abstract "Cách để chỉnh sửa số dòng trên hóa đơn - Bấm vào đây để xem hướng dẫn"
-
-    #### Cách để chỉnh sửa số dòng trên hóa đơn
-
-    ???+ note "Mục đích"
-
-        Chức năng chỉnh sửa số dòng trên hóa đơn cho phép người dùng tăng hoặc giảm số lượng dòng hiển thị cho hàng hóa, dịch vụ trên một tờ hóa đơn điện tử. Điều này giúp đảm bảo nội dung được trình bày gọn gàng, đầy đủ thông tin mà không bị tràn trang hoặc gây khó đọc.
-
-    **Bước 1:  Truy cập vào mẫu cần chỉnh Quản lý phát hành --> Mẫu hóa đơn --> Chọn mẫu cần sửa**
-
-    ![Hình 1](../../assets/images/invoice2/chinh-mau-hoa-don/so-dong-1.png "Hãy bấm vào để xem rõ hơn")
-
-    **Bước 2:  Điều chỉnh số dòng cho phù hợp**
-
-    **Anh/chị muốn ít trang thì để số dòng trắng 8 -> 10, hóa đơn nhiều trang 15 or 16** (áp dụng cho mẫu 1 loại thuế suất)
-
-    **Anh/chị muốn ít trang thì để số dòng trắng = 3 -> 5, hóa đơn nhiều trang 13 -> 16** (áp dụng cho mẫu nhiều loại thuế suất)
-
-    ![Hình 1](../../assets/images/invoice2/chinh-mau-hoa-don/so-dong-2.png "Hãy bấm vào để xem rõ hơn")
-
-    **Bước 3: Trường hợp chỉnh theo 2 bước trên vẫn không được hãy làm theo hướng dẫn sau**
-
-    ???+ note "Tại sao không áp dụng được cách trên"
-
-        Bố cục mỗi loại hóa đơn khác nhau:
-
-        Hóa đơn bán hàng, hóa đơn dịch vụ, hóa đơn xuất khẩu… thường có cấu trúc thông tin và số lượng dòng hàng hóa khác nhau.
-
-        Nếu áp dụng cùng một thiết lập số dòng, một số mẫu hóa đơn có thể bị lệch bố cục, thông tin tràn sang trang mới hoặc dư khoảng trắng lớn.
-
-    **Cách chỉnh cấu hình số dòng trên từng hóa đơn (cách này sẽ làm cho dòng hóa đơn đều đẹp tuyệt đối)**
-
-    **Truy cập hóa đơn đầu ra --> chọn hóa đơn cần chỉnh**
-
-    ![Hình 1](../../assets/images/invoice2/chinh-mau-hoa-don/so-dong-5.png "Hãy bấm vào để xem rõ hơn")
-
-    **Tăng giảm dòng cho phù hợp và bấm lưu**
-
-    ![Hình 1](../../assets/images/invoice2/chinh-mau-hoa-don/so-dong-3.png "Hãy bấm vào để xem rõ hơn")
-
-    ![Hình 1](../../assets/images/invoice2/chinh-mau-hoa-don/so-dong-4.png "Hãy bấm vào để xem rõ hơn")
-
-??? Abstract "Tải hình nền lên mẫu - Bấm vào đây để xem hướng dẫn"
-
-    #### Tải hình nền lên mẫu
-
-    **Hướng dẫn bằng GIF nhanh**
-
-    ![Gif 1](../../assets/images/invoice2/gif/chinh-sua-mau-2.gif "Hãy bấm vào để xem rõ hơn")
-
-    **Hướng dẫn bằng hình ảnh chi tiết**
-
-    ![Hình 1](../../assets/images/invoice2/chinh-mau-hoa-don/chinh-mau-1.png "Hãy bấm vào để xem rõ hơn")
-
-    ![Hình 1](../../assets/images/invoice2/chinh-mau-hoa-don/chinh-mau-2.png "Hãy bấm vào để xem rõ hơn")
-
-    ![Hình 1](../../assets/images/invoice2/chinh-mau-hoa-don/chinh-mau-6.png "Hãy bấm vào để xem rõ hơn")
-
-    ![Hình 1](../../assets/images/invoice2/chinh-mau-hoa-don/chinh-mau-4.png "Hãy bấm vào để xem rõ hơn")
-
-    ![Hình 1](../../assets/images/invoice2/chinh-mau-hoa-don/chinh-mau-7.png "Hãy bấm vào để xem rõ hơn")
-
-??? Abstract "Sử dụng khung viền mẫu hóa đơn - Bấm vào đây để xem hướng dẫn"
-
-    #### Sử dụng khung viền mẫu hóa đơn
-
-    **Hướng dẫn bằng GIF nhanh**
-
-    ![Gif 1](../../assets/images/invoice2/gif/chinh-sua-mau-3.gif "Hãy bấm vào để xem rõ hơn")
-
-??? Abstract "Bật tắt chế độ song ngữ - Bấm vào đây để xem hướng dẫn"
-
-    #### Bật tắt chế độ song ngữ
-
-    ![Hình 1](../../assets/images/invoice2/chinh-mau-hoa-don/chinh-mau-1.png "Hãy bấm vào để xem rõ hơn")
-
-    ![Hình 1](../../assets/images/invoice2/chinh-mau-hoa-don/chinh-mau-2.png "Hãy bấm vào để xem rõ hơn")
-
-    ![Hình 1](../../assets/images/invoice2/chinh-mau-hoa-don/song-ngu-1.png "Hãy bấm vào để xem rõ hơn")
-
-??? Abstract "Chỉnh font chữ, kích thước chữ - Căn lề: trái / phải / giữa - Kiểu chữ: đậm, nghiêng, gạch chân - 📐 Điều chỉnh độ rộng cột & căn lề ô - Bấm vào đây để xem hướng dẫn"
-
-    #### 🎨 Tùy chỉnh chữ và màu sắc
-
-    **Hướng dẫn bằng GIF trường hợp chỉnh font chữ và màu chữ**
-
-    ![Gif 1](../../assets/images/invoice2/gif/chinh-sua-mau-4.gif "Hãy bấm vào để xem rõ hơn")
-
-    **Hướng dẫn bằng hình ảnh chi tiết**
-
-    ![Hình 1](../../assets/images/invoice2/chinh-mau-hoa-don/chinh-mau-1.png "Hãy bấm vào để xem rõ hơn")
-
-    ![Hình 1](../../assets/images/invoice2/chinh-mau-hoa-don/chinh-mau-2.png "Hãy bấm vào để xem rõ hơn")
-
-    ![Hình 1](../../assets/images/invoice2/chinh-mau-hoa-don/mau-chu-1.png "Hãy bấm vào để xem rõ hơn")
+[Chỉnh sửa font chữ, cỡ chữ và căn lề các thông tin trên mẫu hóa đơn](../chinh-sua-mau-hoa-don/cach-viet-thong-tin-tren-hoa-don-dieu-chinh-tang-thanh-tien-khong-dieu-chinh-so-luong-don-gia#attribute-lists){ data-preview }
 
 ???+ info "Xin chân thành cảm ơn quý khách hàng đã tin dùng sản phẩm của M-Invoice"
 

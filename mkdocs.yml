@@ -126,6 +126,8 @@ extra:
   analytics:
     provider: google
     property: !ENV GOOGLE_ANALYTICS_KEY
+  tags:
+    <tag>: <identifier>
   social:
     - icon: fontawesome/brands/facebook
       link: https://www.facebook.com/hoadondientu.m.invoice
@@ -240,6 +242,12 @@ nav:
               - minvoice2/huong-dan/dang-nhap.md
               - minvoice2/huong-dan/dashboard.md
               - minvoice2/huong-dan/chinh-sua-mau-hoa-don.md
+              - "Các trường hợp chỉnh mẫu hoá đơn":
+                  - minvoice2/chinh-sua-mau-hoa-don/huong-dan-them-logo-len-mau-hoa-don.md
+                  - minvoice2/chinh-sua-mau-hoa-don/huong-dan-them-khung-vien-mau-hoa-don.md
+                  - minvoice2/chinh-sua-mau-hoa-don/huong-dan-them-hinh-nen-len-mau-hoa-don.md
+                  - minvoice2/chinh-sua-mau-hoa-don/huong-dan-bat-tat-che-do-song-ngu.md
+                  - minvoice2/chinh-sua-mau-hoa-don/huong-dan-chinh-font-chu-co-chu-va-can-le-mau-hoa-don.md
               - Hướng dẫn lập và phát hành hóa đơn (Thêm, sửa, xoá ,sao chép): minvoice2/huong-dan/lap-va-phat-hanh-hoa-don.md
               - minvoice2/huong-dan/plugin.md
               - minvoice2/huong-dan/dang-ky-thay-doi-to-khai-theo-ND70.md
@@ -271,6 +279,8 @@ nav:
                       - minvoice2/cac-loi-thuong-gap/cac-loi-ky-hoa-don-thuong-gap/huong-dan-xu-ly-loi-ky-bien-ban-bao-loi-vui-long-nang-cap-phien-ban-plugin-ky.md
                   - Hướng dẫn khắc phục các lỗi truyền nhận từ CQT: minvoice2/cac-loi-thuong-gap/tong-hop-loi-truyen-nhan-thong-diep-cqt.md
                   - minvoice2/cac-loi-thuong-gap/sua-loi-so-dong-bi-sang-trang-khi-chua-het-trang.md
+                  - minvoice2/cac-loi-thuong-gap/loi-so-serialNumber-chung-thu-so-da-ton-tai-tren-phan-mem.md
+                  - minvoice2/cac-loi-thuong-gap/loi-the-json-value-could-not-be-converted-to-system.string.md
           - "Nghiệp vụ hoá đơn điện tử - Xử lý sai sót":
               - Lập biên bản hóa đơn sai sót: minvoice2/xu-ly-sai-sot/lap-bien-ban-hoa-don.md
               - Hướng dẫn thao tác ký biên bản người mua: minvoice2/xu-ly-sai-sot/huong-dan-ky-bien-ban-nguoi-mua.md

@@ -1,12 +1,21 @@
+---
+title: Nhập excel chi tiết
+description: "Hướng dẫn thêm nhanh nhiều hàng hóa dịch vụ vào cùng 1 hóa đơn bằng file Excel, tự động tính tổng tiền, giảm sai sót và tiết kiệm thời gian nhập liệu cho kế toán."
+---
+
 # **Nhập excel chi tiêt**
 
-Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm hóa đơn điện tử M-Invoice ở phiên bản 2.0 vô cùng mạch lạc và dễ hiểu.
+## **Hướng dẫn nhập excel chi tiết nhiều hàng hóa vào 1 hoá đơn**
 
-## **Hướng dẫn nhập excel hoá đơn**
+???+ Note "Mục đích"
 
-???+ Note "Ghi chú"
+    Chức năng này cho phép người dùng thêm nhanh nhiều hàng hóa vào cùng 1 hóa đơn thông qua file Excel.
 
-    Tính năng này được sử dụng khi 1 hóa đơn có nhiều dòng hàng, mà NSD không muốn gõ tay từng dòng hàng trên PM mà muốn nhận thông qua file excel
+    - Giúp nhập liệu số lượng lớn hàng hóa mà không cần gõ từng dòng.
+
+    - Tiết kiệm thời gian cho kế toán, đặc biệt khi hóa đơn có nhiều mặt hàng.
+
+    - Giảm sai sót về đơn giá, số lượng, thành tiền nhờ dữ liệu được chuẩn hóa trong Excel.
 
 ???+ Warning "Lưu ý"
 

@@ -1,4 +1,9 @@
-# **Thay đổi CKS hoặc thêm CKS mới vào phần mềm theo NĐ70**
+---
+title: Thay đổi hoặc thêm chữ ký số (CKS) mới vào phần mềm M-invoice theo NĐ70
+description: Hướng dẫn thay đổi hoặc thêm chữ ký số (CKS) mới vào phần mềm hóa đơn điện tử M-invoice theo NĐ70, bao gồm cách đăng ký sử dụng hóa đơn, xác thực sinh trắc học trên eTax Mobile, nộp tờ khai thay đổi hóa đơn và cập nhật chữ ký số doanh nghiệp.
+---
+
+# **Thay đổi chữ ký số (CKS) hoặc thêm chữ ký số (CKS) mới vào phần mềm theo NĐ70**
 
 <div style="font-size:14px; color:#b00020; background-color:#fff3f3; padding:12px; border-left:4px solid #b00020; border-radius:6px;">
   <p><strong>🚨 Quan trọng:</strong> <br>

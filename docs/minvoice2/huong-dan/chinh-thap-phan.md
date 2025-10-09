@@ -1,12 +1,15 @@
+---
+title: Chỉnh sửa thập phân ở số lượng, đơn giá, thành tiền
+description: Muốn đơn giá có 3 số thập phân, đơn giá có 2 số thập phân, đơn giá có 4 số thập phân, số lượng có 4 số thập phân, số lượng có 3 số thập phân, số lượng có 2 số thập phân
+---
+
 # **Chỉnh phần số thập phân của phần tiền**
-
-Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm hóa đơn điện tử M-Invoice ở phiên bản 2.0 vô cùng mạch lạc và dễ hiểu.
-
-## **Hướng dẫn điều chỉnh phần số thập phân của phần tiền**
 
 ???+ Note "Ghi chú"
 
-    Trong quá trình sử dụng phần mềm hóa đơn điện tử M-invoice, NSD sẽ muốn có thêm phần số thập phân sau dấu phẩy ở các trường thông tin như số lượng, đơn giá, ... để khi tính tổng tiền có thể ra được số tiền phù hợp với yêu cầu của khách hàng. M-invoice xin giới thiệu với khách hàng và người sử dụng tính năng điều chỉnh phần số thập phân trên phần mềm
+    Trong quá trình sử dụng phần mềm hóa đơn điện tử M-invoice, người sử dụng sẽ muốn có thêm phần số thập phân sau dấu phẩy ở các trường thông tin như số lượng, đơn giá, ... để khi tính tổng tiền có thể ra được số tiền phù hợp với yêu cầu của khách hàng. M-invoice xin giới thiệu với khách hàng và người sử dụng tính năng điều chỉnh phần số thập phân trên phần mềm
+
+## **Hướng dẫn điều chỉnh phần số thập phân của phần tiền**
 
 ### **Bước 1: Ở màn hình trang chủ bạn truy cập vào phần Danh mục --> tiền tệ**
 
