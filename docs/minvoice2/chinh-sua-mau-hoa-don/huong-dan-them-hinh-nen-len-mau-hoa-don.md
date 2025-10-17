@@ -4,10 +4,6 @@
 
     Hướng dẫn người dùng cách tải và thay đổi lập hình nền cho mẫu hóa đơn trong phần mềm M-invoice. Việc thêm hình nền giúp tăng tính thẩm mỹ, thể hiện phong cách và bản sắc riêng của doanh nghiệp, đồng thời nâng cao tính chuyên nghiệp của hóa đơn phát hành.
 
-**Hướng dẫn bằng GIF nhanh**
-
-![Gif 1](../../assets/images/invoice2/gif/chinh-sua-mau-2.gif "Hãy bấm vào để xem rõ hơn")
-
 **Hướng dẫn bằng hình ảnh chi tiết**
 
 ### **Bước 1: Truy cập Đăng ký phát hành -> Mẫu hóa đơn**
@@ -29,6 +25,8 @@
 ### **Bước 4: Bấm lưu thông tin để áp dụng logo mới**
 
 ![Hình 1](../../assets/images/invoice2/chinh-mau-hoa-don/chinh-mau-7.png "Hãy bấm vào để xem rõ hơn")
+
+Xem thêm các trường hợp chỉnh mẫu khác [tại đây.](../../huong-dan/chinh-sua-mau-hoa-don#attribute-lists){ data-preview }
 
 ???+ info "Xin chân thành cảm ơn quý khách hàng đã tin dùng sản phẩm của M-Invoice"
 
