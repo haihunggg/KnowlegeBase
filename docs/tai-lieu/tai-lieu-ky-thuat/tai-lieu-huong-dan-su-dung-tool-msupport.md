@@ -5,6 +5,121 @@ hide:
 
 # **Tài liệu hướng dẫn sử dụng Tool mSupport**
 
+## **THEO DÕI PHIÊN BẢN TÀI LIỆU**
+
+<style>
+.version-table {
+  border-collapse: collapse;
+  width: 100%;
+  max-width: 900px;
+  margin: 30px auto;
+  background-color: #fff;
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.08);
+  border-radius: 5px;
+  overflow: hidden;
+  font-family: "Segoe UI", Tahoma, sans-serif;
+  table-layout: fixed; /* 👈 Giữ cố định độ rộng cột */
+}
+
+.version-table th,
+.version-table td {
+  padding: 10px 16px;
+  border-bottom: 1px solid #e9edf3;
+  color: #333;
+  font-size: 14px;
+  word-wrap: break-word; /* 👈 Tự xuống dòng khi quá dài */
+}
+
+.version-table th {
+  background-color: #0078d7;
+  color: #fff;
+  text-align: left;
+  padding: 12px 16px;
+  font-size: 15px;
+}
+
+.version-table tr:last-child td {
+  border-bottom: none;
+}
+
+.version-table tr:hover {
+  background-color: #f6f9ff;
+}
+
+.version-caption {
+  text-align: center;
+  font-size: 18px;
+  font-weight: 600;
+  margin-bottom: 10px;
+  color: #333;
+}
+
+/* 👇 Đặt độ rộng cụ thể cho từng cột */
+.version-table th:nth-child(1),
+.version-table td:nth-child(1) {
+  width: 5%;
+  text-align: center;
+}
+
+.version-table th:nth-child(2),
+.version-table td:nth-child(2) {
+  width: 20%;
+}
+
+.version-table th:nth-child(3),
+.version-table td:nth-child(3) {
+  width: 10%;
+  text-align: center;
+}
+
+.version-table th:nth-child(4),
+.version-table td:nth-child(4) {
+  width: 15%;
+  text-align: center;
+}
+
+.version-table th:nth-child(5),
+.version-table td:nth-child(5) {
+  width: 20%;
+}
+
+.version-table th:nth-child(6),
+.version-table td:nth-child(6) {
+  width: 30%;
+}
+</style>
+
+<table class="version-table">
+  <thead>
+    <tr>
+      <th>No</th>
+      <th>Author</th>
+      <th>Phiên bản</th>
+      <th>Date</th>
+      <th>Info</th>
+      <th>Task</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>Trịnh Hoài Nhất</td>
+      <td>v1.0.0</td>
+      <td>01/10/2025</td>
+      <td>Create New</td>
+      <td></td>
+    </tr>
+     <tr>
+      <td>2</td>
+      <td>Trịnh Hoài Nhất</td>
+      <td>v1.0.1</td>
+      <td>23/10/2025</td>
+      <td>Edit</td>
+      <td>Thêm KEY CACHE cần xóa khi xảy ra lỗi "Can't upload invoice because the system deleting or updating invoice" khi đẩy hóa đơn lên từ tích hợp</td>
+    </tr>
+  </tbody>
+</table>
+
 ## **A. TỔNG QUAN**
 
 ### **1. Mục đích**
@@ -153,34 +268,54 @@ Truy cập tab **FileSetting** -> Nhập **mã số thuế** muốn chỉnh sử
 
 ???+ note "Mục đích"
 
-    **Áp dụng cho các trường hợp cần xóa những cache ít gặp như mapping (32_1_MappingAccounting.json) hay file giao diện (INVOICE_1CT.json)**
+    **Áp dụng cho các trường hợp cần xóa những cache ít gặp như mapping (32_1_MappingAccounting.json) hay file giao diện (INVOICE_1CT.json), ...**
 
 **Cấu trúc các key cache:**
 
-- Mapping: **32_1_MappingAccounting.json** --> Cấu trúc key:
+???+ abstract "Cấu trúc key mapping"
 
-  [Taxcode]: Mã số thuế
+      - Mapping: **32_1_MappingAccounting.json** --> Cấu trúc key:
 
-```text title="Cấu trúc key mapping"
-c:System.String,k:filemapping_32_1_mappingaccounting.json_[Taxcode]
-```
+      [Taxcode]: Mã số thuế
 
-- File cấu hình giao diện: **INVOICE_1CT.json** --> Cấu trúc key:
+      ```text title="Cấu trúc key mapping"
+      c:System.String,k:filemapping_32_1_mappingaccounting.json_[Taxcode]
+      ```
 
-[tenantID]: ID của Mã số thuế.
+???+ abstract "Cấu trúc key cấu hình giao diện"
 
-```text title="Cấu trúc file giao diện"
-t:[tenantID],c:System.Collections.Generic.List`1[[MInvoice.Formulas.ConfigDetailDto, MInvoice.Application.Contracts, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]],k:[tenantID]_INVOICE_1CT.json
-```
+    - File cấu hình giao diện: **INVOICE_1CT.json** --> Cấu trúc key:
 
-VD: t:3a0d9f98-58d6-1846-925d-4975252e09d1,c:System.Collections.Generic.List`1[[MInvoice.Formulas.ConfigDetailDto, MInvoice.Application.Contracts, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]],k:3a0d9f98-58d6-1846-925d-4975252e09d1_INVOICE_1CT.json
+    [tenantID]: ID của Mã số thuế.
 
---> Chỗ **INVOICE_1CT.json** đổi sang **INVOICE_1CM.json** nếu là hóa đơn máy tính tiền.
+    ```text title="Cấu trúc file giao diện"
+    t:[tenantID],c:System.Collections.Generic.List`1[[MInvoice.Formulas.ConfigDetailDto, MInvoice.Application.Contracts, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]],k:[tenantID]_INVOICE_1CT.json
+    ```
 
-??? Question "Cách để lấy tenantID"
+    VD: t:3a0d9f98-58d6-1846-925d-4975252e09d1,c:System.Collections.Generic.List`1[[MInvoice.Formulas.ConfigDetailDto, MInvoice.Application.Contracts, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]],k:3a0d9f98-58d6-1846-925d-4975252e09d1_INVOICE_1CT.json
 
-    Chuột phải và mở inspect trên trình duyệt hoặc bấm  phím tắt F12:
-    ![Hình 3](../../assets/images/tool/tool-tenantid-1.png "Hãy bấm vào để xem rõ hơn")
+    --> Chỗ **INVOICE_1CT.json** đổi sang **INVOICE_1CM.json** nếu là hóa đơn máy tính tiền.
+
+    ??? Question "Cách để lấy tenantID"
+
+        Chuột phải và mở inspect trên trình duyệt hoặc bấm  phím tắt F12:
+        ![Hình 3](../../assets/images/tool/tool-tenantid-1.png "Hãy bấm vào để xem rõ hơn")
+
+???+ abstract "Cấu trúc key cần xóa khi gặp lỗi 'Can't upload invoice because the system deleting or updating invoice'"
+
+    [tenantID]: ID của Mã số thuế.
+
+    [InvoiceSeri]: Ký hiệu hóa đơn đang đẩy lên từ tích hợp
+
+    ```text title="Key cache"
+    t:[tenantID],c:MInvoice.Models.SignServiceCache,k:updateinvoice_[InvoiceSeri]
+    ```
+    VD: t:3a09a3f6-753a-c20f-3e6e-5163edf94b93,c:MInvoice.Models.SignServiceCache,k:updateinvoice_1C25MYY
+
+    ??? Question "Cách để lấy tenantID"
+
+        Chuột phải và mở inspect trên trình duyệt hoặc bấm  phím tắt F12:
+        ![Hình 3](../../assets/images/tool/tool-tenantid-1.png "Hãy bấm vào để xem rõ hơn")
 
 ---> Và một số cache khác, ... **[đang cập nhật]**
 
