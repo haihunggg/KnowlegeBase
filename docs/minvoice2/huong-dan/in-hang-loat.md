@@ -63,6 +63,9 @@ Trong quá trình phát hành hóa đơn người dùng sẽ có nhu cầu in ho
     #### Cách 1: In nhiều hoá đơn PDF
 
     ???+ Note "Ghi chú"
+
+        **Trường hợp không tải được bằng cách này anh chị có thể làm theo cách 2**
+
         In bằng cách này sẽ tách file PDF và sẽ lâu hơn cách 2
 
         **Cách này bạn cần phải cài plugin thì mới tải được** [Hướng dẫn cài đặt plugin](plugin.md#attribute-lists){ data-preview }

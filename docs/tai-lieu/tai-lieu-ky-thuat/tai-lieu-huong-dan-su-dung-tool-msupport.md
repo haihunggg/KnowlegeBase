@@ -272,17 +272,21 @@ Truy cập tab **FileSetting** -> Nhập **mã số thuế** muốn chỉnh sử
 
 **Cấu trúc các key cache:**
 
-???+ abstract "Cấu trúc key mapping"
+??? abstract "Cấu trúc key mapping"
 
-      - Mapping: **32_1_MappingAccounting.json** --> Cấu trúc key:
+    #### Cấu trúc key mapping
 
-      [Taxcode]: Mã số thuế
+    - Mapping: **32_1_MappingAccounting.json** --> Cấu trúc key:
 
-      ```text title="Cấu trúc key mapping"
-      c:System.String,k:filemapping_32_1_mappingaccounting.json_[Taxcode]
-      ```
+    [Taxcode]: Mã số thuế
 
-???+ abstract "Cấu trúc key cấu hình giao diện"
+    ```text title="Cấu trúc key mapping"
+    c:System.String,k:filemapping_32_1_mappingaccounting.json_[Taxcode]
+    ```
+
+??? abstract "Cấu trúc key cấu hình giao diện"
+
+    #### Cấu trúc key cấu hình giao diện
 
     - File cấu hình giao diện: **INVOICE_1CT.json** --> Cấu trúc key:
 
@@ -301,7 +305,9 @@ Truy cập tab **FileSetting** -> Nhập **mã số thuế** muốn chỉnh sử
         Chuột phải và mở inspect trên trình duyệt hoặc bấm  phím tắt F12:
         ![Hình 3](../../assets/images/tool/tool-tenantid-1.png "Hãy bấm vào để xem rõ hơn")
 
-???+ abstract "Cấu trúc key cần xóa khi gặp lỗi 'Can't upload invoice because the system deleting or updating invoice'"
+??? abstract "Cấu trúc key cần xóa khi gặp lỗi 'Can't upload invoice because the system deleting or updating invoice'"
+
+    #### Cấu trúc key cần xóa khi gặp lỗi 'Can't upload invoice because the system deleting or updating invoice'
 
     [tenantID]: ID của Mã số thuế.
 
@@ -311,6 +317,26 @@ Truy cập tab **FileSetting** -> Nhập **mã số thuế** muốn chỉnh sử
     t:[tenantID],c:MInvoice.Models.SignServiceCache,k:updateinvoice_[InvoiceSeri]
     ```
     VD: t:3a09a3f6-753a-c20f-3e6e-5163edf94b93,c:MInvoice.Models.SignServiceCache,k:updateinvoice_1C25MYY
+
+    ??? Question "Cách để lấy tenantID"
+
+        Chuột phải và mở inspect trên trình duyệt hoặc bấm  phím tắt F12:
+        ![Hình 3](../../assets/images/tool/tool-tenantid-1.png "Hãy bấm vào để xem rõ hơn")
+
+??? abstract "Cấu trúc cache mẫu"
+
+    #### Cấu trúc cache mẫu
+
+    **Mục đích**: Khi upload 1 mẫu mới thay thế mẫu hiện tại cần phải xóa cache để update mới
+
+    [tenantID]: ID của Mã số thuế.
+
+    [InvoiceSerial]: Ký hiệu tương ứng với mẫu
+
+    ```text title="Cấu trúc key mapping"
+    eInvoice20:[tenantID]:InvoiceTemplate:[InvoiceSerial]
+    ```
+    VD: eInvoice20:3a05aea7-07d5-87dc-0bcc-dd59b947b261:InvoiceTemplate:1C25TYY
 
     ??? Question "Cách để lấy tenantID"
 
