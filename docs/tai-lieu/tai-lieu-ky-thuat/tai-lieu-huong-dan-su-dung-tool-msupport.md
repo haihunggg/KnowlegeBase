@@ -117,6 +117,14 @@ hide:
       <td>Edit</td>
       <td>Thêm KEY CACHE cần xóa khi xảy ra lỗi "Can't upload invoice because the system deleting or updating invoice" khi đẩy hóa đơn lên từ tích hợp</td>
     </tr>
+     <tr>
+      <td>3</td>
+      <td>Trịnh Hoài Nhất</td>
+      <td>v1.0.2</td>
+      <td>04/11/2025</td>
+      <td>Edit</td>
+      <td>Thêm cách xóa CACHE KEY của mẫu hóa đơn</td>
+    </tr>
   </tbody>
 </table>
 
